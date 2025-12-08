@@ -1,0 +1,11 @@
+{
+  "name": "Pydowndoc",
+  "version": "2.1.5",
+  "summary": "Python wrapper for converting/reducing AsciiDoc files back to Markdown.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydowndoc-2.1.5.tar.gz",
+  "download_time": "2025-12-08T21:48:13.128699",
+  "package_url": "https://pypi.org/project/Pydowndoc/"
+}

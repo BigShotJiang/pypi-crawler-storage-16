@@ -1,0 +1,11 @@
+{
+  "name": "dkist-processing-test",
+  "version": "1.36.5",
+  "summary": "Example instrument code used by the DKIST science data processing pipelines to test processing infrastructure",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "dkist_processing_test-1.36.5.tar.gz",
+  "download_time": "2025-12-08T21:47:54.038522",
+  "package_url": "https://pypi.org/project/dkist-processing-test/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rcsb.utils.taxonomy",
+  "version": "0.47",
+  "summary": "RCSB Python Taxonomy Access Utility Classes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rcsb_utils_taxonomy-0.47.tar.gz",
+  "download_time": "2025-12-08T21:48:07.917339",
+  "package_url": "https://pypi.org/project/rcsb.utils.taxonomy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "geodb-rs",
+  "version": "0.1.5",
+  "summary": "Python bindings for geodb-core",
+  "author": "Holger Trahe",
+  "license": "MIT",
+  "home_page": "https://github.com/holg/geodb-rs",
+  "download_filename": "geodb_rs-0.1.5-cp37-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-08T21:48:01.079214",
+  "package_url": "https://pypi.org/project/geodb-rs/"
+}

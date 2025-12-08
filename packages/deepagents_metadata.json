@@ -1,0 +1,11 @@
+{
+  "name": "deepagents",
+  "version": "0.3.0",
+  "summary": "General purpose 'deep agent' with sub-agent spawning, todo list capabilities, and mock file system. Built on LangGraph.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deepagents-0.3.0.tar.gz",
+  "download_time": "2025-12-08T21:48:04.229311",
+  "package_url": "https://pypi.org/project/deepagents/"
+}

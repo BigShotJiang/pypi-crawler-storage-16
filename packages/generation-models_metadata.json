@@ -1,0 +1,11 @@
+{
+  "name": "generation-models",
+  "version": "0.11.2",
+  "summary": "generation API data model",
+  "author": "battery_al",
+  "license": null,
+  "home_page": null,
+  "download_filename": "generation_models-0.11.2.tar.gz",
+  "download_time": "2025-12-08T21:48:07.398866",
+  "package_url": "https://pypi.org/project/generation-models/"
+}

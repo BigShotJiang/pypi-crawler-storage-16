@@ -1,0 +1,11 @@
+{
+  "name": "rcsb.utils.ec",
+  "version": "0.27",
+  "summary": "RCSB Python utility classes for processing EC classification data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rcsb_utils_ec-0.27.tar.gz",
+  "download_time": "2025-12-08T21:48:11.567402",
+  "package_url": "https://pypi.org/project/rcsb.utils.ec/"
+}

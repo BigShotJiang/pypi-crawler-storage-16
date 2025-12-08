@@ -1,0 +1,11 @@
+{
+  "name": "mycelium-http-tools",
+  "version": "0.1.0a9",
+  "summary": "A python library to integrate python APIs in Mycelium API Gateway",
+  "author": "Samuel Galvão Elias",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "mycelium_http_tools-0.1.0a9-py3-none-any.whl",
+  "download_time": "2025-12-08T19:10:49.274586",
+  "package_url": "https://pypi.org/project/mycelium-http-tools/"
+}

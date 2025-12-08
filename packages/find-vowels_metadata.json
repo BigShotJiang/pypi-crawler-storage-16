@@ -1,0 +1,11 @@
+{
+  "name": "find-vowels",
+  "version": "0.1.3",
+  "summary": "A simple custom utility library for vowels check",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "find_vowels-0.1.3.tar.gz",
+  "download_time": "2025-12-08T19:10:40.772422",
+  "package_url": "https://pypi.org/project/find-vowels/"
+}

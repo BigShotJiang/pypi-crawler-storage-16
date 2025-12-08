@@ -1,0 +1,11 @@
+{
+  "name": "autofex",
+  "version": "0.1.0",
+  "summary": "Automated Feature Engineering + Data Profiling + Leakage Detection",
+  "author": "AutoFE-X",
+  "license": "MIT",
+  "home_page": "https://github.com/sudo-de/autofex",
+  "download_filename": "autofex-0.1.0.tar.gz",
+  "download_time": "2025-12-08T19:11:02.852294",
+  "package_url": "https://pypi.org/project/autofex/"
+}

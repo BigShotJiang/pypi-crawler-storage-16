@@ -1,0 +1,11 @@
+{
+  "name": "GalCubeCraft",
+  "version": "1.0.0",
+  "summary": "A synthetic IFU spectral cube generator with a theoretical rotating galaxy disk model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "galcubecraft-1.0.0.tar.gz",
+  "download_time": "2025-12-08T19:10:41.293685",
+  "package_url": "https://pypi.org/project/GalCubeCraft/"
+}

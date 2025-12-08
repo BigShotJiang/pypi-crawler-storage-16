@@ -1,0 +1,11 @@
+{
+  "name": "radicle-mcp-server",
+  "version": "0.1.6",
+  "summary": "A Model Context Protocol (MCP) server for Radicle CLI with versioning support",
+  "author": "Empiria Ltd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "radicle_mcp_server-0.1.6.tar.gz",
+  "download_time": "2025-12-08T19:11:02.331205",
+  "package_url": "https://pypi.org/project/radicle-mcp-server/"
+}

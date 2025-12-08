@@ -1,0 +1,11 @@
+{
+  "name": "tooluniverse",
+  "version": "1.0.14.2",
+  "summary": "A comprehensive collection of scientific tools for Agentic AI, offering integration with the ToolUniverse SDK and MCP Server to support advanced scientific workflows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tooluniverse-1.0.14.2.tar.gz",
+  "download_time": "2025-12-08T19:10:48.753326",
+  "package_url": "https://pypi.org/project/tooluniverse/"
+}

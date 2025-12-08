@@ -1,0 +1,11 @@
+{
+  "name": "bnlearn",
+  "version": "0.12.2",
+  "summary": "bnlearn is a Python package for Causal Discovery by learning the graphical structure of Bayesian networks, parameter learning, inference and sampling methods.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bnlearn-0.12.2.tar.gz",
+  "download_time": "2025-12-08T19:10:58.671711",
+  "package_url": "https://pypi.org/project/bnlearn/"
+}

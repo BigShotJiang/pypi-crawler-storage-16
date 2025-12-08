@@ -1,0 +1,11 @@
+{
+  "name": "bunker-stats-rs",
+  "version": "0.2.2",
+  "summary": "Ultra-fast Rust-powered statistics and time-series utilities for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bunker_stats_rs-0.2.2-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-12-08T19:11:00.245337",
+  "package_url": "https://pypi.org/project/bunker-stats-rs/"
+}

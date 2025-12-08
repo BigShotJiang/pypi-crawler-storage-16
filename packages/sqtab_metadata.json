@@ -1,0 +1,11 @@
+{
+  "name": "sqtab",
+  "version": "0.2.2",
+  "summary": "Minimalist SQLite-based CLI tool with AI assistance for working with tabular data.",
+  "author": "Goran Janković",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqtab-0.2.2.tar.gz",
+  "download_time": "2025-12-08T19:10:55.027362",
+  "package_url": "https://pypi.org/project/sqtab/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pycensuskr",
+  "version": "0.2.6",
+  "summary": "A Python package for Korean census data processing",
+  "author": "Insang Song",
+  "license": "MIT",
+  "home_page": "https://github.com/sigmafelix/pycensuskr",
+  "download_filename": "pycensuskr-0.2.6.tar.gz",
+  "download_time": "2025-12-08T19:10:39.197589",
+  "package_url": "https://pypi.org/project/pycensuskr/"
+}

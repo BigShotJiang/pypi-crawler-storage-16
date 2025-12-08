@@ -1,11 +1,11 @@
 {
   "name": "stainx",
-  "version": "0.0.16",
-  "summary": "GPU-accelerated stain normalization",
+  "version": "0.0.18",
+  "summary": "Enhanced stain normalization for histopathology images with batch processing support. Optimized for CPU, GPU (CUDA), and MPS (Apple Silicon) devices.",
   "author": "Samir Moustafa",
   "license": null,
   "home_page": "https://github.com/rendeirolab/stainx",
-  "download_filename": "stainx-0.0.16.tar.gz",
-  "download_time": "2025-12-08T19:38:10.229835",
+  "download_filename": "stainx-0.0.18.tar.gz",
+  "download_time": "2025-12-08T23:30:32.530823",
   "package_url": "https://pypi.org/project/stainx/"
 }

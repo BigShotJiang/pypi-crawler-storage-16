@@ -1,0 +1,11 @@
+{
+  "name": "omniduct",
+  "version": "1.2.4",
+  "summary": "A toolkit providing a uniform interface for connecting to and extracting data from a wide variety of (potentially remote) data stores (including HDFS, Hive, Presto, MySQL, etc).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omniduct-1.2.4.tar.gz",
+  "download_time": "2025-12-08T23:30:55.226190",
+  "package_url": "https://pypi.org/project/omniduct/"
+}

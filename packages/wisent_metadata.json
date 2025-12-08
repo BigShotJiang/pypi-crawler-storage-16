@@ -1,11 +1,11 @@
 {
   "name": "wisent",
-  "version": "0.7.177",
+  "version": "0.7.179",
   "summary": "Monitor and influence AI Brains",
   "author": "Lukasz Bartoszcze and the Wisent Team",
   "license": null,
   "home_page": "https://github.com/wisent-ai/wisent",
-  "download_filename": "wisent-0.7.177.tar.gz",
-  "download_time": "2025-12-08T22:13:02.273005",
+  "download_filename": "wisent-0.7.179.tar.gz",
+  "download_time": "2025-12-08T23:30:36.759753",
   "package_url": "https://pypi.org/project/wisent/"
 }

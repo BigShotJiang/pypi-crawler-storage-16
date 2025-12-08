@@ -1,0 +1,11 @@
+{
+  "name": "newrelic",
+  "version": "11.2.0",
+  "summary": "New Relic Python Agent",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "newrelic-11.2.0.tar.gz",
+  "download_time": "2025-12-08T23:30:39.426742",
+  "package_url": "https://pypi.org/project/newrelic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aind-data-transfer-lite",
+  "version": "0.2.0",
+  "summary": "Generated from aind-library-template",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aind_data_transfer_lite-0.2.0.tar.gz",
+  "download_time": "2025-12-08T23:30:42.041355",
+  "package_url": "https://pypi.org/project/aind-data-transfer-lite/"
+}

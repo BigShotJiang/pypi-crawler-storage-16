@@ -1,0 +1,11 @@
+{
+  "name": "velr",
+  "version": "0.1.20",
+  "summary": "Python driver for Velr (bundles libvelr.* via _vendor/)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "velr-0.1.20-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-12-08T23:30:47.906690",
+  "package_url": "https://pypi.org/project/velr/"
+}

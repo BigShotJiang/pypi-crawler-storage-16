@@ -1,0 +1,11 @@
+{
+  "name": "megamicros",
+  "version": "3.0.5",
+  "summary": "Megamicros Mems array library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "megamicros-3.0.5.tar.gz",
+  "download_time": "2025-12-08T23:30:57.877760",
+  "package_url": "https://pypi.org/project/megamicros/"
+}

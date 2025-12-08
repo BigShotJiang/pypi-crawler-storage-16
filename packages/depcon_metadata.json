@@ -1,0 +1,11 @@
+{
+  "name": "depcon",
+  "version": "0.4.0",
+  "summary": "Convert legacy requirements files to modern pyproject.toml format with full PEP 621 support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "depcon-0.4.0.tar.gz",
+  "download_time": "2025-12-08T23:30:44.117598",
+  "package_url": "https://pypi.org/project/depcon/"
+}

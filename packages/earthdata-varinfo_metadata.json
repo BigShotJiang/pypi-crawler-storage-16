@@ -1,0 +1,11 @@
+{
+  "name": "earthdata-varinfo",
+  "version": "3.3.1",
+  "summary": "A package for parsing Earth Observation science granule structure and extracting relations between science variables and their associated metadata, such as coordinates.",
+  "author": "NASA EOSDIS SDPS Data Services Team",
+  "license": "License :: OSI Approved :: Apache Software License",
+  "home_page": "https://github.com/nasa/earthdata-varinfo",
+  "download_filename": "earthdata_varinfo-3.3.1.tar.gz",
+  "download_time": "2025-12-08T23:30:24.655502",
+  "package_url": "https://pypi.org/project/earthdata-varinfo/"
+}

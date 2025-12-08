@@ -1,0 +1,11 @@
+{
+  "name": "nipyapi",
+  "version": "1.1.0",
+  "summary": "A rich Apache NiFi Python Client SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nipyapi-1.1.0.tar.gz",
+  "download_time": "2025-12-08T23:30:51.091133",
+  "package_url": "https://pypi.org/project/nipyapi/"
+}

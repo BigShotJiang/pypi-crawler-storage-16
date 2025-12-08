@@ -1,0 +1,11 @@
+{
+  "name": "trustable-ai",
+  "version": "2.0.3",
+  "summary": "AI-assisted software lifecycle tools with multi-agent orchestration, state management, and work tracking integration",
+  "author": "Trustable AI Contributors",
+  "license": null,
+  "home_page": "https://github.com/keychain-io/trustable-ai",
+  "download_filename": "trustable_ai-2.0.3.tar.gz",
+  "download_time": "2025-12-08T23:30:31.466724",
+  "package_url": "https://pypi.org/project/trustable-ai/"
+}

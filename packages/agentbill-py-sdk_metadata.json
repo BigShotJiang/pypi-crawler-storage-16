@@ -1,0 +1,11 @@
+{
+  "name": "agentbill-py-sdk",
+  "version": "6.8.5",
+  "summary": "OpenTelemetry-based SDK for tracking and billing AI agent usage with Cost Guard protection",
+  "author": "AgentBill",
+  "license": "MIT",
+  "home_page": "https://agentbill.io",
+  "download_filename": "agentbill_py_sdk-6.8.5.tar.gz",
+  "download_time": "2025-12-08T23:30:49.512021",
+  "package_url": "https://pypi.org/project/agentbill-py-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kepler",
+  "version": "0.3.0",
+  "summary": "Fast, easy, pretty and readable program instrumentation.",
+  "author": null,
+  "license": "Copyright 2024 Stef Lindall, License BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "kepler-0.3.0.tar.gz",
+  "download_time": "2025-12-08T23:30:50.569845",
+  "package_url": "https://pypi.org/project/kepler/"
+}

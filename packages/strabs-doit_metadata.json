@@ -1,0 +1,11 @@
+{
+  "name": "strabs-doit",
+  "version": "0.1.1",
+  "summary": "For when you just want to get stuff done. Task runner with parallel execution.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "strabs_doit-0.1.1.tar.gz",
+  "download_time": "2025-12-08T18:47:31.597720",
+  "package_url": "https://pypi.org/project/strabs-doit/"
+}

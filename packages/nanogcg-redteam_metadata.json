@@ -1,0 +1,11 @@
+{
+  "name": "nanogcg-redteam",
+  "version": "0.1.0",
+  "summary": "An adaptation of nanoGCG more suitable for GenAI Red Teaming exercises against deployed systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nanogcg_redteam-0.1.0.tar.gz",
+  "download_time": "2025-12-08T18:47:42.001307",
+  "package_url": "https://pypi.org/project/nanogcg-redteam/"
+}

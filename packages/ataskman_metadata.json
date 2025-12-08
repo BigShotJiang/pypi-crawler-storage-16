@@ -1,0 +1,11 @@
+{
+  "name": "ataskman",
+  "version": "0.3.0",
+  "summary": "Simple project and task manager with CLI and UI.",
+  "author": "Ashish Gupta",
+  "license": "DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE\n                            Version 2, December 2004\n        \n         Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>\n        \n         Everyone is permitted to copy and distribute verbatim or modified\n         copies of this license document, and changing it is allowed as long\n         as the name is changed.\n        \n                    DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE\n           TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n        \n          0. You just DO WHAT THE FUCK YOU WANT TO.\n        ",
+  "home_page": null,
+  "download_filename": "ataskman-0.3.0.tar.gz",
+  "download_time": "2025-12-08T18:47:40.466638",
+  "package_url": "https://pypi.org/project/ataskman/"
+}

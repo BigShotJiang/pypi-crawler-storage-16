@@ -1,0 +1,11 @@
+{
+  "name": "elsciRL",
+  "version": "0.4.0",
+  "summary": "Apply language solutions to Reinforcement Learning problems.",
+  "author": "Philip Osborne",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/pdfosborne/elsciRL",
+  "download_filename": "elscirl-0.4.0.tar.gz",
+  "download_time": "2025-12-08T18:47:07.672281",
+  "package_url": "https://pypi.org/project/elsciRL/"
+}

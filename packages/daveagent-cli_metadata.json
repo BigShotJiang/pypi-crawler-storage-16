@@ -1,0 +1,11 @@
+{
+  "name": "daveagent-cli",
+  "version": "1.0.0",
+  "summary": "AI-powered coding assistant with intelligent agent orchestration",
+  "author": "DaveAgent Team",
+  "license": "MIT",
+  "home_page": "https://github.com/davidmonterocrespo24/DaveAgent",
+  "download_filename": "daveagent_cli-1.0.0.tar.gz",
+  "download_time": "2025-12-08T18:47:30.048864",
+  "package_url": "https://pypi.org/project/daveagent-cli/"
+}

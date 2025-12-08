@@ -1,0 +1,11 @@
+{
+  "name": "cryptoluggage",
+  "version": "3.1.1",
+  "summary": "Cryptoluggage allows to keep encrypted secrets (e.g., passwords) and files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryptoluggage-3.1.1.tar.gz",
+  "download_time": "2025-12-08T18:47:45.689515",
+  "package_url": "https://pypi.org/project/cryptoluggage/"
+}

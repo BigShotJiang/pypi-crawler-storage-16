@@ -1,0 +1,11 @@
+{
+  "name": "cocoindex",
+  "version": "0.3.17",
+  "summary": "With CocoIndex, users declare the transformation, CocoIndex creates & maintains an index, and keeps the derived index up to date based on source update, with minimal computation and changes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cocoindex-0.3.17.tar.gz",
+  "download_time": "2025-12-08T18:47:50.841432",
+  "package_url": "https://pypi.org/project/cocoindex/"
+}

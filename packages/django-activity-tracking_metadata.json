@@ -1,0 +1,11 @@
+{
+  "name": "django-activity-tracking",
+  "version": "1.0.0",
+  "summary": "A plug-and-play Django app for tracking user activities",
+  "author": "Rajat jog",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/django-activity-tracking",
+  "download_filename": "django_activity_tracking-1.0.0.tar.gz",
+  "download_time": "2025-12-08T18:47:18.547656",
+  "package_url": "https://pypi.org/project/django-activity-tracking/"
+}

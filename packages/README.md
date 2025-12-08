@@ -1,0 +1,95 @@
+# PyPI Packages Downloaded
+
+## Download Summary
+- **Download Time**: 2025-12-08T18:47:51.860351
+- **Total Packages**: 87
+- **Total Size**: 43.12 MB
+
+## Packages List
+- n8ntools
+- mcp-b
+- python-ta
+- finch-api
+- scrall
+- elsciRL
+- composennent
+- plex-letterboxd
+- mcp-memory-service
+- mlquantify
+- wisent
+- telnyx
+- mcp-multi-server
+- ngawari
+- asset-handoffer
+- seriesManagementSystem
+- pybaseballstats
+- apache-airflow-providers-nomad
+- noqa-runner
+- terra-scientific-pipelines-service-api-client
+- upd-cli
+- pulumi-xyz
+- bitranox-template-py-lib
+- ibm-watsonx-ai
+- loom-agent
+- querygym
+- django-activity-tracking
+- dbos
+- specify-extend
+- sanice
+- openmetadata-managed-apis
+- game-ai-client
+- jragbeer_common
+- ascii-art-converter
+- mcp-vector-search
+- hwmux-client-python
+- yaeos
+- deepsights-api
+- iot-inspector
+- cubething_psync
+- coiled
+- pymobiledevice3
+- bitranox-template-py-cli
+- orjson-twy
+- timely-timed
+- daveagent-cli
+- bedsheet-agents
+- django-resume
+- strabs-doit
+- stormqa
+- mcp-commons
+- ieee-gui
+- openlit
+- parsedmarc
+- locoformer
+- nami-surf
+- scrapeMM
+- full-text-sparse-engine
+- pwa-launcher
+- apstool
+- control-arena
+- wmill-pg
+- embedl-models
+- wmill
+- windmill-api
+- ataskman
+- rs-mrt-dau-utilities
+- ticktools
+- nanogcg-redteam
+- baseapp-ai-langkit
+- agent-farm
+- bitranox-template-cli-app-config-log-mail
+- nominal-streaming
+- autofaq-api
+- shiny
+- cryptoluggage
+- scraper-rust
+- asyncpg-typed
+- madsci.squid
+- madsci.location_manager
+- madsci.experiment_application
+- autoflix-cli
+- madsci.data_manager
+- madsci.workcell_manager
+- madsci.experiment_manager
+- cocoindex
+- madsci.resource_manager

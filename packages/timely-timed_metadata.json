@@ -1,0 +1,11 @@
+{
+  "name": "timely-timed",
+  "version": "0.3.0",
+  "summary": "A Python package for fetching UTC time from multiple time servers with fallback logic. Features free servers.",
+  "author": "Mike Berensmeier",
+  "license": null,
+  "home_page": "https://gitlab.com/lorrooar/timely-timed",
+  "download_filename": "timely_timed-0.3.0.tar.gz",
+  "download_time": "2025-12-08T18:47:29.534768",
+  "package_url": "https://pypi.org/project/timely-timed/"
+}

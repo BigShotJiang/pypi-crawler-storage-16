@@ -1,0 +1,11 @@
+{
+  "name": "madsci.location_manager",
+  "version": "0.6.0rc5",
+  "summary": "The Modular Autonomous Discovery for Science (MADSci) Location Manager.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "madsci_location_manager-0.6.0rc5.tar.gz",
+  "download_time": "2025-12-08T18:47:47.748090",
+  "package_url": "https://pypi.org/project/madsci.location_manager/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hwmux-client-python",
+  "version": "2.37.4",
+  "summary": "HW Mux Reservation System",
+  "author": "OpenAPI Generator community",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hwmux_client_python-2.37.4.tar.gz",
+  "download_time": "2025-12-08T18:47:23.731142",
+  "package_url": "https://pypi.org/project/hwmux-client-python/"
+}

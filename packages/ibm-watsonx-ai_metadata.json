@@ -1,0 +1,11 @@
+{
+  "name": "ibm-watsonx-ai",
+  "version": "1.4.11",
+  "summary": "IBM watsonx.ai API Client",
+  "author": "IBM",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "ibm_watsonx_ai-1.4.11.tar.gz",
+  "download_time": "2025-12-08T18:47:17.002008",
+  "package_url": "https://pypi.org/project/ibm-watsonx-ai/"
+}

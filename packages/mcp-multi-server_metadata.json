@@ -1,0 +1,11 @@
+{
+  "name": "mcp-multi-server",
+  "version": "0.0.2",
+  "summary": "A Python library for managing connections to multiple Model Context Protocol (MCP) servers",
+  "author": "Antonio Pisani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_multi_server-0.0.2.tar.gz",
+  "download_time": "2025-12-08T18:47:11.325853",
+  "package_url": "https://pypi.org/project/mcp-multi-server/"
+}

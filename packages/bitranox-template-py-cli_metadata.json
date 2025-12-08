@@ -1,0 +1,11 @@
+{
+  "name": "bitranox-template-py-cli",
+  "version": "1.8.1",
+  "summary": "Template for python apps with registered cli commands",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bitranox_template_py_cli-1.8.1.tar.gz",
+  "download_time": "2025-12-08T18:47:28.471960",
+  "package_url": "https://pypi.org/project/bitranox-template-py-cli/"
+}

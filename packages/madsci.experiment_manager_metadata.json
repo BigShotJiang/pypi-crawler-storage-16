@@ -1,0 +1,11 @@
+{
+  "name": "madsci.experiment_manager",
+  "version": "0.5.4",
+  "summary": "The Modular Autonomous Discovery for Science (MADSci) Experiment Manager.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "madsci_experiment_manager-0.5.4.tar.gz",
+  "download_time": "2025-12-08T18:47:50.317982",
+  "package_url": "https://pypi.org/project/madsci.experiment_manager/"
+}

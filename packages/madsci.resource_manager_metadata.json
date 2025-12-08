@@ -1,0 +1,11 @@
+{
+  "name": "madsci.resource_manager",
+  "version": "0.5.4",
+  "summary": "The Modular Autonomous Discovery for Science (MADSci) Resource Manager.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "madsci_resource_manager-0.5.4.tar.gz",
+  "download_time": "2025-12-08T18:47:51.359924",
+  "package_url": "https://pypi.org/project/madsci.resource_manager/"
+}

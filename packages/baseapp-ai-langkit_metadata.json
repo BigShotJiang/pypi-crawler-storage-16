@@ -1,0 +1,11 @@
+{
+  "name": "baseapp-ai-langkit",
+  "version": "0.6.0",
+  "summary": "A Django app for LLM chat functionality with Langchain and Langgraph integration",
+  "author": "The SilverLogic",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/silverlogic/baseapp-ai-langkit",
+  "download_filename": "baseapp_ai_langkit-0.6.0.tar.gz",
+  "download_time": "2025-12-08T18:47:42.522006",
+  "package_url": "https://pypi.org/project/baseapp-ai-langkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-adema",
+  "version": "0.1.0",
+  "summary": "Django meta-framework for generating ERP/CRM projects with Vertical Slicing architecture",
+  "author": "ADEMA Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Excel-ente/django-adema",
+  "download_filename": "django_adema-0.1.0.tar.gz",
+  "download_time": "2025-12-08T19:48:13.467039",
+  "package_url": "https://pypi.org/project/django-adema/"
+}

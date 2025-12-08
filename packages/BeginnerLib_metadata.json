@@ -1,11 +1,11 @@
 {
   "name": "BeginnerLib",
-  "version": "1.6.7",
+  "version": "1.9.0",
   "summary": "Beginner-friendly library bundling common Python utilities into a single file.",
   "author": "Robin Parksepp",
   "license": null,
   "home_page": null,
-  "download_filename": "beginnerlib-1.6.7.tar.gz",
-  "download_time": "2025-12-08T19:38:05.299660",
+  "download_filename": "beginnerlib-1.9.0.tar.gz",
+  "download_time": "2025-12-08T19:48:08.125254",
   "package_url": "https://pypi.org/project/BeginnerLib/"
 }

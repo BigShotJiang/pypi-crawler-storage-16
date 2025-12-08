@@ -1,0 +1,11 @@
+{
+  "name": "triton-shm-client",
+  "version": "0.1.0",
+  "summary": "Easier Shared Memory management for Triton Inference Client",
+  "author": "Armaggheddon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "triton_shm_client-0.1.0.tar.gz",
+  "download_time": "2025-12-08T19:48:10.767729",
+  "package_url": "https://pypi.org/project/triton-shm-client/"
+}

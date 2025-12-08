@@ -1,0 +1,11 @@
+{
+  "name": "sleipnirgroup-jormungandr",
+  "version": "0.3.2",
+  "summary": "Linearity-exploiting reverse mode autodiff library and nonlinear program solver DSL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sleipnirgroup_jormungandr-0.3.2.tar.gz",
+  "download_time": "2025-12-08T19:48:06.075073",
+  "package_url": "https://pypi.org/project/sleipnirgroup-jormungandr/"
+}

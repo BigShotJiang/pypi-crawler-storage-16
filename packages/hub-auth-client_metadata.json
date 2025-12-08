@@ -1,11 +1,11 @@
 {
   "name": "hub-auth-client",
-  "version": "1.0.12",
+  "version": "1.0.14",
   "summary": "MSAL JWT validation library with Entra ID RBAC support",
   "author": "rparrish-5542",
   "license": "MIT",
   "home_page": "https://github.com/rparrish-5542/hub_auth",
-  "download_filename": "hub_auth_client-1.0.12-py3-none-any.whl",
-  "download_time": "2025-12-08T19:38:25.024465",
+  "download_filename": "hub_auth_client-1.0.14-py3-none-any.whl",
+  "download_time": "2025-12-08T19:48:06.587039",
   "package_url": "https://pypi.org/project/hub-auth-client/"
 }

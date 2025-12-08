@@ -1,0 +1,11 @@
+{
+  "name": "xdot",
+  "version": "1.6",
+  "summary": "Interactive viewer for Graphviz dot files",
+  "author": "Jose Fonseca",
+  "license": "LGPL",
+  "home_page": "https://github.com/jrfonseca/xdot.py",
+  "download_filename": "xdot-1.6.tar.gz",
+  "download_time": "2025-12-08T21:11:42.321408",
+  "package_url": "https://pypi.org/project/xdot/"
+}

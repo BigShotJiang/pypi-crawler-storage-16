@@ -1,8 +1,20 @@
 {
-  "download_time": "2025-12-08T20:53:12.985148",
-  "total_packages_downloaded": 92,
-  "total_size_mb": 49.56,
+  "download_time": "2025-12-08T21:12:31.802348",
+  "total_packages_downloaded": 93,
+  "total_size_mb": 20.27,
   "packages": [
+    "music-link-conv",
+    "mlops-bydesign-quickstart",
+    "wipac-dev-tools",
+    "solace-agent-mesh",
+    "mteb",
+    "idvpackage",
+    "micro-users",
+    "xdot",
+    "mcp-vector-search",
+    "vulkanlabs-vulkan-engine",
+    "vulkanlabs-vulkan",
+    "zscaler-sdk-python",
     "aiohomematic-test-support",
     "tidysdmx",
     "milliontrees",
@@ -83,17 +95,6 @@
     "mapmatcher4gmns",
     "assisted-service-client",
     "batched-melbo",
-    "onnxruntime-genai",
-    "pytest-cmake",
-    "uhppoted",
-    "purviewer",
-    "helix.fhir.client.sdk",
-    "ascender-framework",
-    "ecoscape-utilities",
-    "PyGObject-stubs",
-    "onnxruntime-genai-directml",
-    "datadog-api-client",
-    "traceloop-sdk",
-    "taskiq-redis"
+    "onnxruntime-genai"
   ]
 }

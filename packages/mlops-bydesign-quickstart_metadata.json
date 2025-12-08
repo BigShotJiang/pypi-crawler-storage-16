@@ -1,0 +1,11 @@
+{
+  "name": "mlops-bydesign-quickstart",
+  "version": "0.1.0",
+  "summary": "Quickly create ML experiments with standardized folder ",
+  "author": "Abel",
+  "license": "MIT",
+  "home_page": "https://github.com/abelunbound/mlops-bydesign-quickstart",
+  "download_filename": "mlops_bydesign_quickstart-0.1.0.tar.gz",
+  "download_time": "2025-12-08T21:11:37.990177",
+  "package_url": "https://pypi.org/project/mlops-bydesign-quickstart/"
+}

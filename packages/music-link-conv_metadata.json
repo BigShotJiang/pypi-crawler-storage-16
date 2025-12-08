@@ -1,0 +1,11 @@
+{
+  "name": "music-link-conv",
+  "version": "0.0.1b4",
+  "summary": "Library for converting platform link x to platform link y",
+  "author": "An0nimia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "music_link_conv-0.0.1b4.tar.gz",
+  "download_time": "2025-12-08T21:11:37.382788",
+  "package_url": "https://pypi.org/project/music-link-conv/"
+}

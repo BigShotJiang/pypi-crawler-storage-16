@@ -1,0 +1,11 @@
+{
+  "name": "blop",
+  "version": "0.9.0",
+  "summary": "Beamline optimization with machine learning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blop-0.9.0.tar.gz",
+  "download_time": "2025-12-08T20:52:50.272251",
+  "package_url": "https://pypi.org/project/blop/"
+}

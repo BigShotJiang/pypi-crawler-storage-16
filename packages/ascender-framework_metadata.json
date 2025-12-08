@@ -1,0 +1,11 @@
+{
+  "name": "ascender-framework",
+  "version": "2.0.4",
+  "summary": "The Ascender Framework is a sophisticated and structured FastAPI-based framework, inspired by the principles of NestJS. It stands out for its modular and organized architecture, offering developers a streamlined and efficient way to build web applications",
+  "author": "AscenderTeam",
+  "license": null,
+  "home_page": "https://ascender-framework.com",
+  "download_filename": "ascender_framework-2.0.4.tar.gz",
+  "download_time": "2025-12-08T20:53:09.307380",
+  "package_url": "https://pypi.org/project/ascender-framework/"
+}

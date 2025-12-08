@@ -1,0 +1,11 @@
+{
+  "name": "pathql",
+  "version": "0.3.0",
+  "summary": "A query like syntax for python Path objects.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pathql-0.3.0.tar.gz",
+  "download_time": "2025-12-08T20:52:47.146905",
+  "package_url": "https://pypi.org/project/pathql/"
+}

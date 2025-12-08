@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-partnercentral-selling",
+  "version": "1.42.5",
+  "summary": "Type annotations for boto3 PartnerCentralSellingAPI 1.42.5 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_partnercentral_selling-1.42.5.tar.gz",
+  "download_time": "2025-12-08T20:52:57.159634",
+  "package_url": "https://pypi.org/project/mypy-boto3-partnercentral-selling/"
+}

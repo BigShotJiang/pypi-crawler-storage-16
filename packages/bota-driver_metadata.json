@@ -1,0 +1,11 @@
+{
+  "name": "bota-driver",
+  "version": "1.1.6",
+  "summary": "Python binding for the Bota Driver C++ library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bota_driver-1.1.6-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-12-08T20:52:56.094660",
+  "package_url": "https://pypi.org/project/bota-driver/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "heatmiserv3",
+  "version": "2.0.4",
+  "summary": "A library to interact with Heatmiser Themostats using V3 protocol.",
+  "author": "Andy Loughran",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "heatmiserv3-2.0.4.tar.gz",
+  "download_time": "2025-12-08T20:52:38.728928",
+  "package_url": "https://pypi.org/project/heatmiserv3/"
+}

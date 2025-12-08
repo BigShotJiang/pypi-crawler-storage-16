@@ -1,0 +1,11 @@
+{
+  "name": "es-translator",
+  "version": "1.12.2",
+  "summary": "A lazy yet bulletproof machine translation tool for Elasticsearch.",
+  "author": "ICIJ",
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+  "home_page": null,
+  "download_filename": "es_translator-1.12.2.tar.gz",
+  "download_time": "2025-12-08T20:52:46.091481",
+  "package_url": "https://pypi.org/project/es-translator/"
+}

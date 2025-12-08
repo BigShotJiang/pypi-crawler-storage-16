@@ -1,0 +1,11 @@
+{
+  "name": "batched-melbo",
+  "version": "0.1.1",
+  "summary": "Optimising unsupervised steering vector (a.k.a MELBO) training",
+  "author": "Mohammed Abu Baker, Dan Wilhelm",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/z3research/batched_melbo",
+  "download_filename": "batched_melbo-0.1.1.tar.gz",
+  "download_time": "2025-12-08T20:53:05.654920",
+  "package_url": "https://pypi.org/project/batched-melbo/"
+}

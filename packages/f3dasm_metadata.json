@@ -1,0 +1,11 @@
+{
+  "name": "f3dasm",
+  "version": "2.2.1",
+  "summary": "f3dasm - Framework for Data-driven Development and Analysis of Structures and Materials",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "f3dasm-2.2.1.tar.gz",
+  "download_time": "2025-12-08T20:52:40.832116",
+  "package_url": "https://pypi.org/project/f3dasm/"
+}

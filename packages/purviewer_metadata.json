@@ -1,0 +1,11 @@
+{
+  "name": "purviewer",
+  "version": "0.3.3",
+  "summary": "Audit log analyzer for Microsoft Purview",
+  "author": "Danny Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "purviewer-0.3.3.tar.gz",
+  "download_time": "2025-12-08T20:53:07.757652",
+  "package_url": "https://pypi.org/project/purviewer/"
+}

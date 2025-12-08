@@ -1,0 +1,11 @@
+{
+  "name": "pyfirefly",
+  "version": "0.1.9",
+  "summary": "Asynchronous Python client for the Firefly III API",
+  "author": "Erwin Douna",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyfirefly-0.1.9.tar.gz",
+  "download_time": "2025-12-08T20:52:49.750707",
+  "package_url": "https://pypi.org/project/pyfirefly/"
+}

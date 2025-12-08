@@ -1,11 +1,11 @@
 {
   "name": "austaltools",
-  "version": "2.8.20",
+  "version": "2.8.21",
   "summary": "Tools for use with the Lagrangian atmospheric pollutant dispersion model AUSTAL (AUSbreitungsmodell nach TA-Luft).",
   "author": null,
   "license": "EUPL-1.2",
   "home_page": null,
-  "download_filename": "austaltools-2.8.20.tar.gz",
-  "download_time": "2025-12-08T20:14:37.101255",
+  "download_filename": "austaltools-2.8.21.tar.gz",
+  "download_time": "2025-12-08T22:34:11.863907",
   "package_url": "https://pypi.org/project/austaltools/"
 }

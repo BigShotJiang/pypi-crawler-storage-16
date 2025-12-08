@@ -1,0 +1,11 @@
+{
+  "name": "xmltodict-rs",
+  "version": "0.13.1",
+  "summary": "High-performance XML to dict conversion library using Rust and PyO3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xmltodict_rs-0.13.1.tar.gz",
+  "download_time": "2025-12-08T22:34:13.431407",
+  "package_url": "https://pypi.org/project/xmltodict-rs/"
+}

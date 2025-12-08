@@ -1,0 +1,11 @@
+{
+  "name": "java-api",
+  "version": "17.25.0b5",
+  "summary": "Java 17 API Specification for ignition-api",
+  "author": "César Román",
+  "license": "MIT",
+  "home_page": "https://github.com/ignition-devs/java-api-17",
+  "download_filename": "java_api-17.25.0b5.tar.gz",
+  "download_time": "2025-12-08T22:34:28.293345",
+  "package_url": "https://pypi.org/project/java-api/"
+}

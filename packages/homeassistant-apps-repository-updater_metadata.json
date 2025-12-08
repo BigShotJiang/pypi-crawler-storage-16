@@ -1,0 +1,11 @@
+{
+  "name": "homeassistant-apps-repository-updater",
+  "version": "1.4.0",
+  "summary": "Unofficial Home Assistant Apps (Add-ons) Repository Updater",
+  "author": "Franck Nijhof",
+  "license": null,
+  "home_page": "https://github.com/homeassistant-apps/action-repository-updater",
+  "download_filename": "homeassistant_apps_repository_updater-1.4.0.tar.gz",
+  "download_time": "2025-12-08T22:34:20.378143",
+  "package_url": "https://pypi.org/project/homeassistant-apps-repository-updater/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-statusline",
+  "version": "0.8.6",
+  "summary": "A Python script for Claude Code statusline with context usage tracking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_code_statusline-0.8.6.tar.gz",
+  "download_time": "2025-12-08T22:34:06.579418",
+  "package_url": "https://pypi.org/project/claude-code-statusline/"
+}

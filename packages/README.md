@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-08T20:15:15.776356
-- **Total Packages**: 86
-- **Total Size**: 33.04 MB
+- **Download Time**: 2025-12-08T20:37:38.082546
+- **Total Packages**: 90
+- **Total Size**: 2.71 MB
 
 ## Packages List
+- SurVigilance
+- protein-sequence-annotation
+- thds.mops
+- thds.attrs-utils
+- thds.adls
+- thds.core
+- thds.atacama
+- thds.termtool
+- thds.humenc
+- itk_napari_conversion
+- kubevirt-py
 - cjm-fasthtml-workflow-transcription-single-file
 - scrapy-seleniumbase-cdp
 - smoothglue_file_uploader
@@ -18,7 +29,6 @@
 - fujin-cli
 - brixs
 - copier-pydantic
-- home-ops-cli
 - pywiim
 - aiohomematic-test-support
 - aiohomematic
@@ -86,9 +96,3 @@
 - hub-auth-client
 - zDataBase
 - cdisc-rules-engine
-- petercort-demo-widget
-- tina4-python
-- peakrdl-rawheader
-- opentrons-shared-data
-- triton-shm-client
-- aimz

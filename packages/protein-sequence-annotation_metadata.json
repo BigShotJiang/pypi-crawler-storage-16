@@ -1,0 +1,11 @@
+{
+  "name": "protein-sequence-annotation",
+  "version": "1.1.3",
+  "summary": "Protein sequence annotation with language models",
+  "author": "Arpan Sarkar & Kumaresh Krishnan",
+  "license": "CC by 4.0",
+  "home_page": "https://github.com/Protein-Sequence-Annotation/PSALM",
+  "download_filename": "protein_sequence_annotation-1.1.3.tar.gz",
+  "download_time": "2025-12-08T20:36:44.312391",
+  "package_url": "https://pypi.org/project/protein-sequence-annotation/"
+}

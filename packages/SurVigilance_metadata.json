@@ -1,0 +1,11 @@
+{
+  "name": "SurVigilance",
+  "version": "1.0.1",
+  "summary": "SurVigilance: An application to collect pharmacovigilance data from safety databases around the world.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "survigilance-1.0.1.tar.gz",
+  "download_time": "2025-12-08T20:36:43.674036",
+  "package_url": "https://pypi.org/project/SurVigilance/"
+}

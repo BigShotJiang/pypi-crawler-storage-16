@@ -1,11 +1,11 @@
 {
   "name": "cjm-fasthtml-workflow-transcription-single-file",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "A self-contained single-file transcription workflow for FastHTML applications.",
   "author": "Christian J. Mills",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/cj-mills/cjm-fasthtml-workflow-transcription-single-file",
-  "download_filename": "cjm_fasthtml_workflow_transcription_single_file-0.0.8.tar.gz",
-  "download_time": "2025-12-08T22:12:43.829445",
+  "download_filename": "cjm_fasthtml_workflow_transcription_single_file-0.0.9.tar.gz",
+  "download_time": "2025-12-08T23:12:11.434132",
   "package_url": "https://pypi.org/project/cjm-fasthtml-workflow-transcription-single-file/"
 }

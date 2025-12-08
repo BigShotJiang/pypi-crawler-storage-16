@@ -1,0 +1,11 @@
+{
+  "name": "rev-agentic",
+  "version": "2.0.0",
+  "summary": "Rev - Autonomous AI Development System with Multi-Agent Orchestration",
+  "author": "Rev Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rev_agentic-2.0.0.tar.gz",
+  "download_time": "2025-12-08T23:12:15.757005",
+  "package_url": "https://pypi.org/project/rev-agentic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CountryInformation",
+  "version": "1.0.10",
+  "summary": "CountryInformation is a project to provide certain country- and language-information in a way which is well processable programmatically.",
+  "author": "Marius Göcke",
+  "license": null,
+  "home_page": "https://github.com/anionDev/CountryInformation",
+  "download_filename": "countryinformation-1.0.10-py3-none-any.whl",
+  "download_time": "2025-12-08T23:12:24.893908",
+  "package_url": "https://pypi.org/project/CountryInformation/"
+}

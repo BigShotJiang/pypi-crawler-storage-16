@@ -1,0 +1,11 @@
+{
+  "name": "corellium-api",
+  "version": "0.4.2",
+  "summary": "Corellium API",
+  "author": "OpenAPI Generator community",
+  "license": null,
+  "home_page": null,
+  "download_filename": "corellium_api-0.4.2.tar.gz",
+  "download_time": "2025-12-08T21:27:33.294038",
+  "package_url": "https://pypi.org/project/corellium-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-agents-a365-tooling",
+  "version": "0.1.0",
+  "summary": "Agent 365 Tooling SDK, providing functionality to work with Agent 365 Tools.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "microsoft_agents_a365_tooling-0.1.0.tar.gz",
+  "download_time": "2025-12-08T21:27:56.090390",
+  "package_url": "https://pypi.org/project/microsoft-agents-a365-tooling/"
+}

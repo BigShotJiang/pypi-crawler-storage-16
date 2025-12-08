@@ -1,0 +1,11 @@
+{
+  "name": "ngclearn",
+  "version": "3.0.1",
+  "summary": "Simulation software for building and analyzing computational neuroscience models, brain-inspired computing systems, and NeuroAI agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ngclearn-3.0.1.tar.gz",
+  "download_time": "2025-12-08T21:27:51.147417",
+  "package_url": "https://pypi.org/project/ngclearn/"
+}

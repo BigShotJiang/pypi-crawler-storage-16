@@ -1,0 +1,11 @@
+{
+  "name": "openjd-sessions",
+  "version": "0.10.6",
+  "summary": "Provides a library that can be used to build a runtime that is able to run Jobs in a Session as defined by Open Job Description.",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openjd_sessions-0.10.6.tar.gz",
+  "download_time": "2025-12-08T21:27:36.494144",
+  "package_url": "https://pypi.org/project/openjd-sessions/"
+}

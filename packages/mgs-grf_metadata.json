@@ -1,0 +1,11 @@
+{
+  "name": "mgs-grf",
+  "version": "0.0.1",
+  "summary": "MGS-GRF for imbalanced-mixed-tabular data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mgs_grf-0.0.1.tar.gz",
+  "download_time": "2025-12-08T21:27:43.919849",
+  "package_url": "https://pypi.org/project/mgs-grf/"
+}

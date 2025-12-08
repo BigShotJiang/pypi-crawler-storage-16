@@ -1,0 +1,11 @@
+{
+  "name": "deepliif",
+  "version": "1.2.4",
+  "summary": "DeepLIIF: Deep-Learning Inferred Multiplex Immunofluorescence for Immunohistochemical Image Quantification",
+  "author": "Parmida93",
+  "license": null,
+  "home_page": "https://github.com/nadeemlab/DeepLIIF",
+  "download_filename": "deepliif-1.2.4.tar.gz",
+  "download_time": "2025-12-08T21:27:34.320896",
+  "package_url": "https://pypi.org/project/deepliif/"
+}

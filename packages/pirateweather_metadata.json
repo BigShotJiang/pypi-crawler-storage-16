@@ -1,0 +1,11 @@
+{
+  "name": "pirateweather",
+  "version": "1.0.0",
+  "summary": "The Pirate Weather API wrapper",
+  "author": "Pirate-Weather",
+  "license": "GPLv3 License",
+  "home_page": "https://github.com/Pirate-Weather/pirate-weather-python",
+  "download_filename": "pirateweather-1.0.0.tar.gz",
+  "download_time": "2025-12-08T20:15:01.364758",
+  "package_url": "https://pypi.org/project/pirateweather/"
+}

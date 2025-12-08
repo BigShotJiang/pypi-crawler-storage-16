@@ -1,11 +1,11 @@
 {
   "name": "airbyte-ai-stripe",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Airbyte Stripe Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_ai_stripe-0.4.0.tar.gz",
-  "download_time": "2025-12-08T19:10:56.066714",
+  "download_filename": "airbyte_ai_stripe-0.5.0.tar.gz",
+  "download_time": "2025-12-08T20:15:06.805516",
   "package_url": "https://pypi.org/project/airbyte-ai-stripe/"
 }

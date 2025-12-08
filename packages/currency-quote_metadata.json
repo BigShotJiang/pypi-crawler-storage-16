@@ -1,0 +1,11 @@
+{
+  "name": "currency-quote",
+  "version": "5.0.5",
+  "summary": "Complete solution for extracting currency pair quotes data. With comprehensive testing, parameter validation, flexible configuration management, Hexagonal Architecture, CI/CD pipelines, code quality tools, and detailed documentation.",
+  "author": "IvanildoBarauna",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "currency_quote-5.0.5.tar.gz",
+  "download_time": "2025-12-08T20:14:56.500814",
+  "package_url": "https://pypi.org/project/currency-quote/"
+}

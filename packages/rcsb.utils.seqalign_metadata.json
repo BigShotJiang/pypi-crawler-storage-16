@@ -1,0 +1,11 @@
+{
+  "name": "rcsb.utils.seqalign",
+  "version": "0.32",
+  "summary": "RCSB Python Wrapper Module for Sequence Alignment Utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rcsb_utils_seqalign-0.32.tar.gz",
+  "download_time": "2025-12-08T20:14:40.857775",
+  "package_url": "https://pypi.org/project/rcsb.utils.seqalign/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ng2web",
+  "version": "1.5.1",
+  "summary": "Norton Guide to HTML conversion tool",
+  "author": "Dave Pearson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ng2web-1.5.1.tar.gz",
+  "download_time": "2025-12-08T20:14:54.358533",
+  "package_url": "https://pypi.org/project/ng2web/"
+}

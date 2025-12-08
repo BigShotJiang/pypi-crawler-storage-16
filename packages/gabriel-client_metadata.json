@@ -1,0 +1,11 @@
+{
+  "name": "gabriel-client",
+  "version": "4.1.1",
+  "summary": "Client library for the Gabriel real-time AI orchestration framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gabriel_client-4.1.1.tar.gz",
+  "download_time": "2025-12-08T20:14:43.671438",
+  "package_url": "https://pypi.org/project/gabriel-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "threefive",
+  "version": "3.0.67",
+  "summary": "threefive is The #1 SCTE-35 Decoder and Encoder on the Planet",
+  "author": "Adrian ",
+  "license": null,
+  "home_page": "https://github.com/superkabuki/threefive",
+  "download_filename": "threefive-3.0.67.tar.gz",
+  "download_time": "2025-12-08T20:14:57.565812",
+  "package_url": "https://pypi.org/project/threefive/"
+}

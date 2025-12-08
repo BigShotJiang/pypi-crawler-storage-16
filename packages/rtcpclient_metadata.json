@@ -1,0 +1,11 @@
+{
+  "name": "rtcpclient",
+  "version": "1.6.3",
+  "summary": "fix http error for python 3.11+ ",
+  "author": "YanisAounit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rtcpclient-1.6.3.tar.gz",
+  "download_time": "2025-12-08T20:14:53.294610",
+  "package_url": "https://pypi.org/project/rtcpclient/"
+}

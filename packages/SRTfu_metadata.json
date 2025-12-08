@@ -1,0 +1,11 @@
+{
+  "name": "SRTfu",
+  "version": "0.0.7",
+  "summary": "Secure Reliable Transport in Python",
+  "author": "Adrian of Doom ",
+  "license": null,
+  "home_page": "https://github.com/superkabuki/SRTfu",
+  "download_filename": "srtfu-0.0.7.tar.gz",
+  "download_time": "2025-12-08T20:14:57.032292",
+  "package_url": "https://pypi.org/project/SRTfu/"
+}

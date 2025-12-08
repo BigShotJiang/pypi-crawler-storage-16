@@ -1,0 +1,11 @@
+{
+  "name": "smoothglue_file_uploader",
+  "version": "1.0.8",
+  "summary": "SmoothGlue GuC2 File Uploader: a Django app providing secure, pluggable uploads to S3, MinIO, or local storage with validation, checksums, and post-processing. Built for regulated and edge environments from the ground up.",
+  "author": "SmoothGlue",
+  "license": "Proprietary",
+  "home_page": "https://braingu.com/solutions/smoothglue/",
+  "download_filename": "smoothglue_file_uploader-1.0.8.tar.gz",
+  "download_time": "2025-12-08T20:14:29.154912",
+  "package_url": "https://pypi.org/project/smoothglue_file_uploader/"
+}

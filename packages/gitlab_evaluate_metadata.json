@@ -1,0 +1,11 @@
+{
+  "name": "gitlab_evaluate",
+  "version": "0.40.0",
+  "summary": "Scans GitLab instance and ranks projects against a set of criteria. Can be used to identiy projects that may have too much metadata/size to reliably export or import.",
+  "author": "GitLab Professional Services",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/gitlab-org/professional-services-automation/tools/utilities/evaluate",
+  "download_filename": "gitlab_evaluate-0.40.0.tar.gz",
+  "download_time": "2025-12-08T20:14:40.327744",
+  "package_url": "https://pypi.org/project/gitlab_evaluate/"
+}

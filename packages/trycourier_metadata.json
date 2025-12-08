@@ -1,0 +1,11 @@
+{
+  "name": "trycourier",
+  "version": "7.2.0",
+  "summary": "The official Python library for the Courier API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "trycourier-7.2.0.tar.gz",
+  "download_time": "2025-12-08T20:14:49.557887",
+  "package_url": "https://pypi.org/project/trycourier/"
+}

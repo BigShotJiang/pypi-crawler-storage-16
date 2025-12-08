@@ -1,0 +1,11 @@
+{
+  "name": "gemini-cli-sdk-py",
+  "version": "0.1.1",
+  "summary": "Fully-typed Python SDK that wraps the Gemini CLI (google-gemini/gemini-cli).",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gemini_cli_sdk_py-0.1.1.tar.gz",
+  "download_time": "2025-12-08T20:14:50.621986",
+  "package_url": "https://pypi.org/project/gemini-cli-sdk-py/"
+}

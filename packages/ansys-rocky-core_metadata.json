@@ -1,0 +1,11 @@
+{
+  "name": "ansys-rocky-core",
+  "version": "0.4.0",
+  "summary": "Python client library for Ansys Rocky",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_rocky_core-0.4.0.tar.gz",
+  "download_time": "2025-12-08T20:14:41.959590",
+  "package_url": "https://pypi.org/project/ansys-rocky-core/"
+}

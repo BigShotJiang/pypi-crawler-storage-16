@@ -1,0 +1,11 @@
+{
+  "name": "bleprinter",
+  "version": "0.2.0",
+  "summary": "A library for writing text to BLE receipt printers",
+  "author": "Benji",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bleprinter-0.2.0.tar.gz",
+  "download_time": "2025-12-08T20:14:51.705530",
+  "package_url": "https://pypi.org/project/bleprinter/"
+}

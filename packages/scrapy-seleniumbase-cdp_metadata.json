@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-seleniumbase-cdp",
+  "version": "0.0.3",
+  "summary": "Scrapy downloader middleware that uses SeleniumBase's pure CDP mode to make requests.",
+  "author": "nyg",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scrapy_seleniumbase_cdp-0.0.3.tar.gz",
+  "download_time": "2025-12-08T20:14:28.603239",
+  "package_url": "https://pypi.org/project/scrapy-seleniumbase-cdp/"
+}

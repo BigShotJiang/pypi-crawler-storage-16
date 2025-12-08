@@ -1,0 +1,11 @@
+{
+  "name": "downsonic",
+  "version": "0.0.3",
+  "summary": "a little command-line utility made to help download all of a user's music from an OpenSubsonic server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "downsonic-0.0.3.tar.gz",
+  "download_time": "2025-12-08T20:14:39.267169",
+  "package_url": "https://pypi.org/project/downsonic/"
+}

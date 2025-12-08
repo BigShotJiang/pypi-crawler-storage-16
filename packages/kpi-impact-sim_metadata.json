@@ -1,0 +1,11 @@
+{
+  "name": "kpi-impact-sim",
+  "version": "1.0.0",
+  "summary": "Simulation engine to estimate KPI impact using Ridge regression and operational constraints.",
+  "author": "Victor Morales",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kpi_impact_sim-1.0.0.tar.gz",
+  "download_time": "2025-12-08T20:14:47.979073",
+  "package_url": "https://pypi.org/project/kpi-impact-sim/"
+}

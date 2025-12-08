@@ -1,11 +1,11 @@
 {
   "name": "apstool",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "Command-line tool for the Agent Packaging Standard (APS)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apstool-0.1.9.tar.gz",
-  "download_time": "2025-12-08T18:47:37.290347",
+  "download_filename": "apstool-0.1.11.tar.gz",
+  "download_time": "2025-12-08T20:14:45.285474",
   "package_url": "https://pypi.org/project/apstool/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ptnetinspector",
+  "version": "0.1.6",
+  "summary": "A reconnaissance tool for IPv6/IPv4 local network scanning with vulnerability detection",
+  "author": "Penterep",
+  "license": "GPLv3",
+  "home_page": "https://www.penterep.com",
+  "download_filename": "ptnetinspector-0.1.6.tar.gz",
+  "download_time": "2025-12-08T20:14:43.141556",
+  "package_url": "https://pypi.org/project/ptnetinspector/"
+}

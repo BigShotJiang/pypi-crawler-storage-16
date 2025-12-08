@@ -1,0 +1,11 @@
+{
+  "name": "bioio-base",
+  "version": "3.2.0",
+  "summary": "Typing, base classes, and more for BioIO projects.",
+  "author": null,
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "bioio_base-3.2.0.tar.gz",
+  "download_time": "2025-12-08T22:50:01.996024",
+  "package_url": "https://pypi.org/project/bioio-base/"
+}

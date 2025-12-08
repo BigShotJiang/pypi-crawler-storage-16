@@ -1,0 +1,11 @@
+{
+  "name": "x-ray",
+  "version": "0.3.5",
+  "summary": "A library and microservice to find bad redactions in PDFs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "x_ray-0.3.5.tar.gz",
+  "download_time": "2025-12-08T22:49:51.835173",
+  "package_url": "https://pypi.org/project/x-ray/"
+}

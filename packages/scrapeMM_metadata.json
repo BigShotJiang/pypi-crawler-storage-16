@@ -1,11 +1,11 @@
 {
   "name": "scrapeMM",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Flexible multimodal scraper for social media and the open web.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scrapemm-0.4.2.tar.gz",
-  "download_time": "2025-12-08T18:47:35.751690",
+  "download_filename": "scrapemm-0.4.3.tar.gz",
+  "download_time": "2025-12-08T22:50:00.907494",
   "package_url": "https://pypi.org/project/scrapeMM/"
 }

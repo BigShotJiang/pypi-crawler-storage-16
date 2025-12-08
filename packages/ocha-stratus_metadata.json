@@ -1,0 +1,11 @@
+{
+  "name": "ocha-stratus",
+  "version": "0.1.7",
+  "summary": "Utilities for accessing data from Azure cloud storage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ocha_stratus-0.1.7.tar.gz",
+  "download_time": "2025-12-08T22:49:49.276502",
+  "package_url": "https://pypi.org/project/ocha-stratus/"
+}

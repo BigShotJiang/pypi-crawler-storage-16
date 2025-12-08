@@ -1,15 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-08T22:34:54.550061
+- **Download Time**: 2025-12-08T22:50:32.781279
 - **Total Packages**: 90
-- **Total Size**: 27.94 MB
+- **Total Size**: 7.32 MB
 
 ## Packages List
+- pearmut
+- kipio
+- LMRRfactory
+- gauthsdk
+- lalamo
+- tricoder
+- Tasmanian
+- django-devbar
+- ocha-stratus
+- dkist-processing-test
+- zensols-amr
+- parsl
+- x-ray
+- markata
+- ai2070-l0
+- zavudev
+- baseapp-ai-langkit
+- sentior-platform-sdk
+- nexaroa
+- audiometa-python
+- nucleus-cdk
+- decomp2dbg
+- ajenti.plugin.just-testing
+- streamlit-cytoscape
+- django-spellbook
+- cv-resume-builder-mcp
+- hyperchoron
+- greenmining
+- valuesets
+- scrapeMM
+- joyous-departures
+- bioio-base
+- tvscreener
+- markovlv
 - tracecov-community
 - claude-code-statusline
+- cmtj
 - matematica-utils
-- django-devbar
 - odsbox
 - torqueclient
 - django-torque
@@ -28,12 +62,10 @@
 - tracecov
 - gdsfactoryplus
 - pyivia
-- django-spellbook
 - sglang
 - wshawk
 - homeassistant-apps-repository-updater
 - atlasui
-- hyperchoron
 - files-com
 - clickhouse-chorm
 - mlops-bydesign-quickstart
@@ -64,35 +96,3 @@
 - mcp-multi-server
 - tonic-textual
 - zenodo-api-client
-- jambo
-- pipemake-utils
-- lets-debug-helper
-- ampy-bus
-- jragbeer_common
-- piragi
-- rl-language
-- architect-py
-- cc-adapter
-- indikator
-- multiSSH3
-- fastapi-voyager
-- upd-cli
-- togo
-- trainerbase
-- mcp-vector-search
-- opencp
-- ypricemagic
-- trycourier
-- tricoder
-- orq-ai-sdk
-- qiskit-mcp-servers
-- segment-geospatial
-- hipr
-- python-lucide
-- notdiamond
-- qiskit-ibm-runtime-mcp-server
-- qen
-- nisystemlink-examples
-- qiskit-code-assistant-mcp-server
-- casedev
-- cv-resume-builder-mcp

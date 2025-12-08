@@ -1,0 +1,11 @@
+{
+  "name": "zensols-amr",
+  "version": "0.2.8",
+  "summary": "Provides support for AMR graph manipulation, annotations and feature generation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zensols_amr-0.2.8-py3-none-any.whl",
+  "download_time": "2025-12-08T22:49:50.299132",
+  "package_url": "https://pypi.org/project/zensols-amr/"
+}

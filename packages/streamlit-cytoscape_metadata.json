@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-cytoscape",
+  "version": "0.1.0",
+  "summary": "A flexible, customizable, Streamlit component for interactive graph visualization using Cytoscape.js",
+  "author": "Natalie Gill",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "streamlit_cytoscape-0.1.0.tar.gz",
+  "download_time": "2025-12-08T22:49:57.561904",
+  "package_url": "https://pypi.org/project/streamlit-cytoscape/"
+}

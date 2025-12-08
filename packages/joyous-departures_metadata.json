@@ -1,11 +1,11 @@
 {
   "name": "joyous-departures",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "summary": "Generate warm, heartfelt goodbye messages for email templates",
   "author": "siviter.xyz",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "joyous_departures-1.6.1-cp313-cp313-manylinux_2_34_x86_64.whl",
-  "download_time": "2025-12-08T19:48:20.999510",
+  "download_filename": "joyous_departures-1.6.2-cp313-cp313-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-12-08T22:50:01.421930",
   "package_url": "https://pypi.org/project/joyous-departures/"
 }

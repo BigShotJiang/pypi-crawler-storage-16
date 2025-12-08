@@ -1,0 +1,11 @@
+{
+  "name": "Tasmanian",
+  "version": "8.2",
+  "summary": "UQ library for sparse grids, optimization and Bayesian inference",
+  "author": "Miroslav Stoyanov",
+  "license": null,
+  "home_page": "https://tasmanian.ornl.gov",
+  "download_filename": "tasmanian-8.2.tar.gz",
+  "download_time": "2025-12-08T22:49:48.252796",
+  "package_url": "https://pypi.org/project/Tasmanian/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jambo",
+  "version": "0.1.6.post1",
+  "summary": "Jambo - JSON Schema to Pydantic Converter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jambo-0.1.6.post1.tar.gz",
+  "download_time": "2025-12-08T22:12:23.852377",
+  "package_url": "https://pypi.org/project/jambo/"
+}

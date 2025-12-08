@@ -1,11 +1,11 @@
 {
   "name": "tricoder",
-  "version": "1.2.8",
+  "version": "1.3.0",
   "summary": "TriVector Code Intelligence - Multi-view code relationship model with advanced semantic embeddings",
   "author": "Jiri Otoupal",
   "license": "Non-Commercial",
   "home_page": null,
-  "download_filename": "tricoder-1.2.8.tar.gz",
-  "download_time": "2025-12-08T20:14:30.223805",
+  "download_filename": "tricoder-1.3.0.tar.gz",
+  "download_time": "2025-12-08T22:12:34.914180",
   "package_url": "https://pypi.org/project/tricoder/"
 }

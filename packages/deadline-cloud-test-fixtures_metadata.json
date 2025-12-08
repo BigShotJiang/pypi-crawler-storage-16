@@ -1,0 +1,11 @@
+{
+  "name": "deadline-cloud-test-fixtures",
+  "version": "0.18.8",
+  "summary": "This package contains pytest fixtures that are used to test AWS Deadline Cloud Python packages.",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deadline_cloud_test_fixtures-0.18.8.tar.gz",
+  "download_time": "2025-12-08T22:12:47.533855",
+  "package_url": "https://pypi.org/project/deadline-cloud-test-fixtures/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ttrans",
+  "version": "0.1.1",
+  "summary": "macOS meeting transcription assistant with TUI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ttrans-0.1.1.tar.gz",
+  "download_time": "2025-12-08T22:12:56.502566",
+  "package_url": "https://pypi.org/project/ttrans/"
+}

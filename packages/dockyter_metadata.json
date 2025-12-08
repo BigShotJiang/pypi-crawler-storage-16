@@ -1,0 +1,11 @@
+{
+  "name": "dockyter",
+  "version": "0.2.2",
+  "summary": "Run heavy tools in Docker or via an API from Jupyter notebooks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dockyter-0.2.2.tar.gz",
+  "download_time": "2025-12-08T22:12:53.360908",
+  "package_url": "https://pypi.org/project/dockyter/"
+}

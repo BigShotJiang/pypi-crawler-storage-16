@@ -1,0 +1,11 @@
+{
+  "name": "flake8-carrot",
+  "version": "0.1.7",
+  "summary": "A plugin for Flake8; Ensuring that your Python code adheres to CarrotManMatt's opinionated style guide.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flake8_carrot-0.1.7.tar.gz",
+  "download_time": "2025-12-08T22:12:45.951535",
+  "package_url": "https://pypi.org/project/flake8-carrot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "retrofit",
+  "version": "0.3.2",
+  "summary": "High-Performance ML Training, Scoring & Evaluation (Polars + GPU-Ready)",
+  "author": "Adrian Antico, Sean Benner",
+  "license": "MIT",
+  "home_page": "https://github.com/AdrianAntico/retrofit",
+  "download_filename": "retrofit-0.3.2.tar.gz",
+  "download_time": "2025-12-08T22:12:42.787667",
+  "package_url": "https://pypi.org/project/retrofit/"
+}

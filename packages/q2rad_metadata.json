@@ -1,0 +1,11 @@
+{
+  "name": "q2rad",
+  "version": "0.1.250",
+  "summary": "RAD - database, GUI, reports",
+  "author": "Andrei Puchko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "q2rad-0.1.250.tar.gz",
+  "download_time": "2025-12-08T22:12:43.309768",
+  "package_url": "https://pypi.org/project/q2rad/"
+}

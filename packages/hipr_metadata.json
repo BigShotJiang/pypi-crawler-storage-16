@@ -1,0 +1,11 @@
+{
+  "name": "hipr",
+  "version": "0.1.7",
+  "summary": "Automatic Pydantic config generation from function signatures with hyperparameters",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hipr-0.1.7.tar.gz",
+  "download_time": "2025-12-08T22:12:37.023250",
+  "package_url": "https://pypi.org/project/hipr/"
+}

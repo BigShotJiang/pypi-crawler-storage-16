@@ -1,0 +1,11 @@
+{
+  "name": "pipemake-utils",
+  "version": "1.3.3",
+  "summary": "Pipemake Utilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/kocherlab/pipemake_utils",
+  "download_filename": "pipemake_utils-1.3.3.tar.gz",
+  "download_time": "2025-12-08T22:12:24.376799",
+  "package_url": "https://pypi.org/project/pipemake-utils/"
+}

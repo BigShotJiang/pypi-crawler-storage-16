@@ -1,0 +1,11 @@
+{
+  "name": "contrast-fireball",
+  "version": "0.1.18",
+  "summary": "Python interface to the shared Contrast Fireball library",
+  "author": null,
+  "license": "Copyright: 2024 Contrast Security, Inc\n        Contact: support@contrastsecurity.com\n        License: Commercial\n        \n        NOTICE: This Software and the patented inventions embodied within may only be\n        used as part of Contrast Security’s commercial offerings. Even though it is\n        made available through public repositories, use of this Software is subject to\n        the applicable End User Licensing Agreement found at\n        https://www.contrastsecurity.com/enduser-terms-0317a or as otherwise agreed\n        between Contrast Security and the End User. The Software may not be reverse\n        engineered, modified, repackaged, sold, redistributed or otherwise used in a way\n        not consistent with the End User License Agreement.\n        ",
+  "home_page": null,
+  "download_filename": "contrast_fireball-0.1.18-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-08T22:12:50.216466",
+  "package_url": "https://pypi.org/project/contrast-fireball/"
+}

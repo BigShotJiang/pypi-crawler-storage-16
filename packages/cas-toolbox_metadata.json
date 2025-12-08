@@ -1,0 +1,11 @@
+{
+  "name": "cas-toolbox",
+  "version": "2025.50.1",
+  "summary": "Cluster Automation Scripts Toolbox",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "cas_toolbox-2025.50.1.tar.gz",
+  "download_time": "2025-12-08T23:47:45.813803",
+  "package_url": "https://pypi.org/project/cas-toolbox/"
+}

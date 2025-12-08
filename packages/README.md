@@ -1,11 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-08T23:31:04.129319
+- **Download Time**: 2025-12-08T23:48:29.421730
 - **Total Packages**: 81
-- **Total Size**: 39.15 MB
+- **Total Size**: 18.01 MB
 
 ## Packages List
+- rcsb.exdb
+- cas-toolbox
+- biblemategui
+- tricoder
+- soft-fido2
+- trefoil
+- llm-editor
+- wordslab-notebooks-lib
+- ytdl-sub
+- sage-spelling
+- dataframe-textual
+- cjm-fasthtml-workflow-transcription-single-file
+- silkworm-rs
+- tokonomics
+- networkx-temporal
+- pyghidra-mcp
+- scaffoldry
+- ai-agent-rules
+- qctrl-client
+- foliar
+- blackspace
+- multi-storage-client
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- depcon
+- lmcache
+- jiri-destkird
+- gauthsdk
+- mintalib
+- biblealignlib
+- claude-history-backup
+- adaptive-harmony
 - google-cloud-alloydb-connector
 - biosphere
 - cssinj
@@ -13,11 +46,9 @@
 - phonopy
 - antioch-py
 - cml-parser
-- claude-history-backup
 - nexaroa
 - earthdata-varinfo
 - telnyx
-- jiri-destkird
 - increase
 - incendium-stubs
 - incendium
@@ -30,7 +61,6 @@
 - lfx-nightly
 - stainx
 - svs-core
-- blackspace
 - sinapsis
 - geometor-model
 - pdd-cli
@@ -50,7 +80,6 @@
 - mesh-sync-core-common-lib
 - wjswgs
 - syncengine
-- depcon
 - pdg
 - rds-proxy-password-rotation
 - scc-firewall-manager-sdk
@@ -58,32 +87,3 @@
 - rassumfrassum
 - scraper-rust
 - velr
-- music-assistant-frontend
-- agentbill-py-langchain
-- agentbill-py-sdk
-- lm-cloud-sync
-- kepler
-- nipyapi
-- dkist-processing-cryonirsp
-- ace-bbmd-manager
-- tricoder
-- dkist-processing-dlnirsp
-- cv-resume-builder-mcp
-- dkist-processing-visp
-- omniduct
-- flwr-nightly
-- jararaca
-- orq-ai-sdk
-- kani-ext-vllm
-- megamicros
-- minting
-- cosinor-lite
-- llama-index-llms-google-genai
-- mirror-dedupe
-- configtpl
-- standardbots
-- dkist-processing-vbi
-- ofire
-- metacode
-- Graphinate
-- pyhubblenetwork

@@ -1,0 +1,11 @@
+{
+  "name": "sage-spelling",
+  "version": "1.2.0",
+  "summary": "SAGE: Spell checking via Augmentation and  Generative distribution Emulation",
+  "author": "Nikita Martynov, Mark Baushenko, Alena Fenogenova and Alexandr Abramov",
+  "license": "MIT",
+  "home_page": "https://github.com/orgs/ai-forever/sage",
+  "download_filename": "sage_spelling-1.2.0.tar.gz",
+  "download_time": "2025-12-08T23:47:50.458820",
+  "package_url": "https://pypi.org/project/sage-spelling/"
+}

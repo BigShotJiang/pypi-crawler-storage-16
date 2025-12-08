@@ -1,0 +1,11 @@
+{
+  "name": "rdbmpy",
+  "version": "1.0.12",
+  "summary": "A Python package for managing database migrations with PostgreSQL, MySQL, and SQL Server",
+  "author": "Guilherme Makoto Sacoman Dakuzaku",
+  "license": "Apache License",
+  "home_page": "https://github.com/gdakuzak/rdbmpy",
+  "download_filename": "rdbmpy-1.0.12.tar.gz",
+  "download_time": "2025-12-08T19:38:02.107292",
+  "package_url": "https://pypi.org/project/rdbmpy/"
+}

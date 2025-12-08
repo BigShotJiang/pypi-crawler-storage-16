@@ -1,0 +1,11 @@
+{
+  "name": "gammarers.aws-waf-ip-rate-limit-rule",
+  "version": "2.0.50",
+  "summary": "This is an AWS CDK Rate Limit Rule on WAF V2.",
+  "author": "yicr<yicr@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/gammarers/aws-waf-ip-rate-limit-rule.git",
+  "download_filename": "gammarers_aws_waf_ip_rate_limit_rule-2.0.50.tar.gz",
+  "download_time": "2025-12-08T19:38:04.773544",
+  "package_url": "https://pypi.org/project/gammarers.aws-waf-ip-rate-limit-rule/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "geometor-model",
+  "version": "0.4.6",
+  "summary": "A symbolic engine for defining and verifying geometric constructions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geometor_model-0.4.6.tar.gz",
+  "download_time": "2025-12-08T19:27:55.171424",
+  "package_url": "https://pypi.org/project/geometor-model/"
+}

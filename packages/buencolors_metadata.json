@@ -1,0 +1,11 @@
+{
+  "name": "buencolors",
+  "version": "0.1.0",
+  "summary": "A pythonic port of the BuenColors R library for handy color palettes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "buencolors-0.1.0.tar.gz",
+  "download_time": "2025-12-08T19:27:59.962680",
+  "package_url": "https://pypi.org/project/buencolors/"
+}

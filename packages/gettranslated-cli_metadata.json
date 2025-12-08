@@ -1,0 +1,11 @@
+{
+  "name": "gettranslated-cli",
+  "version": "1.2.0",
+  "summary": "Command-line tool for syncing translations with GetTranslated.ai",
+  "author": "GetTranslated",
+  "license": "MIT",
+  "home_page": "https://www.gettranslated.ai",
+  "download_filename": "gettranslated_cli-1.2.0.tar.gz",
+  "download_time": "2025-12-08T19:28:10.971173",
+  "package_url": "https://pypi.org/project/gettranslated-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "profiles-rudderstack",
+  "version": "0.24.3",
+  "summary": "A warehouse-native semantic modeling layer that creates unified customer profiles in your data warehouse",
+  "author": "RudderStack",
+  "license": null,
+  "home_page": "https://www.rudderstack.com/",
+  "download_filename": "profiles_rudderstack-0.24.3-py3-none-any.whl",
+  "download_time": "2025-12-08T19:27:51.440273",
+  "package_url": "https://pypi.org/project/profiles-rudderstack/"
+}

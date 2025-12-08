@@ -1,0 +1,11 @@
+{
+  "name": "NREL-sup3r",
+  "version": "0.2.5",
+  "summary": "Super Resolving Renewable Resource Data (sup3r)",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "nrel_sup3r-0.2.5.tar.gz",
+  "download_time": "2025-12-08T19:28:07.830471",
+  "package_url": "https://pypi.org/project/NREL-sup3r/"
+}

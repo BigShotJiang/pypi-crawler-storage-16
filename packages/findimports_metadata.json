@@ -1,0 +1,11 @@
+{
+  "name": "findimports",
+  "version": "3.0.0",
+  "summary": "Python module import analysis tool",
+  "author": "Marius Gedminas",
+  "license": "MIT",
+  "home_page": "https://github.com/mgedmin/findimports",
+  "download_filename": "findimports-3.0.0.tar.gz",
+  "download_time": "2025-12-08T19:27:56.221206",
+  "package_url": "https://pypi.org/project/findimports/"
+}

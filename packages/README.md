@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-08T19:11:21.612590
-- **Total Packages**: 92
-- **Total Size**: 45.59 MB
+- **Download Time**: 2025-12-08T19:28:34.123880
+- **Total Packages**: 88
+- **Total Size**: 25.02 MB
 
 ## Packages List
+- wisent
+- fabi-demo
+- prime-sdk-py
+- bunker-stats-rs
+- sqlbench
+- linkml-data-qc
+- RockyRoad
+- profiles-rudderstack
+- sqtab
+- openasi
+- gecko-iot-client
+- sanice
+- local-deep-research
+- finatic-server-python
+- geometor-model
+- h5coro
+- findimports
+- hub-auth-client
+- sqlobject
+- coordax
+- lite-bootstrap
+- hrap
+- omotes-simulator-core
+- buencolors
+- silkworm-rs
+- rara-tools
+- cognitive-core
+- trame-dataclass
+- plexus-agent
+- crc-pulp-service-client
+- crc-pulp-file-client
+- crc-pulp-maven-client
+- crc-pulp-rpm-client
+- crc-pulp-gem-client
+- crc-pulp-npm-client
+- crc-pulp-python-client
+- crc-pulpcore-client
+- NREL-sup3r
+- forgebase
+- mcp-b
+- retell-sdk
+- resource-schema-guard-rail
+- nanobind
+- gettranslated-cli
+- agent-farm
+- find-vowels
+- plex-letterboxd
+- django-spellbook
+- BeakerUtil
+- apathetic-logging
+- chuk-llm
+- pytest-xdocker
 - mlquantify
 - dax
 - pymctp
@@ -13,14 +65,12 @@
 - pyxyz24
 - notdiamond
 - viam-sdk
-- hub-auth-client
 - fountain-life-service-clients
 - kaqing
 - msn-weather-wrapper
 - pycensuskr
 - ensure_uv
 - nol36
-- find-vowels
 - GalCubeCraft
 - e-data
 - google-genai
@@ -44,57 +94,3 @@
 - serif
 - fastlisaresponse-cuda11x
 - schemathesis
-- fastlisaresponse
-- datahold
-- airbyte-ai-hubspot
-- sqtab
-- airbyte-ai-gong
-- airbyte-ai-stripe
-- airbyte-ai-linear
-- airbyte-ai-greenhouse
-- airbyte-ai-asana
-- airbyte-ai-github
-- bnlearn
-- openfga-sdk
-- fujin-cli
-- bunker-stats-rs
-- gammarers.aws-ecs-fargate-task-termination-detection-event-rule
-- ohcs
-- suite2p_mbo
-- radicle-mcp-server
-- autofex
-- prelude-cli-beta
-- prelude-sdk-beta
-- zoo-kcl
-- mamboframe
-- dryad2dataverse
-- claude-mpm
-- structure-tensor
-- secator
-- orb-billing
-- increase
-- fastchat-mcp
-- synqly
-- llm-goose
-- api-foundry-query-engine
-- win-can-tool
-- fabi-demo
-- cryptnox-sdk-py
-- amplpy
-- botoease
-- pclearnx
-- agent-farm
-- ursa-ai
-- ennbo
-- missingTvShows
-- patkit
-- n8ntools
-- mcp-b
-- python-ta
-- finch-api
-- scrall
-- elsciRL
-- composennent
-- plex-letterboxd
-- mcp-memory-service
-- wisent

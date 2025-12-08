@@ -1,0 +1,11 @@
+{
+  "name": "sqlobject",
+  "version": "3.13.1",
+  "summary": "Object-Relational Manager, aka database wrapper",
+  "author": "Ian Bicking",
+  "license": "LGPL",
+  "home_page": "http://sqlobject.org/",
+  "download_filename": "sqlobject-3.13.1.tar.gz",
+  "download_time": "2025-12-08T19:27:57.287010",
+  "package_url": "https://pypi.org/project/sqlobject/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-b",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "summary": "MCP-B (Master Client Bridge) - Connects everything, brings data flow together. Protocol with AMUM-QCI-ETHIC Module",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_b-0.1.3.tar.gz",
-  "download_time": "2025-12-08T18:47:05.584816",
+  "download_filename": "mcp_b-0.2.0.tar.gz",
+  "download_time": "2025-12-08T19:28:08.877175",
   "package_url": "https://pypi.org/project/mcp-b/"
 }

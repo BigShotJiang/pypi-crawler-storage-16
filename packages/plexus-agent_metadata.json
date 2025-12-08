@@ -1,0 +1,11 @@
+{
+  "name": "plexus-agent",
+  "version": "0.1.0",
+  "summary": "Send sensor data to Plexus in one line of code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plexus_agent-0.1.0.tar.gz",
+  "download_time": "2025-12-08T19:28:03.082384",
+  "package_url": "https://pypi.org/project/plexus-agent/"
+}

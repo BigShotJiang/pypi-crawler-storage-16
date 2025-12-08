@@ -1,0 +1,11 @@
+{
+  "name": "h5coro",
+  "version": "1.0.3",
+  "summary": "Python package for reading HDF5 data from S3",
+  "author": "SlideRule Developers",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/SlideRuleEarth/h5coro/",
+  "download_filename": "h5coro-1.0.3.tar.gz",
+  "download_time": "2025-12-08T19:27:55.702657",
+  "package_url": "https://pypi.org/project/h5coro/"
+}

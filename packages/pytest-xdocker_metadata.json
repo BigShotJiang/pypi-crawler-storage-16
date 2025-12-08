@@ -1,0 +1,11 @@
+{
+  "name": "pytest-xdocker",
+  "version": "0.2.7",
+  "summary": "Pytest fixture to run docker across test runs.",
+  "author": "Marc Tardif",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_xdocker-0.2.7.tar.gz",
+  "download_time": "2025-12-08T19:28:15.144869",
+  "package_url": "https://pypi.org/project/pytest-xdocker/"
+}

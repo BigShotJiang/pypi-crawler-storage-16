@@ -1,11 +1,11 @@
 {
   "name": "plex-letterboxd",
-  "version": "0.4",
+  "version": "0.5",
   "summary": "Export Plex watch history to Letterboxd-compatible CSV format",
   "author": "Wyatt Brege",
   "license": null,
   "home_page": null,
-  "download_filename": "plex_letterboxd-0.4.tar.gz",
-  "download_time": "2025-12-08T18:47:08.702093",
+  "download_filename": "plex_letterboxd-0.5.tar.gz",
+  "download_time": "2025-12-08T19:28:12.532403",
   "package_url": "https://pypi.org/project/plex-letterboxd/"
 }

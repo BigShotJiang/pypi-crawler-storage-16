@@ -1,0 +1,138 @@
+name: PyPI Package Crawler
+on:
+  # 定时运行：每小时运行一次
+  schedule:
+    - cron: '*/15 * * * *'
+  
+  # 手动触发
+  workflow_dispatch:
+    inputs:
+      max_packages:
+        description: '最大下载包数量'
+        required: false
+        default: '100'
+        type: string
+      max_size_mb:
+        description: '单个包最大大小(MB)'
+        required: false
+        default: '10'
+        type: string
+      specific_packages:
+        description: '指定包列表（逗号分隔，可选）'
+        required: false
+        default: ''
+        type: string
+  
+  # Push事件触发（仅当推送到main分支且包含特定文件时）
+  push:
+    branches: [ main ]
+    paths:
+      - 'pypi_crawler.py'
+      - '.github/workflows/pypi-crawler.yml'
+
+jobs:
+  crawl-packages:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # 需要写权限来提交文件
+      
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+    
+    - name: Configure Git
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+    
+    - name: Create packages directory
+      run: |
+        mkdir -p packages
+    
+    - name: Run PyPI Crawler
+      env:
+        MAX_PACKAGES: ${{ github.event.inputs.max_packages || '100' }}
+        MAX_SIZE_MB: ${{ github.event.inputs.max_size_mb || '10' }}
+        SPECIFIC_PACKAGES: ${{ github.event.inputs.specific_packages }}
+        GITHUB_ACTIONS: 'true'
+      run: |
+        python pypi_crawler.py
+    
+    - name: Check for changes
+      id: git-check
+      run: |
+        git add packages/
+        if git diff --staged --quiet; then
+          echo "changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "changes=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push changes
+      if: steps.git-check.outputs.changes == 'true'
+      run: |
+        git commit -m "🤖 Auto-update PyPI packages - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
+    
+    - name: Upload artifacts
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: pypi-packages-${{ github.run_number }}
+        path: packages/
+        retention-days: 30
+    
+    - name: Generate summary
+      if: always()
+      run: |
+        echo "## PyPI Crawler Results 📦" >> $GITHUB_STEP_SUMMARY
+        if [ -f packages/download_report.json ]; then
+          echo "### Download Summary" >> $GITHUB_STEP_SUMMARY
+          python -c "
+        import json
+        with open('packages/download_report.json', 'r') as f:
+            report = json.load(f)
+        print(f'- **Total Packages Downloaded**: {report[\"total_packages_downloaded\"]}')
+        print(f'- **Total Size**: {report[\"total_size_mb\"]} MB')
+        print(f'- **Download Time**: {report[\"download_time\"]}')
+        if report['packages']:
+            print('')
+            print('### Downloaded Packages')
+            for pkg in report['packages']:
+                print(f'- {pkg}')
+        " >> $GITHUB_STEP_SUMMARY
+        else
+          echo "❌ No packages were downloaded" >> $GITHUB_STEP_SUMMARY
+        fi
+    
+    - name: Create Release (Optional)
+      if: steps.git-check.outputs.changes == 'true'
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: packages-${{ github.run_number }}
+        release_name: PyPI Packages ${{ github.run_number }}
+        body: |
+          Automated PyPI package collection
+          
+          Run: ${{ github.run_number }}
+          Date: ${{ github.event.head_commit.timestamp }}
+          
+          Check the `packages/` directory for downloaded files.
+        draft: false
+        prerelease: false

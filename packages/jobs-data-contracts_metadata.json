@@ -1,0 +1,11 @@
+{
+  "name": "jobs-data-contracts",
+  "version": "1.0.0",
+  "summary": "Canonical data contracts and schemas for the CS Jobs Board solution - Python Pydantic models",
+  "author": "CS Jobs Board Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jobs_data_contracts-1.0.0.tar.gz",
+  "download_time": "2025-12-09T14:56:42.345476",
+  "package_url": "https://pypi.org/project/jobs-data-contracts/"
+}

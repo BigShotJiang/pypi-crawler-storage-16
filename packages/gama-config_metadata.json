@@ -1,0 +1,11 @@
+{
+  "name": "gama-config",
+  "version": "5.0.0",
+  "summary": "A library for reading / writing GAMA config files",
+  "author": "Greenroom Robotics",
+  "license": "Copyright (C) 2023, Greenroom Robotics",
+  "home_page": "https://github.com/Greenroom-Robotics/gama",
+  "download_filename": "gama_config-5.0.0.tar.gz",
+  "download_time": "2025-12-09T14:56:43.880949",
+  "package_url": "https://pypi.org/project/gama-config/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "spyeeg",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Package for modelling electrophysiological responses to stimuli",
   "author": null,
   "license": "BSD 3",
   "home_page": null,
-  "download_filename": "spyeeg-0.2.3.tar.gz",
-  "download_time": "2025-12-09T14:42:39.235569",
+  "download_filename": "spyeeg-0.2.4.tar.gz",
+  "download_time": "2025-12-09T14:56:20.603572",
   "package_url": "https://pypi.org/project/spyeeg/"
 }

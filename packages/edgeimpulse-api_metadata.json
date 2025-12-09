@@ -1,0 +1,11 @@
+{
+  "name": "edgeimpulse-api",
+  "version": "1.80.5",
+  "summary": "Python bindings for the Edge Impulse API.",
+  "author": "EdgeImpulse Inc.",
+  "license": "BSD-3-Clause-Clear",
+  "home_page": "https://edgeimpulse.com",
+  "download_filename": "edgeimpulse_api-1.80.5.tar.gz",
+  "download_time": "2025-12-09T14:56:34.097443",
+  "package_url": "https://pypi.org/project/edgeimpulse-api/"
+}

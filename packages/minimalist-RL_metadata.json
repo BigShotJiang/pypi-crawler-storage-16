@@ -1,0 +1,11 @@
+{
+  "name": "minimalist-RL",
+  "version": "0.0.5",
+  "summary": "Minimalist & Decoupled Reinforcement Learning.",
+  "author": "Ricky Ding",
+  "license": "MIT",
+  "home_page": "https://github.com/SerenaTradingResearch/minimalist-RL",
+  "download_filename": "minimalist_rl-0.0.5.tar.gz",
+  "download_time": "2025-12-09T14:56:55.254424",
+  "package_url": "https://pypi.org/project/minimalist-RL/"
+}

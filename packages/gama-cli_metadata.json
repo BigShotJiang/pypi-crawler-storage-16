@@ -1,0 +1,11 @@
+{
+  "name": "gama-cli",
+  "version": "5.0.0",
+  "summary": "A CLI for interacting with the GAMA platform",
+  "author": "Greenroom Robotics",
+  "license": "Copyright (C) 2023, Greenroom Robotics",
+  "home_page": "https://github.com/Greenroom-Robotics/gama",
+  "download_filename": "gama_cli-5.0.0.tar.gz",
+  "download_time": "2025-12-09T14:56:42.858086",
+  "package_url": "https://pypi.org/project/gama-cli/"
+}

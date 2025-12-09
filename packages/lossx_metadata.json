@@ -1,0 +1,11 @@
+{
+  "name": "lossx",
+  "version": "0.0",
+  "summary": "LossX: A JAX loss function library with config-based construction.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lossx-0.0.tar.gz",
+  "download_time": "2025-12-09T14:56:29.460090",
+  "package_url": "https://pypi.org/project/lossx/"
+}

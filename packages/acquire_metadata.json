@@ -1,0 +1,11 @@
+{
+  "name": "acquire",
+  "version": "3.21",
+  "summary": "A tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acquire-3.21.tar.gz",
+  "download_time": "2025-12-09T14:56:24.267759",
+  "package_url": "https://pypi.org/project/acquire/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mpremote",
+  "version": "1.27.0",
+  "summary": "Tool for interacting remotely with MicroPython devices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mpremote-1.27.0.tar.gz",
+  "download_time": "2025-12-09T14:56:31.515552",
+  "package_url": "https://pypi.org/project/mpremote/"
+}

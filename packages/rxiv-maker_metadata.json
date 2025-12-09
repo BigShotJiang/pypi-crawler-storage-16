@@ -1,0 +1,11 @@
+{
+  "name": "rxiv-maker",
+  "version": "1.15.1",
+  "summary": "Write scientific preprints in Markdown. Generate publication-ready PDFs efficiently.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rxiv_maker-1.15.1.tar.gz",
+  "download_time": "2025-12-09T14:56:37.718307",
+  "package_url": "https://pypi.org/project/rxiv-maker/"
+}

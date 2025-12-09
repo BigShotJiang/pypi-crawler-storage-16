@@ -1,0 +1,11 @@
+{
+  "name": "apb-cx-oracle-spatial",
+  "version": "1.1.0",
+  "summary": "cx_Oracle with spatial capabilities (SDO_GEOM and OGC)",
+  "author": "Ernesto Arredondo Martínez",
+  "license": null,
+  "home_page": "https://github.com/portdebarcelona/PLANOL-generic_python_packages/tree/master/apb_cx_oracle_spatial_pckg",
+  "download_filename": "apb_cx_oracle_spatial-1.1.0.tar.gz",
+  "download_time": "2025-12-09T14:57:00.410899",
+  "package_url": "https://pypi.org/project/apb-cx-oracle-spatial/"
+}

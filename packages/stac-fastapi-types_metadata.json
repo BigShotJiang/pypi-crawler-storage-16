@@ -1,0 +1,11 @@
+{
+  "name": "stac-fastapi-types",
+  "version": "6.1.3",
+  "summary": "Core API for stac-fastapi modules.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stac_fastapi_types-6.1.3.tar.gz",
+  "download_time": "2025-12-09T15:52:52.255305",
+  "package_url": "https://pypi.org/project/stac-fastapi-types/"
+}

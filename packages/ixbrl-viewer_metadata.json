@@ -1,0 +1,11 @@
+{
+  "name": "ixbrl-viewer",
+  "version": "1.4.82",
+  "summary": "The Arelle iXBRL Viewer allows iXBRL reports to be viewed interactively in a web browser.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ixbrl_viewer-1.4.82.tar.gz",
+  "download_time": "2025-12-09T15:52:38.080889",
+  "package_url": "https://pypi.org/project/ixbrl-viewer/"
+}

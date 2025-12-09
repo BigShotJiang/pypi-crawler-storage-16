@@ -1,0 +1,11 @@
+{
+  "name": "ecquote",
+  "version": "2.0.0",
+  "summary": "A package to estimate the cost and volume of an ECMWF dissemination feed",
+  "author": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
+  "license": "Apache License Version 2.0",
+  "home_page": "https://github.com/ecmwf/ecquote",
+  "download_filename": "ecquote-2.0.0.tar.gz",
+  "download_time": "2025-12-09T15:52:42.289139",
+  "package_url": "https://pypi.org/project/ecquote/"
+}

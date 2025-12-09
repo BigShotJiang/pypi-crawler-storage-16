@@ -1,0 +1,11 @@
+{
+  "name": "semantic-api",
+  "version": "0.0.33",
+  "summary": "A simple python API for creating, inserting, querying, and processing semantic data. This requires semantic services that are not included here",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "semantic_api-0.0.33.tar.gz",
+  "download_time": "2025-12-09T15:52:27.533290",
+  "package_url": "https://pypi.org/project/semantic-api/"
+}

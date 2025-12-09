@@ -1,0 +1,11 @@
+{
+  "name": "databricks-aws-utils",
+  "version": "1.6.0",
+  "summary": "Databricks AWS Utils",
+  "author": "Lucas Vieira",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "databricks_aws_utils-1.6.0.tar.gz",
+  "download_time": "2025-12-09T15:52:37.555149",
+  "package_url": "https://pypi.org/project/databricks-aws-utils/"
+}

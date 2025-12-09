@@ -1,0 +1,11 @@
+{
+  "name": "techkit",
+  "version": "1.2.7",
+  "summary": "High-performance technical analysis library with 153 indicators, 100% TA-Lib compatible",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "techkit-1.2.7.tar.gz",
+  "download_time": "2025-12-09T15:52:46.993418",
+  "package_url": "https://pypi.org/project/techkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytket-braket",
+  "version": "0.45.0",
+  "summary": "Extension for pytket, providing access to Amazon Braket backends",
+  "author": "TKET development team",
+  "license": "Apache 2",
+  "home_page": null,
+  "download_filename": "pytket_braket-0.45.0-py3-none-any.whl",
+  "download_time": "2025-12-09T15:52:48.585838",
+  "package_url": "https://pypi.org/project/pytket-braket/"
+}

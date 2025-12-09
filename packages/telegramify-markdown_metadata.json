@@ -1,0 +1,11 @@
+{
+  "name": "telegramify-markdown",
+  "version": "0.5.3",
+  "summary": "Makes it easy to send Markdown in Telegram MarkdownV2 style",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "telegramify_markdown-0.5.3.tar.gz",
+  "download_time": "2025-12-09T15:52:40.203411",
+  "package_url": "https://pypi.org/project/telegramify-markdown/"
+}

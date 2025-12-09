@@ -1,0 +1,11 @@
+{
+  "name": "pyvckit",
+  "version": "0.0.18",
+  "summary": "signature and validation of verifiable credential and verifiable presentation",
+  "author": "eReuse.org team",
+  "license": null,
+  "home_page": "https://farga.pangea.org/ereuse/pyvckit",
+  "download_filename": "pyvckit-0.0.18.tar.gz",
+  "download_time": "2025-12-09T15:52:27.011781",
+  "package_url": "https://pypi.org/project/pyvckit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-move-post-date-user",
+  "version": "19.0.1.0.0.2",
+  "summary": "Trace journal entry posting date and user.",
+  "author": "ForgeFlow S.L., Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/account-financial-tools",
+  "download_filename": "odoo_addon_account_move_post_date_user-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-09T15:52:26.492665",
+  "package_url": "https://pypi.org/project/odoo-addon-account-move-post-date-user/"
+}

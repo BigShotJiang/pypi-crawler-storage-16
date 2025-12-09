@@ -1,0 +1,11 @@
+{
+  "name": "lazyqsar",
+  "version": "2.1.4",
+  "summary": "A library to quickly build QSAR models",
+  "author": "Ersilia Open Source Initiative",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "lazyqsar-2.1.4.tar.gz",
+  "download_time": "2025-12-09T15:52:43.844064",
+  "package_url": "https://pypi.org/project/lazyqsar/"
+}

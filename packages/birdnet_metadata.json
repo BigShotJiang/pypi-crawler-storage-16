@@ -1,0 +1,11 @@
+{
+  "name": "birdnet",
+  "version": "0.2.11",
+  "summary": "A Python library for identifying bird species by their sounds.",
+  "author": "Stefan Taubert",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "birdnet-0.2.11-py3-none-any.whl",
+  "download_time": "2025-12-09T15:52:58.988422",
+  "package_url": "https://pypi.org/project/birdnet/"
+}

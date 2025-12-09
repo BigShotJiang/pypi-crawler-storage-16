@@ -1,11 +1,11 @@
 {
   "name": "shareddata",
-  "version": "6.55.0",
+  "version": "6.55.2",
   "summary": "Memory Mapped / Shared Memory Database with S3 repository",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shareddata-6.55.0-py3-none-any.whl",
-  "download_time": "2025-12-09T15:42:44.732239",
+  "download_filename": "shareddata-6.55.2-py3-none-any.whl",
+  "download_time": "2025-12-09T15:52:49.638813",
   "package_url": "https://pypi.org/project/shareddata/"
 }

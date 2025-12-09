@@ -1,0 +1,11 @@
+{
+  "name": "kagent-crewai",
+  "version": "0.7.6",
+  "summary": "CrewAI integration for KAgent with A2A server support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kagent_crewai-0.7.6.tar.gz",
+  "download_time": "2025-12-09T15:52:39.668917",
+  "package_url": "https://pypi.org/project/kagent-crewai/"
+}

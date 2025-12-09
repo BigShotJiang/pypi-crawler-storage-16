@@ -1,0 +1,11 @@
+{
+  "name": "plonemeeting.portal.core",
+  "version": "2.3.0",
+  "summary": "Plonemeeting decisions publication portal",
+  "author": "Laurent Lasudry",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/plonemeeting.portal.core",
+  "download_filename": "plonemeeting_portal_core-2.3.0.tar.gz",
+  "download_time": "2025-12-09T15:52:50.697300",
+  "package_url": "https://pypi.org/project/plonemeeting.portal.core/"
+}

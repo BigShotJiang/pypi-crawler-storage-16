@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-stock-picking-actual-date-show-currency-rate",
+  "version": "16.0.1.0.0.2",
+  "summary": "Purchase Stock Picking Actual Date Show Currency Rate",
+  "author": "Quartile, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_stock_picking_actual_date_show_currency_rate-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-09T10:47:05.424493",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-stock-picking-actual-date-show-currency-rate/"
+}

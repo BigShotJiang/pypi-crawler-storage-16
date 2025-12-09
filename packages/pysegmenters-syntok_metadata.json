@@ -1,0 +1,11 @@
+{
+  "name": "pysegmenters-syntok",
+  "version": "0.5.2",
+  "summary": "syntok segmenter",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://github.com/oterrier/pysegmenters_syntok/",
+  "download_filename": "pysegmenters_syntok-0.5.2.tar.gz",
+  "download_time": "2025-12-09T10:46:46.011487",
+  "package_url": "https://pypi.org/project/pysegmenters-syntok/"
+}

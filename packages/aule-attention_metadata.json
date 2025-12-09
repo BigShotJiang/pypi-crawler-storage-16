@@ -1,0 +1,11 @@
+{
+  "name": "aule-attention",
+  "version": "0.3.1",
+  "summary": "FlashAttention that just works. No compilation. Any GPU. AMD ROCm, NVIDIA CUDA, Intel, Apple via Vulkan.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aule_attention-0.3.1-py3-none-any.whl",
+  "download_time": "2025-12-09T10:46:45.491643",
+  "package_url": "https://pypi.org/project/aule-attention/"
+}

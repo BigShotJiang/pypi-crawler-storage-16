@@ -1,0 +1,11 @@
+{
+  "name": "grammarian",
+  "version": "0.2.1",
+  "summary": "An easy and fast tool to check english grammar",
+  "author": "StanisławKulesza",
+  "license": "MIT",
+  "home_page": "https://github.com/hiko667/grammarian-grammar-checker-package",
+  "download_filename": "grammarian-0.2.1.tar.gz",
+  "download_time": "2025-12-09T10:46:35.280859",
+  "package_url": "https://pypi.org/project/grammarian/"
+}

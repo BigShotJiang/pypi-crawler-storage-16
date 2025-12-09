@@ -1,0 +1,11 @@
+{
+  "name": "logsteplib",
+  "version": "0.0.22",
+  "summary": "A library providing a standardised format for logging.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logsteplib-0.0.22.tar.gz",
+  "download_time": "2025-12-09T10:47:13.640578",
+  "package_url": "https://pypi.org/project/logsteplib/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vega-framework",
-  "version": "0.3.22",
+  "version": "0.3.23",
   "summary": "Enterprise-ready Python framework with Domain-Driven Design (DDD), CQRS, and Clean Architecture for building maintainable and scalable applications.",
   "author": "Roberto Ferro",
   "license": "MIT",
   "home_page": "https://github.com/RobyFerro/vega-framework",
-  "download_filename": "vega_framework-0.3.22.tar.gz",
-  "download_time": "2025-12-09T06:21:08.325980",
+  "download_filename": "vega_framework-0.3.23.tar.gz",
+  "download_time": "2025-12-09T10:47:10.227578",
   "package_url": "https://pypi.org/project/vega-framework/"
 }

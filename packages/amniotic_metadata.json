@@ -1,0 +1,11 @@
+{
+  "name": "amniotic",
+  "version": "1.1.4",
+  "summary": "A multi-output ambient sound mixer for Home Assistant",
+  "author": "Frontmatter",
+  "license": "Copyright © 2025 Frontmatter. All rights reserved.",
+  "home_page": "https://github.com/None/amniotic",
+  "download_filename": "amniotic-1.1.4.tar.gz",
+  "download_time": "2025-12-09T10:46:53.101750",
+  "package_url": "https://pypi.org/project/amniotic/"
+}

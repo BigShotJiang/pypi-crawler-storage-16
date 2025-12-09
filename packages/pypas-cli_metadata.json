@@ -1,11 +1,11 @@
 {
   "name": "pypas-cli",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Python Practical Assignments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypas_cli-0.3.1.tar.gz",
-  "download_time": "2025-12-08T20:14:45.816249",
+  "download_filename": "pypas_cli-0.4.0.tar.gz",
+  "download_time": "2025-12-09T10:46:26.888447",
   "package_url": "https://pypi.org/project/pypas-cli/"
 }

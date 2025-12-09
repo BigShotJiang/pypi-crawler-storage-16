@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-faseeh",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "LiveKit Agents plugin for Arabic text-to-speech with Faseeh AI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_faseeh-0.1.0.tar.gz",
-  "download_time": "2025-12-09T09:54:16.256698",
+  "download_filename": "livekit_plugins_faseeh-0.1.2.tar.gz",
+  "download_time": "2025-12-09T10:46:25.197289",
   "package_url": "https://pypi.org/project/livekit-plugins-faseeh/"
 }

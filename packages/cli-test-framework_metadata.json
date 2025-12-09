@@ -1,0 +1,11 @@
+{
+  "name": "cli-test-framework",
+  "version": "0.4.0",
+  "summary": "A powerful command line testing framework in Python with setup modules, parallel execution, and file comparison capabilities.",
+  "author": "Xiaotong Wang",
+  "license": null,
+  "home_page": "https://github.com/ozil111/cli-test-framework",
+  "download_filename": "cli_test_framework-0.4.0.tar.gz",
+  "download_time": "2025-12-09T10:46:50.972904",
+  "package_url": "https://pypi.org/project/cli-test-framework/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dummynet",
+  "version": "10.0.0",
+  "summary": "A tool for creating dummy networks using network namespaces.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dummynet-10.0.0-py3-none-any.whl",
+  "download_time": "2025-12-09T10:46:44.446348",
+  "package_url": "https://pypi.org/project/dummynet/"
+}

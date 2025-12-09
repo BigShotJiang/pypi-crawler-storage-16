@@ -1,0 +1,11 @@
+{
+  "name": "check-netscaler",
+  "version": "2.2.0",
+  "summary": "Nagios/Icinga monitoring plugin for Citrix NetScaler ADC using NITRO REST API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "check_netscaler-2.2.0.tar.gz",
+  "download_time": "2025-12-09T10:46:40.626454",
+  "package_url": "https://pypi.org/project/check-netscaler/"
+}

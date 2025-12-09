@@ -1,0 +1,11 @@
+{
+  "name": "CuBATS",
+  "version": "1.0.0",
+  "summary": "Computer vision-Based Antigen Target Selector",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cubats-1.0.0.tar.gz",
+  "download_time": "2025-12-09T10:46:42.844831",
+  "package_url": "https://pypi.org/project/CuBATS/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rotate-volume",
+  "version": "0.0.0",
+  "summary": "An efficient volume rotation algorithm based on Cupy.",
+  "author": "GGN_2015",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rotate_volume-0.0.0.tar.gz",
+  "download_time": "2025-12-09T10:46:53.623891",
+  "package_url": "https://pypi.org/project/rotate-volume/"
+}

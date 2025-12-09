@@ -1,0 +1,11 @@
+{
+  "name": "mcpcn-image-super-resolution",
+  "version": "0.1.1",
+  "summary": "MCP服务器：图像超分辨率工具，提供AI图像放大和清晰度增强功能",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpcn_image_super_resolution-0.1.1.tar.gz",
+  "download_time": "2025-12-09T10:46:52.058590",
+  "package_url": "https://pypi.org/project/mcpcn-image-super-resolution/"
+}

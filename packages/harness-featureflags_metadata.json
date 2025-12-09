@@ -1,0 +1,11 @@
+{
+  "name": "harness-featureflags",
+  "version": "1.7.3",
+  "summary": "Feature flag server SDK for python",
+  "author": "Harness",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/harness/ff-python-server-sdk",
+  "download_filename": "harness_featureflags-1.7.3.tar.gz",
+  "download_time": "2025-12-09T10:47:00.643356",
+  "package_url": "https://pypi.org/project/harness-featureflags/"
+}

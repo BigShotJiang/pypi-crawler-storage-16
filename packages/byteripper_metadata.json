@@ -1,0 +1,11 @@
+{
+  "name": "byteripper",
+  "version": "1.0.0",
+  "summary": "python bytecode decompiler - convert pyc to py",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "byteripper-1.0.0.tar.gz",
+  "download_time": "2025-12-09T10:47:03.316435",
+  "package_url": "https://pypi.org/project/byteripper/"
+}

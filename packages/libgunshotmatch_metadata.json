@@ -1,0 +1,11 @@
+{
+  "name": "libgunshotmatch",
+  "version": "0.13.1",
+  "summary": "Base library for GunShotMatch.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/GunShotMatch/libgunshotmatch",
+  "download_filename": "libgunshotmatch-0.13.1.tar.gz",
+  "download_time": "2025-12-09T21:12:15.002857",
+  "package_url": "https://pypi.org/project/libgunshotmatch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "maya4",
+  "version": "0.1.1",
+  "summary": "SAR data processing and focusing utilities with dataloader for Sentinel-1 products",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "maya4-0.1.1.tar.gz",
+  "download_time": "2025-12-09T21:12:18.081901",
+  "package_url": "https://pypi.org/project/maya4/"
+}

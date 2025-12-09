@@ -1,11 +1,11 @@
 {
   "name": "opentrons-shared-data",
-  "version": "8.7.0",
+  "version": "8.8.0",
   "summary": "A bundle of data and python binding that supports the Opentrons API.Does not need to be installed manually; only a dependency of the opentrons package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opentrons_shared_data-8.7.0.tar.gz",
-  "download_time": "2025-12-08T19:48:10.256489",
+  "download_filename": "opentrons_shared_data-8.8.0.tar.gz",
+  "download_time": "2025-12-09T21:12:22.071111",
   "package_url": "https://pypi.org/project/opentrons-shared-data/"
 }

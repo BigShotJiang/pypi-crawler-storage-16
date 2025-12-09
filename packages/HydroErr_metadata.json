@@ -1,0 +1,11 @@
+{
+  "name": "HydroErr",
+  "version": "2.0.0",
+  "summary": "Goodness of fit metrics for use in comparison studies, specifically for use in the field of hydrology",
+  "author": "Wade Roberts, Gustavious Williams",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hydroerr-2.0.0.tar.gz",
+  "download_time": "2025-12-09T21:12:12.187854",
+  "package_url": "https://pypi.org/project/HydroErr/"
+}

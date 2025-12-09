@@ -1,0 +1,11 @@
+{
+  "name": "pyvips",
+  "version": "3.1.1",
+  "summary": "binding for the libvips image processing library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyvips-3.1.1.tar.gz",
+  "download_time": "2025-12-09T21:12:13.821772",
+  "package_url": "https://pypi.org/project/pyvips/"
+}

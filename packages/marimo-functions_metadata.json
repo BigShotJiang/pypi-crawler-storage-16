@@ -1,0 +1,11 @@
+{
+  "name": "marimo-functions",
+  "version": "0.3.0",
+  "summary": "Flexible interface for defining functions with marimo UI inputs ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "marimo_functions-0.3.0.tar.gz",
+  "download_time": "2025-12-09T21:12:08.127015",
+  "package_url": "https://pypi.org/project/marimo-functions/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "auto-selfcal",
+  "version": "2.0",
+  "summary": "Automated self-calibration of interferometric data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "auto_selfcal-2.0.tar.gz",
+  "download_time": "2025-12-09T21:12:21.468923",
+  "package_url": "https://pypi.org/project/auto-selfcal/"
+}

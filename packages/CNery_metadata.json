@@ -1,0 +1,11 @@
+{
+  "name": "CNery",
+  "version": "1.0.1",
+  "summary": "An extension of breseq to determine copy number variations from coverage data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cnery-1.0.1.tar.gz",
+  "download_time": "2025-12-09T21:12:15.586697",
+  "package_url": "https://pypi.org/project/CNery/"
+}

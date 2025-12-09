@@ -1,0 +1,11 @@
+{
+  "name": "ca-cdk8s-constructs",
+  "version": "4.0.4",
+  "summary": "A collection of cdk8s constructs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ca_cdk8s_constructs-4.0.4.tar.gz",
+  "download_time": "2025-12-09T11:48:13.947372",
+  "package_url": "https://pypi.org/project/ca-cdk8s-constructs/"
+}

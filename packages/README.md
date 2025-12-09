@@ -1,18 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-09T11:31:16.604978
+- **Download Time**: 2025-12-09T11:48:58.663465
 - **Total Packages**: 85
-- **Total Size**: 24.53 MB
+- **Total Size**: 10.77 MB
 
 ## Packages List
+- coolprompt
+- waymap
+- svr-tts
+- ca-cdk8s-constructs
+- odoo-addon-stock-picking-batch-packaging-qty
+- NeuralEngine
+- claude-kb
+- client_api_tradion
+- pydaffodil
+- Team-19-Custom-Utils-Lib
+- mseep-graph-code
+- flowhive-agent
+- kafka_republisher
+- catsu
+- docrag-kit
+- glaip-sdk
+- invenio-records-ui
+- beacon-api
+- orcakit-cli
+- orcaagent-cli
+- odoo-addon-sale-order-line-product-attribute-values
+- win32more-Microsoft.Web.WebView2
+- certbot-dns-contabo-api
+- eflips-opt
+- centra-sdk
+- dataquery-sdk
+- power-grid-model
+- amplify-excel-migrator
+- dls-dodal
+- alasco-formulas
+- supertonic-mnn
+- agentbill-py-crewai
+- agentbill-py-langchain
+- agentbill-py-sdk
+- pydpm_xl
+- cleanops
+- odoo-addon-purchase-delivery-split-date
+- tencent-wedata-auto-ml
+- ali-ops
+- microbots
+- amniotic
+- universal-sandbox
+- OrcFxAPI
+- trackle-ml
+- flame-hub-client
+- funx
+- aiqtoolkit-llama-index
+- recharge-api
+- cg
+- lexsiai
 - rohmu
 - torchx-nightly
 - xyra-whatsapp
 - bitquery-pb2-kafka-package
 - kevin-dl
 - well-log-toolkit
-- amniotic
 - pysdic
 - torchft-nightly
 - django-activity-tracking
@@ -42,52 +91,3 @@
 - odoo-addon-edi-storage-oca
 - pyprocessors-chunk_sentences
 - yta-video-pyav
-- mkdocs-materialx
-- Team-19-Custom-Utils-Lib
-- glviskit
-- tf-keras-nightly
-- utg-base
-- parzzley
-- mici
-- aiqtoolkit-test
-- pyone
-- mezon-sdk
-- promethium-seismic
-- cleanops
-- agentbill-py-crewai
-- arraypartition
-- agentbill-py-langchain
-- agentbill-py-sdk
-- arthur-client
-- htmlgen-mcp
-- orcakit-cli
-- orcaagent-cli
-- uipath-langchain
-- aimemory-client
-- tala
-- policyengine-api-simulation-client
-- vibego
-- policyengine-api-full-client
-- cmstp
-- openmeter
-- trackle-ml
-- stouputils
-- pytest-flakefighters
-- biosimulators-amici
-- simplepy
-- invenio-records-resources
-- ssb-nudb-config
-- splineops
-- trinity-connect-client
-- scc-firewall-manager-sdk
-- port-ocean
-- recharge-api
-- liblaf-peach
-- sdn-vehicle-test
-- pybiginteger-stubs
-- sdn-test-simple-car-repository
-- pybiginteger
-- sdn-test-simple-car
-- LHCbDIRAC
-- opperai
-- IservETLLib

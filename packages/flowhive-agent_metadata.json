@@ -1,0 +1,11 @@
+{
+  "name": "flowhive-agent",
+  "version": "0.2.0",
+  "summary": "FlowHive User Server Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flowhive_agent-0.2.0.tar.gz",
+  "download_time": "2025-12-09T11:48:18.098432",
+  "package_url": "https://pypi.org/project/flowhive-agent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "trackle-ml",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Local-first, git-aware ML experiment tracking.",
   "author": "Trackle Developers",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "trackle_ml-0.1.1.tar.gz",
-  "download_time": "2025-12-09T11:12:45.605058",
+  "download_filename": "trackle_ml-0.1.2.tar.gz",
+  "download_time": "2025-12-09T11:48:36.581834",
   "package_url": "https://pypi.org/project/trackle-ml/"
 }

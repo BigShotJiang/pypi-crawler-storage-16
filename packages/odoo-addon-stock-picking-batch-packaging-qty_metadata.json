@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-picking-batch-packaging-qty",
+  "version": "18.0.1.0.1",
+  "summary": "Add packaging fields in stock picking batch",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-warehouse",
+  "download_filename": "odoo_addon_stock_picking_batch_packaging_qty-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-12-09T11:48:14.465883",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-picking-batch-packaging-qty/"
+}

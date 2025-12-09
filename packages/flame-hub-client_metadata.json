@@ -1,0 +1,11 @@
+{
+  "name": "flame-hub-client",
+  "version": "0.2.9",
+  "summary": "HTTP client for interacting with FLAME Hub services.",
+  "author": "Maximilian Jugl",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "flame_hub_client-0.2.9.tar.gz",
+  "download_time": "2025-12-09T11:48:37.100904",
+  "package_url": "https://pypi.org/project/flame-hub-client/"
+}

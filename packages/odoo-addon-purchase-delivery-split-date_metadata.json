@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-delivery-split-date",
+  "version": "18.0.2.0.2",
+  "summary": "Allows Purchase Order you confirm to generate one Incoming Shipment for each expected date indicated in the Purchase Order Lines",
+  "author": "Numerigraphe, ForgeFlow, Camptocamp, BCIM, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_delivery_split_date-18.0.2.0.2-py3-none-any.whl",
+  "download_time": "2025-12-09T11:48:32.945330",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-delivery-split-date/"
+}

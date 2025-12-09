@@ -1,11 +1,11 @@
 {
   "name": "rundeck-mcp",
-  "version": "0.1.6",
+  "version": "0.1.11",
   "summary": "Rundeck MCP Server - Model Context Protocol server for Rundeck job automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rundeck_mcp-0.1.6.tar.gz",
-  "download_time": "2025-12-09T18:17:39.152989",
+  "download_filename": "rundeck_mcp-0.1.11.tar.gz",
+  "download_time": "2025-12-09T18:49:56.793750",
   "package_url": "https://pypi.org/project/rundeck-mcp/"
 }

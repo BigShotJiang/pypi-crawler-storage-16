@@ -1,25 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-09T18:18:01.102562
-- **Total Packages**: 89
-- **Total Size**: 54.9 MB
+- **Download Time**: 2025-12-09T18:50:28.823431
+- **Total Packages**: 87
+- **Total Size**: 16.14 MB
 
 ## Packages List
-- malib
-- hindsight-all
-- hindsight-api
-- hindsight-client
-- pg-sui
-- ataraxis-communication-interface
-- rxiv-maker
-- nc1709
-- qsharp-widgets
-- qsharp-jupyterlab
-- omophub
-- qsharp
-- qdk
-- pygraphina
 - simeasren
 - eval-ai-library
 - crackerjack
@@ -47,6 +33,7 @@
 - myprintx
 - yahoo-finance-mcp-server
 - clippy-code
+- rxiv-maker
 - inatinqperf
 - rx-tool
 - litestar-vite
@@ -85,6 +72,7 @@
 - pyPRMS
 - plinkformatter
 - local-brain
+- nc1709
 - dremioframe
 - scenario-characterization
 - restate-sdk
@@ -95,3 +83,13 @@
 - scrall
 - dbt-mcp
 - cvkan
+- rust-sqlx-cli
+- eisp
+- pg-sui
+- lcra
+- canvas
+- exifplus
+- aind-mgi-service-async-client
+- aind-mgi-service-client
+- losant-rest
+- bqredis

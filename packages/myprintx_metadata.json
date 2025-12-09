@@ -1,11 +1,11 @@
 {
   "name": "myprintx",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "An enhanced print function supporting color and text styles.",
   "author": "Hualala",
   "license": "MIT",
   "home_page": "https://github.com/1061700625/myprintx",
-  "download_filename": "myprintx-1.0.4.tar.gz",
-  "download_time": "2025-12-09T18:17:33.889484",
+  "download_filename": "myprintx-1.0.5.tar.gz",
+  "download_time": "2025-12-09T18:49:50.061038",
   "package_url": "https://pypi.org/project/myprintx/"
 }

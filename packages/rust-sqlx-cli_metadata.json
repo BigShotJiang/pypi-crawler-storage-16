@@ -1,0 +1,11 @@
+{
+  "name": "rust-sqlx-cli",
+  "version": "0.8.6",
+  "summary": "Command-line utility for SQLx, the Rust SQL toolkit.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/launchbadge/sqlx",
+  "download_filename": "rust_sqlx_cli-0.8.6-py3-none-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-12-09T18:50:22.603592",
+  "package_url": "https://pypi.org/project/rust-sqlx-cli/"
+}

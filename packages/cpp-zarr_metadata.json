@@ -1,0 +1,11 @@
+{
+  "name": "cpp-zarr",
+  "version": "1.1.1",
+  "summary": "Python wrappers for cpp-zarr",
+  "author": "Matthew Mueller",
+  "license": null,
+  "home_page": "https://github.com/abcucberkeley/cpp-zarr",
+  "download_filename": "cpp_zarr-1.1.1-cp310-cp310-macosx_12_0_x86_64.whl",
+  "download_time": "2025-12-09T06:21:04.067922",
+  "package_url": "https://pypi.org/project/cpp-zarr/"
+}

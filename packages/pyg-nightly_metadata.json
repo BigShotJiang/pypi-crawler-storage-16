@@ -1,0 +1,11 @@
+{
+  "name": "pyg-nightly",
+  "version": "2.8.0.dev20251209",
+  "summary": "Graph Neural Network Library for PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyg_nightly-2.8.0.dev20251209.tar.gz",
+  "download_time": "2025-12-09T06:21:03.521518",
+  "package_url": "https://pypi.org/project/pyg-nightly/"
+}

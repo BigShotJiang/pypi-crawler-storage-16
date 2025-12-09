@@ -1,0 +1,11 @@
+{
+  "name": "openscvx",
+  "version": "0.3.0",
+  "summary": "A general Python-based successive convexification implementation which uses a JAX backend.",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "openscvx-0.3.0-py3-none-any.whl",
+  "download_time": "2025-12-09T06:21:21.400252",
+  "package_url": "https://pypi.org/project/openscvx/"
+}

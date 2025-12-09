@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-fastly",
+  "version": "11.2.0",
+  "summary": "A Pulumi package for creating and managing fastly cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_fastly-11.2.0.tar.gz",
+  "download_time": "2025-12-09T06:21:24.652662",
+  "package_url": "https://pypi.org/project/pulumi-fastly/"
+}

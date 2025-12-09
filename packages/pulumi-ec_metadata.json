@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-ec",
+  "version": "0.10.8",
+  "summary": "A Pulumi package for creating and managing ElasticCloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_ec-0.10.8.tar.gz",
+  "download_time": "2025-12-09T06:21:17.142136",
+  "package_url": "https://pypi.org/project/pulumi-ec/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "telegraph-api-py",
+  "version": "1.2.0",
+  "summary": "A complete Python wrapper for the Telegraph API",
+  "author": "Telegraph Python Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "telegraph_api_py-1.2.0.tar.gz",
+  "download_time": "2025-12-09T06:20:53.088226",
+  "package_url": "https://pypi.org/project/telegraph-api-py/"
+}

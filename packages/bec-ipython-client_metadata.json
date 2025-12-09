@@ -1,11 +1,11 @@
 {
   "name": "bec-ipython-client",
-  "version": "3.80.1",
+  "version": "3.81.0",
   "summary": "BEC IPython client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bec_ipython_client-3.80.1-py3-none-any.whl",
-  "download_time": "2025-12-08T20:14:31.849279",
+  "download_filename": "bec_ipython_client-3.81.0-py3-none-any.whl",
+  "download_time": "2025-12-09T06:21:14.399776",
   "package_url": "https://pypi.org/project/bec-ipython-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-http",
+  "version": "0.1.2",
+  "summary": "A Pulumi package for creating and managing HTTP cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_http-0.1.2.tar.gz",
+  "download_time": "2025-12-09T06:21:14.987474",
+  "package_url": "https://pypi.org/project/pulumi-http/"
+}

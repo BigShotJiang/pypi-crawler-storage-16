@@ -1,11 +1,11 @@
 {
   "name": "xyra-auth",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Termux Authentication System - Sistem Autentikasi dengan OTP Email",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xyra_auth-1.0.0.tar.gz",
-  "download_time": "2025-12-09T05:35:48.029754",
+  "download_filename": "xyra_auth-1.1.1.tar.gz",
+  "download_time": "2025-12-09T06:20:56.755394",
   "package_url": "https://pypi.org/project/xyra-auth/"
 }

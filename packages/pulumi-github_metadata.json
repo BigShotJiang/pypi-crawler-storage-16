@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-github",
+  "version": "6.9.1",
+  "summary": "A Pulumi package for creating and managing github cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_github-6.9.1.tar.gz",
+  "download_time": "2025-12-09T06:21:18.768756",
+  "package_url": "https://pypi.org/project/pulumi-github/"
+}

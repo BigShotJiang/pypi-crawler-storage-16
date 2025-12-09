@@ -1,11 +1,11 @@
 {
   "name": "dkist-processing-vbi",
-  "version": "1.25.5",
+  "version": "1.25.6",
   "summary": "Processing code for the VBI instrument on DKIST",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "dkist_processing_vbi-1.25.5.tar.gz",
-  "download_time": "2025-12-08T23:31:01.538430",
+  "download_filename": "dkist_processing_vbi-1.25.6.tar.gz",
+  "download_time": "2025-12-09T06:21:27.445626",
   "package_url": "https://pypi.org/project/dkist-processing-vbi/"
 }

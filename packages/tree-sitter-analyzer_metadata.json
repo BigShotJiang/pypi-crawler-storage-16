@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-analyzer",
+  "version": "1.9.18",
+  "summary": "AI-era enterprise-grade code analysis tool with comprehensive HTML/CSS support, dynamic plugin architecture, and MCP integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_analyzer-1.9.18.tar.gz",
+  "download_time": "2025-12-09T06:21:06.208930",
+  "package_url": "https://pypi.org/project/tree-sitter-analyzer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "modelon-impact-client",
+  "version": "4.10.3",
+  "summary": "Client library for easy scripting against Modelon Impact",
+  "author": "WEP",
+  "license": "BSD",
+  "home_page": "https://www.modelon.com/modelon-impact",
+  "download_filename": "modelon_impact_client-4.10.3.tar.gz",
+  "download_time": "2025-12-09T06:20:55.725824",
+  "package_url": "https://pypi.org/project/modelon-impact-client/"
+}

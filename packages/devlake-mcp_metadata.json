@@ -1,0 +1,11 @@
+{
+  "name": "devlake-mcp",
+  "version": "0.4.6",
+  "summary": "AI programming data collection tool - supports Hooks (Claude Code/Cursor) and MCP server modes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devlake_mcp-0.4.6.tar.gz",
+  "download_time": "2025-12-09T07:16:23.278499",
+  "package_url": "https://pypi.org/project/devlake-mcp/"
+}

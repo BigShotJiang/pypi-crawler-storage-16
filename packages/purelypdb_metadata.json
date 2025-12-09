@@ -1,0 +1,11 @@
+{
+  "name": "purelypdb",
+  "version": "1.0.0",
+  "summary": "Cross-platform Python parser for Microsoft PDB files with no external dependencies",
+  "author": "saileaxh",
+  "license": "GPL-2.0-only",
+  "home_page": null,
+  "download_filename": "purelypdb-1.0.0.tar.gz",
+  "download_time": "2025-12-09T07:16:15.367080",
+  "package_url": "https://pypi.org/project/purelypdb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "VegasAfterglow",
+  "version": "1.1.0",
+  "summary": "MCMC tools for astrophysics",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "vegasafterglow-1.1.0-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-12-09T07:16:21.507211",
+  "package_url": "https://pypi.org/project/VegasAfterglow/"
+}

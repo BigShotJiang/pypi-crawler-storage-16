@@ -1,0 +1,11 @@
+{
+  "name": "fastgx",
+  "version": "2.0.4",
+  "summary": "High-performance in-memory graph database",
+  "author": "BRAHMAI",
+  "license": null,
+  "home_page": "https://github.com/cognition-brahmai/fastgraph",
+  "download_filename": "fastgx-2.0.4.tar.gz",
+  "download_time": "2025-12-09T07:16:20.346943",
+  "package_url": "https://pypi.org/project/fastgx/"
+}

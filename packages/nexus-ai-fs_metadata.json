@@ -1,0 +1,11 @@
+{
+  "name": "nexus-ai-fs",
+  "version": "0.6.1",
+  "summary": "AI-Native Distributed Filesystem Architecture",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nexus_ai_fs-0.6.1.tar.gz",
+  "download_time": "2025-12-09T07:16:22.704637",
+  "package_url": "https://pypi.org/project/nexus-ai-fs/"
+}

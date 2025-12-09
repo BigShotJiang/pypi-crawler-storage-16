@@ -1,13 +1,8 @@
 {
-  "download_time": "2025-12-09T05:36:16.130421",
+  "download_time": "2025-12-09T05:51:39.863618",
   "total_packages_downloaded": 91,
-  "total_size_mb": 25.51,
+  "total_size_mb": 1.69,
   "packages": [
-    "pulumi-cloudngfwaws",
-    "dynafield",
-    "dgsettings",
-    "pulumi-cloudinit",
-    "shiba-sql-composer",
     "vnstock-mcp-server",
     "zipline-cli",
     "kinemotion",
@@ -93,6 +88,11 @@
     "dockai-cli",
     "spiritlong",
     "gecko-iot-client",
-    "pylon-cli"
+    "pylon-cli",
+    "toonstream",
+    "flowmachine",
+    "flowkit-jwt-generator",
+    "flowetl",
+    "flowclient"
   ]
 }

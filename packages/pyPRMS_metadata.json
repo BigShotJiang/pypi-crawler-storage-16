@@ -1,0 +1,11 @@
+{
+  "name": "pyPRMS",
+  "version": "0.9.8",
+  "summary": "Python library for Precipitation-Runoff Modeling System",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyprms-0.9.8.tar.gz",
+  "download_time": "2025-12-09T18:17:54.308153",
+  "package_url": "https://pypi.org/project/pyPRMS/"
+}

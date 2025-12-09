@@ -1,0 +1,11 @@
+{
+  "name": "wowool-lingware-build",
+  "version": "1.1.4.dev2",
+  "summary": "Wowool Build Lingware System",
+  "author": "Wowool",
+  "license": null,
+  "home_page": "https://www.wowool.com/",
+  "download_filename": "wowool_lingware_build-1.1.4.dev2-py3-none-any.whl",
+  "download_time": "2025-12-09T18:17:38.108880",
+  "package_url": "https://pypi.org/project/wowool-lingware-build/"
+}

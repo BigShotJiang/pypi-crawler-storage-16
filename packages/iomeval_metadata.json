@@ -1,11 +1,11 @@
 {
   "name": "iomeval",
-  "version": "0.0.2",
-  "summary": "IOM evaluation assistant",
+  "version": "0.0.4",
+  "summary": "Streamline evaluation evidence mapping at scale with LLMs",
   "author": "Solveit",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/franckalbinet/iomeval",
-  "download_filename": "iomeval-0.0.2.tar.gz",
-  "download_time": "2025-12-09T17:14:56.233137",
+  "download_filename": "iomeval-0.0.4.tar.gz",
+  "download_time": "2025-12-09T18:17:51.709120",
   "package_url": "https://pypi.org/project/iomeval/"
 }

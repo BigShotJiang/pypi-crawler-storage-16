@@ -1,0 +1,11 @@
+{
+  "name": "agent-memory-server",
+  "version": "0.12.4",
+  "summary": "A Memory Server for LLM Agents and Applications",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agent_memory_server-0.12.4.tar.gz",
+  "download_time": "2025-12-09T18:17:48.068364",
+  "package_url": "https://pypi.org/project/agent-memory-server/"
+}

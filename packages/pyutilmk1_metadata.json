@@ -1,0 +1,11 @@
+{
+  "name": "pyutilmk1",
+  "version": "0.1.0",
+  "summary": "Small utilities for path, strings, fs, dict, .etc manipulation. mark1",
+  "author": "Markus Peitl",
+  "license": null,
+  "home_page": "https://github.com/markuspeitl/pyutilmk1",
+  "download_filename": "pyutilmk1-0.1.0.tar.gz",
+  "download_time": "2025-12-09T18:17:31.245433",
+  "package_url": "https://pypi.org/project/pyutilmk1/"
+}

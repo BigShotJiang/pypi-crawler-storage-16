@@ -1,0 +1,11 @@
+{
+  "name": "ai-code-review-cli",
+  "version": "1.17.0",
+  "summary": "AI-powered code review tool with local Git, remote MR/PR analysis, and CI integration (GitLab or GitHub)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_code_review_cli-1.17.0.tar.gz",
+  "download_time": "2025-12-09T18:17:27.020335",
+  "package_url": "https://pypi.org/project/ai-code-review-cli/"
+}

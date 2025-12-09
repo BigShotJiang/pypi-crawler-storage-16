@@ -1,11 +1,11 @@
 {
   "name": "local-brain",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "Chat with local Ollama models that can explore your codebase",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "local_brain-0.3.5.tar.gz",
-  "download_time": "2025-12-09T12:27:01.195262",
+  "download_filename": "local_brain-0.3.6.tar.gz",
+  "download_time": "2025-12-09T18:17:55.356266",
   "package_url": "https://pypi.org/project/local-brain/"
 }

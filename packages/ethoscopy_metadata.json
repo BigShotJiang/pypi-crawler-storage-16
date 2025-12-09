@@ -1,0 +1,11 @@
+{
+  "name": "ethoscopy",
+  "version": "2.0.3",
+  "summary": "\"A python based toolkit to download and anlyse data from the Ethoscope hardware system.\"",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ethoscopy-2.0.3-py3-none-any.whl",
+  "download_time": "2025-12-09T18:17:23.774396",
+  "package_url": "https://pypi.org/project/ethoscopy/"
+}

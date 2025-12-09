@@ -1,0 +1,11 @@
+{
+  "name": "litestar-vite",
+  "version": "0.14.0",
+  "summary": "Vite plugin for Litestar",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "litestar_vite-0.14.0.tar.gz",
+  "download_time": "2025-12-09T18:17:36.525908",
+  "package_url": "https://pypi.org/project/litestar-vite/"
+}

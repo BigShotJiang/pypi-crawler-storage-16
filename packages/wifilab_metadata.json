@@ -1,0 +1,11 @@
+{
+  "name": "wifilab",
+  "version": "1.0.2",
+  "summary": "Wi-Fi Lab Controller: Safe WiFi testing toolkit with scanning, fake AP, DNS redirection.",
+  "author": "Mohammed Zahid Wadiwale",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/ZahidServers/WiFi-Lab-Controller",
+  "download_filename": "wifilab-1.0.2.tar.gz",
+  "download_time": "2025-12-09T18:17:26.485138",
+  "package_url": "https://pypi.org/project/wifilab/"
+}

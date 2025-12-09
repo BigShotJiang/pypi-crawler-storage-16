@@ -1,0 +1,11 @@
+{
+  "name": "hindsight-client",
+  "version": "0.1.0",
+  "summary": "Python client for Hindsight - Semantic memory system with personality-driven thinking",
+  "author": "Hindsight Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hindsight_client-0.1.0.tar.gz",
+  "download_time": "2025-12-09T18:17:14.213238",
+  "package_url": "https://pypi.org/project/hindsight-client/"
+}

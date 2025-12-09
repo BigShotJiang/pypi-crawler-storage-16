@@ -1,0 +1,11 @@
+{
+  "name": "g4x_helpers",
+  "version": "2.0.2",
+  "summary": "Python helpers for G4X.",
+  "author": "Kenneth Gouin III, Florian Raths",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "g4x_helpers-2.0.2.tar.gz",
+  "download_time": "2025-12-09T19:48:55.706047",
+  "package_url": "https://pypi.org/project/g4x_helpers/"
+}

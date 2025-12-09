@@ -1,0 +1,11 @@
+{
+  "name": "dmmp",
+  "version": "0.1",
+  "summary": "Directory metadata mapper protocol for documenting directories",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dmmp-0.1.tar.gz",
+  "download_time": "2025-12-09T19:48:40.446219",
+  "package_url": "https://pypi.org/project/dmmp/"
+}

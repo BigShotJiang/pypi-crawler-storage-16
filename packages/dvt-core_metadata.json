@@ -1,11 +1,11 @@
 {
   "name": "dvt-core",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "summary": "DVT (Data Virtualization Tool) - Multi-source data federation and transformation with Spark-unified compute layer.",
   "author": "DVT Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "dvt_core-0.5.7.tar.gz",
-  "download_time": "2025-12-09T17:36:29.055526",
+  "download_filename": "dvt_core-0.5.8.tar.gz",
+  "download_time": "2025-12-09T19:48:41.991593",
   "package_url": "https://pypi.org/project/dvt-core/"
 }

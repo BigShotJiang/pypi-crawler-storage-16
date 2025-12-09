@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-ultralytics",
+  "version": "0.1.12",
+  "summary": "Package to build computer vision applications based on the Ultralytics library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_ultralytics-0.1.12.tar.gz",
+  "download_time": "2025-12-09T19:48:22.972938",
+  "package_url": "https://pypi.org/project/sinapsis-ultralytics/"
+}

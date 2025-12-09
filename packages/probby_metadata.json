@@ -1,0 +1,11 @@
+{
+  "name": "probby",
+  "version": "0.0.0a0",
+  "summary": "Probby: A Python library for working with probability distributions.",
+  "author": "Daniel Weindl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "probby-0.0.0a0.tar.gz",
+  "download_time": "2025-12-09T19:48:32.593649",
+  "package_url": "https://pypi.org/project/probby/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "atspm",
+  "version": "2.0.0",
+  "summary": "Aggregates hi-res data from ATC traffic signal controllers into 15-minute binned ATSPM/performance measures.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atspm-2.0.0.tar.gz",
+  "download_time": "2025-12-09T19:48:28.432729",
+  "package_url": "https://pypi.org/project/atspm/"
+}

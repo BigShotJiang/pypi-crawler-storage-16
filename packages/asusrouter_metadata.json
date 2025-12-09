@@ -1,0 +1,11 @@
+{
+  "name": "asusrouter",
+  "version": "1.21.2",
+  "summary": "API wrapper for communication with ASUSWRT-powered routers using HTTP protocol",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/Vaskivskyi/asusrouter",
+  "download_filename": "asusrouter-1.21.2.tar.gz",
+  "download_time": "2025-12-09T19:48:29.496644",
+  "package_url": "https://pypi.org/project/asusrouter/"
+}

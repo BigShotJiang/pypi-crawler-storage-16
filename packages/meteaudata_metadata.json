@@ -1,0 +1,11 @@
+{
+  "name": "meteaudata",
+  "version": "0.11.0",
+  "summary": "A lightweight package for tracking metadata about time series to create repeatable data pipelines.",
+  "author": null,
+  "license": "CC-BY4",
+  "home_page": null,
+  "download_filename": "meteaudata-0.11.0.tar.gz",
+  "download_time": "2025-12-09T19:48:31.570586",
+  "package_url": "https://pypi.org/project/meteaudata/"
+}

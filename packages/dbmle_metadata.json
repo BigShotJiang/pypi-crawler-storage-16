@@ -1,0 +1,11 @@
+{
+  "name": "dbmle",
+  "version": "0.0.2",
+  "summary": "Design-based MLE to estimate always taker, complier, defier, never taker counts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbmle-0.0.2.tar.gz",
+  "download_time": "2025-12-09T19:48:54.099790",
+  "package_url": "https://pypi.org/project/dbmle/"
+}

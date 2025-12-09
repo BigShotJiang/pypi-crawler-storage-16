@@ -1,0 +1,11 @@
+{
+  "name": "deadline-cloud-worker-agent",
+  "version": "0.28.19",
+  "summary": "The AWS Deadline Cloud worker agent can be used to run a worker in an AWS Deadline Cloud fleet",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deadline_cloud_worker_agent-0.28.19.tar.gz",
+  "download_time": "2025-12-09T19:48:27.292923",
+  "package_url": "https://pypi.org/project/deadline-cloud-worker-agent/"
+}

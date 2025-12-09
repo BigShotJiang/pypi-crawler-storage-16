@@ -1,0 +1,11 @@
+{
+  "name": "lhpapi",
+  "version": "1.0.8",
+  "summary": "API to retrieve data from the Länderübergreifendes Hochwasser Portal (LHP)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lhpapi-1.0.8.tar.gz",
+  "download_time": "2025-12-09T19:48:48.875518",
+  "package_url": "https://pypi.org/project/lhpapi/"
+}

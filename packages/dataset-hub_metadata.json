@@ -1,0 +1,11 @@
+{
+  "name": "dataset-hub",
+  "version": "0.1.2",
+  "summary": "A unified API for exploring any ML task",
+  "author": "Slava Bakulin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataset_hub-0.1.2.tar.gz",
+  "download_time": "2025-12-09T19:48:51.468678",
+  "package_url": "https://pypi.org/project/dataset-hub/"
+}

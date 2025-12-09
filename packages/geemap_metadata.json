@@ -1,0 +1,11 @@
+{
+  "name": "geemap",
+  "version": "0.36.6",
+  "summary": "A Python package for interactive mapping using Google Earth Engine and ipyleaflet",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geemap-0.36.6.tar.gz",
+  "download_time": "2025-12-09T19:48:20.735664",
+  "package_url": "https://pypi.org/project/geemap/"
+}

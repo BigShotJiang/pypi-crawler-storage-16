@@ -1,11 +1,11 @@
 {
   "name": "simt-emlite",
-  "version": "0.24.2",
+  "version": "0.24.3",
   "summary": "API and CLI for communicating with the Emlite meters via EMOP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simt_emlite-0.24.2-cp313-cp313-macosx_11_0_arm64.whl",
-  "download_time": "2025-12-09T06:53:16.847472",
+  "download_filename": "simt_emlite-0.24.3-cp313-cp313-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-09T19:48:53.580030",
   "package_url": "https://pypi.org/project/simt-emlite/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "klavis",
-  "version": "2.14.1",
+  "version": "2.15.0",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "klavis-2.14.1.tar.gz",
-  "download_time": "2025-12-08T21:48:04.751057",
+  "download_filename": "klavis-2.15.0.tar.gz",
+  "download_time": "2025-12-09T06:53:13.692320",
   "package_url": "https://pypi.org/project/klavis/"
 }

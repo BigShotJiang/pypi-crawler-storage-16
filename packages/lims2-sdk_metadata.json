@@ -1,11 +1,11 @@
 {
   "name": "lims2-sdk",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "生信云平台 Python SDK，提供图表上传和文件存储功能",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lims2_sdk-0.7.2.tar.gz",
-  "download_time": "2025-12-09T06:21:07.812526",
+  "download_filename": "lims2_sdk-0.7.3.tar.gz",
+  "download_time": "2025-12-09T06:52:55.223919",
   "package_url": "https://pypi.org/project/lims2-sdk/"
 }

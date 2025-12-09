@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-postgresql",
+  "version": "3.16.1",
+  "summary": "A Pulumi package for creating and managing postgresql cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_postgresql-3.16.1.tar.gz",
+  "download_time": "2025-12-09T06:53:27.316967",
+  "package_url": "https://pypi.org/project/pulumi-postgresql/"
+}

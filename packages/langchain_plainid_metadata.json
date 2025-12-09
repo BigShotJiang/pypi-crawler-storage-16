@@ -1,0 +1,11 @@
+{
+  "name": "langchain_plainid",
+  "version": "0.2.8.2",
+  "summary": "PlainID LangChain library",
+  "author": "PlainID",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_plainid-0.2.8.2.tar.gz",
+  "download_time": "2025-12-09T06:53:30.454601",
+  "package_url": "https://pypi.org/project/langchain_plainid/"
+}

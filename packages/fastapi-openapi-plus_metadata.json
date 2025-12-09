@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-openapi-plus",
+  "version": "0.1.0",
+  "summary": "Library for simplifying OpenAPI documentation in FastAPI (parameters, schemas, examples)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_openapi_plus-0.1.0.tar.gz",
+  "download_time": "2025-12-09T06:53:31.497035",
+  "package_url": "https://pypi.org/project/fastapi-openapi-plus/"
+}

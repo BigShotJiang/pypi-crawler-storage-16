@@ -1,0 +1,11 @@
+{
+  "name": "simple-manylinux-demo",
+  "version": "5.0",
+  "summary": "This is a simple package with a compiled C extension.",
+  "author": "Lumír Balhar",
+  "license": "CC0 1.0",
+  "home_page": "https://github.com/frenzymadness/simple-manylinux-demo",
+  "download_filename": "simple_manylinux_demo-5.0-cp27-cp27m-manylinux_2_5_i686.manylinux1_i686.whl",
+  "download_time": "2025-12-09T06:53:37.734636",
+  "package_url": "https://pypi.org/project/simple-manylinux-demo/"
+}

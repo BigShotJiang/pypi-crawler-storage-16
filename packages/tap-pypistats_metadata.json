@@ -1,0 +1,11 @@
+{
+  "name": "tap-pypistats",
+  "version": "0.0.13",
+  "summary": "Singer tap for pypistats.org",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tap_pypistats-0.0.13.tar.gz",
+  "download_time": "2025-12-09T06:53:22.082195",
+  "package_url": "https://pypi.org/project/tap-pypistats/"
+}

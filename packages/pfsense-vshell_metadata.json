@@ -1,0 +1,11 @@
+{
+  "name": "pfsense-vshell",
+  "version": "2.2.3",
+  "summary": "A command line tool to run remote shell commands on pfSense without SSH.",
+  "author": "Jared Hendrickson",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/jaredhendrickson13/pfsense-vshell",
+  "download_filename": "pfsense_vshell-2.2.3.tar.gz",
+  "download_time": "2025-12-09T06:53:24.171212",
+  "package_url": "https://pypi.org/project/pfsense-vshell/"
+}

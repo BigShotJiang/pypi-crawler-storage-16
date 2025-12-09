@@ -1,0 +1,11 @@
+{
+  "name": "icsc-ava-upload-toolkit",
+  "version": "0.1.5",
+  "summary": "ICSC Ava Upload Toolkit - 包含 MCP Server 和 Mock File Service 的完整工具套件",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "icsc_ava_upload_toolkit-0.1.5.tar.gz",
+  "download_time": "2025-12-09T06:53:19.481360",
+  "package_url": "https://pypi.org/project/icsc-ava-upload-toolkit/"
+}

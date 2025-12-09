@@ -1,11 +1,11 @@
 {
   "name": "ape-drpc",
-  "version": "0.8.0b0",
+  "version": "0.8.0",
   "summary": "ape-drpc: Ape plugin for https://drpc.org",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ape_drpc-0.8.0b0.tar.gz",
-  "download_time": "2025-12-09T21:42:20.803952",
+  "download_filename": "ape_drpc-0.8.0.tar.gz",
+  "download_time": "2025-12-09T21:49:40.856910",
   "package_url": "https://pypi.org/project/ape-drpc/"
 }

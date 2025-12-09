@@ -1,0 +1,11 @@
+{
+  "name": "datafed",
+  "version": "4.0.0",
+  "summary": "DataFed CLI and API",
+  "author": "Dale Stansberry, Joshua Brown",
+  "license": null,
+  "home_page": "https://github.com/ORNL/DataFed",
+  "download_filename": "datafed-4.0.0.tar.gz",
+  "download_time": "2025-12-09T21:49:55.263641",
+  "package_url": "https://pypi.org/project/datafed/"
+}

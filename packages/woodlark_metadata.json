@@ -1,11 +1,11 @@
 {
   "name": "woodlark",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Woodlark runtime adapters",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "woodlark-0.1.1-py3-none-any.whl",
-  "download_time": "2025-12-09T20:32:54.245660",
+  "download_filename": "woodlark-0.1.2-py3-none-any.whl",
+  "download_time": "2025-12-09T21:49:39.786534",
   "package_url": "https://pypi.org/project/woodlark/"
 }

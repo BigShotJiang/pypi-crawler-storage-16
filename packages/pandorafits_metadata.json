@@ -1,0 +1,11 @@
+{
+  "name": "pandorafits",
+  "version": "0.4.0",
+  "summary": "Tools to work with fits files for Pandora",
+  "author": "Christina Hedges",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pandorafits-0.4.0.tar.gz",
+  "download_time": "2025-12-09T21:49:43.836497",
+  "package_url": "https://pypi.org/project/pandorafits/"
+}

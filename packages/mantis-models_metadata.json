@@ -1,0 +1,11 @@
+{
+  "name": "mantis-models",
+  "version": "3.4.11",
+  "summary": "M&NTIS library containing models used in M&NTIS components",
+  "author": "AMOSSYS",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mantis_models-3.4.11.tar.gz",
+  "download_time": "2025-12-09T21:49:42.235671",
+  "package_url": "https://pypi.org/project/mantis-models/"
+}

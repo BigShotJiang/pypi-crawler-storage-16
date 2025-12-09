@@ -1,0 +1,11 @@
+{
+  "name": "azure-functions-runtime",
+  "version": "1.0.0",
+  "summary": "Python Language Worker for Azure Functions Runtime",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_functions_runtime-1.0.0.tar.gz",
+  "download_time": "2025-12-09T21:49:41.392255",
+  "package_url": "https://pypi.org/project/azure-functions-runtime/"
+}

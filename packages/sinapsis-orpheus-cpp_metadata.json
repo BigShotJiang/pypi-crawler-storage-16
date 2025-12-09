@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-orpheus-cpp",
+  "version": "0.1.4",
+  "summary": "Text to speech using Orpheus TTS model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_orpheus_cpp-0.1.4.tar.gz",
+  "download_time": "2025-12-09T21:49:52.685276",
+  "package_url": "https://pypi.org/project/sinapsis-orpheus-cpp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "skutils",
+  "version": "0.3.0b0",
+  "summary": "SkuTek Instrumentation utilities for control, orchestration, and data analysis using SkuTek products",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skutils-0.3.0b0.tar.gz",
+  "download_time": "2025-12-09T16:19:57.978617",
+  "package_url": "https://pypi.org/project/skutils/"
+}

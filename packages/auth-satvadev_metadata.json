@@ -1,0 +1,11 @@
+{
+  "name": "auth-satvadev",
+  "version": "1.0.5",
+  "summary": "Registration with confirmation by code and token authorization",
+  "author": "satva.dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "auth_satvadev-1.0.5.tar.gz",
+  "download_time": "2025-12-09T16:20:15.627587",
+  "package_url": "https://pypi.org/project/auth-satvadev/"
+}

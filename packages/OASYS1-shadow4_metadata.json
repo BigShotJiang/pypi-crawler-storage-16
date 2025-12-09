@@ -1,0 +1,11 @@
+{
+  "name": "OASYS1-shadow4",
+  "version": "0.0.85",
+  "summary": "oasys-shadow4: Oasys widgets for shadow4",
+  "author": "M. Sanchez del Rio, L. Rebuffi",
+  "license": "MIT",
+  "home_page": "https://github.com/oasys-kit/OASYS1-SHADOW4",
+  "download_filename": "oasys1_shadow4-0.0.85.tar.gz",
+  "download_time": "2025-12-09T16:19:52.698601",
+  "package_url": "https://pypi.org/project/OASYS1-shadow4/"
+}

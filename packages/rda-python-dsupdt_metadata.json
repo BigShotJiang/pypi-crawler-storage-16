@@ -1,11 +1,11 @@
 {
   "name": "rda-python-dsupdt",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "RDA Python Package to update RDA operational datasets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rda_python_dsupdt-2.0.0.tar.gz",
-  "download_time": "2025-12-08T21:47:58.240302",
+  "download_filename": "rda_python_dsupdt-2.0.1.tar.gz",
+  "download_time": "2025-12-09T16:19:53.209490",
   "package_url": "https://pypi.org/project/rda-python-dsupdt/"
 }

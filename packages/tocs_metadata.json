@@ -1,0 +1,11 @@
+{
+  "name": "tocs",
+  "version": "1.0.2",
+  "summary": "Generate TOC for markdown files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tocs-1.0.2.tar.gz",
+  "download_time": "2025-12-09T16:19:44.680453",
+  "package_url": "https://pypi.org/project/tocs/"
+}

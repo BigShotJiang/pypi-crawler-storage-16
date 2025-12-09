@@ -1,0 +1,11 @@
+{
+  "name": "fabric-user-data-functions",
+  "version": "1.0.54",
+  "summary": "This package contains bindings and middle ware required for fabric functions built on python.",
+  "author": "Fabric AppDev Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "fabric_user_data_functions-1.0.54.tar.gz",
+  "download_time": "2025-12-09T16:19:45.192209",
+  "package_url": "https://pypi.org/project/fabric-user-data-functions/"
+}

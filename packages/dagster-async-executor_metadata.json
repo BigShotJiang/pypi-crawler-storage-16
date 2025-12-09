@@ -1,0 +1,11 @@
+{
+  "name": "dagster-async-executor",
+  "version": "0.0.1",
+  "summary": "Async Support for Dagster",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_async_executor-0.0.1.tar.gz",
+  "download_time": "2025-12-09T16:19:48.862569",
+  "package_url": "https://pypi.org/project/dagster-async-executor/"
+}

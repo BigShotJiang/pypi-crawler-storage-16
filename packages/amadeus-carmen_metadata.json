@@ -1,11 +1,11 @@
 {
   "name": "amadeus-carmen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Measure and report carbon footprint of Kubernetes applications and cloud infrastructure",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "amadeus_carmen-0.1.0.tar.gz",
-  "download_time": "2025-12-09T12:26:59.114824",
+  "download_filename": "amadeus_carmen-0.1.1.tar.gz",
+  "download_time": "2025-12-09T16:20:20.292221",
   "package_url": "https://pypi.org/project/amadeus-carmen/"
 }

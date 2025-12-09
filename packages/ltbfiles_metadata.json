@@ -1,0 +1,11 @@
+{
+  "name": "ltbfiles",
+  "version": "4.3.0",
+  "summary": "Module for loading of files created with spectrometers from LTB",
+  "author": "Sven Merk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ltbfiles-4.3.0.tar.gz",
+  "download_time": "2025-12-09T16:20:21.824957",
+  "package_url": "https://pypi.org/project/ltbfiles/"
+}

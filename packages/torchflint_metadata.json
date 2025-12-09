@@ -1,0 +1,11 @@
+{
+  "name": "torchflint",
+  "version": "0.0.1b13",
+  "summary": "This Python module provides a collection of utility functions designed for advanced tensor manipulation using PyTorch. It includes functions for applying operations along specific dimensions, mapping values to new ranges, and generating linearly spaced tensors, among others.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchflint-0.0.1b13.tar.gz",
+  "download_time": "2025-12-09T16:20:31.831845",
+  "package_url": "https://pypi.org/project/torchflint/"
+}

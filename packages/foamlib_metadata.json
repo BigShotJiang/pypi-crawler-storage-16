@@ -1,0 +1,11 @@
+{
+  "name": "foamlib",
+  "version": "1.4.1",
+  "summary": "Pythonic interface for working with OpenFOAM",
+  "author": "Gabriel S. Gerlero",
+  "license": null,
+  "home_page": null,
+  "download_filename": "foamlib-1.4.1.tar.gz",
+  "download_time": "2025-12-09T16:20:28.101477",
+  "package_url": "https://pypi.org/project/foamlib/"
+}

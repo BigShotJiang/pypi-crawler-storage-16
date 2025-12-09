@@ -1,0 +1,11 @@
+{
+  "name": "ipulse-shared-data-eng-ftredge",
+  "version": "12.8.8",
+  "summary": "Shared Data Engineering functions for the Pulse platform project. Using AI for financial advisory and investment management.",
+  "author": "Russlan Ramdowar",
+  "license": null,
+  "home_page": "https://github.com/TheFutureEdge/ipulse_shared_data_eng",
+  "download_filename": "ipulse_shared_data_eng_ftredge-12.8.8.tar.gz",
+  "download_time": "2025-12-09T16:19:54.831281",
+  "package_url": "https://pypi.org/project/ipulse-shared-data-eng-ftredge/"
+}

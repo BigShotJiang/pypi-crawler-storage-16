@@ -1,0 +1,11 @@
+{
+  "name": "omero-biomero",
+  "version": "1.0.1",
+  "summary": "A Python plugin for OMERO.web combining database pages, script menu, and web importer functionality",
+  "author": "Cellular Imaging Amsterdam UMC",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/NL-BioImaging/OMERO.biomero",
+  "download_filename": "omero_biomero-1.0.1.tar.gz",
+  "download_time": "2025-12-09T16:20:26.552342",
+  "package_url": "https://pypi.org/project/omero-biomero/"
+}

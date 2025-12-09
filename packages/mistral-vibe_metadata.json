@@ -1,11 +1,11 @@
 {
   "name": "mistral-vibe",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Minimal CLI coding agent by Mistral",
   "author": "Mistral AI",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mistral_vibe-1.0.1.tar.gz",
-  "download_time": "2025-12-09T14:16:08.933374",
+  "download_filename": "mistral_vibe-1.0.2.tar.gz",
+  "download_time": "2025-12-09T16:20:32.343902",
   "package_url": "https://pypi.org/project/mistral-vibe/"
 }

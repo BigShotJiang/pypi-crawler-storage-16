@@ -1,0 +1,11 @@
+{
+  "name": "bsdd-json",
+  "version": "0.1.2",
+  "summary": "bSDD JSON data models and utilities",
+  "author": "Christoph Mellüh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bsdd_json-0.1.2.tar.gz",
+  "download_time": "2025-12-09T16:20:14.086774",
+  "package_url": "https://pypi.org/project/bsdd-json/"
+}

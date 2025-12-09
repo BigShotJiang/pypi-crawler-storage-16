@@ -1,0 +1,11 @@
+{
+  "name": "svg2tikz",
+  "version": "3.3.4",
+  "summary": "Tools for converting SVG graphics to TikZ/PGF code",
+  "author": "ldevillez",
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "svg2tikz-3.3.4.tar.gz",
+  "download_time": "2025-12-09T16:20:06.719562",
+  "package_url": "https://pypi.org/project/svg2tikz/"
+}

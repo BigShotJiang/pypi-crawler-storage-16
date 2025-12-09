@@ -1,0 +1,11 @@
+{
+  "name": "mcp-audit",
+  "version": "0.4.2",
+  "summary": "Real-time MCP token tracker for Claude Code, Codex CLI & Gemini CLI. Investigate context bloat and high token usage at the source.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_audit-0.4.2.tar.gz",
+  "download_time": "2025-12-09T12:26:59.625566",
+  "package_url": "https://pypi.org/project/mcp-audit/"
+}

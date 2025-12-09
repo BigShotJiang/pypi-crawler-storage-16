@@ -1,0 +1,11 @@
+{
+  "name": "hzclient",
+  "version": "0.3.7",
+  "summary": "A client library for interacting with the HeroZero game API",
+  "author": "Curvu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hzclient-0.3.7.tar.gz",
+  "download_time": "2025-12-09T12:26:43.828023",
+  "package_url": "https://pypi.org/project/hzclient/"
+}

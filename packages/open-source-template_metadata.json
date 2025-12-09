@@ -1,0 +1,11 @@
+{
+  "name": "open-source-template",
+  "version": "1.1.0",
+  "summary": "A demo for the OSS template at MeteoSwiss.",
+  "author": "Michele Cattaneo",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "open_source_template-1.1.0.tar.gz",
+  "download_time": "2025-12-09T12:27:06.887402",
+  "package_url": "https://pypi.org/project/open-source-template/"
+}

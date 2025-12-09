@@ -1,0 +1,11 @@
+{
+  "name": "mapsy",
+  "version": "0.3.1",
+  "summary": "Mapsy is a Python library designed easily render static maps in python.",
+  "author": "Felix Horvat",
+  "license": "MIT",
+  "home_page": "https://github.com/ocell/mapsy",
+  "download_filename": "mapsy-0.3.1.tar.gz",
+  "download_time": "2025-12-09T12:26:54.953507",
+  "package_url": "https://pypi.org/project/mapsy/"
+}

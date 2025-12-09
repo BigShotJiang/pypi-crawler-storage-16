@@ -1,0 +1,11 @@
+{
+  "name": "simple-toml-settings",
+  "version": "0.9.2",
+  "summary": "A Python library to save your settings in a TOML file.",
+  "author": "Grant Ramsay",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_toml_settings-0.9.2.tar.gz",
+  "download_time": "2025-12-09T12:26:42.247748",
+  "package_url": "https://pypi.org/project/simple-toml-settings/"
+}

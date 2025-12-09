@@ -1,0 +1,11 @@
+{
+  "name": "EXtra-data",
+  "version": "1.23.2",
+  "summary": "Tools to read and analyse data from European XFEL ",
+  "author": "European XFEL GmbH",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "extra_data-1.23.2.tar.gz",
+  "download_time": "2025-12-09T12:27:14.117539",
+  "package_url": "https://pypi.org/project/EXtra-data/"
+}

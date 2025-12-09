@@ -1,0 +1,11 @@
+{
+  "name": "tidal-per-transformers",
+  "version": "0.5.0",
+  "summary": "common transformers used by the tidal personalization team.",
+  "author": "Loay",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tidal_per_transformers-0.5.0.tar.gz",
+  "download_time": "2025-12-09T12:26:41.229448",
+  "package_url": "https://pypi.org/project/tidal-per-transformers/"
+}

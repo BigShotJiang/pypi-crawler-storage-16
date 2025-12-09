@@ -1,0 +1,11 @@
+{
+  "name": "hdxms-datasets",
+  "version": "0.3.1",
+  "summary": "Download and parse curated HDX-MS datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hdxms_datasets-0.3.1.tar.gz",
+  "download_time": "2025-12-09T12:26:43.319280",
+  "package_url": "https://pypi.org/project/hdxms-datasets/"
+}

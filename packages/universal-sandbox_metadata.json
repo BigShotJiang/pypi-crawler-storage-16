@@ -1,11 +1,11 @@
 {
   "name": "universal-sandbox",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Python SDK for Universal Sandbox API",
   "author": "Universal Sandbox",
-  "license": null,
-  "home_page": null,
-  "download_filename": "universal_sandbox-0.0.3.tar.gz",
-  "download_time": "2025-12-09T11:48:35.544906",
+  "license": "MIT",
+  "home_page": "https://github.com/universal-sandbox/sdk-python",
+  "download_filename": "universal_sandbox-0.0.5.tar.gz",
+  "download_time": "2025-12-09T12:26:39.697712",
   "package_url": "https://pypi.org/project/universal-sandbox/"
 }

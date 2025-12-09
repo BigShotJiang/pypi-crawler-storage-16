@@ -1,0 +1,11 @@
+{
+  "name": "invenio-search-ui",
+  "version": "4.1.5",
+  "summary": "UI for Invenio-Search.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-search-ui",
+  "download_filename": "invenio_search_ui-4.1.5.tar.gz",
+  "download_time": "2025-12-09T12:26:49.135903",
+  "package_url": "https://pypi.org/project/invenio-search-ui/"
+}

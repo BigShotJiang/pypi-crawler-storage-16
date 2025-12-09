@@ -1,0 +1,11 @@
+{
+  "name": "jedha-cli",
+  "version": "3.1.0",
+  "summary": "A CLI to start cybersecurity labs and practice your skills",
+  "author": "ademenet",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jedha_cli-3.1.0.tar.gz",
+  "download_time": "2025-12-09T12:26:44.913736",
+  "package_url": "https://pypi.org/project/jedha-cli/"
+}

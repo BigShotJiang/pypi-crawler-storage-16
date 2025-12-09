@@ -1,11 +1,11 @@
 {
   "name": "docrag-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Universal RAG system for project documentation",
   "author": "DocRAG Kit Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "docrag_kit-0.1.0.tar.gz",
-  "download_time": "2025-12-09T11:48:19.656958",
+  "download_filename": "docrag_kit-0.1.1.tar.gz",
+  "download_time": "2025-12-09T12:26:33.865637",
   "package_url": "https://pypi.org/project/docrag-kit/"
 }

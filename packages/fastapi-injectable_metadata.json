@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-injectable",
+  "version": "1.4.5",
+  "summary": "Allow you to painlessly use dependency injection mechanism (`Depends`) of FastAPI outside the FastAPI routes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_injectable-1.4.5.tar.gz",
+  "download_time": "2025-12-09T12:26:53.403284",
+  "package_url": "https://pypi.org/project/fastapi-injectable/"
+}

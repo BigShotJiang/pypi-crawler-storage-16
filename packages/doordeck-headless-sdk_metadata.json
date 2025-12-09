@@ -1,0 +1,11 @@
+{
+  "name": "doordeck-headless-sdk",
+  "version": "0.182.0",
+  "summary": "The official Doordeck SDK for Kotlin Multiplatform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "doordeck_headless_sdk-0.182.0.tar.gz",
+  "download_time": "2025-12-09T12:26:56.521487",
+  "package_url": "https://pypi.org/project/doordeck-headless-sdk/"
+}

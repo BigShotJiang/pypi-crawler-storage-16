@@ -1,0 +1,11 @@
+{
+  "name": "ACID-code-v2",
+  "version": "1.1.0",
+  "summary": "Returns line profiles from input spectra by fitting the stellar continuum and performing LSD",
+  "author": "Lucy Dolan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "acid_code_v2-1.1.0-py3-none-any.whl",
+  "download_time": "2025-12-09T12:27:03.756509",
+  "package_url": "https://pypi.org/project/ACID-code-v2/"
+}

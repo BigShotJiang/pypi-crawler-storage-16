@@ -1,0 +1,11 @@
+{
+  "name": "lambdatest-selenium-driver",
+  "version": "1.0.8",
+  "summary": "Python Selenium SDK for testing with Smart UI",
+  "author": "LambdaTest <keys@lambdatest.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/LambdaTest/lambdatest-python-sdk",
+  "download_filename": "lambdatest_selenium_driver-1.0.8.tar.gz",
+  "download_time": "2025-12-09T12:26:55.466284",
+  "package_url": "https://pypi.org/project/lambdatest-selenium-driver/"
+}

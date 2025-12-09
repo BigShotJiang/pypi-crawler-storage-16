@@ -1,0 +1,11 @@
+{
+  "name": "dktshell",
+  "version": "0.1.2",
+  "summary": "Matrix-based structural analysis module for triangulated thin shells",
+  "author": "Kazuki Hayashi and Romain Mesnil",
+  "license": "MIT license",
+  "home_page": "https://github.com/kazukihayashi/Matrix-based-shape-sensitivity-analysis-for-linear-strain-energy-of-triangular-thin-shell-elements",
+  "download_filename": "dktshell-0.1.2.tar.gz",
+  "download_time": "2025-12-09T08:50:50.669629",
+  "package_url": "https://pypi.org/project/dktshell/"
+}

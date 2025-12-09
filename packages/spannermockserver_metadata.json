@@ -1,0 +1,11 @@
+{
+  "name": "spannermockserver",
+  "version": "0.1.1",
+  "summary": "A lightweight in-memory mock server for Google Cloud Spanner. This is an internal library that can make breaking changes without prior notice.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spannermockserver-0.1.1.tar.gz",
+  "download_time": "2025-12-09T08:51:04.803903",
+  "package_url": "https://pypi.org/project/spannermockserver/"
+}

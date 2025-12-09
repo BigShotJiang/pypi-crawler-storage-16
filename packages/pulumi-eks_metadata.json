@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-eks",
+  "version": "4.1.0",
+  "summary": "Pulumi Amazon Web Services (AWS) EKS Components.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_eks-4.1.0.tar.gz",
+  "download_time": "2025-12-09T08:51:05.897833",
+  "package_url": "https://pypi.org/project/pulumi-eks/"
+}

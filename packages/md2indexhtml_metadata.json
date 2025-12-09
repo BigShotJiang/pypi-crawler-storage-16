@@ -1,0 +1,11 @@
+{
+  "name": "md2indexhtml",
+  "version": "0.6.0",
+  "summary": "Beautiful Markdown to HTML converter with comprehensive Odoo frontend styling",
+  "author": "Fasil",
+  "license": "MIT",
+  "home_page": "https://github.com/fasilwdr/md2indexhtml",
+  "download_filename": "md2indexhtml-0.6.0.tar.gz",
+  "download_time": "2025-12-09T08:50:41.969349",
+  "package_url": "https://pypi.org/project/md2indexhtml/"
+}

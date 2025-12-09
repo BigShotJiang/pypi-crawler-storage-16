@@ -1,0 +1,11 @@
+{
+  "name": "daytona_api_client_async",
+  "version": "0.122.0",
+  "summary": "Daytona",
+  "author": "Daytona Platforms Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/daytonaio/daytona",
+  "download_filename": "daytona_api_client_async-0.122.0.tar.gz",
+  "download_time": "2025-12-09T08:50:58.777099",
+  "package_url": "https://pypi.org/project/daytona_api_client_async/"
+}

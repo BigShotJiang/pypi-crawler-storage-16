@@ -1,11 +1,11 @@
 {
   "name": "dhscan-agent",
-  "version": "0.0.9",
+  "version": "0.1.1",
   "summary": "Open-source AI Hackers for your apps",
   "author": "yudeshui",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dhscan_agent-0.0.9.tar.gz",
-  "download_time": "2025-12-09T04:47:47.906280",
+  "download_filename": "dhscan_agent-0.1.1.tar.gz",
+  "download_time": "2025-12-09T08:50:23.303284",
   "package_url": "https://pypi.org/project/dhscan-agent/"
 }

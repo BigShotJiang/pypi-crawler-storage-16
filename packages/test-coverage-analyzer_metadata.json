@@ -1,0 +1,11 @@
+{
+  "name": "test-coverage-analyzer",
+  "version": "0.1.6",
+  "summary": "多语言测试文件查找和覆盖率分析工具",
+  "author": "Xisang",
+  "license": null,
+  "home_page": "https://github.com/Xisang/test-coverage-analyzer",
+  "download_filename": "test_coverage_analyzer-0.1.6.tar.gz",
+  "download_time": "2025-12-09T08:50:17.759617",
+  "package_url": "https://pypi.org/project/test-coverage-analyzer/"
+}

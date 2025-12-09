@@ -1,0 +1,11 @@
+{
+  "name": "synapsis-face-preprocessor-lib",
+  "version": "1.0.0",
+  "summary": "Library Synapsis untuk melakukan preprocessing wajah yang fleksibel dan dapat dikonfigurasi untuk berbagai model face embedding.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synapsis_face_preprocessor_lib-1.0.0.tar.gz",
+  "download_time": "2025-12-09T08:50:43.066364",
+  "package_url": "https://pypi.org/project/synapsis-face-preprocessor-lib/"
+}

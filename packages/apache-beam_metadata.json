@@ -1,0 +1,11 @@
+{
+  "name": "apache-beam",
+  "version": "2.69.0",
+  "summary": "Apache Beam SDK for Python",
+  "author": "Apache Software Foundation",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://beam.apache.org",
+  "download_filename": "apache_beam-2.69.0.tar.gz",
+  "download_time": "2025-12-09T08:50:37.640165",
+  "package_url": "https://pypi.org/project/apache-beam/"
+}

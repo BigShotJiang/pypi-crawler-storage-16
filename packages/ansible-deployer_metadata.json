@@ -1,0 +1,11 @@
+{
+  "name": "ansible-deployer",
+  "version": "0.0.57",
+  "summary": "Wrapper around ansible-playbook allowing configurable tasks and permissions",
+  "author": "J. Wierzbowski, M. Stolarek",
+  "license": "MIT",
+  "home_page": "https://github.com/cinek810/ansible-deployer",
+  "download_filename": "ansible_deployer-0.0.57.tar.gz",
+  "download_time": "2025-12-09T08:50:25.890272",
+  "package_url": "https://pypi.org/project/ansible-deployer/"
+}

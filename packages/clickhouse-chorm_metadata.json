@@ -1,11 +1,11 @@
 {
   "name": "clickhouse-chorm",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A modern, type-safe ORM for ClickHouse with full support for ClickHouse-specific features",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clickhouse_chorm-0.1.5.tar.gz",
-  "download_time": "2025-12-08T22:34:22.500104",
+  "download_filename": "clickhouse_chorm-0.1.6.tar.gz",
+  "download_time": "2025-12-09T08:51:09.715723",
   "package_url": "https://pypi.org/project/clickhouse-chorm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "swisper-studio-sdk",
+  "version": "0.5.4",
+  "summary": "SwisperStudio SDK - Tracing integration for Swisper (internal use)",
+  "author": "Fintama SwisperStudio Team",
+  "license": "Proprietary - Fintama Internal Use Only",
+  "home_page": null,
+  "download_filename": "swisper_studio_sdk-0.5.4.tar.gz",
+  "download_time": "2025-12-09T08:50:50.129679",
+  "package_url": "https://pypi.org/project/swisper-studio-sdk/"
+}

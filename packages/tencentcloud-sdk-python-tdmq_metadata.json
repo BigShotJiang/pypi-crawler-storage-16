@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-tdmq",
+  "version": "3.1.9",
+  "summary": "Tencent Cloud Tdmq SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_tdmq-3.1.9.tar.gz",
+  "download_time": "2025-12-09T08:50:35.376664",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-tdmq/"
+}

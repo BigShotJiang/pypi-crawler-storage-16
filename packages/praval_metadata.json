@@ -1,0 +1,11 @@
+{
+  "name": "praval",
+  "version": "0.7.20",
+  "summary": "A composable Python framework for LLM-based agents inspired by coral ecosystems",
+  "author": "Praval Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "praval-0.7.20-py3-none-any.whl",
+  "download_time": "2025-12-09T08:19:35.121351",
+  "package_url": "https://pypi.org/project/praval/"
+}

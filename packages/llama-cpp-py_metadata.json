@@ -1,0 +1,11 @@
+{
+  "name": "llama-cpp-py",
+  "version": "0.1.20",
+  "summary": "Python wrapper for running the llama.cpp server",
+  "author": "sergey21000",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_cpp_py-0.1.20.tar.gz",
+  "download_time": "2025-12-09T08:19:02.125262",
+  "package_url": "https://pypi.org/project/llama-cpp-py/"
+}

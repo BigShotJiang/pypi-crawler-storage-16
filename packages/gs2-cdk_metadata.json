@@ -1,0 +1,11 @@
+{
+  "name": "gs2-cdk",
+  "version": "1.0.121",
+  "summary": "GS2 SDK for Python.",
+  "author": "Game Server Services, Inc.",
+  "license": "Apache License 2.0",
+  "home_page": "https://gs2.io/",
+  "download_filename": "gs2_cdk-1.0.121.tar.gz",
+  "download_time": "2025-12-09T08:19:08.262468",
+  "package_url": "https://pypi.org/project/gs2-cdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gempy",
+  "version": "2025.2.0",
+  "summary": "An Open-source, Python-based 3-D structural geological modeling software.",
+  "author": "Miguel de la Varga, Alexander Zimmerman, Elisa Heim, Alexander Schaaf, Fabian Stamm, Florian Wellmann, Jan Niederau, Andrew Annex",
+  "license": "EUPL-1.2",
+  "home_page": "https://github.com/cgre-aachen/gempy",
+  "download_filename": "gempy-2025.2.0-py3-none-any.whl",
+  "download_time": "2025-12-09T08:19:40.932948",
+  "package_url": "https://pypi.org/project/gempy/"
+}

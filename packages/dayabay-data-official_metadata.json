@@ -1,0 +1,11 @@
+{
+  "name": "dayabay-data-official",
+  "version": "1.0.0",
+  "summary": "Full Data Release of the Daya Bay Reactor Neutrino Experiment. Analysis dataset.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dayabay_data_official-1.0.0.tar.gz",
+  "download_time": "2025-12-09T08:19:33.346430",
+  "package_url": "https://pypi.org/project/dayabay-data-official/"
+}

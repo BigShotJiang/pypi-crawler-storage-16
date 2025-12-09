@@ -1,11 +1,11 @@
 {
   "name": "rosdomofon",
-  "version": "0.1.16",
+  "version": "0.1.16.1",
   "summary": "ORM для работы с API РосДомофон",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rosdomofon-0.1.16.tar.gz",
-  "download_time": "2025-12-09T07:41:24.747428",
+  "download_filename": "rosdomofon-0.1.16.1.tar.gz",
+  "download_time": "2025-12-09T08:19:03.972006",
   "package_url": "https://pypi.org/project/rosdomofon/"
 }

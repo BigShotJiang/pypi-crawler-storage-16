@@ -1,0 +1,11 @@
+{
+  "name": "usbipd",
+  "version": "0.0.6",
+  "summary": "A Python USB/IP server for sharing USB devices over the network",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "usbipd-0.0.6.tar.gz",
+  "download_time": "2025-12-09T08:19:29.150594",
+  "package_url": "https://pypi.org/project/usbipd/"
+}

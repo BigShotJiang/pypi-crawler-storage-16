@@ -1,0 +1,11 @@
+{
+  "name": "eshopbox-sdk",
+  "version": "1.1.5",
+  "summary": "Python SDK for EShopBox Shipping APIs",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/sakib-wis/eshopbox-sdk",
+  "download_filename": "eshopbox_sdk-1.1.5.tar.gz",
+  "download_time": "2025-12-09T08:19:13.504465",
+  "package_url": "https://pypi.org/project/eshopbox-sdk/"
+}

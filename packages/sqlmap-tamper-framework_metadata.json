@@ -1,0 +1,11 @@
+{
+  "name": "sqlmap-tamper-framework",
+  "version": "2.0.1",
+  "summary": "SQL tamper framework with context-aware transformations",
+  "author": "Regaan",
+  "license": null,
+  "home_page": "https://github.com/noobforanonymous/sqlmap-tamper-collection",
+  "download_filename": "sqlmap_tamper_framework-2.0.1.tar.gz",
+  "download_time": "2025-12-09T08:19:32.744683",
+  "package_url": "https://pypi.org/project/sqlmap-tamper-framework/"
+}

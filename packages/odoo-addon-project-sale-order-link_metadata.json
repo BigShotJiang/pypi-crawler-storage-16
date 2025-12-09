@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-sale-order-link",
+  "version": "16.0.1.0.0.3",
+  "summary": "Sales order linked to project, tasks or employee map",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_project_sale_order_link-16.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-09T14:42:32.451556",
+  "package_url": "https://pypi.org/project/odoo-addon-project-sale-order-link/"
+}

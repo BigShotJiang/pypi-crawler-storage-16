@@ -1,0 +1,11 @@
+{
+  "name": "exasol-toolbox",
+  "version": "4.0.0",
+  "summary": "Your one-stop solution for managing all standard tasks and core workflows of your Python project.",
+  "author": "Nicola Coretti",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exasol_toolbox-4.0.0.tar.gz",
+  "download_time": "2025-12-09T14:42:33.504461",
+  "package_url": "https://pypi.org/project/exasol-toolbox/"
+}

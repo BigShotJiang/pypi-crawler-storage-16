@@ -1,0 +1,11 @@
+{
+  "name": "unitsnet-py",
+  "version": "1.0.5",
+  "summary": "A better way to hold unit variables and easily convert to the destination unit",
+  "author": "Haim Kastner",
+  "license": "MIT",
+  "home_page": "https://github.com/haimkastner/unitsnet-py",
+  "download_filename": "unitsnet_py-1.0.5.tar.gz",
+  "download_time": "2025-12-09T14:42:26.207565",
+  "package_url": "https://pypi.org/project/unitsnet-py/"
+}

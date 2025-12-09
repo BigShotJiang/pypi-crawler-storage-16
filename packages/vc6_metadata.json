@@ -1,0 +1,11 @@
+{
+  "name": "vc6",
+  "version": "7.29.5",
+  "summary": "V-Nova VC-6 codec Python bindings.",
+  "author": null,
+  "license": "Proprietary - see LICENSE.txt",
+  "home_page": null,
+  "download_filename": "vc6-7.29.5-py3-none-any.whl",
+  "download_time": "2025-12-09T14:42:11.239120",
+  "package_url": "https://pypi.org/project/vc6/"
+}

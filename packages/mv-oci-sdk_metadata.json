@@ -1,0 +1,11 @@
+{
+  "name": "mv-oci-sdk",
+  "version": "2.142.0.8",
+  "summary": "Oracle Cloud Infrastructure Python SDK modified by Moviri for use in Dynatrace extensions",
+  "author": "Moviri",
+  "license": "Universal Permissive License 1.0 or Apache License 2.0",
+  "home_page": "https://github.com/Moviri/mv-oci-sdk",
+  "download_filename": "mv_oci_sdk-2.142.0.8.tar.gz",
+  "download_time": "2025-12-09T14:42:31.426233",
+  "package_url": "https://pypi.org/project/mv-oci-sdk/"
+}

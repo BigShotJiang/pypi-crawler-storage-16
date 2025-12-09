@@ -1,0 +1,11 @@
+{
+  "name": "cloud-cost-allocation",
+  "version": "2.3.0",
+  "summary": "Python library for shared, hierarchical cost allocation based on user-defined usage metrics.",
+  "author": "Marc Perreaut",
+  "license": "MIT license",
+  "home_page": "https://github.com/AmadeusITGroup/cloud-cost-allocation",
+  "download_filename": "cloud_cost_allocation-2.3.0.tar.gz",
+  "download_time": "2025-12-09T14:42:05.492204",
+  "package_url": "https://pypi.org/project/cloud-cost-allocation/"
+}

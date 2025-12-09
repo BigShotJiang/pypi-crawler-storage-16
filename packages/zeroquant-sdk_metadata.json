@@ -1,0 +1,11 @@
+{
+  "name": "zeroquant-sdk",
+  "version": "0.3.3",
+  "summary": "Python SDK for ZeroQuant agentic DeFi vaults",
+  "author": "ZeroQuant Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zeroquant_sdk-0.3.3.tar.gz",
+  "download_time": "2025-12-09T14:42:37.144159",
+  "package_url": "https://pypi.org/project/zeroquant-sdk/"
+}

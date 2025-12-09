@@ -1,0 +1,11 @@
+{
+  "name": "multimodal-parsers",
+  "version": "0.1.4",
+  "summary": "PDF processing pipeline: remove headers/footers, convert to markdown, and generate image captions",
+  "author": "Uyen Hoang",
+  "license": null,
+  "home_page": "https://github.com/thuuyen98/PIER-QA",
+  "download_filename": "multimodal_parsers-0.1.4.tar.gz",
+  "download_time": "2025-12-09T14:42:36.613571",
+  "package_url": "https://pypi.org/project/multimodal-parsers/"
+}

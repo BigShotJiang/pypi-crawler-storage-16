@@ -1,0 +1,11 @@
+{
+  "name": "ldlite",
+  "version": "3.2.1",
+  "summary": "Lightweight analytics tool for FOLIO services",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ldlite-3.2.1.tar.gz",
+  "download_time": "2025-12-09T14:42:08.178164",
+  "package_url": "https://pypi.org/project/ldlite/"
+}

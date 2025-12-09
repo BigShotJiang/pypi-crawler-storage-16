@@ -1,0 +1,11 @@
+{
+  "name": "datagouv-client",
+  "version": "0.2.2",
+  "summary": "Wrapper for the data.gouv.fr API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datagouv_client-0.2.2-py3-none-any.whl",
+  "download_time": "2025-12-09T14:42:36.084041",
+  "package_url": "https://pypi.org/project/datagouv-client/"
+}

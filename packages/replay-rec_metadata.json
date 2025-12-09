@@ -1,0 +1,11 @@
+{
+  "name": "replay-rec",
+  "version": "0.20.2",
+  "summary": "RecSys Library",
+  "author": "AI Lab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "replay_rec-0.20.2.tar.gz",
+  "download_time": "2025-12-09T14:42:15.379645",
+  "package_url": "https://pypi.org/project/replay-rec/"
+}

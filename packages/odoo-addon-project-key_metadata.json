@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-key",
+  "version": "18.0.1.0.1",
+  "summary": "Module decorates projects and tasks with Project Key",
+  "author": "Modoolar, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_project_key-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-12-09T14:42:31.937753",
+  "package_url": "https://pypi.org/project/odoo-addon-project-key/"
+}

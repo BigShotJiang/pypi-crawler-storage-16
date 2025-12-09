@@ -1,0 +1,11 @@
+{
+  "name": "ds-caselaw-marklogic-api-client",
+  "version": "44.2.0",
+  "summary": "An API client for interacting with the underlying data in Find Caselaw.",
+  "author": "The National Archives",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ds_caselaw_marklogic_api_client-44.2.0.tar.gz",
+  "download_time": "2025-12-09T14:42:40.817807",
+  "package_url": "https://pypi.org/project/ds-caselaw-marklogic-api-client/"
+}

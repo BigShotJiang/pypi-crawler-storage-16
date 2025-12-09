@@ -1,0 +1,11 @@
+{
+  "name": "tinybird-cli",
+  "version": "5.21.1",
+  "summary": "Tinybird Command Line Tool",
+  "author": "Tinybird",
+  "license": null,
+  "home_page": "https://www.tinybird.co/docs/cli",
+  "download_filename": "tinybird_cli-5.21.1.tar.gz",
+  "download_time": "2025-12-09T14:42:07.112911",
+  "package_url": "https://pypi.org/project/tinybird-cli/"
+}

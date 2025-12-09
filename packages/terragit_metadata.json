@@ -1,11 +1,11 @@
 {
   "name": "terragit",
-  "version": "0.3.84",
+  "version": "0.3.85",
   "summary": "terragit package",
   "author": "hana.mansia",
   "license": "MIT",
   "home_page": "https://gitlab.com/commons-acp/python/terraform-gitlab",
-  "download_filename": "terragit-0.3.84.tar.gz",
-  "download_time": "2025-12-09T14:16:00.707937",
+  "download_filename": "terragit-0.3.85.tar.gz",
+  "download_time": "2025-12-09T14:42:39.748068",
   "package_url": "https://pypi.org/project/terragit/"
 }

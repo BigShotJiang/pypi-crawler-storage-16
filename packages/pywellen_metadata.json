@@ -1,11 +1,11 @@
 {
   "name": "pywellen",
-  "version": "0.19.3",
+  "version": "0.20.0",
   "summary": "Fast VCD, GHW and FST wavedump reading.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pywellen-0.19.3.tar.gz",
-  "download_time": "2025-12-09T15:42:58.914121",
+  "download_filename": "pywellen-0.20.0-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-09T16:48:59.679613",
   "package_url": "https://pypi.org/project/pywellen/"
 }

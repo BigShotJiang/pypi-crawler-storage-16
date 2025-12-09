@@ -1,0 +1,11 @@
+{
+  "name": "solidstatetools",
+  "version": "0.0.3",
+  "summary": "Unified crystallography, diffraction, and TEM analysis toolbox for materials science labs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "solidstatetools-0.0.3.tar.gz",
+  "download_time": "2025-12-09T16:49:15.250123",
+  "package_url": "https://pypi.org/project/solidstatetools/"
+}

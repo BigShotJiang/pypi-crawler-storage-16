@@ -1,0 +1,11 @@
+{
+  "name": "liesel",
+  "version": "0.4.2",
+  "summary": "A probabilistic programming framework with a focus on semi-parametric regression",
+  "author": "Paul Wiemann, Hannes Riebl, Johannes Brachem, Gianmarco Callegher",
+  "license": null,
+  "home_page": null,
+  "download_filename": "liesel-0.4.2.tar.gz",
+  "download_time": "2025-12-09T16:49:05.769592",
+  "package_url": "https://pypi.org/project/liesel/"
+}

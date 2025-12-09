@@ -1,0 +1,11 @@
+{
+  "name": "duelink-stdlib-mp",
+  "version": "0.1.0",
+  "summary": "GHI Electronics DUELink MicroPython Library.",
+  "author": "GHI Electronics",
+  "license": "MIT",
+  "home_page": "https://www.duelink.com/",
+  "download_filename": "duelink_stdlib_mp-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-09T16:49:25.622927",
+  "package_url": "https://pypi.org/project/duelink-stdlib-mp/"
+}

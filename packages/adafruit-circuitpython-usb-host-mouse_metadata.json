@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-usb-host-mouse",
+  "version": "1.6.1",
+  "summary": "Helper class that encapsulates the objects needed for user code to interact with a USB mouse, draw a visible cursor, and determine when buttons are pressed.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_usb_host_mouse-1.6.1.tar.gz",
+  "download_time": "2025-12-09T16:49:05.054080",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-usb-host-mouse/"
+}

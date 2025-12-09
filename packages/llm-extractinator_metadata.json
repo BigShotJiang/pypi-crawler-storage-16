@@ -1,0 +1,11 @@
+{
+  "name": "llm-extractinator",
+  "version": "0.5.9",
+  "summary": "A framework that enables efficient extraction of structured data from unstructured text using large language models (LLMs).",
+  "author": "Luc Builtjes",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "llm_extractinator-0.5.9.tar.gz",
+  "download_time": "2025-12-09T16:49:11.473846",
+  "package_url": "https://pypi.org/project/llm-extractinator/"
+}

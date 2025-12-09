@@ -1,0 +1,11 @@
+{
+  "name": "ocean4dvarnet",
+  "version": "1.0.6",
+  "summary": "A computer program whose purpose is to apply deep learning schemes to dynamical systems and ocean remote sensing data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocean4dvarnet-1.0.6.tar.gz",
+  "download_time": "2025-12-09T16:49:14.223416",
+  "package_url": "https://pypi.org/project/ocean4dvarnet/"
+}

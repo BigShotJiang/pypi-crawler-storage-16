@@ -1,0 +1,11 @@
+{
+  "name": "dnslookup-cli",
+  "version": "0.1.1",
+  "summary": "Professional DNS lookup CLI with beautiful Rich output",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dnslookup_cli-0.1.1.tar.gz",
+  "download_time": "2025-12-09T16:49:21.514447",
+  "package_url": "https://pypi.org/project/dnslookup-cli/"
+}

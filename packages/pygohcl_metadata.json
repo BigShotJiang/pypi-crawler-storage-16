@@ -1,0 +1,11 @@
+{
+  "name": "pygohcl",
+  "version": "1.2.6",
+  "summary": "Python bindings for Hashicorp HCL2 Go library",
+  "author": "Lee Archer",
+  "license": null,
+  "home_page": "https://github.com/Scalr/pygohcl",
+  "download_filename": "pygohcl-1.2.6-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-12-09T16:48:58.605755",
+  "package_url": "https://pypi.org/project/pygohcl/"
+}

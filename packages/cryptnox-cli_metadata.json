@@ -1,0 +1,11 @@
+{
+  "name": "cryptnox-cli",
+  "version": "1.0.3",
+  "summary": "CLI for managing Cryptnox smart card wallets.",
+  "author": "Cryptnox SA",
+  "license": "LGPL-3.0",
+  "home_page": "https://www.cryptnox.com/",
+  "download_filename": "cryptnox_cli-1.0.3.tar.gz",
+  "download_time": "2025-12-09T16:49:00.748445",
+  "package_url": "https://pypi.org/project/cryptnox-cli/"
+}

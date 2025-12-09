@@ -1,0 +1,11 @@
+{
+  "name": "grib2io",
+  "version": "2.7.0",
+  "summary": "Python interface to the NCEP G2C Library for reading/writing GRIB2 files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grib2io-2.7.0.tar.gz",
+  "download_time": "2025-12-09T16:49:18.880223",
+  "package_url": "https://pypi.org/project/grib2io/"
+}

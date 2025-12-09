@@ -1,0 +1,11 @@
+{
+  "name": "profe",
+  "version": "0.1.3",
+  "summary": "Reduction Pipeline for OPTICAM Photometry of Exoplanets (PROFE in spanish)",
+  "author": "S. Paez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "profe-0.1.3-py3-none-any.whl",
+  "download_time": "2025-12-09T16:49:30.301376",
+  "package_url": "https://pypi.org/project/profe/"
+}

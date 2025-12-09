@@ -1,0 +1,11 @@
+{
+  "name": "david8",
+  "version": "0.5.0b1",
+  "summary": "Lightweight Python SQL query builder with support for multiple dialects: ClickHouse, PostgreSQL, DuckDB, MySQL and SQLite",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "david8-0.5.0b1.tar.gz",
+  "download_time": "2025-12-09T16:49:26.652283",
+  "package_url": "https://pypi.org/project/david8/"
+}

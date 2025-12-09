@@ -1,11 +1,11 @@
 {
   "name": "airflow-provider-twitterapi",
-  "version": "2025.12.9.post3",
+  "version": "2025.12.10",
   "summary": "Apache Airflow provider for TwitterAPI.io - integrates Twitter data access into Airflow workflows (Airflow 2.11+)",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "airflow_provider_twitterapi-2025.12.9.post3.tar.gz",
-  "download_time": "2025-12-09T02:48:39.780713",
+  "download_filename": "airflow_provider_twitterapi-2025.12.10.tar.gz",
+  "download_time": "2025-12-09T16:49:33.923561",
   "package_url": "https://pypi.org/project/airflow-provider-twitterapi/"
 }

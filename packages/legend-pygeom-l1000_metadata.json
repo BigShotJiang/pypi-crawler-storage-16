@@ -1,0 +1,11 @@
+{
+  "name": "legend-pygeom-l1000",
+  "version": "0.3.0",
+  "summary": "Geometry model of the LEGEND-1000 experimental setup",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "legend_pygeom_l1000-0.3.0.tar.gz",
+  "download_time": "2025-12-09T11:13:09.672071",
+  "package_url": "https://pypi.org/project/legend-pygeom-l1000/"
+}

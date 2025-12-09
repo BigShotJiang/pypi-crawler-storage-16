@@ -1,11 +1,11 @@
 {
   "name": "game-ai-client",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Client + MCTS helpers for board game AI integration with self-play support.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "game_ai_client-0.4.0.tar.gz",
-  "download_time": "2025-12-09T08:50:25.349096",
+  "download_filename": "game_ai_client-0.5.0.tar.gz",
+  "download_time": "2025-12-09T11:13:13.311049",
   "package_url": "https://pypi.org/project/game-ai-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "h2o-lightwave",
+  "version": "1.7.6",
+  "summary": "H2O Wave Python driver for integration with arbitrary python web frameworks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "h2o_lightwave-1.7.6-py3-none-any.whl",
+  "download_time": "2025-12-09T11:13:01.304854",
+  "package_url": "https://pypi.org/project/h2o-lightwave/"
+}

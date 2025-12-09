@@ -1,0 +1,11 @@
+{
+  "name": "wazzup-pysdk",
+  "version": "0.1.8",
+  "summary": "Asynchronous Python SDK for the Wazzup public and tech APIs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wazzup_pysdk-0.1.8.tar.gz",
+  "download_time": "2025-12-09T11:13:07.031234",
+  "package_url": "https://pypi.org/project/wazzup-pysdk/"
+}

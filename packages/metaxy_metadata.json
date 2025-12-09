@@ -1,0 +1,11 @@
+{
+  "name": "metaxy",
+  "version": "0.0.1.dev11",
+  "summary": "Pluggable versioned metadata management for incremental multi-modal pipelines.",
+  "author": "Daniel Gafni",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metaxy-0.0.1.dev11-py3-none-any.whl",
+  "download_time": "2025-12-09T11:13:02.336641",
+  "package_url": "https://pypi.org/project/metaxy/"
+}

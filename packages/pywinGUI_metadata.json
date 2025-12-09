@@ -1,11 +1,11 @@
 {
   "name": "pywinGUI",
-  "version": "1.2.6",
+  "version": "1.2.8",
   "summary": "PyWinGUI GUI Automation Library for Windows Forms (Binary Distribution)",
   "author": "User",
   "license": null,
   "home_page": null,
-  "download_filename": "pywingui-1.2.6-py3-none-any.whl",
-  "download_time": "2025-12-09T10:16:25.232411",
+  "download_filename": "pywingui-1.2.8-py3-none-any.whl",
+  "download_time": "2025-12-09T11:13:21.398731",
   "package_url": "https://pypi.org/project/pywinGUI/"
 }

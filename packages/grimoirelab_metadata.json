@@ -1,0 +1,11 @@
+{
+  "name": "grimoirelab",
+  "version": "1.17.3",
+  "summary": "Tool set for software development analytics",
+  "author": "GrimoireLab Developers",
+  "license": "GPL-3.0+",
+  "home_page": "https://chaoss.github.io/grimoirelab/",
+  "download_filename": "grimoirelab-1.17.3.tar.gz",
+  "download_time": "2025-12-09T11:13:02.860191",
+  "package_url": "https://pypi.org/project/grimoirelab/"
+}

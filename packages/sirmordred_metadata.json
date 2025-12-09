@@ -1,0 +1,11 @@
+{
+  "name": "sirmordred",
+  "version": "1.2.4",
+  "summary": "Drive GrimoireLab tools to produce a dashboard",
+  "author": "GrimoireLab Developers",
+  "license": "GPL-3.0+",
+  "home_page": "https://chaoss.github.io/grimoirelab/",
+  "download_filename": "sirmordred-1.2.4.tar.gz",
+  "download_time": "2025-12-09T11:13:15.429958",
+  "package_url": "https://pypi.org/project/sirmordred/"
+}

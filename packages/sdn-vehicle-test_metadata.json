@@ -1,0 +1,11 @@
+{
+  "name": "sdn-vehicle-test",
+  "version": "0.6.0",
+  "summary": "Simple vehicle abstractions with a synchronous in-memory repository: SimpleCar and InMemorySimpleCarRepository",
+  "author": "YourName",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sdn_vehicle_test-0.6.0.tar.gz",
+  "download_time": "2025-12-09T11:12:53.453791",
+  "package_url": "https://pypi.org/project/sdn-vehicle-test/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "slurm-factory",
-  "version": "0.1.25",
+  "version": "0.1.27",
   "summary": "Slurm builder project by Vantage Compute - builds Slurm packages in Docker containers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "slurm_factory-0.1.25.tar.gz",
-  "download_time": "2025-12-09T10:46:26.367649",
+  "download_filename": "slurm_factory-0.1.27.tar.gz",
+  "download_time": "2025-12-09T11:13:14.868111",
   "package_url": "https://pypi.org/project/slurm-factory/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agentbill-py-crewai",
+  "version": "6.8.6",
+  "summary": "AgentBill integration for CrewAI - Zero-config crew tracking",
+  "author": "AgentBill",
+  "license": "MIT",
+  "home_page": "https://agentbill.io",
+  "download_filename": "agentbill_py_crewai-6.8.6.tar.gz",
+  "download_time": "2025-12-09T11:12:36.659081",
+  "package_url": "https://pypi.org/project/agentbill-py-crewai/"
+}

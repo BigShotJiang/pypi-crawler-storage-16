@@ -1,0 +1,11 @@
+{
+  "name": "naay",
+  "version": "2025.12.8.post2",
+  "summary": "A fast YAML subset parser/dumper for Python powered by Rust",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/rbroderi/naay",
+  "download_filename": "naay-2025.12.8.post2.tar.gz",
+  "download_time": "2025-12-09T05:13:54.939864",
+  "package_url": "https://pypi.org/project/naay/"
+}

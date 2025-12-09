@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-inspector",
+  "version": "1.2.0",
+  "summary": "A MITM proxy tool to intercept, analyze and log AI coding assistant communications with LLM APIs",
+  "author": "chouzz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_code_inspector-1.2.0.tar.gz",
+  "download_time": "2025-12-09T05:14:01.658484",
+  "package_url": "https://pypi.org/project/claude-code-inspector/"
+}

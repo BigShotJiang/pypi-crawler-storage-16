@@ -1,0 +1,11 @@
+{
+  "name": "cnoe-agent-utils",
+  "version": "0.3.9",
+  "summary": "Core utilities for CNOE agents including LLM factory, tracing, and base agent classes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cnoe_agent_utils-0.3.9.tar.gz",
+  "download_time": "2025-12-09T05:13:51.870984",
+  "package_url": "https://pypi.org/project/cnoe-agent-utils/"
+}

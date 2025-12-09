@@ -1,0 +1,11 @@
+{
+  "name": "azure-sfi-agent",
+  "version": "1.0.22",
+  "summary": "Azure MCP Agent for secure, compliant resource deployment",
+  "author": "Siddhant Jha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_sfi_agent-1.0.22.tar.gz",
+  "download_time": "2025-12-09T05:13:53.402792",
+  "package_url": "https://pypi.org/project/azure-sfi-agent/"
+}

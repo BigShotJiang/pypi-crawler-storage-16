@@ -1,0 +1,11 @@
+{
+  "name": "boto3-assist",
+  "version": "0.34.0",
+  "summary": "Additional boto3 wrappers to make your life a little easier",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boto3_assist-0.34.0.tar.gz",
+  "download_time": "2025-12-09T05:14:01.143963",
+  "package_url": "https://pypi.org/project/boto3-assist/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jamstats",
+  "version": "3.5.1",
+  "summary": "Data processing, stats and plots on roller derby scoreboard JSON files",
+  "author": "Damon May",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jamstats-3.5.1.tar.gz",
+  "download_time": "2025-12-09T05:13:22.842832",
+  "package_url": "https://pypi.org/project/jamstats/"
+}

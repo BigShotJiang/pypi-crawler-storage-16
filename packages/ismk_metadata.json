@@ -1,0 +1,11 @@
+{
+  "name": "ismk",
+  "version": "2025.12.9",
+  "summary": "Modified SMK library that supports defining workflows via strings without Snakefile",
+  "author": "DeeliN221",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ismk-2025.12.9.tar.gz",
+  "download_time": "2025-12-09T05:13:50.841763",
+  "package_url": "https://pypi.org/project/ismk/"
+}

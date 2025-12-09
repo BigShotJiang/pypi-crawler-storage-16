@@ -1,0 +1,11 @@
+{
+  "name": "semantic-recall",
+  "version": "1.4.1",
+  "summary": "Semantic Vector Memory for Coding Agents - Long-term context and fact tracking",
+  "author": "Recall Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "semantic_recall-1.4.1.tar.gz",
+  "download_time": "2025-12-09T05:13:40.422242",
+  "package_url": "https://pypi.org/project/semantic-recall/"
+}

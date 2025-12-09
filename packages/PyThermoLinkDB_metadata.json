@@ -1,0 +1,11 @@
+{
+  "name": "PyThermoLinkDB",
+  "version": "1.4.4",
+  "summary": "PyThermoLinkDB is a Python package providing a robust and efficient interface between `PyThermoDB` and other applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythermolinkdb-1.4.4.tar.gz",
+  "download_time": "2025-12-09T05:13:38.882134",
+  "package_url": "https://pypi.org/project/PyThermoLinkDB/"
+}

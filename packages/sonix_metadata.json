@@ -1,0 +1,11 @@
+{
+  "name": "sonix",
+  "version": "0.1.1",
+  "summary": "Sonix: extract rich analytical signals directly from audio files",
+  "author": "Dima Statz",
+  "license": null,
+  "home_page": "https://github.com/dimastatz/sonix",
+  "download_filename": "sonix-0.1.1.tar.gz",
+  "download_time": "2025-12-09T05:13:56.988629",
+  "package_url": "https://pypi.org/project/sonix/"
+}

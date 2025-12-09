@@ -1,0 +1,11 @@
+{
+  "name": "flowclient",
+  "version": "1.34.0",
+  "summary": "Python client library for the FlowMachine API.",
+  "author": "Flowminder Foundation",
+  "license": null,
+  "home_page": "https://github.com/Flowminder/FlowKit",
+  "download_filename": "flowclient-1.34.0-py3-none-any.whl",
+  "download_time": "2025-12-09T05:13:48.205936",
+  "package_url": "https://pypi.org/project/flowclient/"
+}

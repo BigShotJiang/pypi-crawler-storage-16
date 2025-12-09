@@ -1,0 +1,11 @@
+{
+  "name": "b12od",
+  "version": "0.1.3",
+  "summary": "Python bindings for b12od C library",
+  "author": "21M4TW",
+  "license": "\"BSD-2-Clause\"",
+  "home_page": "https://github.com/21M4TW/b12od",
+  "download_filename": "b12od-0.1.3.tar.gz",
+  "download_time": "2025-12-09T05:13:39.906574",
+  "package_url": "https://pypi.org/project/b12od/"
+}

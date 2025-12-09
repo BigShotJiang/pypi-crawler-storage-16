@@ -1,11 +1,11 @@
 {
   "name": "sketchfab-spinner",
-  "version": "99.9.10",
+  "version": "99.9.11",
   "summary": "Security Research PoC",
-  "author": "Security Researcher",
+  "author": "Researcher",
   "license": null,
   "home_page": null,
-  "download_filename": "sketchfab_spinner-99.9.10.tar.gz",
-  "download_time": "2025-12-09T04:22:55.525377",
+  "download_filename": "sketchfab_spinner-99.9.11.tar.gz",
+  "download_time": "2025-12-09T05:13:42.499046",
   "package_url": "https://pypi.org/project/sketchfab-spinner/"
 }

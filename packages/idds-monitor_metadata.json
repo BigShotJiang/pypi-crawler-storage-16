@@ -1,0 +1,11 @@
+{
+  "name": "idds-monitor",
+  "version": "2.4.5",
+  "summary": "intelligent Data Delivery Service(iDDS) Package",
+  "author": "IRIS-HEP Team",
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "idds_monitor-2.4.5.tar.gz",
+  "download_time": "2025-12-09T10:16:10.481063",
+  "package_url": "https://pypi.org/project/idds-monitor/"
+}

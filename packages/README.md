@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-09T09:54:22.329937
-- **Total Packages**: 91
-- **Total Size**: 87.1 MB
+- **Download Time**: 2025-12-09T10:16:59.370115
+- **Total Packages**: 93
+- **Total Size**: 23.05 MB
 
 ## Packages List
+- pandablocks
+- inspect-k8s-sandbox
+- nosqltangodb
+- qinglong-mcp-server
+- evaluatorq
+- adaptive-router-core
+- graphql-mcp
+- apyds
+- vital
+- langchain-catchall
+- idds-workflow
+- idds-website
+- idds-monitor
+- idds-server
+- idds-doma
+- idds-common
+- idds-client
+- zptess
+- idds-atlas
+- pyloops
+- alita-sdk
+- paymentus-core
+- frogml
+- pynitevolumes-edu
+- typer-injector
+- dv-py
+- LHCbDIRAC
+- alibabacloud-paistudio20220112
 - cmstp
 - dsp-tools
 - localstack-core
@@ -71,29 +99,3 @@
 - modal
 - pysdic
 - datapie
-- django-unicom
-- dell-unity-mcp-server
-- databeam-mcap-reader
-- azure-sfi-agent
-- do-not-install-this-package-001
-- apyds
-- dhscan-agent
-- exasol-script-languages-container-tool
-- ddpc
-- ezomero
-- boto3-refresh-session
-- cielo-connect-api
-- tricoder
-- invenio-rdm-records
-- xyra-whatsapp
-- ccs-digitalmarketplace-apiclient
-- livekit-plugins-faseeh
-- leukeleu-django-gdpr
-- lesscode-flask
-- adaptive-harmony
-- python3-openEuler
-- napari-crop
-- metabolism
-- fusionx
-- lyrpy
-- spark-rapids-user-tools

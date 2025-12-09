@@ -1,0 +1,11 @@
+{
+  "name": "nosqltangodb",
+  "version": "1.0.6",
+  "summary": "NoSQL in-memory Tango DB for project testing",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "nosqltangodb-1.0.6-py3-none-any.whl",
+  "download_time": "2025-12-09T10:16:03.243501",
+  "package_url": "https://pypi.org/project/nosqltangodb/"
+}

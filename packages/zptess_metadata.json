@@ -1,0 +1,11 @@
+{
+  "name": "zptess",
+  "version": "6.1.5",
+  "summary": "TESS-W Calibration tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zptess-6.1.5.tar.gz",
+  "download_time": "2025-12-09T10:16:13.725044",
+  "package_url": "https://pypi.org/project/zptess/"
+}

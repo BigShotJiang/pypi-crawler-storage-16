@@ -1,0 +1,11 @@
+{
+  "name": "pyloops",
+  "version": "1.7.0",
+  "summary": "Unofficial Python SDK for Loops.so email platform",
+  "author": "zegerius",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyloops-1.7.0.tar.gz",
+  "download_time": "2025-12-09T10:16:15.015203",
+  "package_url": "https://pypi.org/project/pyloops/"
+}

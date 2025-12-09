@@ -1,11 +1,11 @@
 {
   "name": "langgraph-api",
-  "version": "0.5.34",
+  "version": "0.5.35",
   "summary": null,
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "langgraph_api-0.5.34.tar.gz",
-  "download_time": "2025-12-08T21:48:11.046071",
+  "download_filename": "langgraph_api-0.5.35.tar.gz",
+  "download_time": "2025-12-09T00:59:49.982242",
   "package_url": "https://pypi.org/project/langgraph-api/"
 }

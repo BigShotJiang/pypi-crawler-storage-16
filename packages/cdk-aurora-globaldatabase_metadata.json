@@ -1,0 +1,11 @@
+{
+  "name": "cdk-aurora-globaldatabase",
+  "version": "2.3.1034",
+  "summary": "cdk-aurora-globaldatabase is an AWS CDK construct library that provides Cross Region Create Global Aurora RDS Databases.",
+  "author": "Neil Kuan<guan840912@gmail.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/neilkuan/cdk-aurora-globaldatabase.git",
+  "download_filename": "cdk_aurora_globaldatabase-2.3.1034.tar.gz",
+  "download_time": "2025-12-09T00:59:43.071015",
+  "package_url": "https://pypi.org/project/cdk-aurora-globaldatabase/"
+}

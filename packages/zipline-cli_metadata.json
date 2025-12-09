@@ -1,0 +1,11 @@
+{
+  "name": "zipline-cli",
+  "version": "0.2.3",
+  "summary": "Python 3 CLI File Uploader for Diced/Zipline v3/v4 Upload Server and Django Files.",
+  "author": "Shane",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "zipline_cli-0.2.3.tar.gz",
+  "download_time": "2025-12-09T00:59:58.944958",
+  "package_url": "https://pypi.org/project/zipline-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "phonopy",
-  "version": "2.45.0",
+  "version": "2.45.1",
   "summary": "This is the phonopy module.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phonopy-2.45.0.tar.gz",
-  "download_time": "2025-12-08T23:30:21.528998",
+  "download_filename": "phonopy-2.45.1.tar.gz",
+  "download_time": "2025-12-09T00:59:30.322121",
   "package_url": "https://pypi.org/project/phonopy/"
 }

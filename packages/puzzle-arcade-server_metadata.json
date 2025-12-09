@@ -1,0 +1,11 @@
+{
+  "name": "puzzle-arcade-server",
+  "version": "0.1.1",
+  "summary": "Multi-game puzzle server for telnet - LLMs with MCP solvers welcome!",
+  "author": "Chris Hay",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "puzzle_arcade_server-0.1.1.tar.gz",
+  "download_time": "2025-12-09T00:59:26.569014",
+  "package_url": "https://pypi.org/project/puzzle-arcade-server/"
+}

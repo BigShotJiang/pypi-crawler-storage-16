@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-move-delivery-invoice",
+  "version": "18.0.1.0.0.2",
+  "summary": "Account Move Delivery Invoice",
+  "author": "Quartile, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-japan",
+  "download_filename": "odoo_addon_account_move_delivery_invoice-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-09T00:59:20.739802",
+  "package_url": "https://pypi.org/project/odoo-addon-account-move-delivery-invoice/"
+}

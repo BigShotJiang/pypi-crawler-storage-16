@@ -1,0 +1,11 @@
+{
+  "name": "qai-hub",
+  "version": "0.42.0",
+  "summary": "Python API for Qualcomm® AI Hub.",
+  "author": "Qualcomm® Technologies, Inc.",
+  "license": "BSD License",
+  "home_page": "https://aihub.qualcomm.com/",
+  "download_filename": "qai_hub-0.42.0-py3-none-any.whl",
+  "download_time": "2025-12-09T00:59:35.565890",
+  "package_url": "https://pypi.org/project/qai-hub/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "evolocity",
+  "version": "1.1",
+  "summary": "Evolutionary velocity with protein language models",
+  "author": "Brian Hie",
+  "license": "MIT",
+  "home_page": "https://github.com/brianhie/evolocity",
+  "download_filename": "evolocity-1.1.tar.gz",
+  "download_time": "2025-12-09T00:59:49.454514",
+  "package_url": "https://pypi.org/project/evolocity/"
+}

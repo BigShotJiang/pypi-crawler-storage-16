@@ -1,11 +1,11 @@
 {
   "name": "lm-cloud-sync",
-  "version": "2.0.2",
+  "version": "2.0.5",
   "summary": "Multi-cloud automation tool for LogicMonitor integrations. GCP support in v2.0, AWS/Azure coming soon.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lm_cloud_sync-2.0.2.tar.gz",
-  "download_time": "2025-12-08T23:30:50.050038",
+  "download_filename": "lm_cloud_sync-2.0.5.tar.gz",
+  "download_time": "2025-12-09T00:59:41.387469",
   "package_url": "https://pypi.org/project/lm-cloud-sync/"
 }

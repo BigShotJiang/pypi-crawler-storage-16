@@ -1,0 +1,11 @@
+{
+  "name": "openbench",
+  "version": "0.5.3",
+  "summary": "openbench - open source, replicable, and standardized evaluation infrastructure",
+  "author": "Aarush Sah, Groq",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openbench-0.5.3.tar.gz",
+  "download_time": "2025-12-09T00:59:23.901899",
+  "package_url": "https://pypi.org/project/openbench/"
+}

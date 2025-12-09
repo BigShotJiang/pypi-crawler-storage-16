@@ -1,0 +1,11 @@
+{
+  "name": "cursor-cli",
+  "version": "0.1.2",
+  "summary": "A wrapper for cursor-agent with formatted output support",
+  "author": "AITS Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cursor_cli-0.1.2.tar.gz",
+  "download_time": "2025-12-09T00:59:55.803138",
+  "package_url": "https://pypi.org/project/cursor-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-ai",
+  "version": "1.28.0",
+  "summary": "Agent Framework / shim to use Pydantic with LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_ai-1.28.0.tar.gz",
+  "download_time": "2025-12-09T00:59:33.464382",
+  "package_url": "https://pypi.org/project/pydantic-ai/"
+}

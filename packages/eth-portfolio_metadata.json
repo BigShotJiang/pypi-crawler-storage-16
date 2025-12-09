@@ -1,0 +1,11 @@
+{
+  "name": "eth-portfolio",
+  "version": "0.4.2",
+  "summary": "eth-portfolio makes it easy to analyze your portfolio.",
+  "author": "BobTheBuidler",
+  "license": null,
+  "home_page": "https://github.com/BobTheBuidler/eth-portfolio",
+  "download_filename": "eth_portfolio-0.4.2.tar.gz",
+  "download_time": "2025-12-09T04:22:21.237537",
+  "package_url": "https://pypi.org/project/eth-portfolio/"
+}

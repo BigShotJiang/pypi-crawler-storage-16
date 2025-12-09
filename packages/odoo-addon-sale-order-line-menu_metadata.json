@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-order-line-menu",
+  "version": "18.0.1.0.0.6",
+  "summary": "Adds a Sale Order Lines Menu",
+  "author": "Open Source Integrators, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_order_line_menu-18.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-12-09T04:22:43.263518",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-order-line-menu/"
+}

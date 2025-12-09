@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-cdktf-provider-digitalocean",
+  "version": "13.14.0",
+  "summary": "Prebuilt digitalocean Provider for Terraform CDK (cdktf)",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-provider-digitalocean.git",
+  "download_filename": "cdktf_cdktf_provider_digitalocean-13.14.0.tar.gz",
+  "download_time": "2025-12-09T04:22:57.769594",
+  "package_url": "https://pypi.org/project/cdktf-cdktf-provider-digitalocean/"
+}

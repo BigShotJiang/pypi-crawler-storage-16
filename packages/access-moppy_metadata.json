@@ -1,0 +1,11 @@
+{
+  "name": "access-moppy",
+  "version": "1.0.2a1",
+  "summary": "ACCESS Model Output Post-Processor, maps raw model output to CMIP-style defined variables and produce post-processed output using CMOR3",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "access_moppy-1.0.2a1.tar.gz",
+  "download_time": "2025-12-09T04:22:28.139611",
+  "package_url": "https://pypi.org/project/access-moppy/"
+}

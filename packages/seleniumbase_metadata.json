@@ -1,0 +1,11 @@
+{
+  "name": "seleniumbase",
+  "version": "4.45.1",
+  "summary": "A complete web automation framework for end-to-end testing.",
+  "author": "Michael Mintz",
+  "license": "MIT",
+  "home_page": "https://github.com/seleniumbase/SeleniumBase",
+  "download_filename": "seleniumbase-4.45.1.tar.gz",
+  "download_time": "2025-12-09T04:22:35.847632",
+  "package_url": "https://pypi.org/project/seleniumbase/"
+}

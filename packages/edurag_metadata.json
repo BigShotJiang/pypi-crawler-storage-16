@@ -1,0 +1,11 @@
+{
+  "name": "edurag",
+  "version": "0.1.2",
+  "summary": "基于LLM的教育RAG组件，支持解题、文献分析、知识点答疑",
+  "author": "EduRAG Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "edurag-0.1.2.tar.gz",
+  "download_time": "2025-12-09T04:22:30.231073",
+  "package_url": "https://pypi.org/project/edurag/"
+}

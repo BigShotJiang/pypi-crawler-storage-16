@@ -1,11 +1,11 @@
 {
   "name": "sketchfab-spinner",
-  "version": "99.9.9",
-  "summary": "Security Research PoC for Dependency Confusion",
+  "version": "99.9.10",
+  "summary": "Security Research PoC",
   "author": "Security Researcher",
   "license": null,
   "home_page": null,
-  "download_filename": "sketchfab_spinner-99.9.9.tar.gz",
-  "download_time": "2025-12-09T03:47:02.234147",
+  "download_filename": "sketchfab_spinner-99.9.10.tar.gz",
+  "download_time": "2025-12-09T04:22:55.525377",
   "package_url": "https://pypi.org/project/sketchfab-spinner/"
 }

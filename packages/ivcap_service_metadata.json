@@ -1,11 +1,11 @@
 {
   "name": "ivcap_service",
-  "version": "0.6.14",
+  "version": "0.6.15",
   "summary": "SDK library for building services for the IVCAP platform",
   "author": "Max Ott",
   "license": null,
   "home_page": null,
-  "download_filename": "ivcap_service-0.6.14.tar.gz",
-  "download_time": "2025-12-09T00:59:25.526745",
+  "download_filename": "ivcap_service-0.6.15.tar.gz",
+  "download_time": "2025-12-09T04:22:52.432629",
   "package_url": "https://pypi.org/project/ivcap_service/"
 }

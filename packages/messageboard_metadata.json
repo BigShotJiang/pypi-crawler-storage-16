@@ -1,0 +1,11 @@
+{
+  "name": "messageboard",
+  "version": "0.1.0a0",
+  "summary": "A synchronization primitive containing a value, allowing threads to concurrently set the value and peek the most recently set value.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "messageboard-0.1.0a0.tar.gz",
+  "download_time": "2025-12-09T04:23:03.128205",
+  "package_url": "https://pypi.org/project/messageboard/"
+}

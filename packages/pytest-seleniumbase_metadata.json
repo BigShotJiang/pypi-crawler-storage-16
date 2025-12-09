@@ -1,0 +1,11 @@
+{
+  "name": "pytest-seleniumbase",
+  "version": "4.45.1",
+  "summary": "A complete web automation framework for end-to-end testing.",
+  "author": "Michael Mintz",
+  "license": "MIT",
+  "home_page": "https://github.com/seleniumbase/SeleniumBase",
+  "download_filename": "pytest_seleniumbase-4.45.1.tar.gz",
+  "download_time": "2025-12-09T04:22:31.884525",
+  "package_url": "https://pypi.org/project/pytest-seleniumbase/"
+}

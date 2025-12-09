@@ -1,0 +1,11 @@
+{
+  "name": "pgmate",
+  "version": "0.1.0",
+  "summary": "PostgreSQL All-in-One Toolkit (Queue + Cron + KV Store + PubSub)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pgmate-0.1.0.tar.gz",
+  "download_time": "2025-12-09T04:22:25.471237",
+  "package_url": "https://pypi.org/project/pgmate/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "azcore",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "A professional hierarchical multi-agent framework built on python.",
   "author": "Azrienlabs team",
   "license": "MIT",
   "home_page": "https://github.com/Azrienlabs/Az-Core",
-  "download_filename": "azcore-0.0.10.tar.gz",
-  "download_time": "2025-12-09T03:47:12.526080",
+  "download_filename": "azcore-0.0.11.tar.gz",
+  "download_time": "2025-12-09T04:22:29.168257",
   "package_url": "https://pypi.org/project/azcore/"
 }

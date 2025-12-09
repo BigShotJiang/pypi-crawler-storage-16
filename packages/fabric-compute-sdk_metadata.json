@@ -1,11 +1,11 @@
 {
   "name": "fabric-compute-sdk",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "Official Python SDK for Fabric - Distributed AI Compute Network",
   "author": "Carmel Labs, Inc.",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": "https://github.com/Carmel-Labs-Inc/fabric-sdk",
-  "download_filename": "fabric_compute_sdk-1.0.6.tar.gz",
-  "download_time": "2025-12-09T03:46:42.001582",
+  "download_filename": "fabric_compute_sdk-1.0.8.tar.gz",
+  "download_time": "2025-12-09T04:22:58.792175",
   "package_url": "https://pypi.org/project/fabric-compute-sdk/"
 }

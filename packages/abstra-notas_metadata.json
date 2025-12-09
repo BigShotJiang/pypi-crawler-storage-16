@@ -1,0 +1,11 @@
+{
+  "name": "abstra-notas",
+  "version": "0.0.20",
+  "summary": "Biblioteca de emissão de notas fiscais eletrônicas para empresas brasileiras.",
+  "author": "Abstra",
+  "license": "MIT",
+  "home_page": "https://github.com/abstra-app/abstra_notas",
+  "download_filename": "abstra_notas-0.0.20.tar.gz",
+  "download_time": "2025-12-09T21:42:03.945045",
+  "package_url": "https://pypi.org/project/abstra-notas/"
+}

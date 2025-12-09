@@ -1,0 +1,11 @@
+{
+  "name": "silence-remover-ad",
+  "version": "1.0.0",
+  "summary": "A module to remove silence part with a user-friendly UI",
+  "author": "Alexandre Delaisement",
+  "license": null,
+  "home_page": "https://github.com/AlexandreDela/silence_remover_ad",
+  "download_filename": "silence_remover_ad-1.0.0.tar.gz",
+  "download_time": "2025-12-09T21:42:11.303978",
+  "package_url": "https://pypi.org/project/silence-remover-ad/"
+}

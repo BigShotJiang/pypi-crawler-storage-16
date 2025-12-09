@@ -1,11 +1,11 @@
 {
   "name": "nuacht",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Grabs entries from RSS feeds and stores in a database.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nuacht-0.0.8.tar.gz",
-  "download_time": "2025-12-08T23:30:40.476173",
+  "download_filename": "nuacht-0.0.9.tar.gz",
+  "download_time": "2025-12-09T21:42:32.379244",
   "package_url": "https://pypi.org/project/nuacht/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "regression-inference",
+  "version": "1.0.1",
+  "summary": "OLS and MLE regression inference for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "regression_inference-1.0.1.tar.gz",
+  "download_time": "2025-12-09T21:42:00.643675",
+  "package_url": "https://pypi.org/project/regression-inference/"
+}

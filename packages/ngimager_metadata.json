@@ -1,0 +1,11 @@
+{
+  "name": "ngimager",
+  "version": "1.2.1",
+  "summary": "Event-cone imaging (neutron & gamma ray) with fastmode and list-mode pipelines.",
+  "author": "Hunter Ratliff",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "ngimager-1.2.1.tar.gz",
+  "download_time": "2025-12-09T21:42:34.584175",
+  "package_url": "https://pypi.org/project/ngimager/"
+}

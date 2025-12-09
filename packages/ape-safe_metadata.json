@@ -1,0 +1,11 @@
+{
+  "name": "ape-safe",
+  "version": "0.8.20",
+  "summary": "ape-safe: Gnosis Safe account plugin for Ape",
+  "author": "ApeWorX Ltd.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ApeWorX/ape-safe",
+  "download_filename": "ape_safe-0.8.20.tar.gz",
+  "download_time": "2025-12-09T21:42:18.150294",
+  "package_url": "https://pypi.org/project/ape-safe/"
+}

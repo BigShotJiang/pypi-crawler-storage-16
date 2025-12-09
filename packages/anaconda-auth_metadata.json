@@ -1,0 +1,11 @@
+{
+  "name": "anaconda-auth",
+  "version": "0.12.1",
+  "summary": "A client auth library for Anaconda APIs",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "anaconda_auth-0.12.1.tar.gz",
+  "download_time": "2025-12-09T21:42:27.595379",
+  "package_url": "https://pypi.org/project/anaconda-auth/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aind-mgi-service-async-client",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "aind-mgi-service",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": null,
-  "download_filename": "aind_mgi_service_async_client-0.2.2.tar.gz",
-  "download_time": "2025-12-09T18:50:26.529432",
+  "download_filename": "aind_mgi_service_async_client-0.2.3.tar.gz",
+  "download_time": "2025-12-09T21:42:14.485056",
   "package_url": "https://pypi.org/project/aind-mgi-service-async-client/"
 }

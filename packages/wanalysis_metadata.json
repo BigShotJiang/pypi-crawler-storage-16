@@ -1,0 +1,11 @@
+{
+  "name": "wanalysis",
+  "version": "1.0.1",
+  "summary": "This is wanalysis, a module for microtonal analysis",
+  "author": "Melvin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wanalysis-1.0.1.tar.gz",
+  "download_time": "2025-12-09T21:42:23.411431",
+  "package_url": "https://pypi.org/project/wanalysis/"
+}

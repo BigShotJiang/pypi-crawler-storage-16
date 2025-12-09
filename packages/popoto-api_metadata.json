@@ -1,0 +1,11 @@
+{
+  "name": "popoto-api",
+  "version": "0.5.0",
+  "summary": "Package containing the Popoto Modem Python API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "popoto_api-0.5.0.tar.gz",
+  "download_time": "2025-12-09T21:42:19.202707",
+  "package_url": "https://pypi.org/project/popoto-api/"
+}

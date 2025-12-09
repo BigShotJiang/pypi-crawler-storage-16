@@ -1,0 +1,11 @@
+{
+  "name": "protolink",
+  "version": "0.3.5",
+  "summary": "A framework for building and managing agents based on the A2A protocol.",
+  "author": "Nikolaos Maroulis",
+  "license": "MIT",
+  "home_page": "https://github.com/nMaroulis/protolink",
+  "download_filename": "protolink-0.3.5.tar.gz",
+  "download_time": "2025-12-09T21:42:01.167690",
+  "package_url": "https://pypi.org/project/protolink/"
+}

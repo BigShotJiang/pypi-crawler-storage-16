@@ -1,11 +1,11 @@
 {
   "name": "ptwordlists",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": null,
   "author": "Penterep",
   "license": "GPLv3",
   "home_page": "https://www.penterep.com/",
-  "download_filename": "ptwordlists-0.0.5.tar.gz",
-  "download_time": "2025-12-09T20:33:18.863860",
+  "download_filename": "ptwordlists-0.0.6.tar.gz",
+  "download_time": "2025-12-09T21:42:45.674172",
   "package_url": "https://pypi.org/project/ptwordlists/"
 }

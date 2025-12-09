@@ -1,0 +1,11 @@
+{
+  "name": "mcp-local-vision",
+  "version": "0.1.0",
+  "summary": "MCP Server that enables local agentic flows or inference to capture and to 'see/analyze' images in a continuous loop (for example, when using LMStudio for Agentic Flow and a VLM can retrieve but not actually see the real pixels of the picture and the flow breaks).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_local_vision-0.1.0.tar.gz",
+  "download_time": "2025-12-09T21:42:01.690577",
+  "package_url": "https://pypi.org/project/mcp-local-vision/"
+}

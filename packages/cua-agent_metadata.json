@@ -1,0 +1,11 @@
+{
+  "name": "cua-agent",
+  "version": "0.5.2",
+  "summary": "CUA (Computer Use) Agent for AI-driven computer interaction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cua_agent-0.5.2.tar.gz",
+  "download_time": "2025-12-09T21:42:16.579955",
+  "package_url": "https://pypi.org/project/cua-agent/"
+}

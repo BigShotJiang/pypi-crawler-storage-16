@@ -1,0 +1,11 @@
+{
+  "name": "avtomatika",
+  "version": "1.0b1",
+  "summary": "A state-machine based orchestrator for long-running jobs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "avtomatika-1.0b1.tar.gz",
+  "download_time": "2025-12-09T21:42:33.430071",
+  "package_url": "https://pypi.org/project/avtomatika/"
+}

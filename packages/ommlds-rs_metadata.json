@@ -1,11 +1,11 @@
 {
   "name": "ommlds-rs",
-  "version": "0.0.0.dev485",
+  "version": "0.0.0.dev486",
   "summary": "ommlds",
   "author": "wrmsr",
   "license": null,
   "home_page": null,
-  "download_filename": "ommlds_rs-0.0.0.dev485.tar.gz",
-  "download_time": "2025-12-08T22:13:00.685913",
+  "download_filename": "ommlds_rs-0.0.0.dev486.tar.gz",
+  "download_time": "2025-12-09T21:42:37.744872",
   "package_url": "https://pypi.org/project/ommlds-rs/"
 }

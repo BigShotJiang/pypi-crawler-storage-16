@@ -1,0 +1,11 @@
+{
+  "name": "cua-bench-ui",
+  "version": "0.7.0",
+  "summary": "Lightweight webUI window controller for CUA bench using pywebview",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cua_bench_ui-0.7.0.tar.gz",
+  "download_time": "2025-12-09T21:42:38.786195",
+  "package_url": "https://pypi.org/project/cua-bench-ui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "navigator-auth",
+  "version": "0.15.10",
+  "summary": "Navigator Auth is an Authentication/Authorization Toolkit for aiohttp.",
+  "author": "Jesus Lara",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/phenobarbital/navigator-auth",
+  "download_filename": "navigator_auth-0.15.10-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-12-09T13:48:59.152686",
+  "package_url": "https://pypi.org/project/navigator-auth/"
+}

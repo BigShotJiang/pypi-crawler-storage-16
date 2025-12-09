@@ -1,0 +1,11 @@
+{
+  "name": "collective.monkeypatcher",
+  "version": "2.0.1",
+  "summary": "Support for applying monkey patches late in the startup cycle by using ZCML configuration actions",
+  "author": "Martin Aspeli",
+  "license": "BSD",
+  "home_page": "https://github.com/plone/collective.monkeypatcher",
+  "download_filename": "collective_monkeypatcher-2.0.1.tar.gz",
+  "download_time": "2025-12-09T13:49:33.378422",
+  "package_url": "https://pypi.org/project/collective.monkeypatcher/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aframexr",
+  "version": "0.5.0",
+  "summary": "Python library to visualize data in Virtual and Extended Reality using Aframe components.",
+  "author": "David Díaz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aframexr-0.5.0.tar.gz",
+  "download_time": "2025-12-09T13:48:56.847381",
+  "package_url": "https://pypi.org/project/aframexr/"
+}

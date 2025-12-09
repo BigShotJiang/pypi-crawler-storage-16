@@ -1,11 +1,11 @@
 {
   "name": "gecko-iot-client",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A Python client library for Gecko IoT devices with AWS IoT integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gecko_iot_client-0.2.1.tar.gz",
-  "download_time": "2025-12-09T05:13:44.561818",
+  "download_filename": "gecko_iot_client-0.2.2.tar.gz",
+  "download_time": "2025-12-09T13:48:58.568784",
   "package_url": "https://pypi.org/project/gecko-iot-client/"
 }

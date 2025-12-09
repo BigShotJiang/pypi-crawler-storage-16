@@ -1,0 +1,11 @@
+{
+  "name": "ebm",
+  "version": "1.0.4",
+  "summary": "EBM is a bottom-up model that forecast estimates how area, energy need, heating systems and yearly energy use in the Norwegian building stock towards 2050",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ebm-1.0.4.tar.gz",
+  "download_time": "2025-12-09T13:49:31.657525",
+  "package_url": "https://pypi.org/project/ebm/"
+}

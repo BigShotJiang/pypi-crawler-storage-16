@@ -1,0 +1,11 @@
+{
+  "name": "LightSim2Grid",
+  "version": "0.11.0",
+  "summary": "LightSim2Grid implements a c++ backend targeting the Grid2Op platform.",
+  "author": "Benjamin Donnot",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/grid2op/lightsim2grid/",
+  "download_filename": "lightsim2grid-0.11.0.tar.gz",
+  "download_time": "2025-12-09T13:48:51.653565",
+  "package_url": "https://pypi.org/project/LightSim2Grid/"
+}

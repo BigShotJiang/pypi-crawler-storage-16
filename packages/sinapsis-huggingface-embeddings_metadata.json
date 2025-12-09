@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-huggingface-embeddings",
+  "version": "0.1.10",
+  "summary": "Templates to generate and/or extract text and image embeddings using HuggingFace",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_huggingface_embeddings-0.1.10.tar.gz",
+  "download_time": "2025-12-09T20:33:15.614402",
+  "package_url": "https://pypi.org/project/sinapsis-huggingface-embeddings/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vtap100",
+  "version": "1.0.0b5",
+  "summary": "Configuration generator for Dot Origin VTAP100 NFC reader",
+  "author": "HEIDI Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vtap100-1.0.0b5.tar.gz",
+  "download_time": "2025-12-09T20:33:04.273883",
+  "package_url": "https://pypi.org/project/vtap100/"
+}

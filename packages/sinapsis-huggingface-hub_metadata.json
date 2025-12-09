@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-huggingface-hub",
+  "version": "0.1.1",
+  "summary": "Templates for managing Hugging Face models, spaces and datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_huggingface_hub-0.1.1.tar.gz",
+  "download_time": "2025-12-09T20:33:14.526886",
+  "package_url": "https://pypi.org/project/sinapsis-huggingface-hub/"
+}

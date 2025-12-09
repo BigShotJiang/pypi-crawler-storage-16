@@ -1,11 +1,11 @@
 {
   "name": "lovdtools",
-  "version": "0.1.0.dev21",
+  "version": "0.1.0.dev22",
   "summary": "A fluent API client for the Global Variome shared LOVD instance.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lovdtools-0.1.0.dev21.tar.gz",
-  "download_time": "2025-12-09T00:59:39.290669",
+  "download_filename": "lovdtools-0.1.0.dev22.tar.gz",
+  "download_time": "2025-12-09T20:33:19.845116",
   "package_url": "https://pypi.org/project/lovdtools/"
 }

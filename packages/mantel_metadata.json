@@ -1,0 +1,11 @@
+{
+  "name": "mantel",
+  "version": "2.2.3",
+  "summary": "Python implementation of the Mantel test, a significance test of the correlation between two distance matrices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mantel-2.2.3.tar.gz",
+  "download_time": "2025-12-09T20:32:50.975422",
+  "package_url": "https://pypi.org/project/mantel/"
+}

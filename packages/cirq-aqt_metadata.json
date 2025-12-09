@@ -1,0 +1,11 @@
+{
+  "name": "cirq-aqt",
+  "version": "1.6.1",
+  "summary": "A Cirq package to simulate and connect to Alpine Quantum Technologies quantum computers",
+  "author": "The Cirq Developers",
+  "license": "Apache 2",
+  "home_page": "http://github.com/quantumlib/cirq",
+  "download_filename": "cirq_aqt-1.6.1-py3-none-any.whl",
+  "download_time": "2025-12-09T20:33:01.534976",
+  "package_url": "https://pypi.org/project/cirq-aqt/"
+}

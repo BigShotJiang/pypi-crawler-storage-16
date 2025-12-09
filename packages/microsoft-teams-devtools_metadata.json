@@ -1,11 +1,11 @@
 {
   "name": "microsoft-teams-devtools",
-  "version": "2.0.0a7",
+  "version": "2.0.0a8",
   "summary": "Local tool to streamline testing and development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "microsoft_teams_devtools-2.0.0a7.tar.gz",
-  "download_time": "2025-12-09T19:48:38.372630",
+  "download_filename": "microsoft_teams_devtools-2.0.0a8.tar.gz",
+  "download_time": "2025-12-09T20:33:08.403097",
   "package_url": "https://pypi.org/project/microsoft-teams-devtools/"
 }

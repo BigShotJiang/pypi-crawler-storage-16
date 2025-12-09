@@ -1,0 +1,11 @@
+{
+  "name": "nado-protocol",
+  "version": "0.2.8",
+  "summary": "Nado Protocol SDK",
+  "author": "Jeury Mejia",
+  "license": null,
+  "home_page": "https://nado.xyz",
+  "download_filename": "nado_protocol-0.2.8.tar.gz",
+  "download_time": "2025-12-09T20:33:03.200089",
+  "package_url": "https://pypi.org/project/nado-protocol/"
+}

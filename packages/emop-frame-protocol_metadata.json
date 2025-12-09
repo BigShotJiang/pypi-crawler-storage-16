@@ -1,11 +1,11 @@
 {
   "name": "emop-frame-protocol",
-  "version": "0.4.9",
+  "version": "0.4.10",
   "summary": "EMOP Frame Protocol messages defined with kaitai",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "emop_frame_protocol-0.4.9-cp312-cp312-macosx_11_0_arm64.whl",
-  "download_time": "2025-12-09T06:20:48.318918",
+  "download_filename": "emop_frame_protocol-0.4.10-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-09T20:32:37.562601",
   "package_url": "https://pypi.org/project/emop-frame-protocol/"
 }

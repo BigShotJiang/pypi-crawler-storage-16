@@ -1,0 +1,11 @@
+{
+  "name": "pipen-log2file",
+  "version": "0.10.5",
+  "summary": "Add verbosal information in logs for pipen.",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": "https://github.com/pwwang/pipen-log2file",
+  "download_filename": "pipen_log2file-0.10.5.tar.gz",
+  "download_time": "2025-12-09T20:32:38.123154",
+  "package_url": "https://pypi.org/project/pipen-log2file/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cirq",
+  "version": "1.6.1",
+  "summary": "A framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",
+  "author": "The Cirq Developers",
+  "license": "Apache 2",
+  "home_page": "http://github.com/quantumlib/cirq",
+  "download_filename": "cirq-1.6.1-py3-none-any.whl",
+  "download_time": "2025-12-09T20:32:57.564121",
+  "package_url": "https://pypi.org/project/cirq/"
+}

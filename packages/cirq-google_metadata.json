@@ -1,0 +1,11 @@
+{
+  "name": "cirq-google",
+  "version": "1.6.1",
+  "summary": "The Cirq module that provides tools and access to the Google Quantum Computing Service",
+  "author": "The Cirq Developers",
+  "license": "Apache 2",
+  "home_page": "http://github.com/quantumlib/cirq",
+  "download_filename": "cirq_google-1.6.1-py3-none-any.whl",
+  "download_time": "2025-12-09T20:32:58.743771",
+  "package_url": "https://pypi.org/project/cirq-google/"
+}

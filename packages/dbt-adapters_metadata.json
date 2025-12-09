@@ -1,0 +1,11 @@
+{
+  "name": "dbt-adapters",
+  "version": "1.22.0",
+  "summary": "The set of adapter protocols and base functionality that supports integration with dbt-core",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_adapters-1.22.0.tar.gz",
+  "download_time": "2025-12-09T20:32:39.742245",
+  "package_url": "https://pypi.org/project/dbt-adapters/"
+}

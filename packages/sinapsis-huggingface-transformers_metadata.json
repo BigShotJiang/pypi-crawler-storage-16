@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-huggingface-transformers",
+  "version": "0.2.14",
+  "summary": "Templates for HuggingFace Transformers, supporting automatic-speech-recognition, text-to-speech, translation and summarization templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_huggingface_transformers-0.2.14.tar.gz",
+  "download_time": "2025-12-09T20:33:13.985476",
+  "package_url": "https://pypi.org/project/sinapsis-huggingface-transformers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-agents-storage-blob",
+  "version": "0.6.1",
+  "summary": "A blob storage library for Microsoft Agents",
+  "author": "Microsoft Corporation License-Expression: MIT",
+  "license": null,
+  "home_page": null,
+  "download_filename": "microsoft_agents_storage_blob-0.6.1.tar.gz",
+  "download_time": "2025-12-09T09:17:16.794055",
+  "package_url": "https://pypi.org/project/microsoft-agents-storage-blob/"
+}

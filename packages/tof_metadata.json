@@ -1,0 +1,11 @@
+{
+  "name": "tof",
+  "version": "25.12.1",
+  "summary": "A simple tool to create time-of-flight chopper cascade diagrams",
+  "author": "Scipp contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tof-25.12.1.tar.gz",
+  "download_time": "2025-12-09T09:17:32.992368",
+  "package_url": "https://pypi.org/project/tof/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-agents-hosting-fastapi",
+  "version": "0.6.1",
+  "summary": "Integration library for Microsoft Agents with FastAPI",
+  "author": "Microsoft Corporation License-Expression: MIT",
+  "license": null,
+  "home_page": null,
+  "download_filename": "microsoft_agents_hosting_fastapi-0.6.1.tar.gz",
+  "download_time": "2025-12-09T09:17:17.855883",
+  "package_url": "https://pypi.org/project/microsoft-agents-hosting-fastapi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "autofaq-api",
-  "version": "0.0.14",
+  "version": "0.0.16",
   "summary": "Этот модуль умеет работать с 3-мя API AutoFaq: External API, CRUD API, QUERY API. Как синхронно так и асинхронно",
   "author": "AzatXafizof",
   "license": null,
   "home_page": "https://github.com/azatkhafizov/autofaq-api",
-  "download_filename": "autofaq_api-0.0.14.tar.gz",
-  "download_time": "2025-12-08T18:47:44.620880",
+  "download_filename": "autofaq_api-0.0.16.tar.gz",
+  "download_time": "2025-12-09T09:17:25.153340",
   "package_url": "https://pypi.org/project/autofaq-api/"
 }

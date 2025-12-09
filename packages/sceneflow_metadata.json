@@ -1,0 +1,11 @@
+{
+  "name": "sceneflow",
+  "version": "0.2.4",
+  "summary": "Smart video cut point detection for AI-generated talking head videos using multi-factor visual analysis and speech detection",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sceneflow-0.2.4.tar.gz",
+  "download_time": "2025-12-09T09:17:07.946041",
+  "package_url": "https://pypi.org/project/sceneflow/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dell-unity-mcp-server",
+  "version": "1.0.0",
+  "summary": "Model Context Protocol (MCP) server for Dell Unity Storage Systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dell_unity_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-12-09T09:16:56.839945",
+  "package_url": "https://pypi.org/project/dell-unity-mcp-server/"
+}

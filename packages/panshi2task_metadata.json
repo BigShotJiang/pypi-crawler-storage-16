@@ -1,0 +1,11 @@
+{
+  "name": "panshi2task",
+  "version": "0.3.0",
+  "summary": "Python Sdk for panshi task services",
+  "author": "DPLUS SZH Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "panshi2task-0.3.0.tar.gz",
+  "download_time": "2025-12-09T09:17:31.945756",
+  "package_url": "https://pypi.org/project/panshi2task/"
+}

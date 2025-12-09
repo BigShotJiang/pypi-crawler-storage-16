@@ -1,0 +1,11 @@
+{
+  "name": "dding",
+  "version": "0.1.9",
+  "summary": "通知机器人.",
+  "author": "charlessoft",
+  "license": "MIT",
+  "home_page": "https://github.com/charlessoft/dding",
+  "download_filename": "dding-0.1.9.tar.gz",
+  "download_time": "2025-12-09T09:17:05.351859",
+  "package_url": "https://pypi.org/project/dding/"
+}

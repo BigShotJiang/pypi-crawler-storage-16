@@ -1,0 +1,11 @@
+{
+  "name": "cmem-plugin-office365",
+  "version": "2.2.0",
+  "summary": "Extract and process data from your Office365 instance.",
+  "author": "eccenca GmbH",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cmem_plugin_office365-2.2.0.tar.gz",
+  "download_time": "2025-12-09T09:17:25.664892",
+  "package_url": "https://pypi.org/project/cmem-plugin-office365/"
+}

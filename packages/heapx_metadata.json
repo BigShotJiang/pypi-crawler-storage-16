@@ -1,0 +1,11 @@
+{
+  "name": "heapx",
+  "version": "0.0.3",
+  "summary": "Ultra-optimized heap operations with comprehensive functionality and superior performance",
+  "author": "Aniruddha Mukherjee",
+  "license": null,
+  "home_page": "https://github.com/ivan121500/heapx",
+  "download_filename": "heapx-0.0.3.tar.gz",
+  "download_time": "2025-12-09T09:17:28.776656",
+  "package_url": "https://pypi.org/project/heapx/"
+}

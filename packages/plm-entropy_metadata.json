@@ -1,0 +1,11 @@
+{
+  "name": "plm-entropy",
+  "version": "0.2",
+  "summary": "The pLM entropy Python package",
+  "author": "Spyros Lytras",
+  "license": "MIT",
+  "home_page": "https://github.com/spyros-lytras/plm_entropy",
+  "download_filename": "plm_entropy-0.2.tar.gz",
+  "download_time": "2025-12-09T09:17:30.350538",
+  "package_url": "https://pypi.org/project/plm-entropy/"
+}

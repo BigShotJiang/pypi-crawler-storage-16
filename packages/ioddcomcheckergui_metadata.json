@@ -1,0 +1,11 @@
+{
+  "name": "ioddcomcheckergui",
+  "version": "1.8.3",
+  "summary": "IoddCom IO-Link master checker Gui",
+  "author": "Reimund Renner",
+  "license": "proprietary and confidential",
+  "home_page": "https://siogeen.com",
+  "download_filename": "ioddcomcheckergui-1.8.3-py3-none-any.whl",
+  "download_time": "2025-12-09T22:33:46.986863",
+  "package_url": "https://pypi.org/project/ioddcomcheckergui/"
+}

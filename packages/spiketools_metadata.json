@@ -1,0 +1,11 @@
+{
+  "name": "spiketools",
+  "version": "0.2.1",
+  "summary": "Module for analyzing spiking data.",
+  "author": null,
+  "license": "Apache License, 2.0",
+  "home_page": "https://github.com/spiketools/spiketools",
+  "download_filename": "spiketools-0.2.1.tar.gz",
+  "download_time": "2025-12-09T22:33:24.914973",
+  "package_url": "https://pypi.org/project/spiketools/"
+}

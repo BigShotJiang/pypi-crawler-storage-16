@@ -1,0 +1,11 @@
+{
+  "name": "ioddcomchecker",
+  "version": "1.8.3",
+  "summary": "IoddCom IO-Link master checker",
+  "author": "Reimund Renner",
+  "license": "proprietary and confidential",
+  "home_page": "https://siogeen.com",
+  "download_filename": "ioddcomchecker-1.8.3-cp310-cp310-macosx_11_0_universal2.whl",
+  "download_time": "2025-12-09T22:33:49.169772",
+  "package_url": "https://pypi.org/project/ioddcomchecker/"
+}

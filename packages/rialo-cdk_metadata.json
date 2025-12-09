@@ -1,0 +1,11 @@
+{
+  "name": "rialo-cdk",
+  "version": "0.1.10",
+  "summary": "Python CDK for Rialo blockchain - wallet management, transactions, and RPC client",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rialo_cdk-0.1.10-cp314-cp314-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-09T22:33:54.668249",
+  "package_url": "https://pypi.org/project/rialo-cdk/"
+}

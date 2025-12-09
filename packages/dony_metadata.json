@@ -1,0 +1,11 @@
+{
+  "name": "dony",
+  "version": "0.3.1",
+  "summary": "A lightweight Python command runner",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dony-0.3.1.tar.gz",
+  "download_time": "2025-12-09T22:33:17.818521",
+  "package_url": "https://pypi.org/project/dony/"
+}

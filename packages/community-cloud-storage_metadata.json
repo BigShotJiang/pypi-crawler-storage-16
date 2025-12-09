@@ -1,0 +1,11 @@
+{
+  "name": "community-cloud-storage",
+  "version": "0.3.2",
+  "summary": "Distributed storage for community archives using ipfs-cluster, Tailscale and Docker",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "community_cloud_storage-0.3.2.tar.gz",
+  "download_time": "2025-12-09T22:33:22.731681",
+  "package_url": "https://pypi.org/project/community-cloud-storage/"
+}

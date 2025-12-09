@@ -1,0 +1,11 @@
+{
+  "name": "odc-geo",
+  "version": "0.5.0",
+  "summary": "Geometry Classes and Operations (opendatacube)",
+  "author": "Open Data Cube",
+  "license": null,
+  "home_page": null,
+  "download_filename": "odc_geo-0.5.0.tar.gz",
+  "download_time": "2025-12-09T22:33:28.220378",
+  "package_url": "https://pypi.org/project/odc-geo/"
+}

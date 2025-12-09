@@ -1,0 +1,11 @@
+{
+  "name": "oira.statistics.deployment",
+  "version": "1.1.1",
+  "summary": "Deployment helpers for the statistics of the OSHA-OiRA site.",
+  "author": "syslab.com",
+  "license": "GPL",
+  "home_page": "http://www.oiraproject.eu/",
+  "download_filename": "oira_statistics_deployment-1.1.1.tar.gz",
+  "download_time": "2025-12-09T09:54:03.256941",
+  "package_url": "https://pypi.org/project/oira.statistics.deployment/"
+}

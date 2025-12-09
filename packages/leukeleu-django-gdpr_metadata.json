@@ -1,0 +1,11 @@
+{
+  "name": "leukeleu-django-gdpr",
+  "version": "1.6.2",
+  "summary": "leukeleu-django-gdpr is a tool to generate GDPR documentation based on the project's models.",
+  "author": "Wouter de Vries",
+  "license": null,
+  "home_page": null,
+  "download_filename": "leukeleu_django_gdpr-1.6.2.tar.gz",
+  "download_time": "2025-12-09T09:54:17.307796",
+  "package_url": "https://pypi.org/project/leukeleu-django-gdpr/"
+}

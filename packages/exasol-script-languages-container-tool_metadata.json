@@ -1,0 +1,11 @@
+{
+  "name": "exasol-script-languages-container-tool",
+  "version": "3.5.0",
+  "summary": "Script Languages Container Tool",
+  "author": "Torsten Kilias",
+  "license": "MIT",
+  "home_page": "https://github.com/exasol/script-languages-container-tool",
+  "download_filename": "exasol_script_languages_container_tool-3.5.0.tar.gz",
+  "download_time": "2025-12-09T09:54:11.470360",
+  "package_url": "https://pypi.org/project/exasol-script-languages-container-tool/"
+}

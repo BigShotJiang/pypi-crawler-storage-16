@@ -1,0 +1,11 @@
+{
+  "name": "chromaspec",
+  "version": "1.0.0",
+  "summary": "Python CLI tool for color palette analysis. Extract colors from images and SVG files, generate professional PDF swatches with HEX/RGB/CMYK values, frequency stats, pie charts, color harmonies, and WCAG accessibility ratings.",
+  "author": "Michail Semoglou",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chromaspec-1.0.0.tar.gz",
+  "download_time": "2025-12-09T09:53:55.199256",
+  "package_url": "https://pypi.org/project/chromaspec/"
+}

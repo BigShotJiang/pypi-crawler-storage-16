@@ -1,0 +1,11 @@
+{
+  "name": "outscraper",
+  "version": "6.0.0",
+  "summary": "Python bindings for the Outscraper API",
+  "author": "Outscraper",
+  "license": "MIT",
+  "home_page": "https://github.com/outscraper/outscraper-python",
+  "download_filename": "outscraper-6.0.0.tar.gz",
+  "download_time": "2025-12-09T09:53:45.718366",
+  "package_url": "https://pypi.org/project/outscraper/"
+}

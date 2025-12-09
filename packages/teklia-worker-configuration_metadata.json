@@ -1,0 +1,11 @@
+{
+  "name": "teklia-worker-configuration",
+  "version": "0.2.2",
+  "summary": "Scripts for Arkindex worker configuration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "teklia_worker_configuration-0.2.2.tar.gz",
+  "download_time": "2025-12-09T09:54:01.132226",
+  "package_url": "https://pypi.org/project/teklia-worker-configuration/"
+}

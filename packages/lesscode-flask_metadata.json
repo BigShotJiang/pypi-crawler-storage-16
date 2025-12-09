@@ -1,0 +1,11 @@
+{
+  "name": "lesscode-flask",
+  "version": "0.2.51",
+  "summary": "lesscode-flask 是基于flask的web开发脚手架项目，该项目初衷为简化开发过程，让研发人员更加关注业务。",
+  "author": "Chao.yy",
+  "license": null,
+  "home_page": "https://lesscode-flask",
+  "download_filename": "lesscode_flask-0.2.51.tar.gz",
+  "download_time": "2025-12-09T09:54:17.854560",
+  "package_url": "https://pypi.org/project/lesscode-flask/"
+}

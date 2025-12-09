@@ -1,0 +1,11 @@
+{
+  "name": "imio.smartweb.core",
+  "version": "1.4.22",
+  "summary": "Core product for iMio websites",
+  "author": "Christophe Boulanger",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/imio/imio.smartweb.core",
+  "download_filename": "imio_smartweb_core-1.4.22.tar.gz",
+  "download_time": "2025-12-09T09:53:55.750411",
+  "package_url": "https://pypi.org/project/imio.smartweb.core/"
+}

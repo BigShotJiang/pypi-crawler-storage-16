@@ -1,0 +1,11 @@
+{
+  "name": "spark-rapids-user-tools",
+  "version": "25.10.8",
+  "summary": "A simple wrapper process around cloud service providers to run tools for the RAPIDS Accelerator for Apache Spark.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spark_rapids_user_tools-25.10.8-416_f30c6faa-py3-none-any.whl",
+  "download_time": "2025-12-09T09:54:21.829083",
+  "package_url": "https://pypi.org/project/spark-rapids-user-tools/"
+}

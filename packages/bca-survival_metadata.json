@@ -1,11 +1,11 @@
 {
   "name": "bca-survival",
-  "version": "0.1.0",
+  "version": "0.2.6",
   "summary": "A package for survival analysis with body composition analysis data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bca_survival-0.1.0.tar.gz",
-  "download_time": "2025-12-09T19:48:40.958166",
+  "download_filename": "bca_survival-0.2.6.tar.gz",
+  "download_time": "2025-12-09T20:48:39.364877",
   "package_url": "https://pypi.org/project/bca-survival/"
 }

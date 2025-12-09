@@ -1,0 +1,11 @@
+{
+  "name": "imap-processing",
+  "version": "1.0.7",
+  "summary": "IMAP Science Operations Center Processing",
+  "author": "IMAP SDC Developers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imap_processing-1.0.7.tar.gz",
+  "download_time": "2025-12-09T20:48:51.910060",
+  "package_url": "https://pypi.org/project/imap-processing/"
+}

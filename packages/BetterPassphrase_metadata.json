@@ -1,0 +1,11 @@
+{
+  "name": "BetterPassphrase",
+  "version": "0.1.8",
+  "summary": "A Python library to generate secure, meaningful passphrases.",
+  "author": "Subhayu Kumar Bala",
+  "license": "MIT",
+  "home_page": "https://github.com/subhayu99/BetterPassphrase",
+  "download_filename": "betterpassphrase-0.1.8.tar.gz",
+  "download_time": "2025-12-09T20:48:37.792737",
+  "package_url": "https://pypi.org/project/BetterPassphrase/"
+}

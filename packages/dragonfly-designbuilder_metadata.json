@@ -1,11 +1,11 @@
 {
   "name": "dragonfly-designbuilder",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Dragonfly extension for the DOE-2 energy simulation engine.",
   "author": "Ladybug Tools",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/ladybug-tools/dragonfly-designbuilder",
-  "download_filename": "dragonfly_designbuilder-0.1.3.tar.gz",
-  "download_time": "2025-12-08T21:27:26.881497",
+  "download_filename": "dragonfly_designbuilder-0.1.4.tar.gz",
+  "download_time": "2025-12-09T20:48:48.255382",
   "package_url": "https://pypi.org/project/dragonfly-designbuilder/"
 }

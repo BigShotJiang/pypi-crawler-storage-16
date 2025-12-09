@@ -1,0 +1,11 @@
+{
+  "name": "spatools",
+  "version": "0.0.92",
+  "summary": "This comprehensive toolkit enables the analysis of multiple spatial transcriptomics datasets, offering a wide range of analytical capabilities. It supports various types of analyses, including detailed plotting and advanced image analysis, to help you gain deeper insights into your spatial transcriptomics data.",
+  "author": "Pedro Videira Pinho, Mariana Boroni",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spatools-0.0.92.tar.gz",
+  "download_time": "2025-12-09T20:48:47.209935",
+  "package_url": "https://pypi.org/project/spatools/"
+}

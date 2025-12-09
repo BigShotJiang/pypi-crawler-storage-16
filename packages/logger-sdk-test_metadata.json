@@ -1,0 +1,11 @@
+{
+  "name": "logger-sdk-test",
+  "version": "0.1.1",
+  "summary": "A transaction logging utility for serverless applications",
+  "author": "Kasa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "logger_sdk_test-0.1.1.tar.gz",
+  "download_time": "2025-12-09T20:48:48.765798",
+  "package_url": "https://pypi.org/project/logger-sdk-test/"
+}

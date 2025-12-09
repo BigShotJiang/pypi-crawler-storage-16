@@ -1,11 +1,11 @@
 {
   "name": "wordslab-notebooks-lib",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "Python library to help with AI usage in wordslab-notebooks",
   "author": "Laurent Prud'hon",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/wordslab-org/wordslab-notebooks-lib",
-  "download_filename": "wordslab_notebooks_lib-0.0.7.tar.gz",
-  "download_time": "2025-12-09T09:43:18.121434",
+  "download_filename": "wordslab_notebooks_lib-0.0.8.tar.gz",
+  "download_time": "2025-12-09T20:48:29.877009",
   "package_url": "https://pypi.org/project/wordslab-notebooks-lib/"
 }

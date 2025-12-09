@@ -1,11 +1,11 @@
 {
   "name": "dudwalls-python",
-  "version": "1.0.3",
-  "summary": "Official Python SDK for Dudwalls NoSQL Database - Optimized",
+  "version": "1.0.4",
+  "summary": "Official Python SDK for Dudwalls NoSQL Database",
   "author": "Dudwalls Team",
   "license": null,
   "home_page": "https://github.com/dudwalls/dudwalls-python",
-  "download_filename": "dudwalls_python-1.0.3-py3-none-any.whl",
-  "download_time": "2025-12-09T20:14:09.577534",
+  "download_filename": "dudwalls_python-1.0.4-py3-none-any.whl",
+  "download_time": "2025-12-09T20:48:32.519113",
   "package_url": "https://pypi.org/project/dudwalls-python/"
 }

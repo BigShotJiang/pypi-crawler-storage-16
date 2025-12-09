@@ -1,11 +1,11 @@
 {
   "name": "django-mercury-performance",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "summary": "A performance testing framework for Django that helps you understand and fix performance issues, not just detect them",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "django_mercury_performance-0.0.8.tar.gz",
-  "download_time": "2025-12-09T08:19:11.739299",
+  "download_filename": "django_mercury_performance-0.1.0.tar.gz",
+  "download_time": "2025-12-09T20:48:49.278375",
   "package_url": "https://pypi.org/project/django-mercury-performance/"
 }

@@ -1,19 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-09T07:41:27.460318
-- **Total Packages**: 85
-- **Total Size**: 56.84 MB
+- **Download Time**: 2025-12-09T07:50:42.806034
+- **Total Packages**: 81
+- **Total Size**: 0.81 MB
 
 ## Packages List
-- formdt
-- feldera
-- sleipnirgroup-jormungandr
-- autoglm-gui
-- telco
-- lindorm-memobase
-- smoosense
-- telepress
 - pariadi-test-lib
 - pclearnx
 - moisten-plot
@@ -81,6 +73,7 @@
 - ossval
 - ai-edge-litert-nightly
 - pixelarraylib
+- smoosense
 - wipo-gbd-transformation
 - tritonparse
 - godjigame-event-schemas
@@ -91,3 +84,6 @@
 - discussionset
 - pydataio
 - banana-image-mcp
+- sharedkernel
+- mach-beamform
+- mecat

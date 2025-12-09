@@ -1,0 +1,11 @@
+{
+  "name": "sharedkernel",
+  "version": "2.2.6",
+  "summary": "sharekernel is a shared package between all python projects",
+  "author": "Smilinno",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sharedkernel-2.2.6.tar.gz",
+  "download_time": "2025-12-09T07:50:41.128487",
+  "package_url": "https://pypi.org/project/sharedkernel/"
+}

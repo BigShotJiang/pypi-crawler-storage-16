@@ -1,0 +1,11 @@
+{
+  "name": "mecat",
+  "version": "1.0.2",
+  "summary": "Multi-Expert Chain for Audio Tasks (MECAT)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mecat-1.0.2.tar.gz",
+  "download_time": "2025-12-09T07:50:42.304994",
+  "package_url": "https://pypi.org/project/mecat/"
+}

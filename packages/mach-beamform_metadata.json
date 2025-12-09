@@ -1,0 +1,11 @@
+{
+  "name": "mach-beamform",
+  "version": "0.1.1",
+  "summary": "Ultrafast GPU-accelerated beamforming kernel for ultrasound imaging",
+  "author": "Charles Guan, Gianmarco Pinton, Alex Rockhill",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mach_beamform-0.1.1-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-12-09T07:50:41.728512",
+  "package_url": "https://pypi.org/project/mach-beamform/"
+}

@@ -1,16 +1,8 @@
 {
-  "download_time": "2025-12-09T07:41:27.460318",
-  "total_packages_downloaded": 85,
-  "total_size_mb": 56.84,
+  "download_time": "2025-12-09T07:50:42.806034",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 0.81,
   "packages": [
-    "formdt",
-    "feldera",
-    "sleipnirgroup-jormungandr",
-    "autoglm-gui",
-    "telco",
-    "lindorm-memobase",
-    "smoosense",
-    "telepress",
     "pariadi-test-lib",
     "pclearnx",
     "moisten-plot",
@@ -78,6 +70,7 @@
     "ossval",
     "ai-edge-litert-nightly",
     "pixelarraylib",
+    "smoosense",
     "wipo-gbd-transformation",
     "tritonparse",
     "godjigame-event-schemas",
@@ -87,6 +80,9 @@
     "fastgx",
     "discussionset",
     "pydataio",
-    "banana-image-mcp"
+    "banana-image-mcp",
+    "sharedkernel",
+    "mach-beamform",
+    "mecat"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "name": "trl",
+  "version": "0.26.0",
+  "summary": "Train transformer language models with reinforcement learning.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trl-0.26.0.tar.gz",
+  "download_time": "2025-12-09T20:14:30.652084",
+  "package_url": "https://pypi.org/project/trl/"
+}

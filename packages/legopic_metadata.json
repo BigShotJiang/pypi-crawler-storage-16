@@ -1,0 +1,11 @@
+{
+  "name": "legopic",
+  "version": "0.4.1",
+  "summary": "Convert images to Lego mosaic patterns with perceptual color matching",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "legopic-0.4.1.tar.gz",
+  "download_time": "2025-12-09T20:14:18.397624",
+  "package_url": "https://pypi.org/project/legopic/"
+}

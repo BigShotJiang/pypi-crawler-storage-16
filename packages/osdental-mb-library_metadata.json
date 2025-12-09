@@ -1,11 +1,11 @@
 {
   "name": "osdental-mb-library",
-  "version": "0.1.16",
+  "version": "0.1.19",
   "summary": "Internal mobile library for OSDental",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "osdental_mb_library-0.1.16.tar.gz",
-  "download_time": "2025-12-09T18:17:49.100403",
+  "download_filename": "osdental_mb_library-0.1.19.tar.gz",
+  "download_time": "2025-12-09T20:14:16.007703",
   "package_url": "https://pypi.org/project/osdental-mb-library/"
 }

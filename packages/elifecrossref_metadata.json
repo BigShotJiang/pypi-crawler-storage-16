@@ -1,0 +1,11 @@
+{
+  "name": "elifecrossref",
+  "version": "0.47.0",
+  "summary": "eLife Crossref deposit of journal articles.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/elifesciences/elife-crossref-xml-generation",
+  "download_filename": "elifecrossref-0.47.0.tar.gz",
+  "download_time": "2025-12-09T20:14:47.607774",
+  "package_url": "https://pypi.org/project/elifecrossref/"
+}

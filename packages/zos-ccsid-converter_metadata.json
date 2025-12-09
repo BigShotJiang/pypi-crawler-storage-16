@@ -1,0 +1,11 @@
+{
+  "name": "zos-ccsid-converter",
+  "version": "0.1.6",
+  "summary": "z/OS CCSID converter using fcntl for code page detection and conversion",
+  "author": "Mike Fulton",
+  "license": null,
+  "home_page": "https://github.com/MikeFultonDev/zos_ccsid_converter",
+  "download_filename": "zos_ccsid_converter-0.1.6.tar.gz",
+  "download_time": "2025-12-09T20:14:46.049616",
+  "package_url": "https://pypi.org/project/zos-ccsid-converter/"
+}

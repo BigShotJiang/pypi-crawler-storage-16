@@ -1,0 +1,11 @@
+{
+  "name": "pytest-repo-health",
+  "version": "3.2.1",
+  "summary": "A pytest plugin to report on repository standards conformance",
+  "author": "edX",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/edX/pytest-repo-health",
+  "download_filename": "pytest_repo_health-3.2.1.tar.gz",
+  "download_time": "2025-12-09T20:14:05.316265",
+  "package_url": "https://pypi.org/project/pytest-repo-health/"
+}

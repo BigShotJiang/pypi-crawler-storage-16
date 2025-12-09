@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-langchain-readers",
+  "version": "0.1.8",
+  "summary": "Package that provides support for Langchain community data loaders.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_langchain_readers-0.1.8.tar.gz",
+  "download_time": "2025-12-09T20:14:26.898628",
+  "package_url": "https://pypi.org/project/sinapsis-langchain-readers/"
+}

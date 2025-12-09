@@ -1,11 +1,11 @@
 {
   "name": "pwrdrvr.microapps.cdk",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "MicroApps framework, by PwrDrvr LLC, delivered as an AWS CDK construct that provides the DynamoDB, Router service, Deploy service, API Gateway, and CloudFront distribution.",
   "author": "PwrDrvr LLC<harold@pwrdrvr.com>",
   "license": "MIT",
   "home_page": "https://github.com/pwrdrvr/microapps-core",
-  "download_filename": "pwrdrvr_microapps_cdk-1.1.0.tar.gz",
-  "download_time": "2025-12-08T20:14:58.653022",
+  "download_filename": "pwrdrvr_microapps_cdk-1.1.1.tar.gz",
+  "download_time": "2025-12-09T20:14:44.958919",
   "package_url": "https://pypi.org/project/pwrdrvr.microapps.cdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcpctl",
+  "version": "0.1.0",
+  "summary": "CLI for managing and interacting with MCP (Model Context Protocol) servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpctl-0.1.0.tar.gz",
+  "download_time": "2025-12-09T20:14:54.442678",
+  "package_url": "https://pypi.org/project/mcpctl/"
+}

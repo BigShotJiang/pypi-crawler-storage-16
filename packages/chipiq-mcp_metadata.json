@@ -1,0 +1,11 @@
+{
+  "name": "chipiq-mcp",
+  "version": "0.0.9",
+  "summary": "MCP server for the ChipIQ tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chipiq_mcp-0.0.9.tar.gz",
+  "download_time": "2025-12-09T20:14:43.388735",
+  "package_url": "https://pypi.org/project/chipiq-mcp/"
+}

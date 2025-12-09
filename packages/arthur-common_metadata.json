@@ -1,0 +1,11 @@
+{
+  "name": "arthur-common",
+  "version": "2.4.13",
+  "summary": "Utility code common to Arthur platform components.",
+  "author": "Arthur",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arthur_common-2.4.13.tar.gz",
+  "download_time": "2025-12-09T20:14:22.564489",
+  "package_url": "https://pypi.org/project/arthur-common/"
+}

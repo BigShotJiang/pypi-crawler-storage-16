@@ -1,0 +1,11 @@
+{
+  "name": "image-sitemap",
+  "version": "2.1.0",
+  "summary": "Library to generate XML sitemaps for websites and images. Boost SEO by indexing image URLs for better visibility on search engines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "image_sitemap-2.1.0.tar.gz",
+  "download_time": "2025-12-09T20:14:23.661523",
+  "package_url": "https://pypi.org/project/image-sitemap/"
+}

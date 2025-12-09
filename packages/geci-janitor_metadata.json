@@ -1,0 +1,11 @@
+{
+  "name": "geci-janitor",
+  "version": "0.15.0",
+  "summary": "Module to clean and process GECI data",
+  "author": "Ciencia de Datos • GECI",
+  "license": null,
+  "home_page": "https://github.com/IslasGECI/janitor",
+  "download_filename": "geci_janitor-0.15.0.tar.gz",
+  "download_time": "2025-12-09T23:13:37.253161",
+  "package_url": "https://pypi.org/project/geci-janitor/"
+}

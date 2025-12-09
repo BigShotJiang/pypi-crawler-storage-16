@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-llama-cpp",
+  "version": "0.3.13",
+  "summary": "Sinapsis templates for LLM text completion with LLaMA-CPP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_llama_cpp-0.3.13.tar.gz",
+  "download_time": "2025-12-09T23:13:56.052236",
+  "package_url": "https://pypi.org/project/sinapsis-llama-cpp/"
+}

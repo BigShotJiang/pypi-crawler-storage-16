@@ -1,0 +1,11 @@
+{
+  "name": "DeepDETAILS",
+  "version": "0.1.0rc1",
+  "summary": "Deep-learning-based DEconvolution of Tissue profiles with Accurate Interpretation of Locus-specific Signals",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepdetails-0.1.0rc1-py3-none-any.whl",
+  "download_time": "2025-12-09T23:13:53.479929",
+  "package_url": "https://pypi.org/project/DeepDETAILS/"
+}

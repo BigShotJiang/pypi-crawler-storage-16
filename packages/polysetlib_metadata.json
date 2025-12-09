@@ -1,0 +1,11 @@
+{
+  "name": "polysetlib",
+  "version": "1.0.1",
+  "summary": "PolySet – Python library for generating distribution-aware polymer embeddings",
+  "author": "Khalid Ferji",
+  "license": "PolySet Academic License (PAL)",
+  "home_page": "https://github.com/kFERJI/PolySet",
+  "download_filename": "polysetlib-1.0.1.tar.gz",
+  "download_time": "2025-12-09T23:13:46.702516",
+  "package_url": "https://pypi.org/project/polysetlib/"
+}

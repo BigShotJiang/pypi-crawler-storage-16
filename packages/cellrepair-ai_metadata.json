@@ -1,0 +1,11 @@
+{
+  "name": "cellrepair-ai",
+  "version": "2.0.2",
+  "summary": "CellRepair.AI - Evolutionäres KI-Framework mit 12 Genie-Level-Features",
+  "author": "Oliver Winkel",
+  "license": "PROPRIETARY",
+  "home_page": "https://cellrepair.ai",
+  "download_filename": "cellrepair_ai-2.0.2.tar.gz",
+  "download_time": "2025-12-09T23:13:17.614649",
+  "package_url": "https://pypi.org/project/cellrepair-ai/"
+}

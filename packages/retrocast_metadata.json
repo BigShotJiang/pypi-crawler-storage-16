@@ -1,0 +1,11 @@
+{
+  "name": "retrocast",
+  "version": "0.5.1",
+  "summary": "a framework for ingesting, validating, canonicalizing, and adapting retrosynthesis model outputs to a unified benchmark standard.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "retrocast-0.5.1.tar.gz",
+  "download_time": "2025-12-09T23:13:47.785131",
+  "package_url": "https://pypi.org/project/retrocast/"
+}

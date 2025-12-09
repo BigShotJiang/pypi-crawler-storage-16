@@ -1,11 +1,11 @@
 {
   "name": "filare",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Easily document cables and wiring harnesses",
   "author": "Laurier Loiselle",
   "license": null,
   "home_page": null,
-  "download_filename": "filare-1.4.0.tar.gz",
-  "download_time": "2025-12-08T23:12:23.069627",
+  "download_filename": "filare-1.4.1.tar.gz",
+  "download_time": "2025-12-09T23:13:10.378544",
   "package_url": "https://pypi.org/project/filare/"
 }

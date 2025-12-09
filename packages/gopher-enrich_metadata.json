@@ -1,0 +1,11 @@
+{
+  "name": "gopher-enrich",
+  "version": "0.3.0",
+  "summary": "Gene ontology enrichment analysis using protein expression.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "gopher_enrich-0.3.0.tar.gz",
+  "download_time": "2025-12-09T23:13:34.668478",
+  "package_url": "https://pypi.org/project/gopher-enrich/"
+}

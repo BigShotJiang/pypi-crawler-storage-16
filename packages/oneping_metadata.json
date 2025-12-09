@@ -1,11 +1,11 @@
 {
   "name": "oneping",
-  "version": "0.6",
+  "version": "0.6.2",
   "summary": "LLM provider abstraction layer.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "oneping-0.6.tar.gz",
-  "download_time": "2025-12-09T21:42:07.647082",
+  "download_filename": "oneping-0.6.2.tar.gz",
+  "download_time": "2025-12-09T23:13:35.701783",
   "package_url": "https://pypi.org/project/oneping/"
 }

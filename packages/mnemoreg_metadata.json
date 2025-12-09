@@ -1,0 +1,11 @@
+{
+  "name": "mnemoreg",
+  "version": "0.3.11",
+  "summary": "A tiny thread-safe registry mapping for simple plugin/registry use-cases.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mnemoreg-0.3.11.tar.gz",
+  "download_time": "2025-12-09T23:13:27.912705",
+  "package_url": "https://pypi.org/project/mnemoreg/"
+}

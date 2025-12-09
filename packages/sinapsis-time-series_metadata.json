@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-time-series",
+  "version": "0.1.13",
+  "summary": "Module that contains different packages to perform time-series-related operations through Sinapsis templates.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_time_series-0.1.13.tar.gz",
+  "download_time": "2025-12-09T23:13:20.181695",
+  "package_url": "https://pypi.org/project/sinapsis-time-series/"
+}

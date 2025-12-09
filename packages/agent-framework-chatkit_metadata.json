@@ -1,0 +1,11 @@
+{
+  "name": "agent-framework-chatkit",
+  "version": "1.0.0b251209",
+  "summary": "OpenAI ChatKit integration for Microsoft Agent Framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_framework_chatkit-1.0.0b251209.tar.gz",
+  "download_time": "2025-12-09T23:13:19.154704",
+  "package_url": "https://pypi.org/project/agent-framework-chatkit/"
+}

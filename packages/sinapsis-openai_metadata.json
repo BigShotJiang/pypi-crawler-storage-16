@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-openai",
+  "version": "0.1.10",
+  "summary": "sinapsis module to handle OpenAI modules for chat completion, image edition and creation, audio generation, among other tasks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_openai-0.1.10.tar.gz",
+  "download_time": "2025-12-09T23:13:39.329656",
+  "package_url": "https://pypi.org/project/sinapsis-openai/"
+}

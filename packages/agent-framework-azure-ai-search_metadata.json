@@ -1,0 +1,11 @@
+{
+  "name": "agent-framework-azure-ai-search",
+  "version": "1.0.0b251209",
+  "summary": "Azure AI Search integration for Microsoft Agent Framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_framework_azure_ai_search-1.0.0b251209.tar.gz",
+  "download_time": "2025-12-09T23:13:25.345144",
+  "package_url": "https://pypi.org/project/agent-framework-azure-ai-search/"
+}

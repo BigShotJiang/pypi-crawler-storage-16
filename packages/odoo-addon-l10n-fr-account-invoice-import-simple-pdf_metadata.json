@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-fr-account-invoice-import-simple-pdf",
+  "version": "18.0.1.0.0.2",
+  "summary": "Invoice import simple PDF: match partners using SIREN",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-france",
+  "download_filename": "odoo_addon_l10n_fr_account_invoice_import_simple_pdf-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-09T23:13:16.579906",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-fr-account-invoice-import-simple-pdf/"
+}

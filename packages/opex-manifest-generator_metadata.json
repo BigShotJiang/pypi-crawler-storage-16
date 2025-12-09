@@ -1,0 +1,11 @@
+{
+  "name": "opex-manifest-generator",
+  "version": "1.3.1",
+  "summary": "An Opex Manifest Generator tool for use with OPEX Files, as designed by Preservica",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opex_manifest_generator-1.3.1.tar.gz",
+  "download_time": "2025-12-09T23:49:14.767418",
+  "package_url": "https://pypi.org/project/opex-manifest-generator/"
+}

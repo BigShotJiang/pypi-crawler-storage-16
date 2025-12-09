@@ -1,0 +1,11 @@
+{
+  "name": "prefect-dbt",
+  "version": "0.7.11",
+  "summary": "Prefect integrations for working with dbt",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "prefect_dbt-0.7.11.tar.gz",
+  "download_time": "2025-12-09T23:48:34.045726",
+  "package_url": "https://pypi.org/project/prefect-dbt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "omicron-utils",
+  "version": "0.0.15",
+  "summary": "Collection of common classes and function supporting LIGO Omicron pipelines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omicron_utils-0.0.15.tar.gz",
+  "download_time": "2025-12-09T23:48:38.842307",
+  "package_url": "https://pypi.org/project/omicron-utils/"
+}

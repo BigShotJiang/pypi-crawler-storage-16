@@ -1,0 +1,11 @@
+{
+  "name": "dagster-sigma",
+  "version": "0.28.5",
+  "summary": "Build assets representing Sigma dashboards.",
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-sigma",
+  "download_filename": "dagster_sigma-0.28.5.tar.gz",
+  "download_time": "2025-12-09T23:48:46.277341",
+  "package_url": "https://pypi.org/project/dagster-sigma/"
+}

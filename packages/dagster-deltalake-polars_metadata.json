@@ -1,0 +1,11 @@
+{
+  "name": "dagster-deltalake-polars",
+  "version": "0.28.5",
+  "summary": "Package for storing Polars DataFrames in Delta tables.",
+  "author": "Elementl",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-deltalake-polars",
+  "download_filename": "dagster_deltalake_polars-0.28.5.tar.gz",
+  "download_time": "2025-12-09T23:48:59.477622",
+  "package_url": "https://pypi.org/project/dagster-deltalake-polars/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "indikator",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A Python library for technical indicator calculations, optimized with Numba for high performance.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "indikator-0.1.5.tar.gz",
-  "download_time": "2025-12-08T22:12:29.075780",
+  "download_filename": "indikator-0.1.6.tar.gz",
+  "download_time": "2025-12-09T23:48:29.818383",
   "package_url": "https://pypi.org/project/indikator/"
 }

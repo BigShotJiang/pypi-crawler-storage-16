@@ -1,0 +1,11 @@
+{
+  "name": "dagster-cloud-cli",
+  "version": "1.12.5",
+  "summary": null,
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-cloud-cli",
+  "download_filename": "dagster_cloud_cli-1.12.5.tar.gz",
+  "download_time": "2025-12-09T23:49:13.705070",
+  "package_url": "https://pypi.org/project/dagster-cloud-cli/"
+}

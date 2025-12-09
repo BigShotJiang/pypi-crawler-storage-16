@@ -1,0 +1,11 @@
+{
+  "name": "ocha-lens",
+  "version": "0.3.0",
+  "summary": "Utilities for standard climate-related data analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ocha_lens-0.3.0.tar.gz",
+  "download_time": "2025-12-09T23:48:25.636736",
+  "package_url": "https://pypi.org/project/ocha-lens/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "auto-reference-generator",
+  "version": "1.3.4",
+  "summary": "A tool for archivist's to automate the generation of references for digital files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "auto_reference_generator-1.3.4.tar.gz",
+  "download_time": "2025-12-09T23:48:36.681809",
+  "package_url": "https://pypi.org/project/auto-reference-generator/"
+}

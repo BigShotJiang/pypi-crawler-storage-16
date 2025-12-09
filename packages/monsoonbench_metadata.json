@@ -1,0 +1,11 @@
+{
+  "name": "monsoonbench",
+  "version": "0.1.2",
+  "summary": "A reproducible benchmarking framework for Indian monsoon onset prediction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "monsoonbench-0.1.2-py3-none-any.whl",
+  "download_time": "2025-12-09T23:48:25.107748",
+  "package_url": "https://pypi.org/project/monsoonbench/"
+}

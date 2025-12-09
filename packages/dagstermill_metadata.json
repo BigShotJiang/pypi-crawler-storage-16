@@ -1,0 +1,11 @@
+{
+  "name": "dagstermill",
+  "version": "0.28.5",
+  "summary": "run notebooks using the Dagster tools",
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dagstermill-0.28.5.tar.gz",
+  "download_time": "2025-12-09T23:48:54.744000",
+  "package_url": "https://pypi.org/project/dagstermill/"
+}

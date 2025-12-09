@@ -1,0 +1,11 @@
+{
+  "name": "figmaforge",
+  "version": "1.0.0",
+  "summary": "Forge production-ready Angular components from Figma designs with AI-powered MCP integration",
+  "author": "FigmaForge Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "figmaforge-1.0.0.tar.gz",
+  "download_time": "2025-12-09T23:48:26.156915",
+  "package_url": "https://pypi.org/project/figmaforge/"
+}

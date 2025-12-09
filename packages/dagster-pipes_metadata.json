@@ -1,0 +1,11 @@
+{
+  "name": "dagster-pipes",
+  "version": "1.12.5",
+  "summary": "Toolkit for Dagster integrations with transform logic outside of Dagster",
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/dagster-pipes",
+  "download_filename": "dagster_pipes-1.12.5.tar.gz",
+  "download_time": "2025-12-09T23:31:06.938632",
+  "package_url": "https://pypi.org/project/dagster-pipes/"
+}

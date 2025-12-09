@@ -1,11 +1,11 @@
 {
   "name": "claudio",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "MCP server for audio understanding via Gemini",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claudio-0.1.0.tar.gz",
-  "download_time": "2025-12-09T23:13:38.815683",
+  "download_filename": "claudio-0.2.1.tar.gz",
+  "download_time": "2025-12-09T23:31:20.173601",
   "package_url": "https://pypi.org/project/claudio/"
 }

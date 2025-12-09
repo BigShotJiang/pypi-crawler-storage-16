@@ -1,0 +1,11 @@
+{
+  "name": "searchf",
+  "version": "1.28",
+  "summary": "A text-based application running in terminals to search into text files",
+  "author": "Adrien Felon",
+  "license": null,
+  "home_page": "https://github.com/human3/searchf",
+  "download_filename": "searchf-1.28.tar.gz",
+  "download_time": "2025-12-09T17:14:51.926804",
+  "package_url": "https://pypi.org/project/searchf/"
+}

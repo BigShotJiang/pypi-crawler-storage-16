@@ -1,0 +1,11 @@
+{
+  "name": "frist",
+  "version": "0.19.0",
+  "summary": "Calendar-based time window filtering, age calculations, and business logic for dates and times.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "frist-0.19.0.tar.gz",
+  "download_time": "2025-12-09T17:14:54.702980",
+  "package_url": "https://pypi.org/project/frist/"
+}

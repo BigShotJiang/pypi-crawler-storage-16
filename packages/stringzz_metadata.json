@@ -1,0 +1,11 @@
+{
+  "name": "stringzz",
+  "version": "0.4.1",
+  "summary": "A library and tool for strings and opcodes extraction from various file formats",
+  "author": "ogre2007 <oogre@vk.com>",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/ogre2007/stringzz",
+  "download_filename": "stringzz-0.4.1.tar.gz",
+  "download_time": "2025-12-09T17:15:18.383490",
+  "package_url": "https://pypi.org/project/stringzz/"
+}

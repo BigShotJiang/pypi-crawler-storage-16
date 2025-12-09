@@ -1,0 +1,11 @@
+{
+  "name": "glaium",
+  "version": "0.1.8",
+  "summary": "Python SDK for building autonomous agents that optimize toward organizational goals",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glaium-0.1.8.tar.gz",
+  "download_time": "2025-12-09T17:15:11.123099",
+  "package_url": "https://pypi.org/project/glaium/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cmd-queue",
+  "version": "0.2.3",
+  "summary": "The cmd_queue module for a DAG of bash commands",
+  "author": "Kitware Inc., Jon Crall",
+  "license": "Apache 2",
+  "home_page": "https://gitlab.kitware.com/computer-vision/cmd_queue",
+  "download_filename": "cmd_queue-0.2.3.tar.gz",
+  "download_time": "2025-12-09T17:15:08.562028",
+  "package_url": "https://pypi.org/project/cmd-queue/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pg-sui",
+  "version": "1.6.13",
+  "summary": "Python machine and deep learning API to impute missing genotypes",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "pg_sui-1.6.13.tar.gz",
+  "download_time": "2025-12-09T17:15:33.293195",
+  "package_url": "https://pypi.org/project/pg-sui/"
+}

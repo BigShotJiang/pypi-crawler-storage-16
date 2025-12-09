@@ -1,0 +1,11 @@
+{
+  "name": "pulp-python",
+  "version": "3.22.0",
+  "summary": "pulp-python plugin for the Pulp Project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulp_python-3.22.0.tar.gz",
+  "download_time": "2025-12-09T17:15:09.588705",
+  "package_url": "https://pypi.org/project/pulp-python/"
+}

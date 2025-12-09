@@ -1,11 +1,11 @@
 {
   "name": "fckr",
-  "version": "1.2",
+  "version": "1.3",
   "summary": "FCKR – The Ultimate Brute Forcer",
   "author": "AKM Korishee Apurbo",
   "license": "MIT",
   "home_page": "https://github.com/IMApurbo/fck",
-  "download_filename": "fckr-1.2-py3-none-any.whl",
-  "download_time": "2025-12-09T16:20:05.045719",
+  "download_filename": "fckr-1.3-py3-none-any.whl",
+  "download_time": "2025-12-09T17:15:37.427063",
   "package_url": "https://pypi.org/project/fckr/"
 }

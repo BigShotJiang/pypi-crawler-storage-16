@@ -1,0 +1,11 @@
+{
+  "name": "decancer_py",
+  "version": "0.4.1",
+  "summary": "Python bindings for decancer.",
+  "author": "Jonxslays",
+  "license": null,
+  "home_page": "https://github.com/Jonxslays/decancer_py",
+  "download_filename": "decancer_py-0.4.1.tar.gz",
+  "download_time": "2025-12-09T17:15:05.411485",
+  "package_url": "https://pypi.org/project/decancer_py/"
+}

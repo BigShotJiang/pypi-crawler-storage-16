@@ -1,11 +1,11 @@
 {
   "name": "opseestools",
-  "version": "1.0",
+  "version": "1.12",
   "summary": "A collection of OpenSeesPy routines for performing several types of analyses and other tools",
   "author": "Orlando Arroyo",
   "license": "LICENSE",
   "home_page": "https://github.com/odarroyo/opseestools",
-  "download_filename": "opseestools-1.0.tar.gz",
-  "download_time": "2025-12-09T16:48:58.041076",
+  "download_filename": "opseestools-1.12.tar.gz",
+  "download_time": "2025-12-09T17:14:57.251329",
   "package_url": "https://pypi.org/project/opseestools/"
 }

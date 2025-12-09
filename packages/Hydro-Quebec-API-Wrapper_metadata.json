@@ -1,0 +1,11 @@
+{
+  "name": "Hydro-Quebec-API-Wrapper",
+  "version": "4.2.6",
+  "summary": "A wrapper library to access hydro quebec API and more",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://hydroqc.ca",
+  "download_filename": "hydro_quebec_api_wrapper-4.2.6.tar.gz",
+  "download_time": "2025-12-09T17:14:53.640630",
+  "package_url": "https://pypi.org/project/Hydro-Quebec-API-Wrapper/"
+}

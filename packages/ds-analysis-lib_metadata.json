@@ -1,0 +1,11 @@
+{
+  "name": "ds-analysis-lib",
+  "version": "6.0.0rc1",
+  "summary": "Analysis library for owasp depscan",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ds_analysis_lib-6.0.0rc1.tar.gz",
+  "download_time": "2025-12-09T17:15:29.798690",
+  "package_url": "https://pypi.org/project/ds-analysis-lib/"
+}

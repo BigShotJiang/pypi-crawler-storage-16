@@ -1,11 +1,11 @@
 {
   "name": "segment-geospatial",
-  "version": "0.16.0",
+  "version": "1.0.0",
   "summary": "Meta AI' Segment Anything Model (SAM) for Geospatial Data.",
   "author": null,
   "license": "MIT license",
   "home_page": null,
-  "download_filename": "segment_geospatial-0.16.0.tar.gz",
-  "download_time": "2025-12-08T22:12:36.502598",
+  "download_filename": "segment_geospatial-1.0.0.tar.gz",
+  "download_time": "2025-12-09T17:15:34.321121",
   "package_url": "https://pypi.org/project/segment-geospatial/"
 }

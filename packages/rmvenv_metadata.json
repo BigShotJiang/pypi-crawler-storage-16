@@ -1,0 +1,11 @@
+{
+  "name": "rmvenv",
+  "version": "0.3.0",
+  "summary": "Find and delete built environments",
+  "author": "Daisy F",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rmvenv-0.3.0.tar.gz",
+  "download_time": "2025-12-09T17:15:24.125124",
+  "package_url": "https://pypi.org/project/rmvenv/"
+}

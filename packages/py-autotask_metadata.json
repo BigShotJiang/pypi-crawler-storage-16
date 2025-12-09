@@ -1,0 +1,11 @@
+{
+  "name": "py-autotask",
+  "version": "2.2.0",
+  "summary": "Python library for Autotask PSA REST API integration",
+  "author": "Aaron Sachs",
+  "license": "MIT",
+  "home_page": "https://github.com/asachs01/py-autotask",
+  "download_filename": "py_autotask-2.2.0.tar.gz",
+  "download_time": "2025-12-09T17:15:05.930935",
+  "package_url": "https://pypi.org/project/py-autotask/"
+}

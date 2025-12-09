@@ -1,0 +1,11 @@
+{
+  "name": "access-django-user-admin",
+  "version": "1.4.7",
+  "summary": "Django User Admin for ACCESS Django Apps",
+  "author": "Jesse Lambertson",
+  "license": null,
+  "home_page": "https://github.com/pypa/sampleproject",
+  "download_filename": "access_django_user_admin-1.4.7.tar.gz",
+  "download_time": "2025-12-09T17:15:31.852659",
+  "package_url": "https://pypi.org/project/access-django-user-admin/"
+}

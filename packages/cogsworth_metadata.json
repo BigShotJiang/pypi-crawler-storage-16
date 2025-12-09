@@ -1,0 +1,11 @@
+{
+  "name": "cogsworth",
+  "version": "3.2.3",
+  "summary": "A framework for performing self-consistent population synthesis and orbital integration",
+  "author": "Tom Wagg",
+  "license": "MIT",
+  "home_page": "https://github.com/TomWagg/cogsworth",
+  "download_filename": "cogsworth-3.2.3.tar.gz",
+  "download_time": "2025-12-09T17:15:16.103453",
+  "package_url": "https://pypi.org/project/cogsworth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wet-net",
+  "version": "0.3.0",
+  "summary": "WetNet helps Aigües de Barcelona (Barcelona Water Company) predict anomalous water consumption, using machine learning.",
+  "author": "Antonio Lobo Santos, Zachary Parent, Bruno Sánchez Gómez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wet_net-0.3.0.tar.gz",
+  "download_time": "2025-12-09T17:15:22.588013",
+  "package_url": "https://pypi.org/project/wet-net/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fftvm",
+  "version": "0.1.0",
+  "summary": "This package brings FastFlow power to Python leveraging apache tvm ffi lib!",
+  "author": null,
+  "license": "MIT OR LGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "fftvm-0.1.0.tar.gz",
+  "download_time": "2025-12-09T19:10:09.841418",
+  "package_url": "https://pypi.org/project/fftvm/"
+}

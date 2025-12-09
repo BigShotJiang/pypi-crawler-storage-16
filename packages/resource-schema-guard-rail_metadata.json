@@ -1,11 +1,11 @@
 {
   "name": "resource-schema-guard-rail",
-  "version": "0.0.21",
+  "version": "0.0.21.5",
   "summary": "Schema Guard Rail",
   "author": "Amazon Web Services",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "resource_schema_guard_rail-0.0.21-py3-none-any.whl",
-  "download_time": "2025-12-08T19:28:09.923329",
+  "download_filename": "resource_schema_guard_rail-0.0.21.5.tar.gz",
+  "download_time": "2025-12-09T19:10:34.361864",
   "package_url": "https://pypi.org/project/resource-schema-guard-rail/"
 }

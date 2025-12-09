@@ -1,0 +1,11 @@
+{
+  "name": "torsh",
+  "version": "0.1.0",
+  "summary": "Transmission TUI client",
+  "author": "torsh authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torsh-0.1.0.tar.gz",
+  "download_time": "2025-12-09T19:10:55.623784",
+  "package_url": "https://pypi.org/project/torsh/"
+}

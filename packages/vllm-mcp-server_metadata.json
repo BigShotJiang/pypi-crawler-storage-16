@@ -1,11 +1,11 @@
 {
   "name": "vllm-mcp-server",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "MCP server for vLLM - expose vLLM capabilities to AI assistants",
   "author": "vLLM MCP Server Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "vllm_mcp_server-0.1.1.tar.gz",
-  "download_time": "2025-12-08T19:38:07.416396",
+  "download_filename": "vllm_mcp_server-0.1.3.tar.gz",
+  "download_time": "2025-12-09T19:10:23.439636",
   "package_url": "https://pypi.org/project/vllm-mcp-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-trend-plotter",
+  "version": "2025.12.2",
+  "summary": "I was interested when people were washing their laundry in my apartment complex. This matches a regex against an exported whatsapp chat to produce an overview of matches over time.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "whatsapp_trend_plotter-2025.12.2.tar.gz",
+  "download_time": "2025-12-09T19:10:16.167395",
+  "package_url": "https://pypi.org/project/whatsapp-trend-plotter/"
+}

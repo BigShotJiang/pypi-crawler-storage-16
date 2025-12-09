@@ -1,0 +1,11 @@
+{
+  "name": "pyqcm",
+  "version": "2.15.4",
+  "summary": "Quantum cluster methods for the physics of strongly correlated systems",
+  "author": "David Sénéchal",
+  "license": "GPL",
+  "home_page": "https://bitbucket.org/dsenechQCM/qcm_wed/",
+  "download_filename": "pyqcm-2.15.4.tar.gz",
+  "download_time": "2025-12-09T19:10:47.874278",
+  "package_url": "https://pypi.org/project/pyqcm/"
+}

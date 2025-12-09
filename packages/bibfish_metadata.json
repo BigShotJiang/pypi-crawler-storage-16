@@ -1,0 +1,11 @@
+{
+  "name": "bibfish",
+  "version": "0.3.4",
+  "summary": "Extract entries from a .bib file that are cited in a .tex file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bibfish-0.3.4.tar.gz",
+  "download_time": "2025-12-09T19:10:34.877675",
+  "package_url": "https://pypi.org/project/bibfish/"
+}

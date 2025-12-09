@@ -1,0 +1,11 @@
+{
+  "name": "treqs-ng",
+  "version": "1.6.3",
+  "summary": "Lightweight Git-native tool for managing requirements in agile projects.",
+  "author": "Eric Knauss",
+  "license": null,
+  "home_page": "https://gitlab.com/treqs-on-git/treqs-ng",
+  "download_filename": "treqs_ng-1.6.3.tar.gz",
+  "download_time": "2025-12-09T19:10:46.289701",
+  "package_url": "https://pypi.org/project/treqs-ng/"
+}

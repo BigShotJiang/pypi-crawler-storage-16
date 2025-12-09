@@ -1,11 +1,11 @@
 {
   "name": "py-socproof",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Async Python client for Soc-proof API",
   "author": "devakbarjon",
   "license": "MIT",
   "home_page": "https://github.com/devakbarjon/py-socproof",
-  "download_filename": "py_socproof-1.0.3.tar.gz",
-  "download_time": "2025-12-09T17:52:10.257574",
+  "download_filename": "py_socproof-1.0.4.tar.gz",
+  "download_time": "2025-12-09T19:10:18.747544",
   "package_url": "https://pypi.org/project/py-socproof/"
 }

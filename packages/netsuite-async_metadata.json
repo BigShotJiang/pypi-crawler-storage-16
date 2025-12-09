@@ -1,0 +1,11 @@
+{
+  "name": "netsuite-async",
+  "version": "0.1.4",
+  "summary": "High-performance async Python client for NetSuite REST API with concurrency controls and intelligent pagination",
+  "author": "Michael Drummond",
+  "license": null,
+  "home_page": null,
+  "download_filename": "netsuite_async-0.1.4.tar.gz",
+  "download_time": "2025-12-09T19:10:53.585489",
+  "package_url": "https://pypi.org/project/netsuite-async/"
+}

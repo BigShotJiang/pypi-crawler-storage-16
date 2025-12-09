@@ -1,0 +1,11 @@
+{
+  "name": "genpdf-butler",
+  "version": "0.0.37",
+  "summary": "A package for running chordpro CLI over a folder",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genpdf_butler-0.0.37.tar.gz",
+  "download_time": "2025-12-09T19:10:35.909359",
+  "package_url": "https://pypi.org/project/genpdf-butler/"
+}

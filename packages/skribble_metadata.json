@@ -1,0 +1,11 @@
+{
+  "name": "skribble",
+  "version": "0.1.1",
+  "summary": "Official-spec Skribble API v2 SDK (built from Skribble Postman collection)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skribble-0.1.1.tar.gz",
+  "download_time": "2025-12-09T19:10:35.395124",
+  "package_url": "https://pypi.org/project/skribble/"
+}

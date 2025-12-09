@@ -1,0 +1,11 @@
+{
+  "name": "rag-tui",
+  "version": "0.0.1b1",
+  "summary": "Interactive terminal UI for visualizing, debugging, and tuning RAG chunking pipelines",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rag_tui-0.0.1b1.tar.gz",
+  "download_time": "2025-12-09T19:10:11.966753",
+  "package_url": "https://pypi.org/project/rag-tui/"
+}

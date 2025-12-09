@@ -1,0 +1,11 @@
+{
+  "name": "js-web-scraper",
+  "version": "1.0.5",
+  "summary": "Customizable Web Scrapper to get alerts when criteria is met on web sites.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "js_web_scraper-1.0.5.tar.gz",
+  "download_time": "2025-12-09T15:18:11.331500",
+  "package_url": "https://pypi.org/project/js-web-scraper/"
+}

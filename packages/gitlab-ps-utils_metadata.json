@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-ps-utils",
+  "version": "0.17.0",
+  "summary": "Shared python utilities used by GitLab Professional Services tooling",
+  "author": "GitLab Professional Services",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/gitlab-org/professional-services-automation/gitlab-ps-utils",
+  "download_filename": "gitlab_ps_utils-0.17.0.tar.gz",
+  "download_time": "2025-12-09T15:17:37.118788",
+  "package_url": "https://pypi.org/project/gitlab-ps-utils/"
+}

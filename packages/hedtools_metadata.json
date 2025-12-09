@@ -1,0 +1,11 @@
+{
+  "name": "hedtools",
+  "version": "0.8.1",
+  "summary": "HED validation, summary, and analysis tools for annotating events and experimental metadata.",
+  "author": "VisLab, Ian Callanan, Monique Dennisen, Jeremy Cockfield, Alexander Jones, Owen Winterberg",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hedtools-0.8.1.tar.gz",
+  "download_time": "2025-12-09T15:17:50.830468",
+  "package_url": "https://pypi.org/project/hedtools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "integrityguard-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Tool to detect Privilege Escalation and Data Tampering risks in Docker environments",
   "author": "lucascostamr812@gmail.com",
   "license": null,
   "home_page": null,
-  "download_filename": "integrityguard_cli-1.0.1.tar.gz",
-  "download_time": "2025-12-09T14:56:25.292589",
+  "download_filename": "integrityguard_cli-1.0.2.tar.gz",
+  "download_time": "2025-12-09T15:18:09.241209",
   "package_url": "https://pypi.org/project/integrityguard-cli/"
 }

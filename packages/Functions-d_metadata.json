@@ -1,0 +1,11 @@
+{
+  "name": "Functions-d",
+  "version": "1.28",
+  "summary": "包含数据处理、Hive交互、企业微信消息发送、Excel操作等功能的工具类库",
+  "author": "DongYang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "functions_d-1.28.tar.gz",
+  "download_time": "2025-12-09T15:17:39.231405",
+  "package_url": "https://pypi.org/project/Functions-d/"
+}

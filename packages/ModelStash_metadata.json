@@ -1,0 +1,11 @@
+{
+  "name": "ModelStash",
+  "version": "1.0.0",
+  "summary": "Simple container/invoker for llm models",
+  "author": "BytePengwin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "modelstash-1.0.0.tar.gz",
+  "download_time": "2025-12-09T15:17:37.637623",
+  "package_url": "https://pypi.org/project/ModelStash/"
+}

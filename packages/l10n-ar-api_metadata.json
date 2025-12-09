@@ -1,0 +1,11 @@
+{
+  "name": "l10n-ar-api",
+  "version": "2.11.1",
+  "summary": "Libreria para localizacion Argentina",
+  "author": "BLUEORANGE GROUP SRL",
+  "license": null,
+  "home_page": "https://github.com/odoo-arg/l10n_ar_api",
+  "download_filename": "l10n_ar_api-2.11.1.tar.gz",
+  "download_time": "2025-12-09T15:17:50.302863",
+  "package_url": "https://pypi.org/project/l10n-ar-api/"
+}

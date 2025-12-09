@@ -1,0 +1,11 @@
+{
+  "name": "nightskycam",
+  "version": "0.1.23",
+  "summary": "taking pictures at night",
+  "author": "Vincent Berenz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nightskycam-0.1.23.tar.gz",
+  "download_time": "2025-12-09T15:17:45.091698",
+  "package_url": "https://pypi.org/project/nightskycam/"
+}

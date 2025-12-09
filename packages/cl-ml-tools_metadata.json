@@ -1,0 +1,11 @@
+{
+  "name": "cl-ml-tools",
+  "version": "0.2.0",
+  "summary": "Tools for master-worker media processing / ML - provides task plugins, worker runtime, and protocols for job persistence and file storage",
+  "author": "Ananda Sarangaram",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cl_ml_tools-0.2.0.tar.gz",
+  "download_time": "2025-12-09T15:18:05.034744",
+  "package_url": "https://pypi.org/project/cl-ml-tools/"
+}

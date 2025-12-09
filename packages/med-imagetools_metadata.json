@@ -1,0 +1,11 @@
+{
+  "name": "med-imagetools",
+  "version": "2.13.0",
+  "summary": "Med-Imagetools: Transparent and Reproducible Medical Image Processing Pipelines in Python",
+  "author": "Sejin Kim, Michal Kazmierski, Kevin Qu, Vishwesh Ramanathan, Jermiah Joseph",
+  "license": null,
+  "home_page": null,
+  "download_filename": "med_imagetools-2.13.0.tar.gz",
+  "download_time": "2025-12-09T15:18:21.374810",
+  "package_url": "https://pypi.org/project/med-imagetools/"
+}

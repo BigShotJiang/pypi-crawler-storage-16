@@ -1,0 +1,11 @@
+{
+  "name": "FoxDotShabda",
+  "version": "0.1.1",
+  "summary": "Interface with shabda for audio samples and text speech.",
+  "author": "taconi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "foxdotshabda-0.1.1.tar.gz",
+  "download_time": "2025-12-09T15:18:14.548702",
+  "package_url": "https://pypi.org/project/FoxDotShabda/"
+}

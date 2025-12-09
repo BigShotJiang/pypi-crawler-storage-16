@@ -1,0 +1,11 @@
+{
+  "name": "TPTBox",
+  "version": "0.5.1",
+  "summary": "A Torso Processing Toolbox capable of processing BIDS-compatible datasets, singular niftys, points of interests, segmentations, and much more.",
+  "author": "Robert Graf",
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE v3.0, 19 November 2007",
+  "home_page": null,
+  "download_filename": "tptbox-0.5.1-py3-none-any.whl",
+  "download_time": "2025-12-09T15:18:12.991019",
+  "package_url": "https://pypi.org/project/TPTBox/"
+}

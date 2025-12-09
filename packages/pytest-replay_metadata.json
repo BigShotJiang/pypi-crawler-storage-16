@@ -1,0 +1,11 @@
+{
+  "name": "pytest-replay",
+  "version": "1.7.0",
+  "summary": "Saves previous test runs and allow re-execute previous pytest runs to reproduce crashes or flaky tests",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_replay-1.7.0.tar.gz",
+  "download_time": "2025-12-09T15:17:52.956637",
+  "package_url": "https://pypi.org/project/pytest-replay/"
+}

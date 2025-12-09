@@ -1,0 +1,11 @@
+{
+  "name": "usss-mysqlhandler",
+  "version": "0.2.15",
+  "summary": "MySQL convenience package ",
+  "author": "Julian Briggs",
+  "license": null,
+  "home_page": "https://github.com/pypa/mysqlhandler",
+  "download_filename": "usss_mysqlhandler-0.2.15.tar.gz",
+  "download_time": "2025-12-09T07:41:23.724109",
+  "package_url": "https://pypi.org/project/usss-mysqlhandler/"
+}

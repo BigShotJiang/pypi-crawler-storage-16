@@ -1,0 +1,11 @@
+{
+  "name": "security-audit",
+  "version": "0.2.0",
+  "summary": "A TUI application for automatic security auditing and report generation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "security_audit-0.2.0.tar.gz",
+  "download_time": "2025-12-09T07:40:58.024882",
+  "package_url": "https://pypi.org/project/security-audit/"
+}

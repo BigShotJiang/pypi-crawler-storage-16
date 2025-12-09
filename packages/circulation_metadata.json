@@ -1,0 +1,11 @@
+{
+  "name": "circulation",
+  "version": "0.2.0",
+  "summary": "Closed loop blood circulation model in FEniCS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "circulation-0.2.0.tar.gz",
+  "download_time": "2025-12-09T07:41:09.686958",
+  "package_url": "https://pypi.org/project/circulation/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "smoosense",
-  "version": "0.1.30",
+  "version": "0.1.32",
   "summary": "Smoothly make sense of your large multi-modal datasets",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "smoosense-0.1.30.tar.gz",
-  "download_time": "2025-12-08T22:12:48.080832",
+  "download_filename": "smoosense-0.1.32.tar.gz",
+  "download_time": "2025-12-09T07:40:43.084631",
   "package_url": "https://pypi.org/project/smoosense/"
 }

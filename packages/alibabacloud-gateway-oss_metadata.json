@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-gateway-oss",
+  "version": "0.0.21",
+  "summary": "Alibaba Cloud OSS SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-gateway",
+  "download_filename": "alibabacloud_gateway_oss-0.0.21.tar.gz",
+  "download_time": "2025-12-09T07:40:59.055642",
+  "package_url": "https://pypi.org/project/alibabacloud-gateway-oss/"
+}

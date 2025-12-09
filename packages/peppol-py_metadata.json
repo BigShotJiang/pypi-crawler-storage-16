@@ -1,0 +1,11 @@
+{
+  "name": "peppol-py",
+  "version": "1.1.2",
+  "summary": "A python implementation for sending peppol eDelivery AS4 documents.",
+  "author": "Anders Rune Jensen, Raphael Michel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "peppol_py-1.1.2.tar.gz",
+  "download_time": "2025-12-09T07:40:51.560623",
+  "package_url": "https://pypi.org/project/peppol-py/"
+}

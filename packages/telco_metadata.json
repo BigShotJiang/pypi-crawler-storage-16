@@ -1,0 +1,11 @@
+{
+  "name": "telco",
+  "version": "1.0.2",
+  "summary": "RCE reverse shell script",
+  "author": "Security Researcher",
+  "license": null,
+  "home_page": null,
+  "download_filename": "telco-1.0.2.tar.gz",
+  "download_time": "2025-12-09T07:40:42.019782",
+  "package_url": "https://pypi.org/project/telco/"
+}

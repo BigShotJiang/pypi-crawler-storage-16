@@ -1,0 +1,11 @@
+{
+  "name": "fi-fsa-v3",
+  "version": "0.0.15",
+  "summary": "Fourier Intelligence Actuator V3 SDK for Python.",
+  "author": "Honglu Wang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fi_fsa_v3-0.0.15-cp310-none-manylinux2014_x86_64.whl",
+  "download_time": "2025-12-09T07:40:50.536070",
+  "package_url": "https://pypi.org/project/fi-fsa-v3/"
+}

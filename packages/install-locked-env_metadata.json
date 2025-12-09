@@ -1,0 +1,11 @@
+{
+  "name": "install-locked-env",
+  "version": "0.1.0",
+  "summary": "Helper to install (web) locked environments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "install_locked_env-0.1.0.tar.gz",
+  "download_time": "2025-12-09T22:25:41.620968",
+  "package_url": "https://pypi.org/project/install-locked-env/"
+}

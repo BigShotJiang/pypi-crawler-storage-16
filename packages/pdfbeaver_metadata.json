@@ -1,11 +1,11 @@
 {
   "name": "pdfbeaver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A library for manipulating PDF content streams.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pdfbeaver-0.1.0.tar.gz",
-  "download_time": "2025-12-09T21:42:06.061147",
+  "download_filename": "pdfbeaver-0.1.1.tar.gz",
+  "download_time": "2025-12-09T22:26:24.650750",
   "package_url": "https://pypi.org/project/pdfbeaver/"
 }

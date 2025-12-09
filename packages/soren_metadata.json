@@ -1,11 +1,11 @@
 {
   "name": "soren",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Soren AI - Command-line interface for AI evaluation framework",
   "author": "Soren Team",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "soren-0.0.2.tar.gz",
-  "download_time": "2025-12-09T17:15:15.082532",
+  "download_filename": "soren-0.0.3.tar.gz",
+  "download_time": "2025-12-09T22:25:44.109979",
   "package_url": "https://pypi.org/project/soren/"
 }

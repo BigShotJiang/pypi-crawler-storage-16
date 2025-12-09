@@ -1,0 +1,11 @@
+{
+  "name": "pykon",
+  "version": "0.3",
+  "summary": "A module allowing for constant and publicly immutable data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pykon-0.3.tar.gz",
+  "download_time": "2025-12-09T22:25:42.876364",
+  "package_url": "https://pypi.org/project/pykon/"
+}

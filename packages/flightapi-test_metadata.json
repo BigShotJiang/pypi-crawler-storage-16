@@ -1,11 +1,11 @@
 {
   "name": "flightapi-test",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "summary": "A Python wrapper for Google Flights API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flightapi_test-0.7.4-py3-none-any.whl",
-  "download_time": "2025-12-09T21:30:12.981819",
+  "download_filename": "flightapi_test-0.7.5-py3-none-any.whl",
+  "download_time": "2025-12-09T22:25:42.228918",
   "package_url": "https://pypi.org/project/flightapi-test/"
 }

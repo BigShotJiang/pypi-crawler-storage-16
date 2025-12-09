@@ -1,11 +1,11 @@
 {
   "name": "imageddpo",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "The equivalent of SDImg2ImgPipeline for DDPO: modifying DDPOTrainer to support image inputs in addition to text prompts",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "imageddpo-0.1.0.tar.gz",
-  "download_time": "2025-12-09T19:10:13.519617",
+  "download_filename": "imageddpo-0.1.2.tar.gz",
+  "download_time": "2025-12-09T22:25:45.398021",
   "package_url": "https://pypi.org/project/imageddpo/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "oneliai",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "SDK for ONELI.AI Customer API",
   "author": "oneli.ai",
   "license": null,
   "home_page": null,
-  "download_filename": "oneliai-1.2.1.tar.gz",
-  "download_time": "2025-12-09T05:13:33.204860",
+  "download_filename": "oneliai-1.2.2.tar.gz",
+  "download_time": "2025-12-09T05:35:32.969054",
   "package_url": "https://pypi.org/project/oneliai/"
 }

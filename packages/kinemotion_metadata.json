@@ -1,11 +1,11 @@
 {
   "name": "kinemotion",
-  "version": "0.38.0",
+  "version": "0.38.1",
   "summary": "Video-based kinematic analysis for athletic performance",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kinemotion-0.38.0.tar.gz",
-  "download_time": "2025-12-09T03:47:32.685003",
+  "download_filename": "kinemotion-0.38.1.tar.gz",
+  "download_time": "2025-12-09T05:35:32.456761",
   "package_url": "https://pypi.org/project/kinemotion/"
 }

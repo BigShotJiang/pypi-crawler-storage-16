@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-cloudamqp",
+  "version": "3.24.3",
+  "summary": "A Pulumi package for creating and managing CloudAMQP resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_cloudamqp-3.24.3.tar.gz",
+  "download_time": "2025-12-09T05:35:34.523254",
+  "package_url": "https://pypi.org/project/pulumi-cloudamqp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cmsbx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "cmsbx SDK that give agents cloud environments",
   "author": "cmsbx",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cmsbx-0.0.1.tar.gz",
-  "download_time": "2025-12-09T05:13:45.586072",
+  "download_filename": "cmsbx-0.0.2.tar.gz",
+  "download_time": "2025-12-09T05:35:50.630089",
   "package_url": "https://pypi.org/project/cmsbx/"
 }

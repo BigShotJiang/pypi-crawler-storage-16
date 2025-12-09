@@ -1,0 +1,11 @@
+{
+  "name": "ge-snowflake-validator",
+  "version": "1.0.0",
+  "summary": "Dynamic data quality validation for Snowflake using Great Expectations",
+  "author": "Priya Pandey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ge_snowflake_validator-1.0.0.tar.gz",
+  "download_time": "2025-12-09T05:35:42.832915",
+  "package_url": "https://pypi.org/project/ge-snowflake-validator/"
+}

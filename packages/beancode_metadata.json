@@ -1,0 +1,11 @@
+{
+  "name": "beancode",
+  "version": "0.5.3",
+  "summary": "A cursed IGCSE pseudocode interpreter/transpiler",
+  "author": "ezntek",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "beancode-0.5.3.tar.gz",
+  "download_time": "2025-12-09T05:35:40.253496",
+  "package_url": "https://pypi.org/project/beancode/"
+}

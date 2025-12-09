@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-cloudinit",
+  "version": "1.4.14",
+  "summary": "A Pulumi package for creating and managing cloudinit cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_cloudinit-1.4.14.tar.gz",
+  "download_time": "2025-12-09T05:35:30.385588",
+  "package_url": "https://pypi.org/project/pulumi-cloudinit/"
+}

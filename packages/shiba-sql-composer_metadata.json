@@ -1,0 +1,11 @@
+{
+  "name": "shiba-sql-composer",
+  "version": "0.1.0",
+  "summary": "A type-safe SQL query builder and composer for Python",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "shiba_sql_composer-0.1.0.tar.gz",
+  "download_time": "2025-12-09T05:35:30.898328",
+  "package_url": "https://pypi.org/project/shiba-sql-composer/"
+}

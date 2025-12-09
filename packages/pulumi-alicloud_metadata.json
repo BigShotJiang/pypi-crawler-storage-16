@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-alicloud",
+  "version": "3.90.0",
+  "summary": "A Pulumi package for creating and managing AliCloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_alicloud-3.90.0.tar.gz",
+  "download_time": "2025-12-09T05:35:37.155463",
+  "package_url": "https://pypi.org/project/pulumi-alicloud/"
+}

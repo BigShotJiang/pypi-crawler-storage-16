@@ -1,0 +1,11 @@
+{
+  "name": "ilorest",
+  "version": "7.0.0.0",
+  "summary": "HPE iLORest Tool",
+  "author": "Hewlett Packard Enterprise",
+  "license": null,
+  "home_page": "https://github.com/HewlettPackard/python-redfish-utility",
+  "download_filename": "ilorest-7.0.0.0.tar.gz",
+  "download_time": "2025-12-09T03:47:15.354775",
+  "package_url": "https://pypi.org/project/ilorest/"
+}

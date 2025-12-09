@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-dashboard",
+  "version": "1.4.0",
+  "summary": "Output processor and dashboard generator for Robot Framework output files",
+  "author": "Tim de Groot",
+  "license": "MIT",
+  "home_page": "https://github.com/timdegroot1996/robotframework-dashboard",
+  "download_filename": "robotframework_dashboard-1.4.0.tar.gz",
+  "download_time": "2025-12-09T03:47:17.709566",
+  "package_url": "https://pypi.org/project/robotframework-dashboard/"
+}

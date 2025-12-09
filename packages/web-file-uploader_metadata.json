@@ -1,0 +1,11 @@
+{
+  "name": "web-file-uploader",
+  "version": "0.2.0",
+  "summary": "A FastAPI web file uploader",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "web_file_uploader-0.2.0.tar.gz",
+  "download_time": "2025-12-09T03:47:29.248581",
+  "package_url": "https://pypi.org/project/web-file-uploader/"
+}

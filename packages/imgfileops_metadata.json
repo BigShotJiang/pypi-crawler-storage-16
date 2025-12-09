@@ -1,0 +1,11 @@
+{
+  "name": "imgfileops",
+  "version": "0.3.0",
+  "summary": "This package makes easy to replicate figures and movies from microscopy data from configuration files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imgfileops-0.3.0.tar.gz",
+  "download_time": "2025-12-09T03:47:00.421049",
+  "package_url": "https://pypi.org/project/imgfileops/"
+}

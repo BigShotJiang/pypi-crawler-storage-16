@@ -1,0 +1,11 @@
+{
+  "name": "cowponder",
+  "version": "0.1.5",
+  "summary": "A simple command that displays randomly selected philosophical thoughts from a cow",
+  "author": "Max Cai",
+  "license": null,
+  "home_page": "https://max.xz.ax/cowponder",
+  "download_filename": "cowponder-0.1.5.tar.gz",
+  "download_time": "2025-12-09T03:46:45.042228",
+  "package_url": "https://pypi.org/project/cowponder/"
+}

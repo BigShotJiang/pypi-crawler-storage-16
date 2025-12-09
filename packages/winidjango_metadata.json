@@ -1,0 +1,11 @@
+{
+  "name": "winidjango",
+  "version": "2.0.20",
+  "summary": "A utils package for django",
+  "author": "Winipedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "winidjango-2.0.20.tar.gz",
+  "download_time": "2025-12-09T03:47:26.879371",
+  "package_url": "https://pypi.org/project/winidjango/"
+}

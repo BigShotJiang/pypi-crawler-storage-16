@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-pricelist-search",
+  "version": "18.0.1.0.0.3",
+  "summary": "Partner pricelist search",
+  "author": "Tecnativa,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_pricelist_search-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-09T03:46:46.958496",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-pricelist-search/"
+}

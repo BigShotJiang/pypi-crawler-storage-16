@@ -1,0 +1,11 @@
+{
+  "name": "cie-utils",
+  "version": "0.2.0",
+  "summary": "Image processing based on CIELAB color space.",
+  "author": "Jesus Alberto Rodriguez Henao",
+  "license": "MIT",
+  "home_page": "https://github.com/jarh1992/cie-utils",
+  "download_filename": "cie_utils-0.2.0.tar.gz",
+  "download_time": "2025-12-09T03:46:44.400220",
+  "package_url": "https://pypi.org/project/cie-utils/"
+}

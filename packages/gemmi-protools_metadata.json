@@ -1,0 +1,11 @@
+{
+  "name": "gemmi-protools",
+  "version": "1.0.7",
+  "summary": "An Enhanced tool to process PDB structures based on Gemmi",
+  "author": "Luo Jiejian",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemmi_protools-1.0.7-py3-none-any.whl",
+  "download_time": "2025-12-09T03:47:29.829826",
+  "package_url": "https://pypi.org/project/gemmi-protools/"
+}

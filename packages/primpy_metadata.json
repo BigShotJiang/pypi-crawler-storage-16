@@ -1,0 +1,11 @@
+{
+  "name": "primpy",
+  "version": "2.18.1",
+  "summary": "primpy: Calculations for the primordial Universe.",
+  "author": "Lukas Hergt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "primpy-2.18.1.tar.gz",
+  "download_time": "2025-12-09T14:16:05.853292",
+  "package_url": "https://pypi.org/project/primpy/"
+}

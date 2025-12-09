@@ -1,0 +1,11 @@
+{
+  "name": "cmsbx-code-interpreter",
+  "version": "0.0.1",
+  "summary": "cmsbx Code Interpreter - Stateful code execution",
+  "author": "cmsbx",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cmsbx_code_interpreter-0.0.1.tar.gz",
+  "download_time": "2025-12-09T14:15:58.671245",
+  "package_url": "https://pypi.org/project/cmsbx-code-interpreter/"
+}

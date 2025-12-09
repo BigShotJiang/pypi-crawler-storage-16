@@ -1,11 +1,11 @@
 {
   "name": "pydantic-ui",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Dynamic UI for editing deeply nested Pydantic models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_ui-0.1.2.tar.gz",
-  "download_time": "2025-12-09T13:10:47.210444",
+  "download_filename": "pydantic_ui-0.1.3.tar.gz",
+  "download_time": "2025-12-09T14:16:28.045157",
   "package_url": "https://pypi.org/project/pydantic-ui/"
 }

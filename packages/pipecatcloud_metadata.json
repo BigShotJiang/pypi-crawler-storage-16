@@ -1,0 +1,11 @@
+{
+  "name": "pipecatcloud",
+  "version": "0.2.14",
+  "summary": "Cloud hosting for Pipecat AI applications",
+  "author": null,
+  "license": "BSD 2-Clause License",
+  "home_page": null,
+  "download_filename": "pipecatcloud-0.2.14.tar.gz",
+  "download_time": "2025-12-09T14:16:30.612284",
+  "package_url": "https://pypi.org/project/pipecatcloud/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "logs-py",
+  "version": "4.0.9",
+  "summary": "A python interface for the LOGS public API",
+  "author": "Sina Kazemi",
+  "license": "MIT",
+  "home_page": "https://docs.logs-python.com",
+  "download_filename": "logs_py-4.0.9-py3-none-any.whl",
+  "download_time": "2025-12-09T14:16:01.219972",
+  "package_url": "https://pypi.org/project/logs-py/"
+}

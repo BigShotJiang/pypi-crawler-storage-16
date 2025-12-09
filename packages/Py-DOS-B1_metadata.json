@@ -1,0 +1,11 @@
+{
+  "name": "Py-DOS-B1",
+  "version": "1.1.7",
+  "summary": "An MS-DOS-like CLI OS made entirely in Python.",
+  "author": "Basanta Bhandari",
+  "license": null,
+  "home_page": "https://github.com/your-username/Py-DOS-B1",
+  "download_filename": "py_dos_b1-1.1.7.tar.gz",
+  "download_time": "2025-12-09T14:16:26.953296",
+  "package_url": "https://pypi.org/project/Py-DOS-B1/"
+}

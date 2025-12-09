@@ -1,0 +1,11 @@
+{
+  "name": "dogtail",
+  "version": "1.0.7",
+  "summary": "GUI test tool and automation framework that uses Accessibility (a11y) technologies to communicate with desktop applications.",
+  "author": "Zack Cerza <zcerza@redhat.com>,",
+  "license": null,
+  "home_page": "https://gitlab.com/dogtail/dogtail",
+  "download_filename": "dogtail-1.0.7.tar.gz",
+  "download_time": "2025-12-09T14:15:56.082138",
+  "package_url": "https://pypi.org/project/dogtail/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "duppla-aws",
+  "version": "2025.12.9.13.54",
+  "summary": "Custom implementation for the AWS resources",
+  "author": "duppla",
+  "license": null,
+  "home_page": null,
+  "download_filename": "duppla_aws-2025.12.9.13.54.tar.gz",
+  "download_time": "2025-12-09T14:16:25.415752",
+  "package_url": "https://pypi.org/project/duppla-aws/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "p01.recipe.setup",
+  "version": "0.8.21",
+  "summary": "Development and installation recipes",
+  "author": "Roger Ineichen and the Zope Community",
+  "license": "ZPL 2.1",
+  "home_page": "http://pypi.python.org/pypi/p01.recipe.setup",
+  "download_filename": "p01_recipe_setup-0.8.21.tar.gz",
+  "download_time": "2025-12-09T14:15:47.258987",
+  "package_url": "https://pypi.org/project/p01.recipe.setup/"
+}

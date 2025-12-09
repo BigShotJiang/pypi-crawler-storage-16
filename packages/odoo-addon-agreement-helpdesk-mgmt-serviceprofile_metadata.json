@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-agreement-helpdesk-mgmt-serviceprofile",
+  "version": "18.0.1.0.0.2",
+  "summary": "Agreement Helpdesk Mgmt",
+  "author": "Open Source Integrators,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/agreement",
+  "download_filename": "odoo_addon_agreement_helpdesk_mgmt_serviceprofile-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-09T14:16:20.159223",
+  "package_url": "https://pypi.org/project/odoo-addon-agreement-helpdesk-mgmt-serviceprofile/"
+}

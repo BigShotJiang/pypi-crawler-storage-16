@@ -1,0 +1,11 @@
+{
+  "name": "deploy-config-generator",
+  "version": "2.30.1",
+  "summary": "Utility to generate service deploy configurations",
+  "author": "Applause",
+  "license": "MIT",
+  "home_page": "https://github.com/ApplauseOSS/deploy-config-generator",
+  "download_filename": "deploy_config_generator-2.30.1.tar.gz",
+  "download_time": "2025-12-09T14:16:32.714813",
+  "package_url": "https://pypi.org/project/deploy-config-generator/"
+}

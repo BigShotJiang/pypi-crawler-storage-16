@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-anomalib",
+  "version": "0.1.13",
+  "summary": "Templates for anomaly detection with computer vision using anomalib library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_anomalib-0.1.13.tar.gz",
+  "download_time": "2025-12-09T15:42:29.977753",
+  "package_url": "https://pypi.org/project/sinapsis-anomalib/"
+}

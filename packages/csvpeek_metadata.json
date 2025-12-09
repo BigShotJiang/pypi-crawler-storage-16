@@ -1,0 +1,11 @@
+{
+  "name": "csvpeek",
+  "version": "0.2.0",
+  "summary": "A snappy CSV viewer TUI - peek at your data fast",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "csvpeek-0.2.0.tar.gz",
+  "download_time": "2025-12-09T15:42:27.856174",
+  "package_url": "https://pypi.org/project/csvpeek/"
+}

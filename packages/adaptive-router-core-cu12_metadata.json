@@ -1,0 +1,11 @@
+{
+  "name": "adaptive-router-core-cu12",
+  "version": "0.1.0",
+  "summary": "C++ inference core for Adaptive Router (CUDA 12.x)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adaptive_router_core_cu12-0.1.0-cp311-cp311-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-12-09T15:42:33.679561",
+  "package_url": "https://pypi.org/project/adaptive-router-core-cu12/"
+}

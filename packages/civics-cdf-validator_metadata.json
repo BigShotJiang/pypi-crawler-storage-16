@@ -1,0 +1,11 @@
+{
+  "name": "civics-cdf-validator",
+  "version": "1.55",
+  "summary": "Checks if an election feed follows best practices",
+  "author": "Google Civics",
+  "license": "Apache License",
+  "home_page": "https://github.com/google/civics_cdf_validator",
+  "download_filename": "civics_cdf_validator-1.55.tar.gz",
+  "download_time": "2025-12-09T15:42:21.456280",
+  "package_url": "https://pypi.org/project/civics-cdf-validator/"
+}

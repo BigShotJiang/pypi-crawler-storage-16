@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-data-visualization",
+  "version": "0.1.13",
+  "summary": "Templates to perform visualization of data distributions and image annotations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_data_visualization-0.1.13.tar.gz",
+  "download_time": "2025-12-09T15:42:41.530848",
+  "package_url": "https://pypi.org/project/sinapsis-data-visualization/"
+}

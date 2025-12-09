@@ -1,0 +1,11 @@
+{
+  "name": "specklepy",
+  "version": "3.2.1",
+  "summary": "The Python SDK for Speckle",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "specklepy-3.2.1.tar.gz",
+  "download_time": "2025-12-09T15:43:01.529400",
+  "package_url": "https://pypi.org/project/specklepy/"
+}

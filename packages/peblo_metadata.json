@@ -1,0 +1,11 @@
+{
+  "name": "peblo",
+  "version": "0.0.2",
+  "summary": "Peblo is a growing collection of small, everyday intelligent tools.",
+  "author": "Anders Cui",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "peblo-0.0.2.tar.gz",
+  "download_time": "2025-12-09T15:42:16.116253",
+  "package_url": "https://pypi.org/project/peblo/"
+}

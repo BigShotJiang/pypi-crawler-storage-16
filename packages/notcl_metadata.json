@@ -1,0 +1,11 @@
+{
+  "name": "notcl",
+  "version": "0.3.6",
+  "summary": "Replace Tcl scripting with Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "notcl-0.3.6.tar.gz",
+  "download_time": "2025-12-09T15:42:37.867463",
+  "package_url": "https://pypi.org/project/notcl/"
+}

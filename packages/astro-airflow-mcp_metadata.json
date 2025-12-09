@@ -1,0 +1,11 @@
+{
+  "name": "astro-airflow-mcp",
+  "version": "0.1.0",
+  "summary": "A FastMCP server for Airflow integration that can run standalone or as an Airflow 3 plugin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astro_airflow_mcp-0.1.0.tar.gz",
+  "download_time": "2025-12-09T15:42:20.933551",
+  "package_url": "https://pypi.org/project/astro-airflow-mcp/"
+}

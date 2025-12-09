@@ -1,11 +1,11 @@
 {
   "name": "fast-data-pipeline",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A package for processing MF4 and Rosbag data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fast_data_pipeline-0.3.0.tar.gz",
-  "download_time": "2025-12-09T14:56:24.780265",
+  "download_filename": "fast_data_pipeline-0.3.1.tar.gz",
+  "download_time": "2025-12-09T15:42:28.375381",
   "package_url": "https://pypi.org/project/fast-data-pipeline/"
 }

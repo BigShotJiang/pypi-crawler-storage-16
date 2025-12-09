@@ -1,0 +1,11 @@
+{
+  "name": "qena-shared-lib",
+  "version": "0.1.20",
+  "summary": "A shared tools for other services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qena_shared_lib-0.1.20.tar.gz",
+  "download_time": "2025-12-09T15:42:57.339168",
+  "package_url": "https://pypi.org/project/qena-shared-lib/"
+}

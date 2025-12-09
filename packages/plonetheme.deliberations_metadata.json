@@ -1,0 +1,11 @@
+{
+  "name": "plonetheme.deliberations",
+  "version": "1.5",
+  "summary": "An add-on for Plone",
+  "author": "Antoine Duchêne",
+  "license": null,
+  "home_page": "https://github.com/collective/plonetheme.deliberations",
+  "download_filename": "plonetheme_deliberations-1.5.tar.gz",
+  "download_time": "2025-12-09T15:42:36.297044",
+  "package_url": "https://pypi.org/project/plonetheme.deliberations/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyside-widget-reloader",
+  "version": "0.0.1",
+  "summary": "Reloads pyside widget when changes are made to module file of the widget.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyside_widget_reloader-0.0.1.tar.gz",
+  "download_time": "2025-12-09T19:34:29.566482",
+  "package_url": "https://pypi.org/project/pyside-widget-reloader/"
+}

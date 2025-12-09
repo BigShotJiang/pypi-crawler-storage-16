@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker-jupyterlab-extension-common",
+  "version": "0.2.15",
+  "summary": "SageMaker JupyterLab workspace common module",
+  "author": "Amazon",
+  "license": "Amazon Software License",
+  "home_page": "https://aws.amazon.com/sagemaker/",
+  "download_filename": "sagemaker_jupyterlab_extension_common-0.2.15.tar.gz",
+  "download_time": "2025-12-09T19:34:46.825763",
+  "package_url": "https://pypi.org/project/sagemaker-jupyterlab-extension-common/"
+}

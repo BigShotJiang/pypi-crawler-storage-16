@@ -1,11 +1,11 @@
 {
   "name": "pyprotect-th",
-  "version": "1.0.2",
+  "version": "2.1.2",
   "summary": "Advanced Python code obfuscator with machine ID binding",
   "author": "PyProtect Team",
   "license": null,
   "home_page": "https://github.com/dynaz/PyProtect",
-  "download_filename": "pyprotect_th-1.0.2.tar.gz",
-  "download_time": "2025-12-09T17:15:33.804530",
+  "download_filename": "pyprotect_th-2.1.2.tar.gz",
+  "download_time": "2025-12-09T19:34:41.986349",
   "package_url": "https://pypi.org/project/pyprotect-th/"
 }

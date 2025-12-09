@@ -1,0 +1,11 @@
+{
+  "name": "qirrunner",
+  "version": "0.9.1",
+  "summary": "JIT compiles and executes programs written in QIR (Quantum Intermediate Representation).",
+  "author": "Microsoft",
+  "license": "MIT",
+  "home_page": "https://github.com/qir-alliance/qir-runner",
+  "download_filename": "qirrunner-0.9.1.tar.gz",
+  "download_time": "2025-12-09T19:34:47.870487",
+  "package_url": "https://pypi.org/project/qirrunner/"
+}

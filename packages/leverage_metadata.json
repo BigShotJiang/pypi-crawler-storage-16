@@ -1,0 +1,11 @@
+{
+  "name": "leverage",
+  "version": "2.1.1",
+  "summary": "Binbash Leverage Command-Line tool.",
+  "author": "BinBash Inc",
+  "license": "MIT",
+  "home_page": "https://github.com/binbashar/leverage",
+  "download_filename": "leverage-2.1.1.tar.gz",
+  "download_time": "2025-12-09T19:34:40.387397",
+  "package_url": "https://pypi.org/project/leverage/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytest-req",
+  "version": "0.5.1",
+  "summary": "pytest requests plugin",
+  "author": "bugmaster",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pytest_req-0.5.1.tar.gz",
+  "download_time": "2025-12-09T02:48:42.403895",
+  "package_url": "https://pypi.org/project/pytest-req/"
+}

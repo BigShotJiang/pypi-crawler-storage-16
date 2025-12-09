@@ -1,0 +1,11 @@
+{
+  "name": "brokle",
+  "version": "0.2.15",
+  "summary": "Brokle Platform Python SDK for OpenTelemetry-native LLM observability and tracing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brokle-0.2.15.tar.gz",
+  "download_time": "2025-12-09T02:48:26.471676",
+  "package_url": "https://pypi.org/project/brokle/"
+}

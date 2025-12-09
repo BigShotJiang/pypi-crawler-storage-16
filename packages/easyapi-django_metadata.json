@@ -1,0 +1,11 @@
+{
+  "name": "easyapi-django",
+  "version": "0.23",
+  "summary": "A simple rest api generator for django based on models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "easyapi_django-0.23.tar.gz",
+  "download_time": "2025-12-09T02:48:36.604260",
+  "package_url": "https://pypi.org/project/easyapi-django/"
+}

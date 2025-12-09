@@ -1,0 +1,11 @@
+{
+  "name": "first-io",
+  "version": "0.1.5",
+  "summary": "My tiny package",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "first_io-0.1.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-12-09T02:48:20.175615",
+  "package_url": "https://pypi.org/project/first-io/"
+}

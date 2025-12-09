@@ -1,0 +1,11 @@
+{
+  "name": "ragbits-cli",
+  "version": "1.3.0",
+  "summary": "A CLI application for ragbits - building blocks for rapid development of GenAI applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ragbits_cli-1.3.0.tar.gz",
+  "download_time": "2025-12-09T02:48:23.850675",
+  "package_url": "https://pypi.org/project/ragbits-cli/"
+}

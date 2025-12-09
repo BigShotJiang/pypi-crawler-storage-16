@@ -1,0 +1,11 @@
+{
+  "name": "hoppr-cyclonedx-models",
+  "version": "0.7.0",
+  "summary": "CycloneDX Pydantic models for easy use in your Python project.",
+  "author": "LMCO Open Source",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/hoppr/hoppr-cyclonedx-models",
+  "download_filename": "hoppr_cyclonedx_models-0.7.0.tar.gz",
+  "download_time": "2025-12-09T02:48:57.838761",
+  "package_url": "https://pypi.org/project/hoppr-cyclonedx-models/"
+}

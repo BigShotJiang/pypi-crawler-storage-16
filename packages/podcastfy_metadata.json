@@ -1,0 +1,11 @@
+{
+  "name": "podcastfy",
+  "version": "0.4.3",
+  "summary": "An Open Source alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI",
+  "author": "Tharsis T. P. Souza",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "podcastfy-0.4.3.tar.gz",
+  "download_time": "2025-12-09T02:48:50.381296",
+  "package_url": "https://pypi.org/project/podcastfy/"
+}

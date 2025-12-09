@@ -1,0 +1,11 @@
+{
+  "name": "autogen-vertexai-memory",
+  "version": "0.2.0",
+  "summary": "VertexAI Memory integration for Autogen agents",
+  "author": "thelaycon",
+  "license": "MIT",
+  "home_page": "https://github.com/thelaycon/autogen-vertexai-memory",
+  "download_filename": "autogen_vertexai_memory-0.2.0.tar.gz",
+  "download_time": "2025-12-09T02:48:38.207072",
+  "package_url": "https://pypi.org/project/autogen-vertexai-memory/"
+}

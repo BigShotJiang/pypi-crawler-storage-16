@@ -1,0 +1,11 @@
+{
+  "name": "getgauge-cli",
+  "version": "1.6.22",
+  "summary": null,
+  "author": "getgauge",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/getgauge/gauge",
+  "download_filename": "getgauge_cli-1.6.22.tar.gz",
+  "download_time": "2025-12-09T02:48:41.882863",
+  "package_url": "https://pypi.org/project/getgauge-cli/"
+}

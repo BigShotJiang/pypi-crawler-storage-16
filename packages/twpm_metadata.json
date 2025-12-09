@@ -1,0 +1,11 @@
+{
+  "name": "twpm",
+  "version": "0.3.0",
+  "summary": "A simple workflow builder that takes the complexity out of building dynamic workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "twpm-0.3.0.tar.gz",
+  "download_time": "2025-12-09T02:48:30.159112",
+  "package_url": "https://pypi.org/project/twpm/"
+}

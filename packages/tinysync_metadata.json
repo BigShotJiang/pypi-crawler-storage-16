@@ -1,0 +1,11 @@
+{
+  "name": "tinysync",
+  "version": "0.0.21",
+  "summary": "TinySync is a two-path (bi-direction) synchronization algorithm implemented in pure Python that can synchronize files between any two kinds of backends.",
+  "author": null,
+  "license": "LICENSE.md",
+  "home_page": "https://github.com/HengyueLi/tinysync",
+  "download_filename": "tinysync-0.0.21-py3-none-any.whl",
+  "download_time": "2025-12-09T02:48:13.857516",
+  "package_url": "https://pypi.org/project/tinysync/"
+}

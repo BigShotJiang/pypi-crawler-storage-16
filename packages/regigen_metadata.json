@@ -1,0 +1,11 @@
+{
+  "name": "regigen",
+  "version": "0.1.1",
+  "summary": "A utility package for generating coordinates of rotated geometric shapes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "regigen-0.1.1.tar.gz",
+  "download_time": "2025-12-09T02:48:46.100360",
+  "package_url": "https://pypi.org/project/regigen/"
+}

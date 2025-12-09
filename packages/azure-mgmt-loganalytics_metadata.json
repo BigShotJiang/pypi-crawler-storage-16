@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-loganalytics",
+  "version": "13.1.0",
+  "summary": "Microsoft Azure Loganalytics Management Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_mgmt_loganalytics-13.1.0.tar.gz",
+  "download_time": "2025-12-09T02:48:17.030925",
+  "package_url": "https://pypi.org/project/azure-mgmt-loganalytics/"
+}

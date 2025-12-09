@@ -1,0 +1,11 @@
+{
+  "name": "cendat",
+  "version": "0.8.1",
+  "summary": "A helper library for exploring and fetching data from the U.S. Census Bureau API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cendat-0.8.1.tar.gz",
+  "download_time": "2025-12-09T02:48:47.217466",
+  "package_url": "https://pypi.org/project/cendat/"
+}

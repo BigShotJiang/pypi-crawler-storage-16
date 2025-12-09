@@ -1,11 +1,11 @@
 {
   "name": "cascade-splits-sdk-evm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python SDK for Cascade Splits - Non-custodial payment splitting on Base (EVM)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cascade_splits_sdk_evm-0.1.0.tar.gz",
-  "download_time": "2025-12-09T22:25:54.105049",
+  "download_filename": "cascade_splits_sdk_evm-0.1.1.tar.gz",
+  "download_time": "2025-12-09T22:49:05.596797",
   "package_url": "https://pypi.org/project/cascade-splits-sdk-evm/"
 }

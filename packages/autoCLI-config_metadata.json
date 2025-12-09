@@ -1,0 +1,11 @@
+{
+  "name": "autoCLI-config",
+  "version": "0.1.8",
+  "summary": "Automatic configuration management and documentation generation system",
+  "author": "Ruben Sanchez-Garcia",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/rsanchezgarc/autoCLI_config",
+  "download_filename": "autocli_config-0.1.8.tar.gz",
+  "download_time": "2025-12-09T22:48:50.456747",
+  "package_url": "https://pypi.org/project/autoCLI-config/"
+}

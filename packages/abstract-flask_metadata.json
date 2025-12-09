@@ -1,0 +1,11 @@
+{
+  "name": "abstract-flask",
+  "version": "0.0.0.990",
+  "summary": "Utilities for building Flask apps faster: structured request parsing, safe argument extraction, user/IP introspection, logging helpers, and light-weight file/directory utilities — all packaged as small, composable modules.",
+  "author": "putkoff",
+  "license": null,
+  "home_page": "https://github.com/AbstractEndeavors/abstract_flask",
+  "download_filename": "abstract_flask-0.0.0.990.tar.gz",
+  "download_time": "2025-12-09T22:48:55.605825",
+  "package_url": "https://pypi.org/project/abstract-flask/"
+}

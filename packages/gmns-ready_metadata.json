@@ -1,0 +1,11 @@
+{
+  "name": "gmns-ready",
+  "version": "0.1.0",
+  "summary": "Tools for preparing and validating GMNS transportation network data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gmns_ready-0.1.0.tar.gz",
+  "download_time": "2025-12-09T22:49:12.304284",
+  "package_url": "https://pypi.org/project/gmns-ready/"
+}

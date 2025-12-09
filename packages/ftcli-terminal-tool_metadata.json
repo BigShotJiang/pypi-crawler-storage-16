@@ -1,0 +1,11 @@
+{
+  "name": "ftcli-terminal-tool",
+  "version": "0.1.1",
+  "summary": "FTC team management CLI tool with TUI interface",
+  "author": "Kashyap Sukshavasi",
+  "license": null,
+  "home_page": "https://github.com/kashsuks/ftcli",
+  "download_filename": "ftcli_terminal_tool-0.1.1.tar.gz",
+  "download_time": "2025-12-09T22:49:04.166940",
+  "package_url": "https://pypi.org/project/ftcli-terminal-tool/"
+}

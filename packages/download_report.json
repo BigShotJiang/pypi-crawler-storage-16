@@ -1,8 +1,14 @@
 {
-  "download_time": "2025-12-09T04:23:08.757552",
-  "total_packages_downloaded": 97,
-  "total_size_mb": 35.82,
+  "download_time": "2025-12-09T04:48:08.070854",
+  "total_packages_downloaded": 96,
+  "total_size_mb": 1.08,
   "packages": [
+    "postgrid-python",
+    "odoo-addons-oca-stock-logistics-workflow",
+    "mlx-openai-server",
+    "odoo-addon-stock-production-lot-active",
+    "dkist-processing-common",
+    "dojo-sdk-client",
     "odoo-addon-stock-secondary-unit",
     "py-images-utils",
     "pulumi",
@@ -92,13 +98,6 @@
     "messageboard",
     "image-interlacement",
     "bizydraft",
-    "odoo-addons-oca-product-variant",
-    "tencent-wedata-auto-ml",
-    "zfx",
-    "odoo-addon-product-cost-security",
-    "odoo-addon-product-sequence",
-    "agentcube-sdk",
-    "odoo-addon-purchase-product-template-tags",
-    "odoo-addon-sale-product-template-tags"
+    "odoo-addons-oca-product-variant"
   ]
 }

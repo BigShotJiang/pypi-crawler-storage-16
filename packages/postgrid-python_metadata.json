@@ -1,0 +1,11 @@
+{
+  "name": "postgrid-python",
+  "version": "2.0.3",
+  "summary": "The official Python library for the PostGrid API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "postgrid_python-2.0.3.tar.gz",
+  "download_time": "2025-12-09T04:47:15.536825",
+  "package_url": "https://pypi.org/project/postgrid-python/"
+}

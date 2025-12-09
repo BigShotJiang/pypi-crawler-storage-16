@@ -1,11 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-09T04:23:08.757552
-- **Total Packages**: 97
-- **Total Size**: 35.82 MB
+- **Download Time**: 2025-12-09T04:48:08.070854
+- **Total Packages**: 96
+- **Total Size**: 1.08 MB
 
 ## Packages List
+- postgrid-python
+- odoo-addons-oca-stock-logistics-workflow
+- mlx-openai-server
+- odoo-addon-stock-production-lot-active
+- dkist-processing-common
+- dojo-sdk-client
 - odoo-addon-stock-secondary-unit
 - py-images-utils
 - pulumi
@@ -96,10 +102,3 @@
 - image-interlacement
 - bizydraft
 - odoo-addons-oca-product-variant
-- tencent-wedata-auto-ml
-- zfx
-- odoo-addon-product-cost-security
-- odoo-addon-product-sequence
-- agentcube-sdk
-- odoo-addon-purchase-product-template-tags
-- odoo-addon-sale-product-template-tags

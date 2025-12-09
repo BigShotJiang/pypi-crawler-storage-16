@@ -1,0 +1,11 @@
+{
+  "name": "arraypartition",
+  "version": "1.2.0",
+  "summary": "Container module for ArrayLike Partition class behaviour",
+  "author": "Daniel Westwood",
+  "license": "BSD 3",
+  "home_page": null,
+  "download_filename": "arraypartition-1.2.0.tar.gz",
+  "download_time": "2025-12-09T11:30:57.814663",
+  "package_url": "https://pypi.org/project/arraypartition/"
+}

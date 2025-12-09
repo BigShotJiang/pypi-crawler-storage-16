@@ -1,0 +1,11 @@
+{
+  "name": "pyxetabase",
+  "version": "3.1.2",
+  "summary": "A REST client for OpenCGA enterprise REST web services",
+  "author": "Daniel Perez-Gil",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "pyxetabase-3.1.2.tar.gz",
+  "download_time": "2025-12-09T11:30:47.508572",
+  "package_url": "https://pypi.org/project/pyxetabase/"
+}

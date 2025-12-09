@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-edi-storage-oca",
+  "version": "18.0.1.0.1",
+  "summary": "Base module to allow exchanging files via storage backend (eg: SFTP).",
+  "author": "ACSONE,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/edi-framework",
+  "download_filename": "odoo_addon_edi_storage_oca-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-12-09T11:30:49.047625",
+  "package_url": "https://pypi.org/project/odoo-addon-edi-storage-oca/"
+}

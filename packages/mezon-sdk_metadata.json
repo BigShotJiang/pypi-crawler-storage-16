@@ -1,0 +1,11 @@
+{
+  "name": "mezon-sdk",
+  "version": "1.6.3",
+  "summary": "Mezon Python SDK - A Python implementation of the Mezon TypeScript SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mezon_sdk-1.6.3.tar.gz",
+  "download_time": "2025-12-09T11:30:55.754910",
+  "package_url": "https://pypi.org/project/mezon-sdk/"
+}

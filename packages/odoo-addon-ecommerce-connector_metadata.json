@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-ecommerce-connector",
+  "version": "15.0.2.1.1",
+  "summary": "General E-Commerce Integration",
+  "author": "Sygel",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/sygel-technology/sy-general-connector",
+  "download_filename": "odoo_addon_ecommerce_connector-15.0.2.1.1-py3-none-any.whl",
+  "download_time": "2025-12-09T11:30:37.688052",
+  "package_url": "https://pypi.org/project/odoo-addon-ecommerce-connector/"
+}

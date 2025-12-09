@@ -1,0 +1,11 @@
+{
+  "name": "wowipy",
+  "version": "1.1.62",
+  "summary": "OPENWOWI Wowiport API wrapper for python",
+  "author": "Sebastian Bauhaus",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/seb-bau/WowiPy",
+  "download_filename": "wowipy-1.1.62.tar.gz",
+  "download_time": "2025-12-09T11:30:48.021638",
+  "package_url": "https://pypi.org/project/wowipy/"
+}

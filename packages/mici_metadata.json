@@ -1,0 +1,11 @@
+{
+  "name": "mici",
+  "version": "0.4.1",
+  "summary": "MCMC samplers based on simulating Hamiltonian dynamics on a manifold.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mici-0.4.1.tar.gz",
+  "download_time": "2025-12-09T11:30:53.702156",
+  "package_url": "https://pypi.org/project/mici/"
+}

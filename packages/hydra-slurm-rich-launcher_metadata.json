@@ -1,0 +1,11 @@
+{
+  "name": "hydra-slurm-rich-launcher",
+  "version": "1.1.2",
+  "summary": "A rich, visual interface for easily starting and monitoring your Hydra applications on SLURM clusters",
+  "author": "Christoph Reinders",
+  "license": "MIT",
+  "home_page": "https://github.com/creinders/hydra-slurm-rich-launcher",
+  "download_filename": "hydra_slurm_rich_launcher-1.1.2.tar.gz",
+  "download_time": "2025-12-09T11:30:42.320109",
+  "package_url": "https://pypi.org/project/hydra-slurm-rich-launcher/"
+}

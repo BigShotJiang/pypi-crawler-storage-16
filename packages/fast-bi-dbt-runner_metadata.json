@@ -1,0 +1,11 @@
+{
+  "name": "fast-bi-dbt-runner",
+  "version": "2025.1.0.2",
+  "summary": "A comprehensive Python library for managing DBT (Data Build Tool) DAGs within the Fast.BI data development platform",
+  "author": "Fast.Bi",
+  "license": "MIT",
+  "home_page": "https://gitlab.fast.bi/infrastructure/bi-platform-pypi-packages/fast_bi_dbt_runner",
+  "download_filename": "fast_bi_dbt_runner-2025.1.0.2.tar.gz",
+  "download_time": "2025-12-09T11:30:46.995738",
+  "package_url": "https://pypi.org/project/fast-bi-dbt-runner/"
+}

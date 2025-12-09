@@ -1,0 +1,11 @@
+{
+  "name": "cfapyx",
+  "version": "2025.12.9",
+  "summary": "The pure-Python implementation of the CF Aggregation conventions, including the Xarray engine to enable reading CFA-netCDF files.",
+  "author": "Daniel Westwood",
+  "license": "BSD 3",
+  "home_page": null,
+  "download_filename": "cfapyx-2025.12.9.tar.gz",
+  "download_time": "2025-12-09T11:30:45.449040",
+  "package_url": "https://pypi.org/project/cfapyx/"
+}

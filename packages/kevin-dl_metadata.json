@@ -1,0 +1,11 @@
+{
+  "name": "kevin-dl",
+  "version": "0.1.1",
+  "summary": "深度学习相关工具与框架",
+  "author": "kevin hsu",
+  "license": "MIT",
+  "home_page": "https://github.com/cantbeblank96/kevin_dl_release",
+  "download_filename": "kevin_dl-0.1.1.tar.gz",
+  "download_time": "2025-12-09T11:30:33.524115",
+  "package_url": "https://pypi.org/project/kevin-dl/"
+}

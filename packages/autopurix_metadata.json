@@ -1,0 +1,11 @@
+{
+  "name": "autopurix",
+  "version": "0.1.0",
+  "summary": "Automatic preprocessing library for ML pipelines",
+  "author": "Ajay Rajak",
+  "license": null,
+  "home_page": "https://github.com/yourusername/autopurix",
+  "download_filename": "autopurix-0.1.0.tar.gz",
+  "download_time": "2025-12-09T19:24:43.328387",
+  "package_url": "https://pypi.org/project/autopurix/"
+}

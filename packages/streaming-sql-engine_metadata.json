@@ -1,0 +1,11 @@
+{
+  "name": "streaming-sql-engine",
+  "version": "0.1.3",
+  "summary": "A lightweight SQL execution engine for streaming row-by-row queries with joins",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/Ierofantis/streaming-sql-engine/tree/master",
+  "download_filename": "streaming_sql_engine-0.1.3.tar.gz",
+  "download_time": "2025-12-09T19:24:27.207446",
+  "package_url": "https://pypi.org/project/streaming-sql-engine/"
+}

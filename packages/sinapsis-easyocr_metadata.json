@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-easyocr",
+  "version": "0.1.10",
+  "summary": "Perform optical character recognition using the EasyOCR library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_easyocr-0.1.10.tar.gz",
+  "download_time": "2025-12-09T19:24:31.652656",
+  "package_url": "https://pypi.org/project/sinapsis-easyocr/"
+}

@@ -1,11 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-09T19:10:56.124669
-- **Total Packages**: 81
-- **Total Size**: 48.65 MB
+- **Download Time**: 2025-12-09T19:25:14.953667
+- **Total Packages**: 90
+- **Total Size**: 17.82 MB
 
 ## Packages List
+- streamlit-notebook
+- streaming-sql-engine
+- scientific-writer
+- testcontainers-aws
+- eval-ai-library
+- gac
+- QuickBench
+- mesh-plugin-manager
+- sinapsis-ocr
+- sinapsis-easyocr
+- sinapsis-doctr
+- libjam
+- coinrailz-mcp
+- airbyte-internal-ops
+- sendblue
+- agentx-dev
+- clelandlab-quick
+- ert
+- spec-classes
+- gammarers.aws-frontend-web-app-deploy-stack
+- aiinbx
+- librifygen
+- quantconnect-stubs
+- odoo-addon-account-invoice-import-ubl
+- bazbeans
+- configtpl
+- pyjsf
+- PySurveyReader
+- github-activity
+- astro-elisa
+- autopurix
+- fastloop
+- moxn
+- clippy-code
+- profe
+- agentfoundry
+- steputil
+- eradication-data-requirements
+- inferedge-moss
+- jax2onnx
+- hipr
+- macsdk
+- file-parse-by-bajirao
+- odoo-addon-account-invoice-download
+- jentic-openapi-validator-spectral
+- jentic-openapi-validator-redocly
+- depthai-nodes
+- jentic-openapi-validator
+- jentic-openapi-traverse
+- jentic-openapi-transformer-redocly
+- jentic-openapi-transformer
+- jentic-openapi-tools
+- jentic-openapi-parser
+- jentic-openapi-datamodels
+- jentic-openapi-common
+- moxn-types
 - biblemategui
 - fftvm
 - db-safe-layer
@@ -19,9 +75,7 @@
 - hub-auth-client
 - rxiv-maker
 - whatsapp-trend-plotter
-- PySurveyReader
 - sparkwheel
-- fastloop
 - pulumi-provider-boilerplate
 - py-socproof
 - cartographer3d-plugin
@@ -42,48 +96,3 @@
 - webtoolkit
 - docktor-py
 - opengradient
-- odoo-addon-somconnexio
-- llmling-agent
-- cloudos-cli
-- gradient-adk
-- mistral-vibe
-- backcraft-cli
-- lucid-dl
-- super-md
-- pgtq
-- resource-schema-guard-rail
-- bibfish
-- skribble
-- genpdf-butler
-- argman
-- mlx-audio-plus
-- GameSentenceMiner
-- vellum-ai
-- yarobot
-- adafruit-circuitpython-display-text
-- plumber-agent
-- groundhog-hpc
-- sqlmesh-dag-generator
-- gamspy-snopt
-- gamspy-reshop
-- daqopen-lib
-- gamspy-examiner
-- gamspy-miles
-- rundeck-mcp
-- gamspy-mpsge
-- gamspy-soplex
-- treqs-ng
-- gamspy-ipopth
-- orb-billing
-- pyqcm
-- astro-airflow-mcp
-- gamspy-minos
-- finanfut-billing-sdk
-- gamspy-mosek
-- stringzz
-- BasisTheoryClient
-- gamspy-cbc
-- pyobfus
-- netsuite-async
-- pystatsv1
-- torsh

@@ -1,11 +1,11 @@
 {
   "name": "jentic-openapi-transformer-redocly",
-  "version": "1.0.0a30",
+  "version": "1.0.0a31",
   "summary": "Jentic OpenAPI Redocly Transformer Backend",
   "author": "Jentic",
   "license": null,
   "home_page": null,
-  "download_filename": "jentic_openapi_transformer_redocly-1.0.0a30.tar.gz",
-  "download_time": "2025-12-09T13:49:14.785929",
+  "download_filename": "jentic_openapi_transformer_redocly-1.0.0a31.tar.gz",
+  "download_time": "2025-12-09T19:24:53.282481",
   "package_url": "https://pypi.org/project/jentic-openapi-transformer-redocly/"
 }

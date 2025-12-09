@@ -1,0 +1,11 @@
+{
+  "name": "libjam",
+  "version": "0.1.8",
+  "summary": "A library jam for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libjam-0.1.8.tar.gz",
+  "download_time": "2025-12-09T19:24:32.698176",
+  "package_url": "https://pypi.org/project/libjam/"
+}

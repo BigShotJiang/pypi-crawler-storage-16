@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-doctr",
+  "version": "0.1.8",
+  "summary": "Perform optical character recognition using the DocTR library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_doctr-0.1.8.tar.gz",
+  "download_time": "2025-12-09T19:24:32.176678",
+  "package_url": "https://pypi.org/project/sinapsis-doctr/"
+}

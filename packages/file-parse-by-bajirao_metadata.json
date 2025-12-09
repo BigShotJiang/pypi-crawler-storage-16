@@ -1,0 +1,11 @@
+{
+  "name": "file-parse-by-bajirao",
+  "version": "0.1.0",
+  "summary": "Universal Document Processor for LLM Processing - extracts text, tables, numeric data, and metadata from multiple file formats",
+  "author": "Bajirao S. Sali",
+  "license": null,
+  "home_page": "https://github.com/bajirao/universal-document-processor",
+  "download_filename": "file_parse_by_bajirao-0.1.0.tar.gz",
+  "download_time": "2025-12-09T19:24:49.629184",
+  "package_url": "https://pypi.org/project/file-parse-by-bajirao/"
+}

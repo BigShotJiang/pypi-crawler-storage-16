@@ -1,0 +1,11 @@
+{
+  "name": "gammarers.aws-frontend-web-app-deploy-stack",
+  "version": "2.1.9",
+  "summary": "This is an AWS CDK Construct to make deploying a Frontend Web App (SPA) deploy to S3 behind CloudFront.",
+  "author": "yicr<yicr@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/gammarers/aws-frontend-web-app-deploy-stack.git",
+  "download_filename": "gammarers_aws_frontend_web_app_deploy_stack-2.1.9.tar.gz",
+  "download_time": "2025-12-09T19:24:36.948736",
+  "package_url": "https://pypi.org/project/gammarers.aws-frontend-web-app-deploy-stack/"
+}

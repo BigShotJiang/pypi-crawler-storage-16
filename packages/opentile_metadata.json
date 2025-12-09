@@ -1,0 +1,11 @@
+{
+  "name": "opentile",
+  "version": "0.20.0",
+  "summary": "Read tiles from wsi-TIFF files",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opentile-0.20.0.tar.gz",
+  "download_time": "2025-12-09T13:11:09.405535",
+  "package_url": "https://pypi.org/project/opentile/"
+}

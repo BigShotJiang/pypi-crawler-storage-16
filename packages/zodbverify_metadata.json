@@ -1,0 +1,11 @@
+{
+  "name": "zodbverify",
+  "version": "1.2.1",
+  "summary": "Check if all data from a ZODB can be loaded",
+  "author": "Plone Foundation Contributors",
+  "license": "GNU General Public License v2 (GPLv2)",
+  "home_page": "https://github.com/plone/zodbverify",
+  "download_filename": "zodbverify-1.2.1.tar.gz",
+  "download_time": "2025-12-09T13:10:57.008774",
+  "package_url": "https://pypi.org/project/zodbverify/"
+}

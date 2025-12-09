@@ -1,11 +1,11 @@
 {
   "name": "tracecov-community",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tracecov_community-0.12.0-cp310-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
-  "download_time": "2025-12-08T22:34:06.055521",
+  "download_filename": "tracecov_community-0.13.0-cp310-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2025-12-09T13:11:28.950898",
   "package_url": "https://pypi.org/project/tracecov-community/"
 }

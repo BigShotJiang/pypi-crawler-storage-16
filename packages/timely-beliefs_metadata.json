@@ -1,0 +1,11 @@
+{
+  "name": "timely-beliefs",
+  "version": "3.3.1",
+  "summary": "Data modelled as beliefs (at a certain time) about events (at a certain time).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "timely_beliefs-3.3.1.tar.gz",
+  "download_time": "2025-12-09T13:10:44.625085",
+  "package_url": "https://pypi.org/project/timely-beliefs/"
+}

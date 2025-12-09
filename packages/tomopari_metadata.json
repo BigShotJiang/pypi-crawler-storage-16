@@ -1,0 +1,11 @@
+{
+  "name": "tomopari",
+  "version": "0.2.28",
+  "summary": "A plugin for optical projection tomography reconstruction with model-based neural networks.",
+  "author": "Marcos Antonio Obando, Minh Nhat Trinh, David Palecek, Germán Mato, Teresa Correia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tomopari-0.2.28.tar.gz",
+  "download_time": "2025-12-09T13:10:52.911964",
+  "package_url": "https://pypi.org/project/tomopari/"
+}

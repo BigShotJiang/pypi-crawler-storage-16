@@ -1,0 +1,11 @@
+{
+  "name": "ahaat",
+  "version": "0.1.8",
+  "summary": "Tiny Gemini wrapper: ahaat.get(prompt)",
+  "author": "Mohit rajput",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ahaat-0.1.8.tar.gz",
+  "download_time": "2025-12-09T13:10:59.068536",
+  "package_url": "https://pypi.org/project/ahaat/"
+}

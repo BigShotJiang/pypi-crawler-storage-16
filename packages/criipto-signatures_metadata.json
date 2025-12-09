@@ -1,0 +1,11 @@
+{
+  "name": "criipto-signatures",
+  "version": "1.29.1",
+  "summary": "A library for interacting with the Criipto signatures GraphQL API.",
+  "author": "Jan Aagaard Meier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "criipto_signatures-1.29.1.tar.gz",
+  "download_time": "2025-12-09T13:11:25.860855",
+  "package_url": "https://pypi.org/project/criipto-signatures/"
+}

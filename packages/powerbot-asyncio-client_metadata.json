@@ -1,0 +1,11 @@
+{
+  "name": "powerbot-asyncio-client",
+  "version": "2.27.10",
+  "summary": "PowerBot Asyncio Client",
+  "author": "PowerBot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "powerbot_asyncio_client-2.27.10.tar.gz",
+  "download_time": "2025-12-09T13:11:01.625206",
+  "package_url": "https://pypi.org/project/powerbot-asyncio-client/"
+}

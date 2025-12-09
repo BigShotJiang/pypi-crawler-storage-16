@@ -1,0 +1,11 @@
+{
+  "name": "expecting",
+  "version": "0.0.8",
+  "summary": "Elegant assertions library",
+  "author": "Jean Jung",
+  "license": null,
+  "home_page": null,
+  "download_filename": "expecting-0.0.8.tar.gz",
+  "download_time": "2025-12-09T13:10:54.455916",
+  "package_url": "https://pypi.org/project/expecting/"
+}

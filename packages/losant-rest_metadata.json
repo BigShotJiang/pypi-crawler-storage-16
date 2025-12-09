@@ -1,0 +1,11 @@
+{
+  "name": "losant-rest",
+  "version": "2.1.1",
+  "summary": "A REST client for the Losant API",
+  "author": "Losant",
+  "license": "MIT",
+  "home_page": "https://github.com/Losant/losant-rest-python",
+  "download_filename": "losant_rest-2.1.1.tar.gz",
+  "download_time": "2025-12-09T17:51:43.603354",
+  "package_url": "https://pypi.org/project/losant-rest/"
+}

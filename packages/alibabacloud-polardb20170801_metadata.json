@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-polardb20170801",
+  "version": "6.1.10",
+  "summary": "Alibaba Cloud ApsaraDB for POLARDB (20170801) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_polardb20170801-6.1.10.tar.gz",
+  "download_time": "2025-12-09T17:52:23.214905",
+  "package_url": "https://pypi.org/project/alibabacloud-polardb20170801/"
+}

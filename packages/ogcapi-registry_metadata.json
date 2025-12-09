@@ -1,0 +1,11 @@
+{
+  "name": "ogcapi-registry",
+  "version": "0.1.1",
+  "summary": "A Python library for validating OpenAPI documents published by OGC API servers",
+  "author": "Francesco Bartoli",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ogcapi_registry-0.1.1.tar.gz",
+  "download_time": "2025-12-09T17:51:49.887901",
+  "package_url": "https://pypi.org/project/ogcapi-registry/"
+}

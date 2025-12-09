@@ -1,0 +1,11 @@
+{
+  "name": "civic-interconnect",
+  "version": "0.0.4",
+  "summary": "Civic Interconnect: Civic Exchange Protocol schemas, validators, and tools for Python workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "civic_interconnect-0.0.4.tar.gz",
+  "download_time": "2025-12-09T17:52:05.590091",
+  "package_url": "https://pypi.org/project/civic-interconnect/"
+}

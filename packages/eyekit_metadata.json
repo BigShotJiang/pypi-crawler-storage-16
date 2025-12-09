@@ -1,0 +1,11 @@
+{
+  "name": "eyekit",
+  "version": "0.7.1",
+  "summary": "A Python package for analyzing reading behavior using eyetracking data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eyekit-0.7.1.tar.gz",
+  "download_time": "2025-12-09T17:51:49.375774",
+  "package_url": "https://pypi.org/project/eyekit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gallagher-restapi",
+  "version": "2.0.1",
+  "summary": "Python library for Gallagher REST API",
+  "author": "Rami Mousleh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gallagher_restapi-2.0.1.tar.gz",
+  "download_time": "2025-12-09T17:52:06.614152",
+  "package_url": "https://pypi.org/project/gallagher-restapi/"
+}

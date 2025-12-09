@@ -1,0 +1,11 @@
+{
+  "name": "archinfo",
+  "version": "9.2.188",
+  "summary": "Classes with architecture-specific information useful to other projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "archinfo-9.2.188.tar.gz",
+  "download_time": "2025-12-09T17:52:00.406968",
+  "package_url": "https://pypi.org/project/archinfo/"
+}

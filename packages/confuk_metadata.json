@@ -1,0 +1,11 @@
+{
+  "name": "confuk",
+  "version": "0.14.1",
+  "summary": "Yet another configuration loading package for Python projects",
+  "author": "Krzysztof J. Czarnecki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "confuk-0.14.1.tar.gz",
+  "download_time": "2025-12-09T17:52:11.831625",
+  "package_url": "https://pypi.org/project/confuk/"
+}

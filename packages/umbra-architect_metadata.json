@@ -1,0 +1,11 @@
+{
+  "name": "umbra-architect",
+  "version": "0.7.0",
+  "summary": "The Shadow Architect - AI-powered live architecture diagrams that update as you code",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/rida12b/Umbra",
+  "download_filename": "umbra_architect-0.7.0.tar.gz",
+  "download_time": "2025-12-09T17:51:50.936527",
+  "package_url": "https://pypi.org/project/umbra-architect/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dbt-tests-adapter",
+  "version": "1.19.5",
+  "summary": "The set of reusable tests and test fixtures used to test common functionality",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_tests_adapter-1.19.5.tar.gz",
+  "download_time": "2025-12-09T17:36:21.704038",
+  "package_url": "https://pypi.org/project/dbt-tests-adapter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-esa20240910",
+  "version": "2.30.3",
+  "summary": "Alibaba Cloud ESA (20240910) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_esa20240910-2.30.3.tar.gz",
+  "download_time": "2025-12-09T17:35:48.549093",
+  "package_url": "https://pypi.org/project/alibabacloud-esa20240910/"
+}

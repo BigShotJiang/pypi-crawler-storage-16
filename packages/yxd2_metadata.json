@@ -1,0 +1,11 @@
+{
+  "name": "yxd2",
+  "version": "1.0.2",
+  "summary": "A Python tool for downloading YouTube XML data and transcripts",
+  "author": null,
+  "license": "AGPLv3",
+  "home_page": null,
+  "download_filename": "yxd2-1.0.2.tar.gz",
+  "download_time": "2025-12-09T17:36:01.223553",
+  "package_url": "https://pypi.org/project/yxd2/"
+}

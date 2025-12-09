@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mass-mailing-somconnexio",
+  "version": "16.0.1.0.2",
+  "summary": "Customizations for mass mailing in Som Connexió.",
+  "author": "Coopdevs Treball SCCL, Som Connexió SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://coopdevs.org",
+  "download_filename": "odoo_addon_mass_mailing_somconnexio-16.0.1.0.2.tar.gz",
+  "download_time": "2025-12-09T17:35:50.675239",
+  "package_url": "https://pypi.org/project/odoo-addon-mass-mailing-somconnexio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pms-nvidia-processor",
+  "version": "2.13.0",
+  "summary": "lib for pms nvidia processors",
+  "author": "HyeongSeok Kim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pms_nvidia_processor-2.13.0.tar.gz",
+  "download_time": "2025-12-09T17:36:12.769731",
+  "package_url": "https://pypi.org/project/pms-nvidia-processor/"
+}

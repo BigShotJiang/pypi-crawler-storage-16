@@ -1,11 +1,11 @@
 {
   "name": "super-md",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "This package converts markdown documents into interactive web pages, allowing you to add new UI elements to markdown documents to make them modern, beautiful, and professional for presentation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "super_md-0.1.1.tar.gz",
-  "download_time": "2025-12-09T17:14:50.155873",
+  "download_filename": "super_md-0.1.2.tar.gz",
+  "download_time": "2025-12-09T17:36:29.575976",
   "package_url": "https://pypi.org/project/super-md/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kratix-sdk",
+  "version": "0.4.1",
+  "summary": "Kratix SDK for writing Promises workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kratix_sdk-0.4.1.tar.gz",
+  "download_time": "2025-12-09T17:36:27.479484",
+  "package_url": "https://pypi.org/project/kratix-sdk/"
+}

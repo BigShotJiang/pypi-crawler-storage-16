@@ -1,0 +1,11 @@
+{
+  "name": "clabe",
+  "version": "2.1.5",
+  "summary": "Validate and generate the control digit of a CLABE in Mexico",
+  "author": "Cuenca",
+  "license": null,
+  "home_page": "https://github.com/cuenca-mx/clabe",
+  "download_filename": "clabe-2.1.5.tar.gz",
+  "download_time": "2025-12-10T19:42:24.494636",
+  "package_url": "https://pypi.org/project/clabe/"
+}

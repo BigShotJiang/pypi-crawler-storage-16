@@ -1,11 +1,11 @@
 {
   "name": "pytractoviz",
-  "version": "0.3.7",
+  "version": "0.3.9",
   "summary": "Python tools for diffusion tractography visualization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytractoviz-0.3.7.tar.gz",
-  "download_time": "2025-12-09T21:42:35.106337",
+  "download_filename": "pytractoviz-0.3.9.tar.gz",
+  "download_time": "2025-12-10T19:42:23.888477",
   "package_url": "https://pypi.org/project/pytractoviz/"
 }

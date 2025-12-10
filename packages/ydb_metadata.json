@@ -1,0 +1,11 @@
+{
+  "name": "ydb",
+  "version": "3.22.3",
+  "summary": "YDB Python SDK",
+  "author": "Yandex LLC",
+  "license": "Apache 2.0",
+  "home_page": "http://github.com/ydb-platform/ydb-python-sdk",
+  "download_filename": "ydb-3.22.3.tar.gz",
+  "download_time": "2025-12-10T19:42:20.979069",
+  "package_url": "https://pypi.org/project/ydb/"
+}

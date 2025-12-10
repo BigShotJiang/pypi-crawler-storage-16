@@ -1,0 +1,11 @@
+{
+  "name": "CiscoAutomationFramework",
+  "version": "1.1.0",
+  "summary": "Framework for issuing commands and retrieving consistent data on Cisco devices",
+  "author": "Kyle Kowalczyk",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/superadm1n/CiscoAutomationFramework",
+  "download_filename": "ciscoautomationframework-1.1.0.tar.gz",
+  "download_time": "2025-12-10T19:42:29.092089",
+  "package_url": "https://pypi.org/project/CiscoAutomationFramework/"
+}

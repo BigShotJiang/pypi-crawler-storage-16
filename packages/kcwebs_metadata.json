@@ -1,11 +1,11 @@
 {
   "name": "kcwebs",
-  "version": "1.4",
+  "version": "1.5",
   "summary": "kcwebs作为web开发而设计的高性能框架",
   "author": "坤坤",
   "license": "MIT License",
   "home_page": "https://docs.kwebapp.cn/index/index/2",
-  "download_filename": "kcwebs-1.4.tar.gz",
-  "download_time": "2025-12-09T06:20:58.864371",
+  "download_filename": "kcwebs-1.5.tar.gz",
+  "download_time": "2025-12-10T10:15:58.806040",
   "package_url": "https://pypi.org/project/kcwebs/"
 }

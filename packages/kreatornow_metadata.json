@@ -1,0 +1,11 @@
+{
+  "name": "kreatornow",
+  "version": "2.0.0",
+  "summary": "Kreatornow Open Service SDK",
+  "author": "Sans",
+  "license": null,
+  "home_page": "https://open.kreatornow.com/",
+  "download_filename": "kreatornow-2.0.0.tar.gz",
+  "download_time": "2025-12-10T10:16:05.498904",
+  "package_url": "https://pypi.org/project/kreatornow/"
+}

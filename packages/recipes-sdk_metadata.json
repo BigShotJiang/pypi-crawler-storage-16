@@ -1,11 +1,11 @@
 {
   "name": "recipes-sdk",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Python SDK for working with recipes from JSON files",
-  "author": "Your Name",
+  "author": "christiaansann",
   "license": null,
-  "home_page": "https://github.com/yourusername/recipes-sdk",
-  "download_filename": "recipes_sdk-0.1.0.tar.gz",
-  "download_time": "2025-12-10T09:55:31.368219",
+  "home_page": "https://github.com/krstnvt/recipes-dataset",
+  "download_filename": "recipes_sdk-0.1.2.tar.gz",
+  "download_time": "2025-12-10T10:16:13.737323",
   "package_url": "https://pypi.org/project/recipes-sdk/"
 }

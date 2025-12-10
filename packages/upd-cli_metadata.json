@@ -1,11 +1,11 @@
 {
   "name": "upd-cli",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "A fast dependency updater for Python and Node.js projects",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/rvben/upd",
-  "download_filename": "upd_cli-0.0.5.tar.gz",
-  "download_time": "2025-12-09T17:15:21.558074",
+  "download_filename": "upd_cli-0.0.6.tar.gz",
+  "download_time": "2025-12-10T10:16:25.102299",
   "package_url": "https://pypi.org/project/upd-cli/"
 }

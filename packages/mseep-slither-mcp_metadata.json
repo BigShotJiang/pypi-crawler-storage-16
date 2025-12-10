@@ -1,0 +1,11 @@
+{
+  "name": "mseep-slither-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for Slither static analysis of Solidity contracts",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "mseep_slither_mcp-1.0.0.tar.gz",
+  "download_time": "2025-12-10T10:16:28.234287",
+  "package_url": "https://pypi.org/project/mseep-slither-mcp/"
+}

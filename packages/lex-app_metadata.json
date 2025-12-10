@@ -1,0 +1,11 @@
+{
+  "name": "lex-app",
+  "version": "2.0.0rc8",
+  "summary": "A Python / Django library to create business applications easily with complex logic",
+  "author": "Melih Sünbül",
+  "license": null,
+  "home_page": "https://github.com/ExcellenceCloudGmbH/lex-app",
+  "download_filename": "lex_app-2.0.0rc8.tar.gz",
+  "download_time": "2025-12-10T10:15:52.550089",
+  "package_url": "https://pypi.org/project/lex-app/"
+}

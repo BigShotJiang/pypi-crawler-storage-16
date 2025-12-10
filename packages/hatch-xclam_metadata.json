@@ -1,0 +1,11 @@
+{
+  "name": "hatch-xclam",
+  "version": "0.7.0.dev12",
+  "summary": "Package manager for the Cracking Shells ecosystem",
+  "author": "Cracking Shells Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatch_xclam-0.7.0.dev12.tar.gz",
+  "download_time": "2025-12-10T10:15:55.723450",
+  "package_url": "https://pypi.org/project/hatch-xclam/"
+}

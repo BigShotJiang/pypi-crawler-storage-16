@@ -1,0 +1,11 @@
+{
+  "name": "cryptlex.lexactivator",
+  "version": "3.36.0",
+  "summary": "LexActivator API wrapper for Python",
+  "author": "Cryptlex LLP",
+  "license": null,
+  "home_page": "https://github.com/cryptlex/lexactivator-python",
+  "download_filename": "cryptlex_lexactivator-3.36.0.tar.gz",
+  "download_time": "2025-12-10T10:16:23.563145",
+  "package_url": "https://pypi.org/project/cryptlex.lexactivator/"
+}

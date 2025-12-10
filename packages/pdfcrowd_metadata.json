@@ -1,0 +1,11 @@
+{
+  "name": "pdfcrowd",
+  "version": "6.5.4",
+  "summary": "A client library for the PDFCrowd API.",
+  "author": "PDFCrowd Team",
+  "license": "License :: OSI Approved :: MIT License",
+  "home_page": "https://pdfcrowd.com/api/",
+  "download_filename": "pdfcrowd-6.5.4.tar.gz",
+  "download_time": "2025-12-10T10:16:07.564389",
+  "package_url": "https://pypi.org/project/pdfcrowd/"
+}

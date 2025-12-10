@@ -1,0 +1,11 @@
+{
+  "name": "predev-api",
+  "version": "0.10.1",
+  "summary": "Python client for the Pre.dev Architect API - Generate comprehensive software specifications",
+  "author": "Pre.dev",
+  "license": "MIT",
+  "home_page": "https://github.com/predotdev/predev-api",
+  "download_filename": "predev_api-0.10.1.tar.gz",
+  "download_time": "2025-12-10T22:18:45.339982",
+  "package_url": "https://pypi.org/project/predev-api/"
+}

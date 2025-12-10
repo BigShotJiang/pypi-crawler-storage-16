@@ -1,0 +1,11 @@
+{
+  "name": "valkey-glide",
+  "version": "2.2.1",
+  "summary": "Valkey GLIDE Async client. Supports Valkey and Redis OSS.",
+  "author": "Valkey GLIDE Maintainers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "valkey_glide-2.2.1.tar.gz",
+  "download_time": "2025-12-10T22:18:51.175100",
+  "package_url": "https://pypi.org/project/valkey-glide/"
+}

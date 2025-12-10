@@ -1,0 +1,11 @@
+{
+  "name": "telebot-components",
+  "version": "0.16.0",
+  "summary": "Framework/toolkit for building Telegram bots with telebot and redis",
+  "author": "Igor Vaiman",
+  "license": "GPLv3",
+  "home_page": "https://github.com/bots-against-war/telebot-components",
+  "download_filename": "telebot_components-0.16.0.tar.gz",
+  "download_time": "2025-12-10T22:18:25.656445",
+  "package_url": "https://pypi.org/project/telebot-components/"
+}

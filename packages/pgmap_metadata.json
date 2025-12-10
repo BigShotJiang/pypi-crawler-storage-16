@@ -1,0 +1,11 @@
+{
+  "name": "pgmap",
+  "version": "1.1.1",
+  "summary": "A command line tool to map gRNA sequencing reads from dual-targeting CRISPR screens.",
+  "author": "Marissa Fujimoto, Candace Savonen, Siobhan O'Brien, Phoebe Parrish, Daniel Groso, Alice Berger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgmap-1.1.1.tar.gz",
+  "download_time": "2025-12-10T22:18:24.487449",
+  "package_url": "https://pypi.org/project/pgmap/"
+}

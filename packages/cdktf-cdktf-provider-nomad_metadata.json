@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-cdktf-provider-nomad",
+  "version": "10.0.3",
+  "summary": "Prebuilt nomad Provider for Terraform CDK (cdktf)",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-provider-nomad.git",
+  "download_filename": "cdktf_cdktf_provider_nomad-10.0.3.tar.gz",
+  "download_time": "2025-12-10T22:19:00.142186",
+  "package_url": "https://pypi.org/project/cdktf-cdktf-provider-nomad/"
+}

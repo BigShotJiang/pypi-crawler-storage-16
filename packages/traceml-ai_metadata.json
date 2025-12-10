@@ -1,0 +1,11 @@
+{
+  "name": "traceml-ai",
+  "version": "0.1.5",
+  "summary": "TraceML: Lightweight ML Profiler",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "traceml_ai-0.1.5.tar.gz",
+  "download_time": "2025-12-10T22:18:30.863038",
+  "package_url": "https://pypi.org/project/traceml-ai/"
+}

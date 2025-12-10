@@ -1,11 +1,11 @@
 {
   "name": "oskaragent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Oskar - package to create and confiuguration of conversasional agents based on OpenAI protocolo.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oskaragent-0.1.0.tar.gz",
-  "download_time": "2025-12-10T21:51:33.917449",
+  "download_filename": "oskaragent-0.1.1.tar.gz",
+  "download_time": "2025-12-10T22:19:00.652558",
   "package_url": "https://pypi.org/project/oskaragent/"
 }

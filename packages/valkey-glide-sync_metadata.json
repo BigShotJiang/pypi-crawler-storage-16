@@ -1,0 +1,11 @@
+{
+  "name": "valkey-glide-sync",
+  "version": "2.2.1",
+  "summary": "Valkey GLIDE Sync client. Supports Valkey and Redis OSS.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "valkey_glide_sync-2.2.1.tar.gz",
+  "download_time": "2025-12-10T22:18:49.007829",
+  "package_url": "https://pypi.org/project/valkey-glide-sync/"
+}

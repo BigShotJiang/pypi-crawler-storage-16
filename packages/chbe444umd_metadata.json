@@ -1,11 +1,11 @@
 {
   "name": "chbe444umd",
-  "version": "1.7.0",
+  "version": "1.7.2",
   "summary": "Python Repository for CHBE444: ChE Design I, University of Maryland, maintained by Ganesh Sriram",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chbe444umd-1.7.0.tar.gz",
-  "download_time": "2025-12-09T18:17:41.222132",
+  "download_filename": "chbe444umd-1.7.2.tar.gz",
+  "download_time": "2025-12-10T22:18:59.108545",
   "package_url": "https://pypi.org/project/chbe444umd/"
 }

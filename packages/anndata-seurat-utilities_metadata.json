@@ -1,0 +1,11 @@
+{
+  "name": "anndata-seurat-utilities",
+  "version": "0.1.0",
+  "summary": "Utilities to prepare AnnData files for Seurat/SeuratDisk conversion.",
+  "author": "Quang Nguyen",
+  "license": "MIT",
+  "home_page": "https://github.com/denvercal1234GitHub/anndata_Seurat_Utilities",
+  "download_filename": "anndata_seurat_utilities-0.1.0.tar.gz",
+  "download_time": "2025-12-10T22:18:41.120253",
+  "package_url": "https://pypi.org/project/anndata-seurat-utilities/"
+}

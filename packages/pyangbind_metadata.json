@@ -1,0 +1,11 @@
+{
+  "name": "pyangbind",
+  "version": "0.8.7",
+  "summary": "PyangBind is a plugin for pyang which converts YANG data models into a Python class hierarchy, such that Python can be used to manipulate data that conforms with a YANG model.",
+  "author": "Rob Shakir",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/robshakir/pyangbind",
+  "download_filename": "pyangbind-0.8.7.tar.gz",
+  "download_time": "2025-12-10T22:19:01.196626",
+  "package_url": "https://pypi.org/project/pyangbind/"
+}

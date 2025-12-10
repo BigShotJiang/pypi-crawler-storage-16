@@ -1,0 +1,11 @@
+{
+  "name": "iconfig-py",
+  "version": "0.1.7",
+  "summary": "A hierarchical configuration management system for Python applications with fast key-based lookups",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iconfig_py-0.1.7.tar.gz",
+  "download_time": "2025-12-10T22:18:41.632532",
+  "package_url": "https://pypi.org/project/iconfig-py/"
+}

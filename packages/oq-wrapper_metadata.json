@@ -1,11 +1,11 @@
 {
   "name": "oq-wrapper",
-  "version": "0.1.dev0",
+  "version": "2025.12.3",
   "summary": "Wrapper for OpenQuake engine to run empirical GMMs",
   "author": "ucgmsim",
   "license": null,
   "home_page": null,
-  "download_filename": "oq_wrapper-0.1.dev0-py3-none-any.whl",
-  "download_time": "2025-12-10T04:52:52.749131",
+  "download_filename": "oq_wrapper-2025.12.3.tar.gz",
+  "download_time": "2025-12-10T22:18:28.507596",
   "package_url": "https://pypi.org/project/oq-wrapper/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "auterion-cli",
+  "version": "1.17.1",
+  "summary": "CLI tool to interact with AuterionOS devices and apps",
+  "author": "Auterion",
+  "license": "proprietary",
+  "home_page": "https://docs.auterion.com/app-development/resources/auterion-cli",
+  "download_filename": "auterion_cli-1.17.1.tar.gz",
+  "download_time": "2025-12-10T22:18:42.143620",
+  "package_url": "https://pypi.org/project/auterion-cli/"
+}

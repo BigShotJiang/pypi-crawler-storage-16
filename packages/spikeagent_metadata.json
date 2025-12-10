@@ -1,0 +1,11 @@
+{
+  "name": "spikeagent",
+  "version": "1.0.0",
+  "summary": "AI-powered assistant for spike sorting and neural data analysis",
+  "author": "SpikeAgent Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spikeagent-1.0.0.tar.gz",
+  "download_time": "2025-12-10T19:13:17.297766",
+  "package_url": "https://pypi.org/project/spikeagent/"
+}

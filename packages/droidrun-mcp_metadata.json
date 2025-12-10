@@ -1,11 +1,11 @@
 {
   "name": "droidrun-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP Server for DroidRun",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "droidrun_mcp-0.1.1.tar.gz",
-  "download_time": "2025-12-10T19:02:41.569714",
+  "download_filename": "droidrun_mcp-0.1.2.tar.gz",
+  "download_time": "2025-12-10T19:13:23.626914",
   "package_url": "https://pypi.org/project/droidrun-mcp/"
 }

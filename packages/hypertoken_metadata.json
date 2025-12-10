@@ -1,0 +1,11 @@
+{
+  "name": "hypertoken",
+  "version": "0.1.0",
+  "summary": "Python bridge for HyperToken distributed simulation engine",
+  "author": "HyperToken Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hypertoken-0.1.0.tar.gz",
+  "download_time": "2025-12-10T19:13:13.024031",
+  "package_url": "https://pypi.org/project/hypertoken/"
+}

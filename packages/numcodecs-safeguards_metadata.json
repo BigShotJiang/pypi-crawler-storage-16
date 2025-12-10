@@ -1,0 +1,11 @@
+{
+  "name": "numcodecs-safeguards",
+  "version": "0.1.0a1",
+  "summary": "Fearless lossy compression in numcodecs using safeguards",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "numcodecs_safeguards-0.1.0a1.tar.gz",
+  "download_time": "2025-12-10T19:13:24.687962",
+  "package_url": "https://pypi.org/project/numcodecs-safeguards/"
+}

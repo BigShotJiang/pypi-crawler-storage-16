@@ -1,11 +1,11 @@
 {
   "name": "exness-data-preprocess",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Professional Exness forex tick data preprocessing with optimal compression (Parquet Zstd-22) and DuckDB OHLC generation. Provides efficient storage (9% smaller than ZIP) with lossless precision and direct queryability.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "exness_data_preprocess-1.1.0.tar.gz",
-  "download_time": "2025-12-10T08:50:27.188138",
+  "download_filename": "exness_data_preprocess-1.2.0-py3-none-any.whl",
+  "download_time": "2025-12-10T19:13:11.979465",
   "package_url": "https://pypi.org/project/exness-data-preprocess/"
 }

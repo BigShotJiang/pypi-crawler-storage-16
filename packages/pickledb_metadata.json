@@ -1,0 +1,11 @@
+{
+  "name": "pickledb",
+  "version": "1.4",
+  "summary": "An ultra micro ASGI web framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pickledb-1.4.tar.gz",
+  "download_time": "2025-12-10T19:13:12.504789",
+  "package_url": "https://pypi.org/project/pickledb/"
+}

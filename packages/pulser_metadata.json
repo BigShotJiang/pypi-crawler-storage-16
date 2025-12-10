@@ -1,0 +1,11 @@
+{
+  "name": "pulser",
+  "version": "1.6.5",
+  "summary": "A pulse-level composer for neutral-atom quantum devices.",
+  "author": "Pulser Development Team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/pasqal-io/Pulser",
+  "download_filename": "pulser-1.6.5-py3-none-any.whl",
+  "download_time": "2025-12-10T13:49:50.466213",
+  "package_url": "https://pypi.org/project/pulser/"
+}

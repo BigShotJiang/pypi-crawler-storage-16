@@ -1,0 +1,11 @@
+{
+  "name": "kabardian-translator",
+  "version": "1.0.3",
+  "summary": "Multilingual translator for Kabardian and Caucasian languages with speech synthesis",
+  "author": "Kubataba",
+  "license": "CC-BY-NC-4.0",
+  "home_page": "https://github.com/kubataba/kabardian-translator",
+  "download_filename": "kabardian_translator-1.0.3.tar.gz",
+  "download_time": "2025-12-10T13:50:18.669033",
+  "package_url": "https://pypi.org/project/kabardian-translator/"
+}

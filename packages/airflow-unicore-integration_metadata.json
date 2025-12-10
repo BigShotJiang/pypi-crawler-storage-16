@@ -1,11 +1,11 @@
 {
   "name": "airflow-unicore-integration",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "Running Unicore Jobs from airflow DAGs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airflow_unicore_integration-0.2.2.tar.gz",
-  "download_time": "2025-12-09T08:19:27.891031",
+  "download_filename": "airflow_unicore_integration-0.2.4.tar.gz",
+  "download_time": "2025-12-10T13:50:19.713414",
   "package_url": "https://pypi.org/project/airflow-unicore-integration/"
 }

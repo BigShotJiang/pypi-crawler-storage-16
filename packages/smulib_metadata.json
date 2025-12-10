@@ -1,0 +1,11 @@
+{
+  "name": "smulib",
+  "version": "0.0.7",
+  "summary": "SMU Library",
+  "author": "Thomas van Egmond",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smulib-0.0.7.tar.gz",
+  "download_time": "2025-12-10T13:50:17.110750",
+  "package_url": "https://pypi.org/project/smulib/"
+}

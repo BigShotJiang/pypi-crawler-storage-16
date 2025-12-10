@@ -1,0 +1,11 @@
+{
+  "name": "ensemble-analyzer",
+  "version": "1.0.1a3",
+  "summary": "Automatic Refinement of Conformational Ensemble",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ensemble_analyzer-1.0.1a3.tar.gz",
+  "download_time": "2025-12-10T13:50:22.391432",
+  "package_url": "https://pypi.org/project/ensemble-analyzer/"
+}

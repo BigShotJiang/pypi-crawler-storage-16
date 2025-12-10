@@ -1,11 +1,11 @@
 {
   "name": "el-loom",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "An integrated software platform designed to handle the complexities of quantum error correction, seamlessly transforming applications into fault-tolerant, hardware-ready versions.",
   "author": "Entropica Labs Pte Ltd",
   "license": null,
   "home_page": null,
-  "download_filename": "el_loom-0.3.0.tar.gz",
-  "download_time": "2025-12-10T07:41:50.591569",
+  "download_filename": "el_loom-0.3.1.tar.gz",
+  "download_time": "2025-12-10T13:49:43.170140",
   "package_url": "https://pypi.org/project/el-loom/"
 }

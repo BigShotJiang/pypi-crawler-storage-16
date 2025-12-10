@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-commons",
+  "version": "0.2.18",
+  "summary": "Re-usable FastAPI code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_commons-0.2.18.tar.gz",
+  "download_time": "2025-12-10T13:49:54.656164",
+  "package_url": "https://pypi.org/project/fastapi-commons/"
+}

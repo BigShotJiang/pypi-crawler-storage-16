@@ -1,0 +1,11 @@
+{
+  "name": "osdental-library",
+  "version": "3.13.11",
+  "summary": "End-to-end algorithm library",
+  "author": "OSDental LLC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "osdental_library-3.13.11.tar.gz",
+  "download_time": "2025-12-10T13:50:17.631608",
+  "package_url": "https://pypi.org/project/osdental-library/"
+}

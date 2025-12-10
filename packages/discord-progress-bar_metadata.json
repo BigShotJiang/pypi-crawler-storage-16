@@ -1,0 +1,11 @@
+{
+  "name": "discord-progress-bar",
+  "version": "0.1.0",
+  "summary": "A Python library for creating customizable progress bars with Discord emojis in your Discord bot messages.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "discord_progress_bar-0.1.0.tar.gz",
+  "download_time": "2025-12-10T13:50:05.601711",
+  "package_url": "https://pypi.org/project/discord-progress-bar/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tabstack",
+  "version": "1.0.5",
+  "summary": "Python SDK for Tabstack - Extract, Generate, and Automate web content",
+  "author": "Tabstack",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Mozilla-Ocho/tabstack-python",
+  "download_filename": "tabstack-1.0.5.tar.gz",
+  "download_time": "2025-12-10T23:30:01.582717",
+  "package_url": "https://pypi.org/project/tabstack/"
+}

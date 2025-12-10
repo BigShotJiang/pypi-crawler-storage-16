@@ -1,0 +1,11 @@
+{
+  "name": "pixelemon",
+  "version": "0.7.0",
+  "summary": "Citra's basic image processing package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pixelemon-0.7.0.tar.gz",
+  "download_time": "2025-12-10T23:30:10.837527",
+  "package_url": "https://pypi.org/project/pixelemon/"
+}

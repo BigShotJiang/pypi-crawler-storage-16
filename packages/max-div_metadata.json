@@ -1,11 +1,11 @@
 {
   "name": "max-div",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Configurable Solver for Maximum Diversity Problems with Fairness Constraints.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "max_div-0.3.0.tar.gz",
-  "download_time": "2025-12-10T16:50:40.003458",
+  "download_filename": "max_div-0.3.1.tar.gz",
+  "download_time": "2025-12-10T19:49:27.000753",
   "package_url": "https://pypi.org/project/max-div/"
 }

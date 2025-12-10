@@ -1,0 +1,11 @@
+{
+  "name": "destinepyauth",
+  "version": "0.2.1",
+  "summary": "Harmonized Python script for DestinE authentication.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "destinepyauth-0.2.1.tar.gz",
+  "download_time": "2025-12-10T19:49:27.519670",
+  "package_url": "https://pypi.org/project/destinepyauth/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "foodeo-core",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Foodeo Core Domain.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "foodeo_core-0.1.5.tar.gz",
-  "download_time": "2025-12-10T19:30:47.855252",
+  "download_filename": "foodeo_core-0.1.6.tar.gz",
+  "download_time": "2025-12-10T19:49:12.348692",
   "package_url": "https://pypi.org/project/foodeo-core/"
 }

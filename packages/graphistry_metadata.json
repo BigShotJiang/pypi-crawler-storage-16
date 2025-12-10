@@ -1,0 +1,11 @@
+{
+  "name": "graphistry",
+  "version": "0.46.1",
+  "summary": "A visual graph analytics library for extracting, transforming, displaying, and sharing big graphs with end-to-end GPU acceleration",
+  "author": "The Graphistry Team",
+  "license": "BSD",
+  "home_page": "https://github.com/graphistry/pygraphistry",
+  "download_filename": "graphistry-0.46.1.tar.gz",
+  "download_time": "2025-12-10T19:49:29.102494",
+  "package_url": "https://pypi.org/project/graphistry/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gtec-licensing",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "g.tec Licensing API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gtec_licensing-1.0.1-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-12-09T14:16:30.099692",
+  "download_filename": "gtec_licensing-1.0.2-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-12-10T19:49:20.190856",
   "package_url": "https://pypi.org/project/gtec-licensing/"
 }

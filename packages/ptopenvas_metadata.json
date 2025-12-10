@@ -1,0 +1,11 @@
+{
+  "name": "ptopenvas",
+  "version": "0.0.2",
+  "summary": "Penterep OpenVAS/GVM Automation Tool",
+  "author": "Penterep",
+  "license": "GPLv3",
+  "home_page": "https://www.penterep.com/",
+  "download_filename": "ptopenvas-0.0.2.tar.gz",
+  "download_time": "2025-12-10T19:49:25.936208",
+  "package_url": "https://pypi.org/project/ptopenvas/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "databricks-agents",
+  "version": "1.9.0",
+  "summary": "Mosaic AI Agent Framework SDK",
+  "author": "Databricks",
+  "license": "Databricks Proprietary License",
+  "home_page": null,
+  "download_filename": "databricks_agents-1.9.0-py3-none-any.whl",
+  "download_time": "2025-12-10T23:40:56.933189",
+  "package_url": "https://pypi.org/project/databricks-agents/"
+}

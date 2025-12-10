@@ -1,0 +1,11 @@
+{
+  "name": "sequence",
+  "version": "0.8.2",
+  "summary": "Simulator of QUantum Network Communication (SeQUeNCe) is an open-source tool that allows modeling of quantum networks including photonic network components, control protocols, and applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sequence-0.8.2.tar.gz",
+  "download_time": "2025-12-10T23:41:02.673999",
+  "package_url": "https://pypi.org/project/sequence/"
+}

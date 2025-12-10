@@ -1,0 +1,11 @@
+{
+  "name": "number-words-converter",
+  "version": "0.1.0",
+  "summary": "Convert numbers to words and words to numbers",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/number-words-converter",
+  "download_filename": "number_words_converter-0.1.0.tar.gz",
+  "download_time": "2025-12-10T23:41:05.767545",
+  "package_url": "https://pypi.org/project/number-words-converter/"
+}

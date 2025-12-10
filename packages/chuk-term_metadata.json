@@ -1,0 +1,11 @@
+{
+  "name": "chuk-term",
+  "version": "0.2",
+  "summary": "A terminal library with CLI interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chuk_term-0.2.tar.gz",
+  "download_time": "2025-12-10T23:40:51.224739",
+  "package_url": "https://pypi.org/project/chuk-term/"
+}

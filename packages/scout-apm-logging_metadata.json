@@ -1,0 +1,11 @@
+{
+  "name": "scout-apm-logging",
+  "version": "1.0.2",
+  "summary": "Scout APM Python Logging Agent",
+  "author": "Scout",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scout_apm_logging-1.0.2.tar.gz",
+  "download_time": "2025-12-10T23:40:59.019470",
+  "package_url": "https://pypi.org/project/scout-apm-logging/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "franc",
+  "version": "0.3.2",
+  "summary": "Evaluation framework for noise mitigation methods and implementations of different static and adaptive filtering techniques.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "franc-0.3.2.tar.gz",
+  "download_time": "2025-12-10T23:40:57.987232",
+  "package_url": "https://pypi.org/project/franc/"
+}

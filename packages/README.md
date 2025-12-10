@@ -1,13 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-10T23:30:46.903718
-- **Total Packages**: 74
-- **Total Size**: 12.54 MB
+- **Download Time**: 2025-12-10T23:41:30.772198
+- **Total Packages**: 79
+- **Total Size**: 20.28 MB
 
 ## Packages List
-- wisent
+- pyaurorax
+- redgit
+- quantconnect-stubs
+- nexaroa
 - tabstack
+- chuk-term
+- mystmd
+- platypush-speexdsp-ns
+- ai-agent-rules
+- nia-mcp-server
+- metadata-crawler
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- alexwlchan-chives
+- ultravox-client
+- databricks-agents
+- pympdata
+- franc
+- chatgpt-md-converter
+- scout-apm-logging
+- inception-db-connect
+- laketower
+- idaes-pse
+- rebase-dashboard
+- nc1709
+- pycares
+- sequence
+- moxn-types
+- sqlbot
+- pulumi-provider-boilerplate
+- querycraft
+- number-words-converter
+- ensemble-kalman-smoother
+- release-tag
+- biosak
+- olmocr
+- openstudio-backporter
+- pulumi-xyz
+- openmed
+- odc-stac
+- wisent
 - vllm-speculative-autoconfig
 - gable
 - py-llm-factory
@@ -17,19 +57,15 @@
 - ignition-api
 - vllm-autoconfig
 - spyder-terminal
-- nexaroa
-- pulumi-provider-boilerplate
 - statsig-python-core
 - rs-distributions
 - pixelemon
 - claude-mpm
 - synod-cli
-- redgit
 - data-ingestion-sdk
 - cmdorc
 - streamware
 - aquiles-image
-- pulumi-xyz
 - aiq-platform-api
 - hansel-ai
 - nisystemlink-clients
@@ -49,34 +85,3 @@
 - alchemyql
 - moose-lib
 - oskaragent
-- cdktf-cdktf-provider-vsphere
-- uuts
-- commlink
-- time-split
-- aind-zarr-utils
-- pyfrontkit
-- pyvns
-- pvrhinodemo
-- gradboard
-- pvrhino
-- SToG
-- jupyter-myst-build-proxy
-- biblemategui
-- photo-objects
-- compudoc
-- agentready
-- imbi-automations
-- fastapi-api-key
-- quantecon-book-theme
-- stellars-jupyterlab-extensions
-- matplotlib
-- google-cloud-spanner
-- jax-tvm-ffi
-- ipydicom
-- cdp-python
-- cat-llm
-- jupyterlab-launcher-navigate-to-kernel-extension
-- nebula-client
-- aignostics
-- silkworm-rs
-- whisper-api-sdk

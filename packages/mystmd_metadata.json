@@ -1,0 +1,11 @@
+{
+  "name": "mystmd",
+  "version": "1.7.1",
+  "summary": "Command line tools for MyST Markdown",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mystmd-1.7.1.tar.gz",
+  "download_time": "2025-12-10T23:40:51.789073",
+  "package_url": "https://pypi.org/project/mystmd/"
+}

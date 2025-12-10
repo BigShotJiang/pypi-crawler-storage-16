@@ -1,0 +1,11 @@
+{
+  "name": "idaes-pse",
+  "version": "2.10.0",
+  "summary": "IDAES Process Systems Engineering Framework",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "idaes_pse-2.10.0-py3-none-any.whl",
+  "download_time": "2025-12-10T23:41:00.600835",
+  "package_url": "https://pypi.org/project/idaes-pse/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "laketower",
+  "version": "0.6.10",
+  "summary": "Oversee your lakehouse",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "laketower-0.6.10.tar.gz",
+  "download_time": "2025-12-10T23:41:00.061050",
+  "package_url": "https://pypi.org/project/laketower/"
+}

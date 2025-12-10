@@ -1,11 +1,11 @@
 {
   "name": "metadata-crawler",
-  "version": "2511.0.0",
+  "version": "2511.1.0",
   "summary": "Crawl, extract and push climate metadata for indexing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "metadata_crawler-2511.0.0.tar.gz",
-  "download_time": "2025-12-10T21:36:58.241118",
+  "download_filename": "metadata_crawler-2511.1.0.tar.gz",
+  "download_time": "2025-12-10T23:40:53.861434",
   "package_url": "https://pypi.org/project/metadata-crawler/"
 }

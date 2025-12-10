@@ -1,0 +1,11 @@
+{
+  "name": "odc-stac",
+  "version": "0.5.0",
+  "summary": "Tooling for converting STAC metadata to ODC data model",
+  "author": "Open Data Cube",
+  "license": null,
+  "home_page": null,
+  "download_filename": "odc_stac-0.5.0.tar.gz",
+  "download_time": "2025-12-10T23:41:09.905143",
+  "package_url": "https://pypi.org/project/odc-stac/"
+}

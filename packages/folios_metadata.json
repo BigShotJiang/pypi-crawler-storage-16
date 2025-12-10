@@ -1,11 +1,11 @@
 {
   "name": "folios",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "MCP server for versioned document retrieval, metadata access, and diff capabilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "folios-0.7.1.tar.gz",
-  "download_time": "2025-12-10T20:15:54.195568",
+  "download_filename": "folios-0.7.2.tar.gz",
+  "download_time": "2025-12-10T20:55:54.897600",
   "package_url": "https://pypi.org/project/folios/"
 }

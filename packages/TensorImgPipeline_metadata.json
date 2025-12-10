@@ -1,0 +1,11 @@
+{
+  "name": "TensorImgPipeline",
+  "version": "1.0.0",
+  "summary": "This is a repository for creating and running Tipi Pipelines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensorimgpipeline-1.0.0.tar.gz",
+  "download_time": "2025-12-10T20:55:51.722075",
+  "package_url": "https://pypi.org/project/TensorImgPipeline/"
+}

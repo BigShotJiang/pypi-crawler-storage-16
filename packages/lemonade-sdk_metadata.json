@@ -1,0 +1,11 @@
+{
+  "name": "lemonade-sdk",
+  "version": "9.1.0",
+  "summary": "Lemonade SDK: Your LLM Aide for Validation and Deployment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lemonade_sdk-9.1.0.tar.gz",
+  "download_time": "2025-12-10T20:55:57.041885",
+  "package_url": "https://pypi.org/project/lemonade-sdk/"
+}

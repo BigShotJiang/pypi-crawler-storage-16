@@ -1,0 +1,11 @@
+{
+  "name": "gxzip",
+  "version": "0.1.0",
+  "summary": "A compact Python library for archiving and extracting ZIP files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gxzip-0.1.0.tar.gz",
+  "download_time": "2025-12-10T20:55:37.741180",
+  "package_url": "https://pypi.org/project/gxzip/"
+}

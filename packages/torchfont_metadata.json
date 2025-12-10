@@ -1,11 +1,11 @@
 {
   "name": "torchfont",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Datasets, Transforms and Models specific to Vector Fonts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torchfont-0.6.0.tar.gz",
-  "download_time": "2025-12-09T17:36:24.863275",
+  "download_filename": "torchfont-0.6.1.tar.gz",
+  "download_time": "2025-12-10T20:55:47.396084",
   "package_url": "https://pypi.org/project/torchfont/"
 }

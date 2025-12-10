@@ -1,11 +1,11 @@
 {
   "name": "stanley-cbp",
-  "version": "0.1.61",
+  "version": "0.1.62",
   "summary": "Algorithm developed to conduct a systematic search for exoplanets orbiting eclipsing binary stars.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "stanley_cbp-0.1.61.tar.gz",
-  "download_time": "2025-12-10T19:13:15.726980",
+  "download_filename": "stanley_cbp-0.1.62.tar.gz",
+  "download_time": "2025-12-10T20:55:45.806849",
   "package_url": "https://pypi.org/project/stanley-cbp/"
 }

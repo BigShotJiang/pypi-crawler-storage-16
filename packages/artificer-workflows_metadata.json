@@ -1,11 +1,11 @@
 {
   "name": "artificer-workflows",
-  "version": "0.1.0a11",
+  "version": "0.1.0a13",
   "summary": "A library for developing workflow graphs that run as MCP (Model Context Protocol) servers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "artificer_workflows-0.1.0a11.tar.gz",
-  "download_time": "2025-12-10T19:30:56.166645",
+  "download_filename": "artificer_workflows-0.1.0a13.tar.gz",
+  "download_time": "2025-12-10T20:55:38.270868",
   "package_url": "https://pypi.org/project/artificer-workflows/"
 }

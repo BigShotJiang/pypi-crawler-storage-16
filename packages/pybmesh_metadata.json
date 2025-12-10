@@ -1,0 +1,11 @@
+{
+  "name": "pybmesh",
+  "version": "1.0.4",
+  "summary": "Block Mesh processing library for OpenFOAM",
+  "author": "Alexis Sauvageon",
+  "license": null,
+  "home_page": "https://gitlab.com/alexis.sauvageon/pybmesh.git",
+  "download_filename": "pybmesh-1.0.4.tar.gz",
+  "download_time": "2025-12-10T11:32:45.289016",
+  "package_url": "https://pypi.org/project/pybmesh/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "neopia",
+  "version": "0.3.8",
+  "summary": "Python library for NEOPIA Neobot",
+  "author": "RoboticsWare",
+  "license": null,
+  "home_page": "https://github.com/roboticsware/pylib_neobot.git",
+  "download_filename": "neopia-0.3.8-py3-none-any.whl",
+  "download_time": "2025-12-10T11:32:46.671862",
+  "package_url": "https://pypi.org/project/neopia/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OpenGeode-GeosciencesIO",
+  "version": "5.8.6",
+  "summary": "Input/Output formats for OpenGeode-Geosciences",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opengeode_geosciencesio-5.8.6-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-12-10T11:32:43.621860",
+  "package_url": "https://pypi.org/project/OpenGeode-GeosciencesIO/"
+}

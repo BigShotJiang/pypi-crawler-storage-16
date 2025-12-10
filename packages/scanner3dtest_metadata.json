@@ -1,11 +1,11 @@
 {
   "name": "scanner3dtest",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Scanner3D test tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scanner3dtest-0.2.0.tar.gz",
-  "download_time": "2025-12-09T16:19:51.618230",
+  "download_filename": "scanner3dtest-0.2.1.tar.gz",
+  "download_time": "2025-12-10T11:32:31.324265",
   "package_url": "https://pypi.org/project/scanner3dtest/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xarpes",
+  "version": "0.4.0",
+  "summary": "Extraction from angle resolved photoemission spectra",
+  "author": "xARPES Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xarpes-0.4.0.tar.gz",
+  "download_time": "2025-12-10T11:32:38.609476",
+  "package_url": "https://pypi.org/project/xarpes/"
+}

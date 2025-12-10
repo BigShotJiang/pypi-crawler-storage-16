@@ -1,11 +1,11 @@
 {
   "name": "oidc-auth-client",
-  "version": "0.1.6",
-  "summary": "Add your description here",
+  "version": "0.1.8",
+  "summary": "Pure python implementation of an OIDC client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oidc_auth_client-0.1.6.tar.gz",
-  "download_time": "2025-12-10T11:15:59.339325",
+  "download_filename": "oidc_auth_client-0.1.8.tar.gz",
+  "download_time": "2025-12-10T11:32:38.056912",
   "package_url": "https://pypi.org/project/oidc-auth-client/"
 }

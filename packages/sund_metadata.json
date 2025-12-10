@@ -1,0 +1,11 @@
+{
+  "name": "sund",
+  "version": "2.2.2",
+  "summary": "A simulation toolbox for ODE and DAE systems, with focus on systems biology applications.",
+  "author": "ISB group @ Linköping University",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sund-2.2.2.tar.gz",
+  "download_time": "2025-12-10T11:32:47.763034",
+  "package_url": "https://pypi.org/project/sund/"
+}

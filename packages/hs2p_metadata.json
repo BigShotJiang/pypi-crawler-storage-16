@@ -1,0 +1,11 @@
+{
+  "name": "hs2p",
+  "version": "1.0.0",
+  "summary": "Embedding of whole slide images with Foundation Models",
+  "author": "Clément Grisi",
+  "license": null,
+  "home_page": "https://github.com/clemsgrs/hs2p",
+  "download_filename": "hs2p-1.0.0.tar.gz",
+  "download_time": "2025-12-10T11:32:25.697500",
+  "package_url": "https://pypi.org/project/hs2p/"
+}

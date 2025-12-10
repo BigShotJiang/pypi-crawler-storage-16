@@ -1,0 +1,11 @@
+{
+  "name": "fft-dev",
+  "version": "0.4.7",
+  "summary": "Driver and UI for HP 3562A and 35670A FFT analyzer",
+  "author": "Benoit Dubois",
+  "license": null,
+  "home_page": "https://gitlab.com/bendub/fft_dev",
+  "download_filename": "fft_dev-0.4.7.tar.gz",
+  "download_time": "2025-12-10T11:32:30.781293",
+  "package_url": "https://pypi.org/project/fft-dev/"
+}

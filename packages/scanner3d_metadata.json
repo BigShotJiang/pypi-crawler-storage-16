@@ -1,11 +1,11 @@
 {
   "name": "scanner3d",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "summary": "3D scanner tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scanner3d-0.4.5.tar.gz",
-  "download_time": "2025-12-09T16:20:20.803888",
+  "download_filename": "scanner3d-0.4.6.tar.gz",
+  "download_time": "2025-12-10T11:32:35.843290",
   "package_url": "https://pypi.org/project/scanner3d/"
 }

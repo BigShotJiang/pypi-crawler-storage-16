@@ -1,0 +1,11 @@
+{
+  "name": "dbt-platform-helper",
+  "version": "15.14.1",
+  "summary": "Set of tools to help transfer applications/services from GOV.UK PaaS to DBT PaaS augmenting AWS Copilot.",
+  "author": "Department for Business and Trade Platform Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbt_platform_helper-15.14.1.tar.gz",
+  "download_time": "2025-12-10T14:47:55.334521",
+  "package_url": "https://pypi.org/project/dbt-platform-helper/"
+}

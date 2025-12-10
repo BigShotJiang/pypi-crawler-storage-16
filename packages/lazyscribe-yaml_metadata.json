@@ -1,0 +1,11 @@
+{
+  "name": "lazyscribe-yaml",
+  "version": "0.1.1",
+  "summary": "YAML-based artifact handler for Lazyscribe",
+  "author": "Akshay Gupta",
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "lazyscribe_yaml-0.1.1.tar.gz",
+  "download_time": "2025-12-10T14:47:50.621688",
+  "package_url": "https://pypi.org/project/lazyscribe-yaml/"
+}

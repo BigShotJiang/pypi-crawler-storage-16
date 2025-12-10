@@ -1,0 +1,11 @@
+{
+  "name": "cwrap",
+  "version": "1.6.12",
+  "summary": "cwrap - ctypes blanket",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "cwrap-1.6.12.tar.gz",
+  "download_time": "2025-12-10T14:48:24.428910",
+  "package_url": "https://pypi.org/project/cwrap/"
+}

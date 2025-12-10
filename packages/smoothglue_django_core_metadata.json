@@ -1,0 +1,11 @@
+{
+  "name": "smoothglue_django_core",
+  "version": "1.5.1",
+  "summary": "Enhance your development with SmoothGlue™, providing a user-friendly gateway to interoperable microservices for effortlessly creating complex app behaviors.",
+  "author": "BrainGu",
+  "license": "Proprietary",
+  "home_page": "https://braingu.com/solutions/smoothglue/",
+  "download_filename": "smoothglue_django_core-1.5.1.tar.gz",
+  "download_time": "2025-12-10T14:48:08.631881",
+  "package_url": "https://pypi.org/project/smoothglue_django_core/"
+}

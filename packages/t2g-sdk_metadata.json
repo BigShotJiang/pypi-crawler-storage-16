@@ -1,0 +1,11 @@
+{
+  "name": "t2g-sdk",
+  "version": "0.0.0",
+  "summary": "SDK for the T2G API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "t2g_sdk-0.0.0.tar.gz",
+  "download_time": "2025-12-10T14:47:59.082851",
+  "package_url": "https://pypi.org/project/t2g-sdk/"
+}

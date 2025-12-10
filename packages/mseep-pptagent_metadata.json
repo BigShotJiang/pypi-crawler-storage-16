@@ -1,0 +1,11 @@
+{
+  "name": "mseep-pptagent",
+  "version": "0.2.15",
+  "summary": "PPTAgent, a tool for utilizing LLMs to generate PowerPoint presentations from documents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_pptagent-0.2.15.tar.gz",
+  "download_time": "2025-12-10T14:47:50.102479",
+  "package_url": "https://pypi.org/project/mseep-pptagent/"
+}

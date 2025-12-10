@@ -1,0 +1,11 @@
+{
+  "name": "astraforge-toolkit",
+  "version": "0.1.6",
+  "summary": "HTTP client and sandbox backend for AstraForge DeepAgent.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astraforge_toolkit-0.1.6.tar.gz",
+  "download_time": "2025-12-10T14:48:17.626540",
+  "package_url": "https://pypi.org/project/astraforge-toolkit/"
+}

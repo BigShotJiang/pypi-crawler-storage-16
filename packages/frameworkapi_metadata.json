@@ -1,11 +1,11 @@
 {
   "name": "frameworkapi",
-  "version": "0.0.6.6.8",
+  "version": "0.0.6.7",
   "summary": "Python module to easily run scripts in modular frameworks Written by pedrohenriquecoimbra",
   "author": "Pedro Henrique Coimbra",
   "license": "MIT",
   "home_page": "https://github.com/pedrohenriquecoimbra/FrameworkAPI",
-  "download_filename": "frameworkapi-0.0.6.6.8.tar.gz",
-  "download_time": "2025-12-09T21:42:19.725231",
+  "download_filename": "frameworkapi-0.0.6.7.tar.gz",
+  "download_time": "2025-12-10T14:48:24.949165",
   "package_url": "https://pypi.org/project/frameworkapi/"
 }

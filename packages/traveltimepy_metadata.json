@@ -1,0 +1,11 @@
+{
+  "name": "traveltimepy",
+  "version": "4.4.0",
+  "summary": "Python Interface to Travel Time.",
+  "author": "TravelTime",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "traveltimepy-4.4.0.tar.gz",
+  "download_time": "2025-12-10T14:48:13.338551",
+  "package_url": "https://pypi.org/project/traveltimepy/"
+}

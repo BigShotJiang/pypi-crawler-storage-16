@@ -1,0 +1,11 @@
+{
+  "name": "kondoo",
+  "version": "0.1.8",
+  "summary": "A flexible, self-hosted RAG chatbot framework for containerized deployments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kondoo-0.1.8.tar.gz",
+  "download_time": "2025-12-10T06:21:38.531492",
+  "package_url": "https://pypi.org/project/kondoo/"
+}

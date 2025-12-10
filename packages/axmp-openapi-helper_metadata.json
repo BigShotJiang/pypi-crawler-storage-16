@@ -1,0 +1,11 @@
+{
+  "name": "axmp-openapi-helper",
+  "version": "0.2.2",
+  "summary": "This is a openapi helper library for the ZMP AI Platform",
+  "author": "Kilsoo Kang",
+  "license": null,
+  "home_page": "https://github.com/cloudz-mp",
+  "download_filename": "axmp_openapi_helper-0.2.2.tar.gz",
+  "download_time": "2025-12-10T06:21:26.019360",
+  "package_url": "https://pypi.org/project/axmp-openapi-helper/"
+}

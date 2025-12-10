@@ -1,11 +1,11 @@
 {
   "name": "dev-mcp",
-  "version": "0.7.1",
+  "version": "0.8.1",
   "summary": "A command-line tool to run the ai-tracker.sh script.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dev_mcp-0.7.1.tar.gz",
-  "download_time": "2025-12-09T10:46:47.734696",
+  "download_filename": "dev_mcp-0.8.1.tar.gz",
+  "download_time": "2025-12-10T03:55:44.593388",
   "package_url": "https://pypi.org/project/dev-mcp/"
 }

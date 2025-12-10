@@ -1,0 +1,11 @@
+{
+  "name": "capinvest-mcp-server",
+  "version": "1.0.10",
+  "summary": "CapInvest Platform MCP Server",
+  "author": "zbz Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "capinvest_mcp_server-1.0.10.tar.gz",
+  "download_time": "2025-12-10T03:56:30.830570",
+  "package_url": "https://pypi.org/project/capinvest-mcp-server/"
+}

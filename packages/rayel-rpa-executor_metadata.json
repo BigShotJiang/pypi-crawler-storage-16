@@ -1,11 +1,11 @@
 {
   "name": "rayel-rpa-executor",
-  "version": "0.5.44",
+  "version": "0.5.47",
   "summary": "Distributed task scheduler and RPA executor with FastAPI and browser pool management",
   "author": null,
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rayel_rpa_executor-0.5.44.tar.gz",
-  "download_time": "2025-12-09T12:26:32.326883",
+  "download_filename": "rayel_rpa_executor-0.5.47.tar.gz",
+  "download_time": "2025-12-10T03:56:26.576302",
   "package_url": "https://pypi.org/project/rayel-rpa-executor/"
 }

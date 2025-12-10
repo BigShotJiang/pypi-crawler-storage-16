@@ -1,0 +1,11 @@
+{
+  "name": "utest-auto-core",
+  "version": "0.1.21",
+  "summary": "UTest 自动化测试框架核心包（core 模块）",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "utest_auto_core-0.1.21.tar.gz",
+  "download_time": "2025-12-10T03:56:03.431266",
+  "package_url": "https://pypi.org/project/utest-auto-core/"
+}

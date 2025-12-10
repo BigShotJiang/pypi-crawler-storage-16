@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-cloud-siem",
+  "version": "1.0.5",
+  "summary": "The cloud-siem module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun_python_sdk_cloud_siem-1.0.5-py2.py3-none-any.whl",
+  "download_time": "2025-12-10T03:55:42.969798",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-cloud-siem/"
+}

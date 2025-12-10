@@ -1,0 +1,11 @@
+{
+  "name": "nexo-schemas",
+  "version": "0.0.9",
+  "summary": "Schemas package for Nexo",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "nexo_schemas-0.0.9.tar.gz",
+  "download_time": "2025-12-10T03:56:29.752236",
+  "package_url": "https://pypi.org/project/nexo-schemas/"
+}

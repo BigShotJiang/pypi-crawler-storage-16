@@ -1,0 +1,11 @@
+{
+  "name": "capinvest-cftc",
+  "version": "1.0.5",
+  "summary": "CFTC provider extension for CapInvest",
+  "author": "zbz Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "capinvest_cftc-1.0.5.tar.gz",
+  "download_time": "2025-12-10T03:56:24.983279",
+  "package_url": "https://pypi.org/project/capinvest-cftc/"
+}

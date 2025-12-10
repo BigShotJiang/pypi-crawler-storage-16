@@ -1,0 +1,11 @@
+{
+  "name": "capinvest-nasdaq",
+  "version": "1.0.6",
+  "summary": "NASDAQ provider extension for CapInvest",
+  "author": "zbz Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "capinvest_nasdaq-1.0.6.tar.gz",
+  "download_time": "2025-12-10T03:56:14.308198",
+  "package_url": "https://pypi.org/project/capinvest-nasdaq/"
+}

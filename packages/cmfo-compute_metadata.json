@@ -1,11 +1,11 @@
 {
   "name": "cmfo-compute",
-  "version": "1.0.0",
-  "summary": "Fractal Computing Library based on CMFO T7-phi automaton.",
-  "author": "CMFO Research",
-  "license": null,
+  "version": "1.0.5",
+  "summary": "CMFO Compute: Núcleo fractal T7 para computación CMFO.",
+  "author": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cmfo_compute-1.0.0.tar.gz",
-  "download_time": "2025-12-09T21:49:44.372121",
+  "download_filename": "cmfo_compute-1.0.5.tar.gz",
+  "download_time": "2025-12-10T03:55:56.992146",
   "package_url": "https://pypi.org/project/cmfo-compute/"
 }

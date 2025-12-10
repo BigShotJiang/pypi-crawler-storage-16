@@ -1,18 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-10T07:42:31.697075
-- **Total Packages**: 83
-- **Total Size**: 74.64 MB
+- **Download Time**: 2025-12-10T07:53:57.723140
+- **Total Packages**: 89
+- **Total Size**: 36.53 MB
 
 ## Packages List
+- supertonic
+- mure
+- obra-client
+- upathtools
+- etos-environment-provider
+- llmasajudge
+- revengai
+- carlib
+- lyapprove
+- ppplca
+- unieai-mcp-accton-rfp
+- inference-sdk
+- inference-gpu
+- inference-cpu
+- inference-core
+- inference-cli
+- inference
+- pypomes-http
+- arize-phoenix
+- zhousf-lib
+- kzip
+- mlrun
+- medusa-security
+- oc-cdtapi
+- woodelf-explainer
+- vortezwohl
+- titiler-openeo
+- huckleberry-api
+- pulumi-gcp
+- reducto-cli
+- streamlit-notebook
+- chainless
 - code-similarity-engine
 - contact-page-helper
-- kane-weather-server
-- zhousf-lib
 - aeeprotocol
 - fluently
-- carlib
 - dhscan-agent
 - el-loom
 - cyfes
@@ -36,7 +65,6 @@
 - bridge-transfer-27
 - mknodes
 - dbt-pumpkin
-- unieai-mcp-accton-rfp
 - actuneo
 - cc-adapter
 - dicomtoolsforseprate
@@ -58,7 +86,6 @@
 - global-open-sdk-python
 - schemez
 - endoreg-db
-- medusa-security
 - countriesdb-validator
 - omniopt2
 - ai-edge-litert-nightly
@@ -68,24 +95,3 @@
 - remdb
 - DigsilentPowerFactoryLibrary
 - alita-sdk
-- tappay
-- helloworldtoy
-- foliar
-- tritonparse
-- python-ipmi
-- greenstream-config
-- bato-downloader
-- norfair-rs
-- codec-cub
-- nlbone
-- reducto-cli
-- flightapi-test
-- lidb
-- maleo-mcu
-- wind_ae
-- apache-gravitino
-- vcf2seq
-- scikit-learn
-- py4web
-- halib
-- gresecml

@@ -1,11 +1,11 @@
 {
   "name": "streamlit-notebook",
-  "version": "0.2.26",
+  "version": "0.2.27",
   "summary": "A notebook interface for Streamlit.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "streamlit_notebook-0.2.26.tar.gz",
-  "download_time": "2025-12-09T19:34:49.440976",
+  "download_filename": "streamlit_notebook-0.2.27.tar.gz",
+  "download_time": "2025-12-10T07:53:26.534488",
   "package_url": "https://pypi.org/project/streamlit-notebook/"
 }

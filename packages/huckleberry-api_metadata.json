@@ -1,0 +1,11 @@
+{
+  "name": "huckleberry-api",
+  "version": "0.1.12",
+  "summary": "Python API client for Huckleberry baby tracking app using Firebase Firestore",
+  "author": "Woyken",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "huckleberry_api-0.1.12.tar.gz",
+  "download_time": "2025-12-10T07:53:24.923271",
+  "package_url": "https://pypi.org/project/huckleberry-api/"
+}

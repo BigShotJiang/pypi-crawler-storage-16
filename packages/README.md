@@ -1,14 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-10T16:51:02.535623
-- **Total Packages**: 93
-- **Total Size**: 36.25 MB
+- **Download Time**: 2025-12-10T17:18:08.004079
+- **Total Packages**: 89
+- **Total Size**: 10.08 MB
 
 ## Packages List
+- svmlite
+- purjo
+- streamware
+- relace-mcp
+- mseep-blender-mcp
+- rayforce-py
+- chatter-pkg
+- dddguard
+- apilmoji
+- hftbacktest
+- llb_doc
+- w1-py-parse
+- kotogram
+- batplot
+- dbt-athena-community
+- based-utils
+- tropiflo
+- dbt-postgres
+- dbt-athena
+- neewerlite
+- quakemigrate
+- dbt-snowflake
+- winiutils
+- sentry-cli
 - gammarers.aws-ec2-instance-running-schedule-stack
 - mgcv-rust
-- llb_doc
 - conscious-bridge-reloaded
 - vantage6-algorithm-store
 - vantage6-server
@@ -21,7 +44,6 @@
 - sandhi
 - babygrad3
 - baltra-sdk
-- streamware
 - hub-auth-client
 - mseep-ragex-mcp
 - airbyte-source-google-ads
@@ -43,11 +65,9 @@
 - mseep-google-scholar-mcp
 - sqlmesh-dag-generator
 - eptr2
-- kotogram
 - kubiya-control-plane-api
 - cenplot
 - icat-plus-client
-- based-utils
 - pipenv
 - mseep-clearml-mcp
 - pyedpro
@@ -61,7 +81,6 @@
 - gammarers.aws-sns-slack-message-lambda-subscription
 - fountain-life-service-clients
 - dissec
-- chatter-pkg
 - NeuralEngine
 - bioblueprint
 - allure-markdown
@@ -76,26 +95,3 @@
 - brickbed
 - emosvg
 - js-web-scraper
-- charmos
-- cc-liquid
-- pulumi
-- stanley-cbp
-- InsarViz
-- w1-py-parse
-- istari-digital-client
-- ieee-gui
-- license-tools
-- numeta
-- vllm-spyre
-- openscvx
-- pymathis
-- charz
-- mseep-llm-jukebox
-- govee-cloud
-- mseep-mcp-sports-server
-- amulety
-- chromator
-- hasyutils
-- xecta-data-api-client
-- email-to-calendar
-- ovo-app

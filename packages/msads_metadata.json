@@ -1,0 +1,11 @@
+{
+  "name": "msads",
+  "version": "13.0.26",
+  "summary": "A library to make working with the Bing Ads APIs and bulk services easy",
+  "author": "Bing Ads SDK Team",
+  "license": "MIT",
+  "home_page": "https://github.com/BingAds/BingAds-Python-SDK",
+  "download_filename": "msads-13.0.26.tar.gz",
+  "download_time": "2025-12-10T08:50:35.526960",
+  "package_url": "https://pypi.org/project/msads/"
+}

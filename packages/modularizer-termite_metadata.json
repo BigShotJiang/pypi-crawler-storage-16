@@ -1,0 +1,11 @@
+{
+  "name": "modularizer-termite",
+  "version": "0.1.0",
+  "summary": "Terminal manipulation utilities for Python applications, including ANSI color codes, cursor control, text styling, and interactive output formatting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "modularizer_termite-0.1.0.tar.gz",
+  "download_time": "2025-12-10T08:50:50.307549",
+  "package_url": "https://pypi.org/project/modularizer-termite/"
+}

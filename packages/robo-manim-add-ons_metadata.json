@@ -1,11 +1,11 @@
 {
   "name": "robo-manim-add-ons",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A collection of add-ons and utilities for Manim Community Edition",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "robo_manim_add_ons-0.2.1.tar.gz",
-  "download_time": "2025-12-09T06:20:55.210865",
+  "download_filename": "robo_manim_add_ons-0.2.2.tar.gz",
+  "download_time": "2025-12-10T08:50:47.693035",
   "package_url": "https://pypi.org/project/robo-manim-add-ons/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "spritz-cli",
+  "version": "1.2.0",
+  "summary": "Spritz CLI (spx) - Deploy and manage AI agents",
+  "author": "Incaendo Technology",
+  "license": null,
+  "home_page": "https://github.com/Activate-Intelligence/spritz-cli",
+  "download_filename": "spritz_cli-1.2.0.tar.gz",
+  "download_time": "2025-12-10T08:50:33.925365",
+  "package_url": "https://pypi.org/project/spritz-cli/"
+}

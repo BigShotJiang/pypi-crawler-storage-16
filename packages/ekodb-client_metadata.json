@@ -1,0 +1,11 @@
+{
+  "name": "ekodb-client",
+  "version": "0.4.0",
+  "summary": "Python client for ekoDB - a high-performance document database",
+  "author": "ekoDB Team",
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "ekodb_client-0.4.0.tar.gz",
+  "download_time": "2025-12-10T08:50:22.498872",
+  "package_url": "https://pypi.org/project/ekodb-client/"
+}

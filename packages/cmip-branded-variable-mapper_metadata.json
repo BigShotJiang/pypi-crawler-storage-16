@@ -1,0 +1,11 @@
+{
+  "name": "cmip-branded-variable-mapper",
+  "version": "0.13.0",
+  "summary": "Mapping from CMIP variable and other information to branded variable names.",
+  "author": "Zebedee Nicholls, Annika Hoegner, Niklas Schwind, Tessa Moeller",
+  "license": "placeholder",
+  "home_page": null,
+  "download_filename": "cmip_branded_variable_mapper-0.13.0.tar.gz",
+  "download_time": "2025-12-10T08:50:36.097941",
+  "package_url": "https://pypi.org/project/cmip-branded-variable-mapper/"
+}

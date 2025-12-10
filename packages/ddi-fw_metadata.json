@@ -1,11 +1,11 @@
 {
   "name": "ddi-fw",
-  "version": "0.0.283",
+  "version": "0.0.284",
   "summary": "Do not use :)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ddi_fw-0.0.283.tar.gz",
-  "download_time": "2025-12-09T13:49:33.962633",
+  "download_filename": "ddi_fw-0.0.284.tar.gz",
+  "download_time": "2025-12-10T08:50:34.440443",
   "package_url": "https://pypi.org/project/ddi-fw/"
 }

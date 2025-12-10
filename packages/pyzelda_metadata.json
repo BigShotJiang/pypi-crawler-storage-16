@@ -1,0 +1,11 @@
+{
+  "name": "pyzelda",
+  "version": "1.4",
+  "summary": "Zernike wavefront sensor analysis and simulation tools",
+  "author": "Arthur Vigan & Mamadou N'Diaye",
+  "license": "MIT",
+  "home_page": "https://github.com/avigan/pyZELDA",
+  "download_filename": "pyzelda-1.4.tar.gz",
+  "download_time": "2025-12-10T08:51:04.933929",
+  "package_url": "https://pypi.org/project/pyzelda/"
+}

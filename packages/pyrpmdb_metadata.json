@@ -1,0 +1,11 @@
+{
+  "name": "pyrpmdb",
+  "version": "0.1.30",
+  "summary": "A utility to extract rpm package information from rpm database",
+  "author": "Mike Moore",
+  "license": "MIT",
+  "home_page": "https://github.com/Mikemoore63/pyrpmdb",
+  "download_filename": "pyrpmdb-0.1.30.tar.gz",
+  "download_time": "2025-12-10T08:50:50.822449",
+  "package_url": "https://pypi.org/project/pyrpmdb/"
+}

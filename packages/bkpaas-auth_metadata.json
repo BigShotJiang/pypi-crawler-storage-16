@@ -1,0 +1,11 @@
+{
+  "name": "bkpaas-auth",
+  "version": "3.1.3",
+  "summary": "User authentication django app for blueking internal projects",
+  "author": "blueking",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bkpaas_auth-3.1.3.tar.gz",
+  "download_time": "2025-12-10T08:50:25.579090",
+  "package_url": "https://pypi.org/project/bkpaas-auth/"
+}

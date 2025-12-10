@@ -1,0 +1,11 @@
+{
+  "name": "pygpsclient",
+  "version": "1.5.22",
+  "summary": "GNSS Diagnostic and UBX Configuration GUI Application",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygpsclient-1.5.22.tar.gz",
+  "download_time": "2025-12-10T08:51:03.912693",
+  "package_url": "https://pypi.org/project/pygpsclient/"
+}

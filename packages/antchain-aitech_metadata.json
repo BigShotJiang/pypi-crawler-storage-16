@@ -1,0 +1,11 @@
+{
+  "name": "antchain-aitech",
+  "version": "1.1.50",
+  "summary": "Ant Chain AITECH SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_aitech-1.1.50.tar.gz",
+  "download_time": "2025-12-10T08:51:04.423575",
+  "package_url": "https://pypi.org/project/antchain-aitech/"
+}

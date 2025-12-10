@@ -1,11 +1,11 @@
 {
   "name": "steely",
-  "version": "1.0.1.1",
+  "version": "1.0.1.2",
   "summary": "A Python debugging and analysis toolkit with beautiful, colorful terminal output. Provides decorators for automatic logging, execution timing, and real-time variable tracking.",
   "author": "Tom Neto",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "steely-1.0.1.1-py3-none-any.whl",
-  "download_time": "2025-12-09T19:10:10.873084",
+  "download_filename": "steely-1.0.1.2-py3-none-any.whl",
+  "download_time": "2025-12-10T13:12:34.894794",
   "package_url": "https://pypi.org/project/steely/"
 }

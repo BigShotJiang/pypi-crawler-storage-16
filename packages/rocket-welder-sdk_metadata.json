@@ -1,0 +1,11 @@
+{
+  "name": "rocket-welder-sdk",
+  "version": "1.1.33",
+  "summary": "High-performance video streaming SDK for RocketWelder services using ZeroBuffer IPC",
+  "author": "ModelingEvolution",
+  "license": "MIT",
+  "home_page": "https://github.com/modelingevolution/rocket-welder-sdk",
+  "download_filename": "rocket_welder_sdk-1.1.33.tar.gz",
+  "download_time": "2025-12-10T13:12:15.753876",
+  "package_url": "https://pypi.org/project/rocket-welder-sdk/"
+}

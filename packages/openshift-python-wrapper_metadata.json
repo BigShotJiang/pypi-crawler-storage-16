@@ -1,0 +1,11 @@
+{
+  "name": "openshift-python-wrapper",
+  "version": "11.0.108",
+  "summary": "Wrapper around https://github.com/kubernetes-client/python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openshift_python_wrapper-11.0.108.tar.gz",
+  "download_time": "2025-12-10T13:12:38.058275",
+  "package_url": "https://pypi.org/project/openshift-python-wrapper/"
+}

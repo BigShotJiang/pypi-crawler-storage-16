@@ -1,0 +1,11 @@
+{
+  "name": "mseep-finance-trading-ai-agents-mcp",
+  "version": "0.0.92",
+  "summary": "A free, specialized MCP server for financial analysis and quantitative trading. Provides one-click setup for local financial MCP services with department-based architecture simulating financial company operations. Supports traditional indicators, price action analysis, economic calendar, fundamental analysis, and news integration for seamless LLM interaction and algorithmic trading.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "mseep_finance_trading_ai_agents_mcp-0.0.92.tar.gz",
+  "download_time": "2025-12-10T13:12:11.570699",
+  "package_url": "https://pypi.org/project/mseep-finance-trading-ai-agents-mcp/"
+}

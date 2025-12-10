@@ -1,0 +1,11 @@
+{
+  "name": "apex-wordpress-poster",
+  "version": "0.1.2",
+  "summary": "A simple package to post HTML content with images to WordPress",
+  "author": "ApexNeural",
+  "license": null,
+  "home_page": null,
+  "download_filename": "apex_wordpress_poster-0.1.2.tar.gz",
+  "download_time": "2025-12-10T13:12:25.465051",
+  "package_url": "https://pypi.org/project/apex-wordpress-poster/"
+}

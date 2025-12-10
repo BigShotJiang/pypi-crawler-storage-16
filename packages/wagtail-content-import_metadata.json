@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-content-import",
+  "version": "0.13.1",
+  "summary": "A module for Wagtail that provides functionality for importing page content from third-party sources.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wagtail_content_import-0.13.1.tar.gz",
+  "download_time": "2025-12-10T13:12:37.502898",
+  "package_url": "https://pypi.org/project/wagtail-content-import/"
+}

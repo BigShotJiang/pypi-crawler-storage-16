@@ -1,11 +1,11 @@
 {
   "name": "biovault-beaver",
-  "version": "0.1.26",
+  "version": "0.1.28",
   "summary": "A library for data visitation and eager execution of remote bioinformatics workflows.",
   "author": "Madhava Jay <madhava@openmined.org>",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "biovault_beaver-0.1.26.tar.gz",
-  "download_time": "2025-12-09T06:53:09.485119",
+  "download_filename": "biovault_beaver-0.1.28.tar.gz",
+  "download_time": "2025-12-10T13:12:14.191572",
   "package_url": "https://pypi.org/project/biovault-beaver/"
 }

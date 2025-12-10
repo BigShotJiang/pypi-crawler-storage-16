@@ -1,11 +1,11 @@
 {
   "name": "agentic-workstation",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Multi-agent planning and workflow orchestration system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentic_workstation-1.0.2.tar.gz",
-  "download_time": "2025-12-10T06:54:48.570983",
+  "download_filename": "agentic_workstation-1.0.3.tar.gz",
+  "download_time": "2025-12-10T13:12:27.078392",
   "package_url": "https://pypi.org/project/agentic-workstation/"
 }

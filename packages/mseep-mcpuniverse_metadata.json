@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcpuniverse",
+  "version": "1.0.4",
+  "summary": "A framework for developing and benchmarking AI agents using Model Context Protocol (MCP)",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "mseep_mcpuniverse-1.0.4.tar.gz",
+  "download_time": "2025-12-10T13:12:06.184829",
+  "package_url": "https://pypi.org/project/mseep-mcpuniverse/"
+}

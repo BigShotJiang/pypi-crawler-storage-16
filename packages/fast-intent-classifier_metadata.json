@@ -1,0 +1,11 @@
+{
+  "name": "fast-intent-classifier",
+  "version": "0.1.2",
+  "summary": "A fast intent classifier using embeddings",
+  "author": "Durgesh Rathod",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fast_intent_classifier-0.1.2.tar.gz",
+  "download_time": "2025-12-10T13:11:59.809210",
+  "package_url": "https://pypi.org/project/fast-intent-classifier/"
+}

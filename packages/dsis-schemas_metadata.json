@@ -1,0 +1,11 @@
+{
+  "name": "dsis-schemas",
+  "version": "0.0.6",
+  "summary": "Python SDK for DSIS OpenWorks Common Model and OW5000 Native Model schemas",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dsis_schemas-0.0.6.tar.gz",
+  "download_time": "2025-12-10T13:12:39.608823",
+  "package_url": "https://pypi.org/project/dsis-schemas/"
+}

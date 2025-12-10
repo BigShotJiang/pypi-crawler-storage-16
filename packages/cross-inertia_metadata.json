@@ -1,0 +1,11 @@
+{
+  "name": "cross-inertia",
+  "version": "0.11.1",
+  "summary": "Inertia.js adapter for Python web frameworks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cross_inertia-0.11.1.tar.gz",
+  "download_time": "2025-12-10T13:12:11.028821",
+  "package_url": "https://pypi.org/project/cross-inertia/"
+}

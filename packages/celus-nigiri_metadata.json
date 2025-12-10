@@ -1,0 +1,11 @@
+{
+  "name": "celus-nigiri",
+  "version": "4.2.1",
+  "summary": "Library for downloading and parsing counter-like data.",
+  "author": "Beda Kosata, Stepan Henek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "celus_nigiri-4.2.1.tar.gz",
+  "download_time": "2025-12-10T13:12:20.706931",
+  "package_url": "https://pypi.org/project/celus-nigiri/"
+}

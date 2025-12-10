@@ -1,11 +1,11 @@
 {
   "name": "trustgraph-mcp",
-  "version": "1.7.6",
+  "version": "1.7.8",
   "summary": "TrustGraph provides a means to run a pipeline of flexible AI processing components in a flexible means to achieve a processing pipeline.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trustgraph_mcp-1.7.6.tar.gz",
-  "download_time": "2025-12-09T23:31:12.773280",
+  "download_filename": "trustgraph_mcp-1.7.8.tar.gz",
+  "download_time": "2025-12-10T11:16:11.408105",
   "package_url": "https://pypi.org/project/trustgraph-mcp/"
 }

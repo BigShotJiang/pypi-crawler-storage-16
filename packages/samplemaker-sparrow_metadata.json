@@ -1,0 +1,11 @@
+{
+  "name": "samplemaker-sparrow",
+  "version": "5.4.4",
+  "summary": "Lithographic mask design package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "samplemaker_sparrow-5.4.4.tar.gz",
+  "download_time": "2025-12-10T11:16:00.508515",
+  "package_url": "https://pypi.org/project/samplemaker-sparrow/"
+}

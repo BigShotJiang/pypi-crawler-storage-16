@@ -1,0 +1,11 @@
+{
+  "name": "mseep-dbt-core-mcp",
+  "version": "0.2.5",
+  "summary": "DBT Core MCP Server: Interact with DBT projects via Model Context Protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_dbt_core_mcp-0.2.5.tar.gz",
+  "download_time": "2025-12-10T11:16:40.372846",
+  "package_url": "https://pypi.org/project/mseep-dbt-core-mcp/"
+}

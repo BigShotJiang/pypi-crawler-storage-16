@@ -1,0 +1,11 @@
+{
+  "name": "iotlab-mqtt-bridge",
+  "version": "0.1.22",
+  "summary": "Bridge to connect IOT-LAB to a MQTT broker",
+  "author": "Cassandre Vey",
+  "license": "CeCILL 2.1",
+  "home_page": "https://github.com/iot-lab/iotlab-mqtt-bridge",
+  "download_filename": "iotlab_mqtt_bridge-0.1.22.tar.gz",
+  "download_time": "2025-12-10T11:16:35.634909",
+  "package_url": "https://pypi.org/project/iotlab-mqtt-bridge/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "django-nested-seed",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Django package for seeding data with nested relationships via YAML",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_nested_seed-0.1.1.tar.gz",
-  "download_time": "2025-12-10T08:51:08.576402",
+  "download_filename": "django_nested_seed-0.1.2.tar.gz",
+  "download_time": "2025-12-10T11:16:47.533751",
   "package_url": "https://pypi.org/project/django-nested-seed/"
 }

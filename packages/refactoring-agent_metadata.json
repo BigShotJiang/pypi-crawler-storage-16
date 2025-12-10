@@ -1,11 +1,11 @@
 {
   "name": "refactoring-agent",
-  "version": "3.11.1",
-  "summary": "Refactoring Agent with AI, Config and Mass Scale support",
+  "version": "3.11.2",
+  "summary": "Autonomous Technical Debt & Security Remediation Agent",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "refactoring_agent-3.11.1.tar.gz",
-  "download_time": "2025-12-10T09:22:52.494152",
+  "download_filename": "refactoring_agent-3.11.2.tar.gz",
+  "download_time": "2025-12-10T11:16:50.258156",
   "package_url": "https://pypi.org/project/refactoring-agent/"
 }

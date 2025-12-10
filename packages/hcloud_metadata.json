@@ -1,0 +1,11 @@
+{
+  "name": "hcloud",
+  "version": "2.12.0",
+  "summary": "Official Hetzner Cloud python library",
+  "author": "Hetzner Cloud GmbH",
+  "license": "MIT",
+  "home_page": "https://github.com/hetznercloud/hcloud-python",
+  "download_filename": "hcloud-2.12.0.tar.gz",
+  "download_time": "2025-12-10T11:16:04.958818",
+  "package_url": "https://pypi.org/project/hcloud/"
+}

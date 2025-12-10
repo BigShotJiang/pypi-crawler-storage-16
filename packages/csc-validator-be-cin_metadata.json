@@ -1,11 +1,11 @@
 {
   "name": "csc-validator-be-cin",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Shared module for validating CIN census data using DfE rules.",
   "author": "Tambe Tabitha",
   "license": "MIT",
   "home_page": "https://github.com/data-to-insight/csc-validator-be-cin",
-  "download_filename": "csc_validator_be_cin-0.1.8.tar.gz",
-  "download_time": "2025-12-10T09:44:53.948183",
+  "download_filename": "csc_validator_be_cin-0.1.9.tar.gz",
+  "download_time": "2025-12-10T11:16:37.258144",
   "package_url": "https://pypi.org/project/csc-validator-be-cin/"
 }

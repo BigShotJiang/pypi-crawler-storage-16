@@ -1,0 +1,11 @@
+{
+  "name": "tressed",
+  "version": "0.0.4",
+  "summary": "Deserialize and serialize types, in any order",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tressed-0.0.4.tar.gz",
+  "download_time": "2025-12-10T11:16:24.081317",
+  "package_url": "https://pypi.org/project/tressed/"
+}

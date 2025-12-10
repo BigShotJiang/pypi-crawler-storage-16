@@ -1,0 +1,11 @@
+{
+  "name": "wetlands",
+  "version": "0.4.3",
+  "summary": "Wetlands is a lightweight library to create conda environment and execute code inside them.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wetlands-0.4.3.tar.gz",
+  "download_time": "2025-12-10T09:45:11.180338",
+  "package_url": "https://pypi.org/project/wetlands/"
+}

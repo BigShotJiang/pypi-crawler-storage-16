@@ -1,0 +1,11 @@
+{
+  "name": "laurium",
+  "version": "0.4.1",
+  "summary": "A package for extracting structured data from free text",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "laurium-0.4.1.tar.gz",
+  "download_time": "2025-12-10T09:44:53.429117",
+  "package_url": "https://pypi.org/project/laurium/"
+}

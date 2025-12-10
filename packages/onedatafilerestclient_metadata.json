@@ -1,0 +1,11 @@
+{
+  "name": "onedatafilerestclient",
+  "version": "21.2.9.1",
+  "summary": "Onedata REST file API client",
+  "author": "Bartek Kryza",
+  "license": "MIT",
+  "home_page": "https://github.com/onedata/onedatafilerestclient",
+  "download_filename": "onedatafilerestclient-21.2.9.1.tar.gz",
+  "download_time": "2025-12-10T09:45:09.093610",
+  "package_url": "https://pypi.org/project/onedatafilerestclient/"
+}

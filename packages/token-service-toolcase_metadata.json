@@ -1,0 +1,11 @@
+{
+  "name": "token-service-toolcase",
+  "version": "0.1.0",
+  "summary": "A lightweight tool to fetch Azure AD access tokens.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "token_service_toolcase-0.1.0.tar.gz",
+  "download_time": "2025-12-10T09:44:54.465794",
+  "package_url": "https://pypi.org/project/token-service-toolcase/"
+}

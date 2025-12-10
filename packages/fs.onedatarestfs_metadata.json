@@ -1,0 +1,11 @@
+{
+  "name": "fs.onedatarestfs",
+  "version": "21.2.9.1",
+  "summary": "Onedata REST-based filesystem for PyFilesystem",
+  "author": "Bartek Kryza",
+  "license": "MIT",
+  "home_page": "https://github.com/onedata/onedatarestfs",
+  "download_filename": "fs_onedatarestfs-21.2.9.1.tar.gz",
+  "download_time": "2025-12-10T09:45:04.916854",
+  "package_url": "https://pypi.org/project/fs.onedatarestfs/"
+}

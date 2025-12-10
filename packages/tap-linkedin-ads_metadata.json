@@ -1,0 +1,11 @@
+{
+  "name": "tap-linkedin-ads",
+  "version": "2.5.0",
+  "summary": "Singer.io tap for extracting data from the LinkedIn Marketing Ads API API 2.0",
+  "author": "jeff.huth@bytecode.io",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tap_linkedin_ads-2.5.0.tar.gz",
+  "download_time": "2025-12-10T09:44:43.048079",
+  "package_url": "https://pypi.org/project/tap-linkedin-ads/"
+}

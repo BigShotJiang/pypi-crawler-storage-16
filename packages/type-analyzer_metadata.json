@@ -1,0 +1,11 @@
+{
+  "name": "type-analyzer",
+  "version": "0.1.2",
+  "summary": "Functions for introspecting Python type hints.",
+  "author": "remimd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "type_analyzer-0.1.2.tar.gz",
+  "download_time": "2025-12-10T09:44:44.586729",
+  "package_url": "https://pypi.org/project/type-analyzer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "freetable",
+  "version": "3.0.0",
+  "summary": "Convert regression results (statsmodels or pyfixest) to publication-ready LaTeX tables",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "freetable-3.0.0.tar.gz",
+  "download_time": "2025-12-10T09:45:15.860524",
+  "package_url": "https://pypi.org/project/freetable/"
+}

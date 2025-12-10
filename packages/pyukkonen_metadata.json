@@ -1,0 +1,11 @@
+{
+  "name": "pyukkonen",
+  "version": "0.0.1",
+  "summary": "A high-performance C++ Suffix Tree implementation with Python bindings",
+  "author": "Xinye Chen",
+  "license": null,
+  "home_page": "https://github.com/chenxinye/ukkonen-tree",
+  "download_filename": "pyukkonen-0.0.1.tar.gz",
+  "download_time": "2025-12-10T09:44:59.158183",
+  "package_url": "https://pypi.org/project/pyukkonen/"
+}

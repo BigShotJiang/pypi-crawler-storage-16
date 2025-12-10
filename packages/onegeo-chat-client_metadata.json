@@ -1,0 +1,11 @@
+{
+  "name": "onegeo-chat-client",
+  "version": "2.1.1",
+  "summary": "RAG based chatbot client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onegeo_chat_client-2.1.1.tar.gz",
+  "download_time": "2025-12-10T09:44:58.117307",
+  "package_url": "https://pypi.org/project/onegeo-chat-client/"
+}

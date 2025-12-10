@@ -1,0 +1,11 @@
+{
+  "name": "pyvoa-full",
+  "version": "0.1.2",
+  "summary": "Python virus open analysis, full version. See more on pyvoa.org",
+  "author": "pyvoa.org",
+  "license": null,
+  "home_page": "https://github.com/pyvoa/pyvoa_full",
+  "download_filename": "pyvoa_full-0.1.2.tar.gz",
+  "download_time": "2025-12-10T09:45:18.446459",
+  "package_url": "https://pypi.org/project/pyvoa-full/"
+}

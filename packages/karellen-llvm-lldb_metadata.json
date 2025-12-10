@@ -1,0 +1,11 @@
+{
+  "name": "karellen-llvm-lldb",
+  "version": "21.1.7.post5",
+  "summary": "Karellen LLDB infrastructure",
+  "author": "Karellen, Inc.",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/karellen/karellen-llvm",
+  "download_filename": "karellen_llvm_lldb-21.1.7.post5-cp310-cp310-manylinux2014_x86_64.whl",
+  "download_time": "2025-12-10T09:44:37.853101",
+  "package_url": "https://pypi.org/project/karellen-llvm-lldb/"
+}

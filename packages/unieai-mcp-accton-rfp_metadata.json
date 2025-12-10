@@ -1,11 +1,11 @@
 {
   "name": "unieai-mcp-accton-rfp",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "summary": "Internal MCP server for Accton RFP automation (UnieAI)",
   "author": "UnieAI",
   "license": "Proprietary",
   "home_page": "https://www.unieai.com/",
-  "download_filename": "unieai_mcp_accton_rfp-0.0.12.tar.gz",
-  "download_time": "2025-12-10T07:53:15.897471",
+  "download_filename": "unieai_mcp_accton_rfp-0.0.14.tar.gz",
+  "download_time": "2025-12-10T09:44:36.228149",
   "package_url": "https://pypi.org/project/unieai-mcp-accton-rfp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "statelogic",
+  "version": "1.2.2",
+  "summary": "A safe, pure-Python finite state machine with colored terminal logging",
+  "author": "Wong Chun Fai",
+  "license": "MIT",
+  "home_page": "https://github.com/Wilgat/Statelogic",
+  "download_filename": "statelogic-1.2.2.tar.gz",
+  "download_time": "2025-12-10T05:15:36.124799",
+  "package_url": "https://pypi.org/project/statelogic/"
+}

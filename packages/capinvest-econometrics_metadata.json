@@ -1,0 +1,11 @@
+{
+  "name": "capinvest-econometrics",
+  "version": "1.0.8",
+  "summary": "Econometrics router extension for CapInvest",
+  "author": "zbz Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "capinvest_econometrics-1.0.8.tar.gz",
+  "download_time": "2025-12-10T05:15:42.304675",
+  "package_url": "https://pypi.org/project/capinvest-econometrics/"
+}

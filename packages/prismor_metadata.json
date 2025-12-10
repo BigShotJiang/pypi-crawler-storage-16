@@ -1,0 +1,11 @@
+{
+  "name": "prismor",
+  "version": "1.0.5",
+  "summary": "A CLI tool for scanning GitHub repositories for vulnerabilities, secrets, and generating SBOMs",
+  "author": "Prismor",
+  "license": null,
+  "home_page": "https://github.com/PrismorSec/prismor-cli",
+  "download_filename": "prismor-1.0.5.tar.gz",
+  "download_time": "2025-12-10T05:15:53.362332",
+  "package_url": "https://pypi.org/project/prismor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shai-py",
+  "version": "0.1.1",
+  "summary": "AI-native Python development tools for Claude Code and autonomous agents.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shai_py-0.1.1.tar.gz",
+  "download_time": "2025-12-10T05:15:40.759293",
+  "package_url": "https://pypi.org/project/shai-py/"
+}

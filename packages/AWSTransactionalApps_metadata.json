@@ -1,11 +1,11 @@
 {
   "name": "AWSTransactionalApps",
-  "version": "0.3.1",
+  "version": "0.4.1",
   "summary": "AWS Transactional Apps - A reusable Python CDKTF package for provisioning EC2-based Docker architectures with S3 script deployment",
   "author": "Buzzerboy Inc",
   "license": null,
   "home_page": "https://www.buzzerboy.com/",
-  "download_filename": "awstransactionalapps-0.3.1.tar.gz",
-  "download_time": "2025-12-10T04:52:54.792938",
+  "download_filename": "awstransactionalapps-0.4.1.tar.gz",
+  "download_time": "2025-12-10T05:15:41.279083",
   "package_url": "https://pypi.org/project/AWSTransactionalApps/"
 }

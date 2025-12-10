@@ -1,0 +1,11 @@
+{
+  "name": "cogent3",
+  "version": "2025.12.10a1",
+  "summary": "COmparative GENomics Toolkit 3: genomic sequence analysis within notebooks or on compute systems with 1000s of CPUs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cogent3-2025.12.10a1-py3-none-any.whl",
+  "download_time": "2025-12-10T04:28:40.733916",
+  "package_url": "https://pypi.org/project/cogent3/"
+}

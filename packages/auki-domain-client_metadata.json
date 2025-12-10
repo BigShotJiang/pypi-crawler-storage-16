@@ -1,0 +1,11 @@
+{
+  "name": "auki-domain-client",
+  "version": "1.4.0",
+  "summary": "HTTP client library for interacting with AukiLabs domain data services",
+  "author": "AukiLabs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auki_domain_client-1.4.0-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-10T04:28:13.027019",
+  "package_url": "https://pypi.org/project/auki-domain-client/"
+}

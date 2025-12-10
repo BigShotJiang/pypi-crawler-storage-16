@@ -1,0 +1,11 @@
+{
+  "name": "monarch-py",
+  "version": "1.23.1",
+  "summary": "Python package for interacting with Monarch Initiative knowledge graph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "monarch_py-1.23.1.tar.gz",
+  "download_time": "2025-12-10T04:28:37.214689",
+  "package_url": "https://pypi.org/project/monarch-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zero-totp-db-model",
+  "version": "2.2.2",
+  "summary": "Zero-TOTP Database Model",
+  "author": "Seaweedbrain",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zero_totp_db_model-2.2.2.tar.gz",
+  "download_time": "2025-12-10T04:28:24.230580",
+  "package_url": "https://pypi.org/project/zero-totp-db-model/"
+}

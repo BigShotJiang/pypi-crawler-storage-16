@@ -1,0 +1,11 @@
+{
+  "name": "meltanolabs-target-postgres",
+  "version": "0.6.3",
+  "summary": "Singer target for Postgres, built with the Meltano SDK for Singer Targets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meltanolabs_target_postgres-0.6.3.tar.gz",
+  "download_time": "2025-12-10T21:15:12.793338",
+  "package_url": "https://pypi.org/project/meltanolabs-target-postgres/"
+}

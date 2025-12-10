@@ -1,11 +1,11 @@
 {
   "name": "ciffy",
-  "version": "0.5.3",
+  "version": "0.5.5",
   "summary": "Fast CIF file parsing for molecular structures",
   "author": "Hamish M. Blair",
   "license": "MIT",
   "home_page": "https://github.com/hmblair/ciffy",
-  "download_filename": "ciffy-0.5.3.tar.gz",
-  "download_time": "2025-12-10T19:30:44.793259",
+  "download_filename": "ciffy-0.5.5.tar.gz",
+  "download_time": "2025-12-10T21:15:08.094320",
   "package_url": "https://pypi.org/project/ciffy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "seclab-taskflows",
+  "version": "0.0.2",
+  "summary": "Example taskflows to use with the the GitHub Security Lab Taskflow Agent Framework (https://github.com/GitHubSecurityLab/seclab-taskflow-agent)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seclab_taskflows-0.0.2.tar.gz",
+  "download_time": "2025-12-10T21:14:52.410812",
+  "package_url": "https://pypi.org/project/seclab-taskflows/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "freva-deployment",
+  "version": "2511.2.1",
+  "summary": "Deployment of the Free Evaluation Framework Freva",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "freva_deployment-2511.2.1.tar.gz",
+  "download_time": "2025-12-10T21:15:14.906053",
+  "package_url": "https://pypi.org/project/freva-deployment/"
+}

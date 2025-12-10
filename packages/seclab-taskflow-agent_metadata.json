@@ -1,0 +1,11 @@
+{
+  "name": "seclab-taskflow-agent",
+  "version": "0.0.9",
+  "summary": "A taskflow agent for the SecLab project, enabling secure and automated workflow execution.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seclab_taskflow_agent-0.0.9.tar.gz",
+  "download_time": "2025-12-10T21:15:06.513082",
+  "package_url": "https://pypi.org/project/seclab-taskflow-agent/"
+}

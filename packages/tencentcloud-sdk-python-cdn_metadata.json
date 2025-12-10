@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-cdn",
+  "version": "3.1.11",
+  "summary": "Tencent Cloud Cdn SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_cdn-3.1.11.tar.gz",
+  "download_time": "2025-12-10T21:15:12.278188",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-cdn/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mascdb",
+  "version": "0.1.0",
+  "summary": "pymascdb provides tools to process, archive, and anaylze MASC snowflake images.",
+  "author": "Gionata Ghiggi, Jacopo Grazioli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mascdb-0.1.0.tar.gz",
+  "download_time": "2025-12-10T21:15:15.932426",
+  "package_url": "https://pypi.org/project/mascdb/"
+}

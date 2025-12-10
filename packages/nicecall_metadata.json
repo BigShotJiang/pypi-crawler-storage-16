@@ -1,0 +1,11 @@
+{
+  "name": "nicecall",
+  "version": "1.0.24",
+  "summary": "A library which provides a slightly more convinient way to launch processes, compared to Python's subprocess module.",
+  "author": "Arseni Mourzenko",
+  "license": "MIT",
+  "home_page": "http://go.pelicandd.com/n/python-nicecall",
+  "download_filename": "nicecall-1.0.24-py2.py3-none-any.whl",
+  "download_time": "2025-12-10T21:15:30.596296",
+  "package_url": "https://pypi.org/project/nicecall/"
+}

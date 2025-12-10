@@ -1,0 +1,11 @@
+{
+  "name": "vllm-speculative-autoconfig",
+  "version": "0.1.1",
+  "summary": "Automatic configuration planner for vLLM with PyTorch-based GPU probing and intelligent memory management",
+  "author": "vllm-speculative-autoconfig contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vllm_speculative_autoconfig-0.1.1.tar.gz",
+  "download_time": "2025-12-10T21:15:01.790576",
+  "package_url": "https://pypi.org/project/vllm-speculative-autoconfig/"
+}

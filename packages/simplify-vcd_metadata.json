@@ -1,0 +1,11 @@
+{
+  "name": "simplify-vcd",
+  "version": "1.1.0",
+  "summary": "Clip, trim and reduce VCD files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simplify_vcd-1.1.0.tar.gz",
+  "download_time": "2025-12-10T21:15:17.542642",
+  "package_url": "https://pypi.org/project/simplify-vcd/"
+}

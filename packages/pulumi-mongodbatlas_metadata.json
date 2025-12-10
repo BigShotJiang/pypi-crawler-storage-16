@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-mongodbatlas",
+  "version": "3.38.0",
+  "summary": "A Pulumi package for creating and managing mongodbatlas cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_mongodbatlas-3.38.0.tar.gz",
+  "download_time": "2025-12-10T06:54:39.672609",
+  "package_url": "https://pypi.org/project/pulumi-mongodbatlas/"
+}

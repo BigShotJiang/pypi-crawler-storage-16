@@ -1,11 +1,11 @@
 {
   "name": "tradion_api_client",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "tradion api client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tradion_api_client-0.1.1.tar.gz",
-  "download_time": "2025-12-10T05:15:51.760768",
+  "download_filename": "tradion_api_client-0.1.2.tar.gz",
+  "download_time": "2025-12-10T06:54:24.993104",
   "package_url": "https://pypi.org/project/tradion_api_client/"
 }

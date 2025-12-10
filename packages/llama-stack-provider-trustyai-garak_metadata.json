@@ -1,0 +1,11 @@
+{
+  "name": "llama-stack-provider-trustyai-garak",
+  "version": "0.1.7",
+  "summary": "Out-Of-Tree Llama Stack provider for Garak Red-teaming",
+  "author": "TrustyAI Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_stack_provider_trustyai_garak-0.1.7.tar.gz",
+  "download_time": "2025-12-10T06:54:22.365154",
+  "package_url": "https://pypi.org/project/llama-stack-provider-trustyai-garak/"
+}

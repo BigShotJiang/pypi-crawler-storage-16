@@ -1,0 +1,11 @@
+{
+  "name": "optic-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for camera/vision tools - connect any camera to AI assistants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "optic_mcp-0.2.0.tar.gz",
+  "download_time": "2025-12-10T06:54:42.434155",
+  "package_url": "https://pypi.org/project/optic-mcp/"
+}

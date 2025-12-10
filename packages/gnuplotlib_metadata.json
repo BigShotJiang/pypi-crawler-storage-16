@@ -1,0 +1,11 @@
+{
+  "name": "gnuplotlib",
+  "version": "0.46",
+  "summary": "Gnuplot-based plotting for numpy",
+  "author": "Dima Kogan",
+  "license": "LGPL",
+  "home_page": "http://github.com/dkogan/gnuplotlib",
+  "download_filename": "gnuplotlib-0.46.tar.gz",
+  "download_time": "2025-12-10T06:54:19.704841",
+  "package_url": "https://pypi.org/project/gnuplotlib/"
+}

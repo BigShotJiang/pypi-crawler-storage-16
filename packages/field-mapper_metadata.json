@@ -1,0 +1,11 @@
+{
+  "name": "field-mapper",
+  "version": "0.3.2",
+  "summary": "Field Mapper is a Python library for data validation and transformation with support for nested data extraction, custom validators, and flexible field mapping.",
+  "author": "Ariful Islam Palash",
+  "license": "MIT",
+  "home_page": "https://github.com/aip777/field-mapper",
+  "download_filename": "field_mapper-0.3.2.tar.gz",
+  "download_time": "2025-12-10T06:54:09.057858",
+  "package_url": "https://pypi.org/project/field-mapper/"
+}

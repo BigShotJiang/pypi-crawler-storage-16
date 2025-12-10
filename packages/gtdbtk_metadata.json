@@ -1,0 +1,11 @@
+{
+  "name": "gtdbtk",
+  "version": "2.6.0",
+  "summary": "A toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.",
+  "author": "Pierre-Alain Chaumeil, Aaron Mussig and Donovan Parks",
+  "license": "GPL3",
+  "home_page": "https://github.com/Ecogenomics/GTDBTk",
+  "download_filename": "gtdbtk-2.6.0.tar.gz",
+  "download_time": "2025-12-10T06:54:36.454477",
+  "package_url": "https://pypi.org/project/gtdbtk/"
+}

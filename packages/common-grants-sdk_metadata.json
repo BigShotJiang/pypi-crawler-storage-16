@@ -1,0 +1,11 @@
+{
+  "name": "common-grants-sdk",
+  "version": "0.4.0",
+  "summary": "Python SDK for the CommonGrants protocol",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "common_grants_sdk-0.4.0.tar.gz",
+  "download_time": "2025-12-10T07:17:26.515598",
+  "package_url": "https://pypi.org/project/common-grants-sdk/"
+}

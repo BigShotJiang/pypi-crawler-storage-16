@@ -1,0 +1,11 @@
+{
+  "name": "duckdb-claude-slack",
+  "version": "0.3.0",
+  "summary": "Slack bot that uses DuckDB ACP extension to call Claude Code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "duckdb_claude_slack-0.3.0.tar.gz",
+  "download_time": "2025-12-10T07:17:23.929118",
+  "package_url": "https://pypi.org/project/duckdb-claude-slack/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "unienv",
+  "version": "0.0.1b5",
+  "summary": "Unified robot environment framework supporting multiple tensor and simulation backends",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unienv-0.0.1b5.tar.gz",
+  "download_time": "2025-12-10T07:17:29.665676",
+  "package_url": "https://pypi.org/project/unienv/"
+}

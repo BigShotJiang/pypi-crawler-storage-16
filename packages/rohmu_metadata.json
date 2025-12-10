@@ -1,11 +1,11 @@
 {
   "name": "rohmu",
-  "version": "2.8.1",
+  "version": "2.8.2",
   "summary": "Rohmu is a python library providing an interface to various cloud storage providers.",
   "author": null,
   "license": "Apache-2.0 license",
   "home_page": null,
-  "download_filename": "rohmu-2.8.1.tar.gz",
-  "download_time": "2025-12-09T11:30:31.453597",
+  "download_filename": "rohmu-2.8.2.tar.gz",
+  "download_time": "2025-12-10T07:17:45.891659",
   "package_url": "https://pypi.org/project/rohmu/"
 }

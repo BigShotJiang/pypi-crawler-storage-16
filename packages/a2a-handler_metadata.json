@@ -1,0 +1,11 @@
+{
+  "name": "a2a-handler",
+  "version": "0.1.9",
+  "summary": "An A2A Protocol client TUI and CLI.",
+  "author": "Al Duncanson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "a2a_handler-0.1.9.tar.gz",
+  "download_time": "2025-12-10T07:17:17.226819",
+  "package_url": "https://pypi.org/project/a2a-handler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentify-core",
+  "version": "0.2.0",
+  "summary": "Framework-agnostic AI agent library for building single and multi-agent systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentify_core-0.2.0.tar.gz",
+  "download_time": "2025-12-10T07:17:51.108802",
+  "package_url": "https://pypi.org/project/agentify-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wyzeapy",
+  "version": "0.5.30",
+  "summary": "A library for interacting with Wyze devices",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "wyzeapy-0.5.30.tar.gz",
+  "download_time": "2025-12-10T07:17:38.382740",
+  "package_url": "https://pypi.org/project/wyzeapy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "wxr",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "AI-powered Docker configuration generator with self-healing builds",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wxr-0.1.1.tar.gz",
-  "download_time": "2025-12-10T17:46:03.863552",
+  "download_filename": "wxr-0.1.2.tar.gz",
+  "download_time": "2025-12-10T18:21:24.145832",
   "package_url": "https://pypi.org/project/wxr/"
 }

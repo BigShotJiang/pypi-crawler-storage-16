@@ -1,0 +1,11 @@
+{
+  "name": "mseep-zscaler-mcp",
+  "version": "0.6.0",
+  "summary": "Official Zscaler Integrations MCP Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_zscaler_mcp-0.6.0.tar.gz",
+  "download_time": "2025-12-10T18:21:37.383576",
+  "package_url": "https://pypi.org/project/mseep-zscaler-mcp/"
+}

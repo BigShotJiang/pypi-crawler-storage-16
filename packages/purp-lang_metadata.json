@@ -1,0 +1,11 @@
+{
+  "name": "purp-lang",
+  "version": "1.0.0",
+  "summary": "The Purp Programming Language - A clean, readable programming language",
+  "author": "Purple",
+  "license": "MIT",
+  "home_page": "https://github.com/PurpleTrex/purp-lang",
+  "download_filename": "purp_lang-1.0.0.tar.gz",
+  "download_time": "2025-12-10T18:21:27.181578",
+  "package_url": "https://pypi.org/project/purp-lang/"
+}

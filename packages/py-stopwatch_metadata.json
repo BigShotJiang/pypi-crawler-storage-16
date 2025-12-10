@@ -1,11 +1,11 @@
 {
   "name": "py-stopwatch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Stopwatch class for timing portions of python code",
   "author": "Hrishikesh Terdalkar",
   "license": "MIT license",
   "home_page": "https://github.com/hrishikeshrt/py_stopwatch",
-  "download_filename": "py_stopwatch-1.0.0.tar.gz",
-  "download_time": "2025-12-10T17:46:04.381614",
+  "download_filename": "py_stopwatch-1.0.1.tar.gz",
+  "download_time": "2025-12-10T18:21:24.795147",
   "package_url": "https://pypi.org/project/py-stopwatch/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pypipedrive-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python SDK for the Pipedrive CRM V1/V2 API",
   "author": "Juan Manuel M. Pérez (Magical Potion)",
   "license": "MIT",
   "home_page": "https://github.com/jmanprz/pypipedrive",
-  "download_filename": "pypipedrive_client-1.0.1.tar.gz",
-  "download_time": "2025-12-10T17:58:08.012267",
+  "download_filename": "pypipedrive_client-1.0.2.tar.gz",
+  "download_time": "2025-12-10T20:15:56.349377",
   "package_url": "https://pypi.org/project/pypipedrive-client/"
 }

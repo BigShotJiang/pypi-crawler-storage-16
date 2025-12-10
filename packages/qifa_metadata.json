@@ -1,0 +1,11 @@
+{
+  "name": "qifa",
+  "version": "0.1.1",
+  "summary": "flash-attn quick installer",
+  "author": "Voidful",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "qifa-0.1.1.tar.gz",
+  "download_time": "2025-12-10T20:15:55.264062",
+  "package_url": "https://pypi.org/project/qifa/"
+}

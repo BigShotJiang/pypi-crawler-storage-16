@@ -5,7 +5,7 @@
   "author": "Matin Raayai Ardakani, Qianqian Fang, Fan-Yu Yen",
   "license": "GPLv3+",
   "home_page": "https://github.com/fangq/mcx",
-  "download_filename": "pmcx-0.6.2-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-12-10T17:57:53.576886",
+  "download_filename": "pmcx-0.6.2-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-12-10T20:16:08.882650",
   "package_url": "https://pypi.org/project/pmcx/"
 }

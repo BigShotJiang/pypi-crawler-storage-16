@@ -1,0 +1,11 @@
+{
+  "name": "bifrost-bridge",
+  "version": "0.7.0",
+  "summary": "TODO",
+  "author": "$GIT_USER_NAME",
+  "license": "MIT License",
+  "home_page": "https://github.com/$GIT_USER_NAME/bifrost_bridge",
+  "download_filename": "bifrost_bridge-0.7.0.tar.gz",
+  "download_time": "2025-12-10T20:15:48.441622",
+  "package_url": "https://pypi.org/project/bifrost-bridge/"
+}

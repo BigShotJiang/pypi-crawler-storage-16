@@ -1,0 +1,11 @@
+{
+  "name": "opendht",
+  "version": "3.6.2",
+  "summary": "OpenDHT: A lightweight Distributed Hash Table",
+  "author": "Adrien Beraud <adrien.beraud@savoirfairelinux.com>",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/savoirfairelinux/opendht",
+  "download_filename": "opendht-3.6.2-cp310-cp310-manylinux_2_34_aarch64.whl",
+  "download_time": "2025-12-10T20:15:47.392477",
+  "package_url": "https://pypi.org/project/opendht/"
+}

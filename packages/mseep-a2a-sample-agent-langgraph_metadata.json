@@ -1,0 +1,11 @@
+{
+  "name": "mseep-a2a-sample-agent-langgraph",
+  "version": "0.1.0",
+  "summary": "Sample LangGraph currency ggent with A2A Protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_a2a_sample_agent_langgraph-0.1.0.tar.gz",
+  "download_time": "2025-12-10T20:15:56.862218",
+  "package_url": "https://pypi.org/project/mseep-a2a-sample-agent-langgraph/"
+}

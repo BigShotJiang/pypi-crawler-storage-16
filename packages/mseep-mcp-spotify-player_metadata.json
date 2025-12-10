@@ -1,0 +1,11 @@
+{
+  "name": "mseep-mcp-spotify-player",
+  "version": "0.1.0",
+  "summary": "Control your Spotify music from Claude using the MCP protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_mcp_spotify_player-0.1.0.tar.gz",
+  "download_time": "2025-12-10T20:15:51.067900",
+  "package_url": "https://pypi.org/project/mseep-mcp-spotify-player/"
+}

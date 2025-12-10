@@ -1,11 +1,11 @@
 {
   "name": "meyelens",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Gaze-tracking and pupillometry with MEYE",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meyelens-0.1.0.tar.gz",
-  "download_time": "2025-12-09T15:52:29.122011",
+  "download_filename": "meyelens-0.2.0.tar.gz",
+  "download_time": "2025-12-10T15:55:37.169883",
   "package_url": "https://pypi.org/project/meyelens/"
 }

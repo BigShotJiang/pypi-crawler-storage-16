@@ -1,0 +1,11 @@
+{
+  "name": "galsbi",
+  "version": "0.3.0",
+  "summary": "Package to easily generate catalogs from the model",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "galsbi-0.3.0-py2.py3-none-any.whl",
+  "download_time": "2025-12-10T15:56:02.638993",
+  "package_url": "https://pypi.org/project/galsbi/"
+}

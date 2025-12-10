@@ -1,0 +1,11 @@
+{
+  "name": "mcp-client-for-ollama",
+  "version": "0.23.0",
+  "summary": "MCP Client for Ollama - A client for connecting to Model Context Protocol servers using Ollama",
+  "author": "Jonathan Löwenstern",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_client_for_ollama-0.23.0.tar.gz",
+  "download_time": "2025-12-10T15:55:55.826936",
+  "package_url": "https://pypi.org/project/mcp-client-for-ollama/"
+}

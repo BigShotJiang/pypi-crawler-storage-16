@@ -1,11 +1,11 @@
 {
   "name": "mouc",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "A lightweight dependency tracking system for mapping technical capabilities to user stories and outcomes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mouc-0.6.0.tar.gz",
-  "download_time": "2025-12-10T14:17:20.407592",
+  "download_filename": "mouc-0.6.1.tar.gz",
+  "download_time": "2025-12-10T15:56:03.203670",
   "package_url": "https://pypi.org/project/mouc/"
 }

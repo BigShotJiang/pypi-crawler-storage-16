@@ -1,11 +1,11 @@
 {
   "name": "branchkey",
-  "version": "2.7.0",
+  "version": "2.7.1",
   "summary": "Client application to interface with the BranchKey system",
   "author": "BranchKey",
   "license": null,
   "home_page": "https://branchkey.com",
-  "download_filename": "branchkey-2.7.0.tar.gz",
-  "download_time": "2025-12-09T17:15:38.454722",
+  "download_filename": "branchkey-2.7.1.tar.gz",
+  "download_time": "2025-12-10T15:55:52.020383",
   "package_url": "https://pypi.org/project/branchkey/"
 }

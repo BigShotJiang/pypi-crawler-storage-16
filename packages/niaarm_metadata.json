@@ -1,0 +1,11 @@
+{
+  "name": "niaarm",
+  "version": "0.4.5",
+  "summary": "A minimalistic framework for numerical association rule mining",
+  "author": "Žiga Stupan",
+  "license": "MIT",
+  "home_page": "https://github.com/firefly-cpp/NiaARM",
+  "download_filename": "niaarm-0.4.5.tar.gz",
+  "download_time": "2025-12-10T15:55:45.430391",
+  "package_url": "https://pypi.org/project/niaarm/"
+}

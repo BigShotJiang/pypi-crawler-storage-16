@@ -1,0 +1,11 @@
+{
+  "name": "ollmcp",
+  "version": "0.23.0",
+  "summary": "CLI for MCP Client for Ollama - An easy-to-use command for interacting with Ollama through MCP",
+  "author": "Jonathan Löwenstern",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ollmcp-0.23.0.tar.gz",
+  "download_time": "2025-12-10T15:55:55.292631",
+  "package_url": "https://pypi.org/project/ollmcp/"
+}

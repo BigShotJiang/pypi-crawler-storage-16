@@ -1,0 +1,11 @@
+{
+  "name": "teklia-yolo-worker",
+  "version": "1.2.4",
+  "summary": "Ultralytics YOLO",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "teklia_yolo_worker-1.2.4.tar.gz",
+  "download_time": "2025-12-10T15:56:07.549513",
+  "package_url": "https://pypi.org/project/teklia-yolo-worker/"
+}

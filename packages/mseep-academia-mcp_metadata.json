@@ -1,0 +1,11 @@
+{
+  "name": "mseep-academia-mcp",
+  "version": "1.12.1",
+  "summary": "MCP server that provides different tools to search for scientific publications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_academia_mcp-1.12.1.tar.gz",
+  "download_time": "2025-12-10T15:17:12.196180",
+  "package_url": "https://pypi.org/project/mseep-academia-mcp/"
+}

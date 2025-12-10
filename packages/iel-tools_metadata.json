@@ -1,0 +1,11 @@
+{
+  "name": "iel-tools",
+  "version": "0.0.1",
+  "summary": "Librería unificada con herramientas PromptSQL y CheckSpace",
+  "author": "Tu Nombre",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iel_tools-0.0.1.tar.gz",
+  "download_time": "2025-12-10T15:17:23.835770",
+  "package_url": "https://pypi.org/project/iel-tools/"
+}

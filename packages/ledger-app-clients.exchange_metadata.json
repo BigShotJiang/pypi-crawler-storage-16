@@ -1,0 +1,11 @@
+{
+  "name": "ledger-app-clients.exchange",
+  "version": "0.0.6",
+  "summary": "Ledger Exchange Python client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ledger_app_clients_exchange-0.0.6.tar.gz",
+  "download_time": "2025-12-10T15:17:47.697490",
+  "package_url": "https://pypi.org/project/ledger-app-clients.exchange/"
+}

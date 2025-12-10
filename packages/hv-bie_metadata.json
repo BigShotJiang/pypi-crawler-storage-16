@@ -1,0 +1,11 @@
+{
+  "name": "hv-bie",
+  "version": "0.3.4",
+  "summary": "HV Battle Intelligence Extractor: parse HentaiVerse battle HTML into structured Python dataclasses",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hv_bie-0.3.4.tar.gz",
+  "download_time": "2025-12-10T15:17:22.236557",
+  "package_url": "https://pypi.org/project/hv-bie/"
+}

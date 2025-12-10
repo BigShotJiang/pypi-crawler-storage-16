@@ -1,0 +1,11 @@
+{
+  "name": "pyxll-spyder",
+  "version": "0.0.2",
+  "summary": "Runs a Spyder kernel in Microsoft Excel using PyXLL.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyxll_spyder-0.0.2.tar.gz",
+  "download_time": "2025-12-10T15:17:52.870551",
+  "package_url": "https://pypi.org/project/pyxll-spyder/"
+}

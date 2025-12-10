@@ -1,11 +1,11 @@
 {
   "name": "arivo-settings-models",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "summary": "Library for arivo parking system settings definitions and models",
   "author": "ARIVO",
   "license": "\"GPL-3\",",
   "home_page": "https://gitlab.com/accessio/onegate/settings-models",
-  "download_filename": "arivo_settings_models-2.5.0-py2.py3-none-any.whl",
-  "download_time": "2025-12-10T14:17:19.756401",
+  "download_filename": "arivo_settings_models-2.5.1.tar.gz",
+  "download_time": "2025-12-10T15:17:08.006495",
   "package_url": "https://pypi.org/project/arivo-settings-models/"
 }

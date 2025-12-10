@@ -1,0 +1,11 @@
+{
+  "name": "cp-pyflink",
+  "version": "2.1.1.1",
+  "summary": "Apache Flink Python API",
+  "author": "Apache Software Foundation",
+  "license": "https://www.apache.org/licenses/LICENSE-2.0",
+  "home_page": "https://flink.apache.org",
+  "download_filename": "cp_pyflink-2.1.1.1.tar.gz",
+  "download_time": "2025-12-10T15:17:41.723792",
+  "package_url": "https://pypi.org/project/cp-pyflink/"
+}

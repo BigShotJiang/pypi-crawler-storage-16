@@ -1,11 +1,11 @@
 {
   "name": "uaft",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Universal Automation Framework Tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uaft-0.2.0.tar.gz",
-  "download_time": "2025-12-10T14:17:02.412709",
+  "download_filename": "uaft-0.2.1.tar.gz",
+  "download_time": "2025-12-10T15:17:54.399563",
   "package_url": "https://pypi.org/project/uaft/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "spiderspt",
+  "version": "0.2.0",
+  "summary": "一个爬虫中可能使用到的各种工具集合",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spiderspt-0.2.0.tar.gz",
+  "download_time": "2025-12-10T15:17:24.923278",
+  "package_url": "https://pypi.org/project/spiderspt/"
+}

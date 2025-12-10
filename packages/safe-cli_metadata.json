@@ -1,0 +1,11 @@
+{
+  "name": "safe-cli",
+  "version": "1.9.0",
+  "summary": "Command Line Interface for Safe",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "safe_cli-1.9.0.tar.gz",
+  "download_time": "2025-12-10T15:17:14.251638",
+  "package_url": "https://pypi.org/project/safe-cli/"
+}

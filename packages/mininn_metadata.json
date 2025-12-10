@@ -1,0 +1,11 @@
+{
+  "name": "mininn",
+  "version": "1.4.0",
+  "summary": "python interface of MiniNN",
+  "author": "masteryi-0018",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mininn-1.4.0-cp313-cp313-manylinux_2_31_x86_64.whl",
+  "download_time": "2025-12-10T15:17:11.684237",
+  "package_url": "https://pypi.org/project/mininn/"
+}

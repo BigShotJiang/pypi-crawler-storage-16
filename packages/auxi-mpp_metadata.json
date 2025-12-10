@@ -1,0 +1,11 @@
+{
+  "name": "auxi-mpp",
+  "version": "2.6.0",
+  "summary": "`auxi` provides tools to help users do calculations for metallurgical process engineering. `auxi-mpp` provides tools for calculating material physical properties.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "auxi_mpp-2.6.0-py3-none-any.whl",
+  "download_time": "2025-12-10T15:17:19.544213",
+  "package_url": "https://pypi.org/project/auxi-mpp/"
+}

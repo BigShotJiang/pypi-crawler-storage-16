@@ -1,0 +1,11 @@
+{
+  "name": "fivetran-api-playground",
+  "version": "1.1.2",
+  "summary": "Fivetran API Examples to build custom connectors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fivetran_api_playground-1.1.2.tar.gz",
+  "download_time": "2025-12-10T15:17:21.724964",
+  "package_url": "https://pypi.org/project/fivetran-api-playground/"
+}

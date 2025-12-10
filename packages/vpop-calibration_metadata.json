@@ -1,11 +1,11 @@
 {
   "name": "vpop-calibration",
-  "version": "2.2.1",
+  "version": "2.2.3",
   "summary": null,
   "author": "Paul Lemarre",
   "license": null,
   "home_page": null,
-  "download_filename": "vpop_calibration-2.2.1.tar.gz",
-  "download_time": "2025-12-10T14:16:38.770261",
+  "download_filename": "vpop_calibration-2.2.3.tar.gz",
+  "download_time": "2025-12-10T15:17:40.145701",
   "package_url": "https://pypi.org/project/vpop-calibration/"
 }

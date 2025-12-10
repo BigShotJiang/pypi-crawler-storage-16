@@ -1,11 +1,11 @@
 {
   "name": "simpleautocad",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Модуль для работы с AutoCAD через COM интерфейс",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simpleautocad-0.0.6.tar.gz",
-  "download_time": "2025-12-10T14:48:08.110976",
+  "download_filename": "simpleautocad-0.0.7.tar.gz",
+  "download_time": "2025-12-10T15:17:42.236456",
   "package_url": "https://pypi.org/project/simpleautocad/"
 }

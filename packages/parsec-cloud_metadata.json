@@ -1,0 +1,11 @@
+{
+  "name": "parsec-cloud",
+  "version": "3.7.0",
+  "summary": "Secure file sharing in the cloud",
+  "author": "Scille SAS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "parsec_cloud-3.7.0-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-10T15:17:28.894640",
+  "package_url": "https://pypi.org/project/parsec-cloud/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-time-wizard",
+  "version": "4.2.1",
+  "summary": "Date and time dependend content manipulation",
+  "author": "puzzleYOU GmbH",
+  "license": null,
+  "home_page": "https://github.com/puzzleYOU/django-time-wizard",
+  "download_filename": "django_time_wizard-4.2.1.tar.gz",
+  "download_time": "2025-12-10T10:44:46.884875",
+  "package_url": "https://pypi.org/project/django-time-wizard/"
+}

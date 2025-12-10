@@ -1,0 +1,11 @@
+{
+  "name": "moat-lib-ring",
+  "version": "0.1.0",
+  "summary": "A character-based ring buffer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_lib_ring-0.1.0.tar.gz",
+  "download_time": "2025-12-10T10:45:03.905289",
+  "package_url": "https://pypi.org/project/moat-lib-ring/"
+}

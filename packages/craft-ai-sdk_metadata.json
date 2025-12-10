@@ -1,11 +1,11 @@
 {
   "name": "craft-ai-sdk",
-  "version": "0.69.0",
+  "version": "0.69.1",
   "summary": "Craft AI MLOps platform SDK",
   "author": "Craft AI",
-  "license": "Apache-2.0",
-  "home_page": "https://www.craft.ai/",
-  "download_filename": "craft_ai_sdk-0.69.0.tar.gz",
-  "download_time": "2025-12-09T14:16:15.368760",
+  "license": null,
+  "home_page": null,
+  "download_filename": "craft_ai_sdk-0.69.1.tar.gz",
+  "download_time": "2025-12-10T10:44:54.264897",
   "package_url": "https://pypi.org/project/craft-ai-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "asp-selftest",
+  "version": "0.1.6",
+  "summary": "A tool for running in-source unittests for Anwer Set Programming (ASP)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asp_selftest-0.1.6.tar.gz",
+  "download_time": "2025-12-10T10:45:34.568417",
+  "package_url": "https://pypi.org/project/asp-selftest/"
+}

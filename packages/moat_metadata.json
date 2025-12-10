@@ -1,0 +1,11 @@
+{
+  "name": "moat",
+  "version": "0.11.6",
+  "summary": "The command line for MoaT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat-0.11.6.tar.gz",
+  "download_time": "2025-12-10T10:45:11.055550",
+  "package_url": "https://pypi.org/project/moat/"
+}

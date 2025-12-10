@@ -1,0 +1,11 @@
+{
+  "name": "moat-ems-sched",
+  "version": "0.2.14",
+  "summary": "A battery scheduler",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_ems_sched-0.2.14.tar.gz",
+  "download_time": "2025-12-10T10:45:13.095369",
+  "package_url": "https://pypi.org/project/moat-ems-sched/"
+}

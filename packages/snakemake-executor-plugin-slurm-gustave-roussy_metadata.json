@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-executor-plugin-slurm-gustave-roussy",
+  "version": "0.6.1",
+  "summary": null,
+  "author": "tdayris",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snakemake_executor_plugin_slurm_gustave_roussy-0.6.1.tar.gz",
+  "download_time": "2025-12-10T10:44:55.860378",
+  "package_url": "https://pypi.org/project/snakemake-executor-plugin-slurm-gustave-roussy/"
+}

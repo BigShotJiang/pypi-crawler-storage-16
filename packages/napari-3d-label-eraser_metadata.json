@@ -1,11 +1,11 @@
 {
   "name": "napari-3d-label-eraser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Simple napari plugin to erase the current label value in 3D for an entire Labels volume.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "napari_3d_label_eraser-0.1.0.tar.gz",
-  "download_time": "2025-12-09T15:42:47.889841",
+  "download_filename": "napari_3d_label_eraser-0.1.1.tar.gz",
+  "download_time": "2025-12-10T10:45:24.077888",
   "package_url": "https://pypi.org/project/napari-3d-label-eraser/"
 }

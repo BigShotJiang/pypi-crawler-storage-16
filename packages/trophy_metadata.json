@@ -1,0 +1,11 @@
+{
+  "name": "trophy",
+  "version": "1.0.38",
+  "summary": "A Python library for the Trophy API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trophy-1.0.38.tar.gz",
+  "download_time": "2025-12-10T10:45:30.468833",
+  "package_url": "https://pypi.org/project/trophy/"
+}

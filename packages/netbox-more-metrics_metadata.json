@@ -1,0 +1,11 @@
+{
+  "name": "netbox-more-metrics",
+  "version": "0.3.3",
+  "summary": "Provide customized metrics on data stored in NetBox.",
+  "author": "Daan van Gorkum",
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_more_metrics-0.3.3.tar.gz",
+  "download_time": "2025-12-10T10:44:49.583277",
+  "package_url": "https://pypi.org/project/netbox-more-metrics/"
+}

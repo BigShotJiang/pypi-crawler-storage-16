@@ -1,0 +1,11 @@
+{
+  "name": "shopcloud-django-instrumenting",
+  "version": "1.5.0",
+  "summary": "Django tool for instrumenting",
+  "author": "Konstantin Stoldt",
+  "license": "MIT",
+  "home_page": "https://github.com/Talk-Point/shopcloud-django-instrumenting",
+  "download_filename": "shopcloud_django_instrumenting-1.5.0.tar.gz",
+  "download_time": "2025-12-10T10:44:50.606902",
+  "package_url": "https://pypi.org/project/shopcloud-django-instrumenting/"
+}

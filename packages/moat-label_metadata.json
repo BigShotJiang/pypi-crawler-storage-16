@@ -1,0 +1,11 @@
+{
+  "name": "moat-label",
+  "version": "0.2.3",
+  "summary": "MoaT support for printing labels",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_label-0.2.3.tar.gz",
+  "download_time": "2025-12-10T10:45:06.456125",
+  "package_url": "https://pypi.org/project/moat-label/"
+}

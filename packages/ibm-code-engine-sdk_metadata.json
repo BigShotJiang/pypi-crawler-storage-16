@@ -1,0 +1,11 @@
+{
+  "name": "ibm-code-engine-sdk",
+  "version": "4.21.2",
+  "summary": "Python SDK for IBM Cloud Code Engine",
+  "author": "IBM",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/IBM/code-engine-python-sdk",
+  "download_filename": "ibm_code_engine_sdk-4.21.2.tar.gz",
+  "download_time": "2025-12-10T10:44:52.722732",
+  "package_url": "https://pypi.org/project/ibm-code-engine-sdk/"
+}

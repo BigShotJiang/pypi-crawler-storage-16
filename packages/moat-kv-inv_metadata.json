@@ -1,0 +1,11 @@
+{
+  "name": "moat-kv-inv",
+  "version": "0.22.10",
+  "summary": "Inventory management for MoaT-KV",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_kv_inv-0.22.10.tar.gz",
+  "download_time": "2025-12-10T10:45:16.170985",
+  "package_url": "https://pypi.org/project/moat-kv-inv/"
+}

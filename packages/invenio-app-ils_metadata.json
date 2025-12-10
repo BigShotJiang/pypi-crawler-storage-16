@@ -1,0 +1,11 @@
+{
+  "name": "invenio-app-ils",
+  "version": "6.1.1",
+  "summary": "Invenio Integrated Library System.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-app-ils",
+  "download_filename": "invenio_app_ils-6.1.1.tar.gz",
+  "download_time": "2025-12-10T10:45:23.018777",
+  "package_url": "https://pypi.org/project/invenio-app-ils/"
+}

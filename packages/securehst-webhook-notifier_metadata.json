@@ -1,0 +1,11 @@
+{
+  "name": "securehst-webhook-notifier",
+  "version": "1.0.0",
+  "summary": "This package helps monitor automation processes with real-time updates directly in various platforms.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "securehst_webhook_notifier-1.0.0.tar.gz",
+  "download_time": "2025-12-10T22:52:44.639165",
+  "package_url": "https://pypi.org/project/securehst-webhook-notifier/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "seismic-hazard-analysis",
+  "version": "2025.12.1",
+  "summary": "Code for performing seismic hazard analysis.",
+  "author": "ucgmsim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "seismic_hazard_analysis-2025.12.1.tar.gz",
+  "download_time": "2025-12-10T22:52:32.271173",
+  "package_url": "https://pypi.org/project/seismic-hazard-analysis/"
+}

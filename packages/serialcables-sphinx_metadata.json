@@ -1,11 +1,11 @@
 {
   "name": "serialcables-sphinx",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "MCTP and NVMe-MI protocol library for Serial Cables hardware",
   "author": "Serial Cables, LLC",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "serialcables_sphinx-0.2.0.tar.gz",
-  "download_time": "2025-12-10T20:55:59.718279",
+  "download_filename": "serialcables_sphinx-0.3.0.tar.gz",
+  "download_time": "2025-12-10T22:52:16.160845",
   "package_url": "https://pypi.org/project/serialcables-sphinx/"
 }

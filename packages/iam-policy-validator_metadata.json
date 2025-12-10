@@ -1,0 +1,11 @@
+{
+  "name": "iam-policy-validator",
+  "version": "1.14.1",
+  "summary": "Validate AWS IAM policies for correctness and security using AWS Service Reference API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iam_policy_validator-1.14.1.tar.gz",
+  "download_time": "2025-12-10T22:52:35.392939",
+  "package_url": "https://pypi.org/project/iam-policy-validator/"
+}

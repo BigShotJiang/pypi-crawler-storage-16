@@ -1,11 +1,11 @@
 {
   "name": "modelaudit",
-  "version": "0.2.21",
+  "version": "0.2.22",
   "summary": "Static scanning library for detecting malicious code, backdoors, and other security risks in ML model files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "modelaudit-0.2.21.tar.gz",
-  "download_time": "2025-12-09T18:17:22.213421",
+  "download_filename": "modelaudit-0.2.22.tar.gz",
+  "download_time": "2025-12-10T22:52:45.202454",
   "package_url": "https://pypi.org/project/modelaudit/"
 }

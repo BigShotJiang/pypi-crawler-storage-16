@@ -1,0 +1,11 @@
+{
+  "name": "bids-validator-deno",
+  "version": "2.2.6",
+  "summary": "Typescript implementation of the BIDS validator",
+  "author": "bids-standard developers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bids_validator_deno-2.2.6.tar.gz",
+  "download_time": "2025-12-10T22:52:33.298045",
+  "package_url": "https://pypi.org/project/bids-validator-deno/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "docassemble.ALToolbox",
+  "version": "0.14.0",
+  "summary": "Collection of small utility functions, classes, and web components for Docassemble interviews",
+  "author": "AssemblyLine",
+  "license": null,
+  "home_page": "https://suffolklitlab.org/docassemble-AssemblyLine-documentation/docs/framework/altoolbox",
+  "download_filename": "docassemble_altoolbox-0.14.0.tar.gz",
+  "download_time": "2025-12-10T22:52:46.233647",
+  "package_url": "https://pypi.org/project/docassemble.ALToolbox/"
+}

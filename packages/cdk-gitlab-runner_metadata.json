@@ -1,11 +1,11 @@
 {
   "name": "cdk-gitlab-runner",
-  "version": "2.3.313",
+  "version": "2.3.314",
   "summary": "Use AWS CDK to create a gitlab runner, and use gitlab runner to help you execute your Gitlab pipeline job.",
   "author": "Neil Kuan<guan840912@gmail.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/neilkuan/cdk-gitlab-runner.git",
-  "download_filename": "cdk_gitlab_runner-2.3.313.tar.gz",
-  "download_time": "2025-12-09T00:59:47.317554",
+  "download_filename": "cdk_gitlab_runner-2.3.314.tar.gz",
+  "download_time": "2025-12-10T01:01:43.518439",
   "package_url": "https://pypi.org/project/cdk-gitlab-runner/"
 }

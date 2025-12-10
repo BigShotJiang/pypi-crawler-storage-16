@@ -1,11 +1,11 @@
 {
   "name": "nldcsc-elastic-rules",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nldcsc_elastic_rules-0.0.15.tar.gz",
-  "download_time": "2025-12-09T00:59:52.119078",
+  "download_filename": "nldcsc_elastic_rules-0.0.16.tar.gz",
+  "download_time": "2025-12-10T01:01:51.818502",
   "package_url": "https://pypi.org/project/nldcsc-elastic-rules/"
 }

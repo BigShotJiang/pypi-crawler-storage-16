@@ -1,0 +1,11 @@
+{
+  "name": "Geode-Numerics",
+  "version": "6.4.7",
+  "summary": "Numerical algorithm module",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "geode_numerics-6.4.7-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-12-10T01:01:46.327146",
+  "package_url": "https://pypi.org/project/Geode-Numerics/"
+}

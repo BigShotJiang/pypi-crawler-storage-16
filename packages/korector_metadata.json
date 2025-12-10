@@ -1,11 +1,11 @@
 {
   "name": "korector",
-  "version": "1.0.6",
+  "version": "1.0.6.3",
   "summary": "Korean spell checker using Naver API (Linux/macOS/Windows)",
   "author": "ovin",
   "license": null,
   "home_page": "https://github.com/movemin03/korector",
-  "download_filename": "korector-1.0.6.tar.gz",
-  "download_time": "2025-12-09T16:49:06.818557",
+  "download_filename": "korector-1.0.6.3.tar.gz",
+  "download_time": "2025-12-10T01:01:31.508045",
   "package_url": "https://pypi.org/project/korector/"
 }

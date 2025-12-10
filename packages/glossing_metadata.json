@@ -1,0 +1,11 @@
+{
+  "name": "glossing",
+  "version": "1.0.9",
+  "summary": "Python manipulation of interlinear glossed text",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glossing-1.0.9.tar.gz",
+  "download_time": "2025-12-10T01:01:50.688746",
+  "package_url": "https://pypi.org/project/glossing/"
+}

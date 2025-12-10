@@ -1,11 +1,11 @@
 {
   "name": "snorkelai-sdk",
-  "version": "25.10.5",
+  "version": "25.11.0",
   "summary": "Python SDK for the Snorkel AI Data Development Platform",
   "author": "Snorkel AI, Inc.",
   "license": null,
   "home_page": "https://docs.snorkel.ai/docs/user-guide/sdk/overview",
-  "download_filename": "snorkelai_sdk-25.10.5-py3-none-any.whl",
-  "download_time": "2025-12-09T18:17:25.421814",
+  "download_filename": "snorkelai_sdk-25.11.0-py3-none-any.whl",
+  "download_time": "2025-12-10T01:01:32.042175",
   "package_url": "https://pypi.org/project/snorkelai-sdk/"
 }

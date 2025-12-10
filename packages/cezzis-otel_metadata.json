@@ -1,0 +1,11 @@
+{
+  "name": "cezzis-otel",
+  "version": "0.0.11",
+  "summary": "cezzis-otel is a lightweight Python library for working with opentelemetry.  It simplifies otel collector and otlpexporter integration.",
+  "author": "mtnvencenzo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cezzis_otel-0.0.11.tar.gz",
+  "download_time": "2025-12-10T01:01:19.786256",
+  "package_url": "https://pypi.org/project/cezzis-otel/"
+}

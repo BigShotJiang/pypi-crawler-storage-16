@@ -1,0 +1,11 @@
+{
+  "name": "bitbucket-mcp",
+  "version": "0.4.2",
+  "summary": "MCP server for managing Bitbucket Cloud Pull Requests",
+  "author": "Acendas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bitbucket_mcp-0.4.2.tar.gz",
+  "download_time": "2025-12-10T01:01:35.005424",
+  "package_url": "https://pypi.org/project/bitbucket-mcp/"
+}

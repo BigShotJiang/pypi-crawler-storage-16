@@ -1,0 +1,11 @@
+{
+  "name": "qctrl-release-noter",
+  "version": "0.15.0",
+  "summary": "Q-CTRL Release Noter",
+  "author": "Q-CTRL",
+  "license": "Apache-2.0",
+  "home_page": "https://q-ctrl.com",
+  "download_filename": "qctrl_release_noter-0.15.0.tar.gz",
+  "download_time": "2025-12-10T01:02:00.591027",
+  "package_url": "https://pypi.org/project/qctrl-release-noter/"
+}

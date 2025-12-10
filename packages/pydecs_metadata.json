@@ -1,0 +1,11 @@
+{
+  "name": "pydecs",
+  "version": "2025.12.10",
+  "summary": "This tool enables us to analyze equilibrium concentrations of point and complex defects in crystalline solids",
+  "author": "Takafumi Ogawa",
+  "license": "Apache-2.0",
+  "home_page": "https://gitlab.com/tkog/pydecs",
+  "download_filename": "pydecs-2025.12.10.tar.gz",
+  "download_time": "2025-12-10T01:01:28.100397",
+  "package_url": "https://pypi.org/project/pydecs/"
+}

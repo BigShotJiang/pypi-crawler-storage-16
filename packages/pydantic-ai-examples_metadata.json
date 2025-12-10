@@ -1,11 +1,11 @@
 {
   "name": "pydantic-ai-examples",
-  "version": "1.28.0",
+  "version": "1.29.0",
   "summary": "Examples of how to use Pydantic AI and what it can do.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_ai_examples-1.28.0.tar.gz",
-  "download_time": "2025-12-09T00:59:32.939930",
+  "download_filename": "pydantic_ai_examples-1.29.0.tar.gz",
+  "download_time": "2025-12-10T01:01:48.470049",
   "package_url": "https://pypi.org/project/pydantic-ai-examples/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cropengine",
+  "version": "1.0.0",
+  "summary": "cropengine is a Python package that streamlines running process-based crop models by automating data preparation, simulation workflows, and result analysis.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "cropengine-1.0.0.tar.gz",
+  "download_time": "2025-12-10T01:01:30.312893",
+  "package_url": "https://pypi.org/project/cropengine/"
+}

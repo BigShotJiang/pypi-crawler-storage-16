@@ -1,0 +1,11 @@
+{
+  "name": "django-polymorphic",
+  "version": "4.3.0",
+  "summary": "Seamless polymorphic inheritance for Django models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_polymorphic-4.3.0.tar.gz",
+  "download_time": "2025-12-10T01:01:23.566236",
+  "package_url": "https://pypi.org/project/django-polymorphic/"
+}

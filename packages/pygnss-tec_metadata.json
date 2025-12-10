@@ -1,11 +1,11 @@
 {
   "name": "pygnss-tec",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A Python package for GNSS RINEX file reading and total electron content (TEC) calculation with Rust-accelerated performance.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pygnss_tec-0.3.0-cp313-cp313t-macosx_10_12_x86_64.whl",
-  "download_time": "2025-12-09T10:16:24.600138",
+  "download_filename": "pygnss_tec-0.3.1-cp313-cp313t-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-10T09:23:22.448210",
   "package_url": "https://pypi.org/project/pygnss-tec/"
 }

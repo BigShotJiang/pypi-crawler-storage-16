@@ -1,0 +1,11 @@
+{
+  "name": "ojt-task-cli",
+  "version": "0.0.7",
+  "summary": "A command-line interface for managing tasks with projects and priorities.",
+  "author": "Manthan Nimodiya",
+  "license": null,
+  "home_page": "https://github.com/ManthanNimodiya/OJT-Tasks_CLI",
+  "download_filename": "ojt_task_cli-0.0.7.tar.gz",
+  "download_time": "2025-12-10T09:22:59.819315",
+  "package_url": "https://pypi.org/project/ojt-task-cli/"
+}

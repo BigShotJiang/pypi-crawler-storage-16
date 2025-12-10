@@ -1,0 +1,11 @@
+{
+  "name": "pycutwm",
+  "version": "0.2.1",
+  "summary": "Modelling tools for package cuTWM(3+1)D",
+  "author": "Alfredo Daniel Sanchez Rossi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycutwm-0.2.1.tar.gz",
+  "download_time": "2025-12-10T09:23:09.838179",
+  "package_url": "https://pypi.org/project/pycutwm/"
+}

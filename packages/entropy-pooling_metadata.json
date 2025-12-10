@@ -1,0 +1,11 @@
+{
+  "name": "entropy-pooling",
+  "version": "1.0.9",
+  "summary": "Entropy Pooling in Python with a BSD 3-Clause license.",
+  "author": "Fortitudo Technologies",
+  "license": "BSD-3-Clause",
+  "home_page": "https://fortitudo.tech",
+  "download_filename": "entropy_pooling-1.0.9.tar.gz",
+  "download_time": "2025-12-10T09:22:43.092660",
+  "package_url": "https://pypi.org/project/entropy-pooling/"
+}

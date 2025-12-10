@@ -1,0 +1,11 @@
+{
+  "name": "project-llm-model",
+  "version": "0.7.3",
+  "summary": "LLM and VLM model",
+  "author": "qibin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "project_llm_model-0.7.3-py3-none-any.whl",
+  "download_time": "2025-12-10T09:23:00.866348",
+  "package_url": "https://pypi.org/project/project-llm-model/"
+}

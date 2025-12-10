@@ -1,0 +1,11 @@
+{
+  "name": "dcjdict",
+  "version": "0.2.0",
+  "summary": "Create/convert dataclasses from/to jsonable dict",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dcjdict-0.2.0.tar.gz",
+  "download_time": "2025-12-10T09:22:44.130154",
+  "package_url": "https://pypi.org/project/dcjdict/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aiotsmart",
+  "version": "1.0.6",
+  "summary": "Asynchronous Python client for TSmart.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiotsmart-1.0.6.tar.gz",
+  "download_time": "2025-12-10T09:23:14.658475",
+  "package_url": "https://pypi.org/project/aiotsmart/"
+}

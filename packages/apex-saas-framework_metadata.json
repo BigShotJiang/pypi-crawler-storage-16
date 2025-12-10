@@ -1,0 +1,11 @@
+{
+  "name": "apex-saas-framework",
+  "version": "0.3.21",
+  "summary": "A production-ready FastAPI boilerplate framework for building multi-tenant SaaS applications with JWT authentication, RBAC, payments, and more",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apex_saas_framework-0.3.21.tar.gz",
+  "download_time": "2025-12-10T09:23:04.533181",
+  "package_url": "https://pypi.org/project/apex-saas-framework/"
+}

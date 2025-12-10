@@ -1,0 +1,11 @@
+{
+  "name": "mxcube_video_streamer",
+  "version": "1.8.4",
+  "summary": "FastAPI Based video streamer",
+  "author": "Marcus Oskarsson",
+  "license": "MIT",
+  "home_page": "http://github.com/mxcube/video-streamer",
+  "download_filename": "mxcube_video_streamer-1.8.4.tar.gz",
+  "download_time": "2025-12-10T09:23:01.426108",
+  "package_url": "https://pypi.org/project/mxcube_video_streamer/"
+}

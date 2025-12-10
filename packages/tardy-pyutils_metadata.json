@@ -1,0 +1,11 @@
+{
+  "name": "tardy-pyutils",
+  "version": "0.1.1",
+  "summary": "Simple python utilities that I use again and again and prefer to keep in a single package",
+  "author": "rachee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tardy_pyutils-0.1.1.tar.gz",
+  "download_time": "2025-12-10T09:22:46.250550",
+  "package_url": "https://pypi.org/project/tardy-pyutils/"
+}

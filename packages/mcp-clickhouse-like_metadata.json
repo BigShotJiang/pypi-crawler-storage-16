@@ -1,0 +1,11 @@
+{
+  "name": "mcp-clickhouse-like",
+  "version": "1.0.0",
+  "summary": "An MCP server for ClickHouse.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_clickhouse_like-1.0.0.tar.gz",
+  "download_time": "2025-12-10T09:22:56.177328",
+  "package_url": "https://pypi.org/project/mcp-clickhouse-like/"
+}

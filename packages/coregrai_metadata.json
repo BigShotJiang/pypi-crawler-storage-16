@@ -1,0 +1,11 @@
+{
+  "name": "coregrai",
+  "version": "2.0.0",
+  "summary": "AI-powered study assistant for the ACR Core Exam and diagnostic radiology",
+  "author": "GRAi Team",
+  "license": null,
+  "home_page": "https://coregrai.com",
+  "download_filename": "coregrai-2.0.0.tar.gz",
+  "download_time": "2025-12-10T05:40:08.401748",
+  "package_url": "https://pypi.org/project/coregrai/"
+}

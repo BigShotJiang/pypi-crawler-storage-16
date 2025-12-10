@@ -1,0 +1,11 @@
+{
+  "name": "chromadb",
+  "version": "1.3.6",
+  "summary": "Chroma.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chromadb-1.3.6.tar.gz",
+  "download_time": "2025-12-10T05:40:26.278288",
+  "package_url": "https://pypi.org/project/chromadb/"
+}

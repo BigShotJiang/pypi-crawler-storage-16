@@ -1,0 +1,11 @@
+{
+  "name": "pyproject-setup",
+  "version": "0.1.0",
+  "summary": "CLI tool to scaffold pyproject.toml with pre-configured linting and tooling",
+  "author": "CarterPerez-dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyproject_setup-0.1.0.tar.gz",
+  "download_time": "2025-12-10T05:40:15.972897",
+  "package_url": "https://pypi.org/project/pyproject-setup/"
+}

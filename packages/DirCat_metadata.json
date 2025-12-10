@@ -1,0 +1,11 @@
+{
+  "name": "DirCat",
+  "version": "0.3.1",
+  "summary": "一个将目录结构和文件内容复制到剪切板的工具",
+  "author": "ENOCH",
+  "license": null,
+  "home_page": "https://github.com/ENOCH-lyn/DirCat",
+  "download_filename": "dircat-0.3.1.tar.gz",
+  "download_time": "2025-12-10T05:40:09.990785",
+  "package_url": "https://pypi.org/project/DirCat/"
+}

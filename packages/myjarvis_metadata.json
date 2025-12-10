@@ -1,0 +1,11 @@
+{
+  "name": "myjarvis",
+  "version": "1.0.0",
+  "summary": "一个功能强大的个人AI助手，支持语音识别、自动化控制、智能搜索等功能",
+  "author": "MyJARVIS Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/myjarvis",
+  "download_filename": "myjarvis-1.0.0.tar.gz",
+  "download_time": "2025-12-10T05:40:11.027346",
+  "package_url": "https://pypi.org/project/myjarvis/"
+}

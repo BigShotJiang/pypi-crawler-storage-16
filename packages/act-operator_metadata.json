@@ -1,0 +1,11 @@
+{
+  "name": "act-operator",
+  "version": "0.1.5",
+  "summary": "Proact0’s CLI for bootstrapping LangGraph-based “Act - AX Template” blueprints.",
+  "author": "Joongheon Park",
+  "license": null,
+  "home_page": null,
+  "download_filename": "act_operator-0.1.5.tar.gz",
+  "download_time": "2025-12-10T05:40:27.899363",
+  "package_url": "https://pypi.org/project/act-operator/"
+}

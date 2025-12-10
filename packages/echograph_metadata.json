@@ -1,11 +1,11 @@
 {
   "name": "echograph",
-  "version": "0.5.24",
+  "version": "0.5.25",
   "summary": "Context Engineering CLI for Claude Code",
   "author": "EchoGraph Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "echograph-0.5.24.tar.gz",
-  "download_time": "2025-12-10T05:15:49.645884",
+  "download_filename": "echograph-0.5.25.tar.gz",
+  "download_time": "2025-12-10T05:40:20.631644",
   "package_url": "https://pypi.org/project/echograph/"
 }

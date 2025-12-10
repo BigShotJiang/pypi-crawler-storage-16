@@ -1,0 +1,11 @@
+{
+  "name": "synthefy",
+  "version": "3.0.0",
+  "summary": "Python client for the Synthefy API forecasting service",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synthefy-3.0.0.tar.gz",
+  "download_time": "2025-12-10T05:40:18.724612",
+  "package_url": "https://pypi.org/project/synthefy/"
+}

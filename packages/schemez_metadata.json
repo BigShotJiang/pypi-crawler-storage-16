@@ -1,11 +1,11 @@
 {
   "name": "schemez",
-  "version": "2.2.7",
+  "version": "2.2.8",
   "summary": "Pydantic shim for config stuff",
   "author": "Philipp Temminghoff",
   "license": null,
   "home_page": null,
-  "download_filename": "schemez-2.2.7.tar.gz",
-  "download_time": "2025-12-10T03:00:39.064720",
+  "download_filename": "schemez-2.2.8.tar.gz",
+  "download_time": "2025-12-10T05:40:13.174083",
   "package_url": "https://pypi.org/project/schemez/"
 }

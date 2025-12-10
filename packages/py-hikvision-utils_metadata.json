@@ -1,0 +1,11 @@
+{
+  "name": "py-hikvision-utils",
+  "version": "1.0.3",
+  "summary": "郭磊开发的海康威视工具库",
+  "author": "guolei",
+  "license": "MIT",
+  "home_page": "https://gitee.com/guolei19850528/py_hikvision_utils",
+  "download_filename": "py_hikvision_utils-1.0.3-py3-none-any.whl",
+  "download_time": "2025-12-10T05:40:23.376333",
+  "package_url": "https://pypi.org/project/py-hikvision-utils/"
+}

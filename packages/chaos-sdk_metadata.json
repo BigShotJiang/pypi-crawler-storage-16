@@ -1,0 +1,11 @@
+{
+  "name": "chaos-sdk",
+  "version": "0.1.1",
+  "summary": "Enterprise-grade Python SDK for Chaos Mesh automation",
+  "author": "Chaos Mesh SDK Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "chaos_sdk-0.1.1.tar.gz",
+  "download_time": "2025-12-10T05:40:22.332142",
+  "package_url": "https://pypi.org/project/chaos-sdk/"
+}

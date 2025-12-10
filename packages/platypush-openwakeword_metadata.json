@@ -1,0 +1,11 @@
+{
+  "name": "platypush-openwakeword",
+  "version": "0.6.1",
+  "summary": "An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity",
+  "author": "David Scripka",
+  "license": null,
+  "home_page": "https://pypi.org/project/openwakeword",
+  "download_filename": "platypush_openwakeword-0.6.1.tar.gz",
+  "download_time": "2025-12-10T23:48:50.223766",
+  "package_url": "https://pypi.org/project/platypush-openwakeword/"
+}

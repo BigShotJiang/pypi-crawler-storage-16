@@ -1,0 +1,11 @@
+{
+  "name": "oldout",
+  "version": "1.0.0",
+  "summary": "Get the output from previous shell commands, if you use tmux",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oldout-1.0.0.tar.gz",
+  "download_time": "2025-12-10T23:48:49.703217",
+  "package_url": "https://pypi.org/project/oldout/"
+}

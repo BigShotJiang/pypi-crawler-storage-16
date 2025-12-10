@@ -1,0 +1,11 @@
+{
+  "name": "pympdata-mpi",
+  "version": "1.7.0",
+  "summary": "PyMPDATA + numba-mpi coupler sandbox",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "pympdata_mpi-1.7.0.tar.gz",
+  "download_time": "2025-12-10T23:48:44.886843",
+  "package_url": "https://pypi.org/project/pympdata-mpi/"
+}

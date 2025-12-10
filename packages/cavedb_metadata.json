@@ -1,0 +1,11 @@
+{
+  "name": "cavedb",
+  "version": "1.0.2",
+  "summary": "Async JSONL-based database with ORM bindings to Python dataclasses",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cavedb-1.0.2.tar.gz",
+  "download_time": "2025-12-10T23:48:42.179942",
+  "package_url": "https://pypi.org/project/cavedb/"
+}

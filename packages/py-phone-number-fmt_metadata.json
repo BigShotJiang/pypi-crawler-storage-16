@@ -1,0 +1,11 @@
+{
+  "name": "py-phone-number-fmt",
+  "version": "2.0.3",
+  "summary": "Sanitize, validate and format phone numbers into E.164 valid phone numbers.",
+  "author": "Sector Labs",
+  "license": "MIT License",
+  "home_page": "https://github.com/SectorLabs/py-phone-number-fmt",
+  "download_filename": "py_phone_number_fmt-2.0.3.tar.gz",
+  "download_time": "2025-12-10T09:55:26.636529",
+  "package_url": "https://pypi.org/project/py-phone-number-fmt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-npm-mjs",
+  "version": "3.3.0",
+  "summary": "A Django package to use npm.js dependencies and transpile ES2015+",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_npm_mjs-3.3.0.tar.gz",
+  "download_time": "2025-12-10T09:55:11.419161",
+  "package_url": "https://pypi.org/project/django-npm-mjs/"
+}

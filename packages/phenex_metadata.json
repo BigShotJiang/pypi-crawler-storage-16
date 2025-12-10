@@ -1,0 +1,11 @@
+{
+  "name": "phenex",
+  "version": "0.7.7",
+  "summary": "PhenEx is a Python package for analysis-ready datasets from real-world data",
+  "author": "Bayer AG",
+  "license": null,
+  "home_page": "https://github.com/Bayer-Group/PhenEx",
+  "download_filename": "phenex-0.7.7.tar.gz",
+  "download_time": "2025-12-10T09:55:32.927478",
+  "package_url": "https://pypi.org/project/phenex/"
+}

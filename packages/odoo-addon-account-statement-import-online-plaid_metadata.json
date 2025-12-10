@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-statement-import-online-plaid",
+  "version": "17.0.1.0.0.3",
+  "summary": "Online Bank Statements: plaid.com",
+  "author": "Binhex, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/bank-statement-import",
+  "download_filename": "odoo_addon_account_statement_import_online_plaid-17.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-10T03:00:31.209774",
+  "package_url": "https://pypi.org/project/odoo-addon-account-statement-import-online-plaid/"
+}

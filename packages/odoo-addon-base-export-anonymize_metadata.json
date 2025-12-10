@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base-export-anonymize",
+  "version": "18.0.1.0.0.4",
+  "summary": "Anonymize certain fields for a group of users when exporting them directly or via relational fields.",
+  "author": "ACSONE SA/NV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/data-protection",
+  "download_filename": "odoo_addon_base_export_anonymize-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-12-10T03:00:20.535621",
+  "package_url": "https://pypi.org/project/odoo-addon-base-export-anonymize/"
+}

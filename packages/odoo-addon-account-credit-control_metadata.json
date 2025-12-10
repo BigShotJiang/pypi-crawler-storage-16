@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-credit-control",
+  "version": "18.0.2.0.1.1",
+  "summary": "Account Credit Control",
+  "author": "Camptocamp,Odoo Community Association (OCA),Okia,Access Bookings,Tecnativa,ACSONE SA/NV",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/credit-control",
+  "download_filename": "odoo_addon_account_credit_control-18.0.2.0.1.1-py3-none-any.whl",
+  "download_time": "2025-12-10T03:00:23.725048",
+  "package_url": "https://pypi.org/project/odoo-addon-account-credit-control/"
+}

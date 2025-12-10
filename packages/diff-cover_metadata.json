@@ -1,0 +1,11 @@
+{
+  "name": "diff-cover",
+  "version": "10.0.0",
+  "summary": "Run coverage and linting reports on diffs",
+  "author": "See Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "diff_cover-10.0.0.tar.gz",
+  "download_time": "2025-12-10T03:00:23.204639",
+  "package_url": "https://pypi.org/project/diff-cover/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "debmake-dash-docset-generator",
+  "version": "2025.12.9",
+  "summary": "Dash docset generator for debmake",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "debmake_dash_docset_generator-2025.12.9.tar.gz",
+  "download_time": "2025-12-10T03:00:08.786198",
+  "package_url": "https://pypi.org/project/debmake-dash-docset-generator/"
+}

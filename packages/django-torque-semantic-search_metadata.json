@@ -1,0 +1,11 @@
+{
+  "name": "django-torque-semantic-search",
+  "version": "0.3.1",
+  "summary": "django app for torque semantic search",
+  "author": "Open Tech Strategies, LLC",
+  "license": null,
+  "home_page": "https://code.librehq.com/ots/mediawiki/semantic-search",
+  "download_filename": "django_torque_semantic_search-0.3.1.tar.gz",
+  "download_time": "2025-12-10T03:00:16.896813",
+  "package_url": "https://pypi.org/project/django-torque-semantic-search/"
+}

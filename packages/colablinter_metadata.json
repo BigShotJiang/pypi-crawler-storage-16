@@ -1,11 +1,11 @@
 {
   "name": "colablinter",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "summary": "Linting and formatting Python code in Google Colab.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "colablinter-0.0.3.tar.gz",
-  "download_time": "2025-12-09T09:17:06.376007",
+  "download_filename": "colablinter-0.0.6.tar.gz",
+  "download_time": "2025-12-10T03:00:21.105569",
   "package_url": "https://pypi.org/project/colablinter/"
 }

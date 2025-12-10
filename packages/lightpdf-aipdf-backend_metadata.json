@@ -1,0 +1,11 @@
+{
+  "name": "lightpdf-aipdf-backend",
+  "version": "0.1.73",
+  "summary": "Backend API for LightPDF AI-PDF",
+  "author": "LightPDF Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "lightpdf_aipdf_backend-0.1.73-py3-none-any.whl",
+  "download_time": "2025-12-10T03:00:25.314506",
+  "package_url": "https://pypi.org/project/lightpdf-aipdf-backend/"
+}

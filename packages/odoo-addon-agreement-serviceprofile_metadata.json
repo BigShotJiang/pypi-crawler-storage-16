@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-agreement-serviceprofile",
+  "version": "18.0.1.0.0.3",
+  "summary": "Adds an Agreement Service Profile object",
+  "author": "Pavlov Media, Open Source Integrators, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/agreement",
+  "download_filename": "odoo_addon_agreement_serviceprofile-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-10T03:00:36.959077",
+  "package_url": "https://pypi.org/project/odoo-addon-agreement-serviceprofile/"
+}

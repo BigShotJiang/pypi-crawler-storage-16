@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base-business-document-import",
+  "version": "18.0.2.0.0.2",
+  "summary": "Provides technical tools to import sale orders or supplier invoices",
+  "author": "Akretion, Nicolas JEUDY, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/edi",
+  "download_filename": "odoo_addon_base_business_document_import-18.0.2.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-10T03:00:07.759052",
+  "package_url": "https://pypi.org/project/odoo-addon-base-business-document-import/"
+}

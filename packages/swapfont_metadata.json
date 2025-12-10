@@ -1,11 +1,11 @@
 {
   "name": "swapfont",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A tool for font replacement in PDFs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "swapfont-0.1.1.tar.gz",
-  "download_time": "2025-12-10T16:19:53.400079",
+  "download_filename": "swapfont-0.1.2.tar.gz",
+  "download_time": "2025-12-10T16:50:27.836044",
   "package_url": "https://pypi.org/project/swapfont/"
 }

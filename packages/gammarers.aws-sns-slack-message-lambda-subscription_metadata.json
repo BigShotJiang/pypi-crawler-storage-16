@@ -1,0 +1,11 @@
+{
+  "name": "gammarers.aws-sns-slack-message-lambda-subscription",
+  "version": "1.0.22",
+  "summary": "This AWS CDK Construct is designed to post messages sent from an SNS topic to a Slack Webhook via a Lambda function.",
+  "author": "yicr<yicr@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/gammarers/aws-sns-slack-message-lambda-subscription.git",
+  "download_filename": "gammarers_aws_sns_slack_message_lambda_subscription-1.0.22.tar.gz",
+  "download_time": "2025-12-10T16:50:40.543397",
+  "package_url": "https://pypi.org/project/gammarers.aws-sns-slack-message-lambda-subscription/"
+}

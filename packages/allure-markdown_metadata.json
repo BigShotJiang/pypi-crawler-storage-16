@@ -1,0 +1,11 @@
+{
+  "name": "allure-markdown",
+  "version": "0.1.0",
+  "summary": "Convert Allure metadata to Markdown reports",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "allure_markdown-0.1.0.tar.gz",
+  "download_time": "2025-12-10T16:50:43.670497",
+  "package_url": "https://pypi.org/project/allure-markdown/"
+}

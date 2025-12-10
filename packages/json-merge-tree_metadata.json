@@ -1,0 +1,11 @@
+{
+  "name": "json-merge-tree",
+  "version": "0.8.0",
+  "summary": "JSON Merge Tree (built on top of json-multi-merge) merges JSON objects in a hierarchy, allowing customization of how objects are merged.",
+  "author": "Marcy Buccellato",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "json_merge_tree-0.8.0.tar.gz",
+  "download_time": "2025-12-10T16:50:38.431653",
+  "package_url": "https://pypi.org/project/json-merge-tree/"
+}

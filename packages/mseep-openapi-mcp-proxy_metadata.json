@@ -1,0 +1,11 @@
+{
+  "name": "mseep-openapi-mcp-proxy",
+  "version": "0.1.0",
+  "summary": "MCP Server for OpenAPI Schema Exploration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_openapi_mcp_proxy-0.1.0.tar.gz",
+  "download_time": "2025-12-10T16:50:39.484391",
+  "package_url": "https://pypi.org/project/mseep-openapi-mcp-proxy/"
+}

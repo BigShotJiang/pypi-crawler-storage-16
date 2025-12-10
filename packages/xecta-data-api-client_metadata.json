@@ -1,11 +1,11 @@
 {
   "name": "xecta-data-api-client",
-  "version": "2.0.20251210.1",
+  "version": "2.0.20251210.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xecta_data_api_client-2.0.20251210.1-py2.py3-none-any.whl",
-  "download_time": "2025-12-10T16:20:03.549370",
+  "download_filename": "xecta_data_api_client-2.0.20251210.2-py2.py3-none-any.whl",
+  "download_time": "2025-12-10T16:51:00.473462",
   "package_url": "https://pypi.org/project/xecta-data-api-client/"
 }

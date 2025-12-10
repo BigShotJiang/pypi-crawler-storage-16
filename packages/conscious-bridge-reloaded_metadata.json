@@ -1,0 +1,11 @@
+{
+  "name": "conscious-bridge-reloaded",
+  "version": "2.0.0",
+  "summary": "Mobile AI Consciousness System for Android/Termux",
+  "author": "Conscious Bridge Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Conscious-Bridge-Law/conscious-bridge-reloaded",
+  "download_filename": "conscious_bridge_reloaded-2.0.0.tar.gz",
+  "download_time": "2025-12-10T16:50:14.652087",
+  "package_url": "https://pypi.org/project/conscious-bridge-reloaded/"
+}

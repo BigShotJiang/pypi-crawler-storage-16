@@ -1,0 +1,11 @@
+{
+  "name": "dissec",
+  "version": "1.2",
+  "summary": "Dissect pattern implementation for ElasticSearch",
+  "author": "Thomas Touhey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dissec-1.2.tar.gz",
+  "download_time": "2025-12-10T16:50:41.586051",
+  "package_url": "https://pypi.org/project/dissec/"
+}

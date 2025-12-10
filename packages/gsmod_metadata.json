@@ -1,0 +1,11 @@
+{
+  "name": "gsmod",
+  "version": "0.1.7",
+  "summary": "Ultra-fast CPU processing for 3D Gaussian Splatting (color, transform, filter, opacity)",
+  "author": "OpsiClear",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gsmod-0.1.7.tar.gz",
+  "download_time": "2025-12-10T16:50:28.358248",
+  "package_url": "https://pypi.org/project/gsmod/"
+}

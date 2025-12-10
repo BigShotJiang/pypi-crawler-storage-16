@@ -1,0 +1,11 @@
+{
+  "name": "babygrad3",
+  "version": "3.1.0",
+  "summary": "A dynamic library for competitive programming with tree and graph algorithms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "babygrad3-3.1.0.tar.gz",
+  "download_time": "2025-12-10T16:50:19.901272",
+  "package_url": "https://pypi.org/project/babygrad3/"
+}

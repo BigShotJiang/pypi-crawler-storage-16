@@ -1,0 +1,11 @@
+{
+  "name": "mseep-ragex-mcp",
+  "version": "0.3.0",
+  "summary": "MCP server for code search using ripgrep",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_ragex_mcp-0.3.0.tar.gz",
+  "download_time": "2025-12-10T16:50:21.998403",
+  "package_url": "https://pypi.org/project/mseep-ragex-mcp/"
+}

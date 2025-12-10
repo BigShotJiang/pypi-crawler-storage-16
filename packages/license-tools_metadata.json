@@ -1,0 +1,11 @@
+{
+  "name": "license-tools",
+  "version": "0.18.0",
+  "summary": "Collection of tools for working with Open Source licenses",
+  "author": "stefan6419846",
+  "license": null,
+  "home_page": null,
+  "download_filename": "license_tools-0.18.0.tar.gz",
+  "download_time": "2025-12-10T16:50:54.207558",
+  "package_url": "https://pypi.org/project/license-tools/"
+}

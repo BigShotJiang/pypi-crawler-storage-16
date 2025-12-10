@@ -1,0 +1,11 @@
+{
+  "name": "pyedpro",
+  "version": "3.8.0",
+  "summary": "High power editor in python.",
+  "author": "Peter Glen",
+  "license": null,
+  "home_page": "https://github.com/pglen/pyedpro",
+  "download_filename": "pyedpro-3.8.0.tar.gz",
+  "download_time": "2025-12-10T16:50:36.346459",
+  "package_url": "https://pypi.org/project/pyedpro/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "compute-wer",
+  "version": "0.2.2",
+  "summary": "Compute WER",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "compute_wer-0.2.2.tar.gz",
+  "download_time": "2025-12-10T15:44:36.583275",
+  "package_url": "https://pypi.org/project/compute-wer/"
+}

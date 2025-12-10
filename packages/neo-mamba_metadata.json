@@ -1,0 +1,11 @@
+{
+  "name": "neo-mamba",
+  "version": "3.2.0",
+  "summary": "Python SDK for the NEO 3 blockchain",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neo_mamba-3.2.0.tar.gz",
+  "download_time": "2025-12-10T15:44:47.072032",
+  "package_url": "https://pypi.org/project/neo-mamba/"
+}

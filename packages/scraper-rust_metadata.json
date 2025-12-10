@@ -1,11 +1,11 @@
 {
   "name": "scraper-rust",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": "Python bindings around rust-scraper/scraper with PyO3",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scraper_rust-0.2.13.tar.gz",
-  "download_time": "2025-12-10T15:17:49.293218",
+  "download_filename": "scraper_rust-0.2.14.tar.gz",
+  "download_time": "2025-12-10T15:44:42.382107",
   "package_url": "https://pypi.org/project/scraper-rust/"
 }

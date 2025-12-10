@@ -1,0 +1,11 @@
+{
+  "name": "c302",
+  "version": "0.11.0",
+  "summary": "c302 is a framework for generating models of the worm C. elegans",
+  "author": "Padraig Gleeson and OpenWorm contributors",
+  "license": "MIT",
+  "home_page": "http://github.com/openworm/c302",
+  "download_filename": "c302-0.11.0.tar.gz",
+  "download_time": "2025-12-10T15:44:23.406930",
+  "package_url": "https://pypi.org/project/c302/"
+}

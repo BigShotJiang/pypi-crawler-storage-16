@@ -1,0 +1,11 @@
+{
+  "name": "smudgeplot",
+  "version": "0.5.3",
+  "summary": "Inference of ploidy and heterozygosity structure using whole genome sequencing data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smudgeplot-0.5.3.tar.gz",
+  "download_time": "2025-12-10T15:44:27.570427",
+  "package_url": "https://pypi.org/project/smudgeplot/"
+}

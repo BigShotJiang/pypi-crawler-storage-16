@@ -1,11 +1,11 @@
 {
   "name": "miRW",
-  "version": "0.1.0",
-  "summary": "miRNA sequence utilities and analysis tools.",
+  "version": "0.2.1",
+  "summary": "miRW: A Multi-Omics Random Walk Framework for Sample-Independent Construction of Personalized Protein Interaction Networks in Cancer",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mirw-0.1.0.tar.gz",
-  "download_time": "2025-12-10T22:18:48.408065",
+  "download_filename": "mirw-0.2.1.tar.gz",
+  "download_time": "2025-12-10T22:49:05.118206",
   "package_url": "https://pypi.org/project/miRW/"
 }

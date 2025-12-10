@@ -1,0 +1,11 @@
+{
+  "name": "dbt-chequer",
+  "version": "0.1.0",
+  "summary": "Setup wizard for dbt quality checks - configure SQLFluff, dbt-bouncer, and pre-commit hooks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_chequer-0.1.0.tar.gz",
+  "download_time": "2025-12-10T22:49:05.708239",
+  "package_url": "https://pypi.org/project/dbt-chequer/"
+}

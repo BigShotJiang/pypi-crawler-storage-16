@@ -1,0 +1,11 @@
+{
+  "name": "fetchx",
+  "version": "1.0.14",
+  "summary": "fetchx library and its two main functions \"call\" and \"fetch\" are designed to allow users to rapidly scrape/automate web applications.",
+  "author": "Jaromir Sivic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fetchx-1.0.14.tar.gz",
+  "download_time": "2025-12-10T22:49:01.467538",
+  "package_url": "https://pypi.org/project/fetchx/"
+}

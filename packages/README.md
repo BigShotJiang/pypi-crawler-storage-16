@@ -1,11 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-10T22:19:04.238106
-- **Total Packages**: 74
-- **Total Size**: 28.38 MB
+- **Download Time**: 2025-12-10T22:49:41.107775
+- **Total Packages**: 73
+- **Total Size**: 6.63 MB
 
 ## Packages List
+- mphapi
+- oskaragent
+- telebot-constructor
+- massql
+- xnoxs-dork
+- cdktf-cdktf-provider-null
+- fetchx
+- hansel-ai
+- biblemategui
+- cdktf-cdktf-provider-boundary
+- nexaroa
+- streamware
+- miRW
+- dbt-chequer
+- pdflinkcheck
+- sleipnirgroup-jormungandr
+- vellum-workflow-server
+- stactools-met-office-deterministic
+- lerobox
+- jl-ecms-server
+- jl-ecms-client
+- agentready
+- openhands-agent-server
+- openhands-tools
+- openhands-sdk
+- openhands-workspace
 - svg-ultralight
 - pgmap
 - fid-mcp
@@ -16,7 +42,6 @@
 - oq-wrapper
 - rox-python
 - cdktf-cdktf-provider-http
-- nexaroa
 - traceml-ai
 - tgzr.shell_apps.manager_panel
 - athm
@@ -28,13 +53,10 @@
 - baltra-sdk
 - ras-commander
 - tgzr.cli
-- hansel-ai
 - vellum-ai
 - regula-documentreader-webclient
 - vorbote
-- jl-ecms-server
 - latform
-- jl-ecms-client
 - render-python
 - anndata-seurat-utilities
 - iconfig-py
@@ -48,9 +70,7 @@
 - avrae-ls
 - chat2edit
 - odoo-addon-account-invoice-check-total
-- pdflinkcheck
 - cdktf-cdktf-provider-random
-- miRW
 - valkey-glide-sync
 - llm-metrics-lite
 - agentschema
@@ -59,24 +79,3 @@
 - safeexecute
 - flet-charts
 - policyengine
-- reach_commons
-- cjm-fasthtml-workflow-transcription-single-file
-- py-mon
-- anyt
-- statsig-python-core
-- claude-mpm
-- fprime-bootstrap
-- beast2-xml
-- karaoke-gen
-- echomine
-- stistools
-- chbe444umd
-- ipyslides
-- cdktf-cdktf-provider-nomad
-- oskaragent
-- pyangbind
-- cdktf-cdktf-provider-tfe
-- agentready
-- ez-constructs
-- neoncontract-gen
-- judo-framework

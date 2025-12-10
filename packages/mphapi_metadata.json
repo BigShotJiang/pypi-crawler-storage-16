@@ -1,0 +1,11 @@
+{
+  "name": "mphapi",
+  "version": "1.12.1",
+  "summary": "A Python interface to the MyPriceHealth API",
+  "author": "David Archibald",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mphapi-1.12.1.tar.gz",
+  "download_time": "2025-12-10T22:48:57.720032",
+  "package_url": "https://pypi.org/project/mphapi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hansel-ai",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Autonomous Terminal AI Bridge - Watches Claude CLI, detects questions, consults AI advisor, and auto-responds",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hansel_ai-0.1.5.tar.gz",
-  "download_time": "2025-12-10T22:18:36.999949",
+  "download_filename": "hansel_ai-0.1.7.tar.gz",
+  "download_time": "2025-12-10T22:49:02.086592",
   "package_url": "https://pypi.org/project/hansel-ai/"
 }

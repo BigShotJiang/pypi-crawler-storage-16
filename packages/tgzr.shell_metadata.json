@@ -1,11 +1,11 @@
 {
   "name": "tgzr.shell",
-  "version": "0.1",
+  "version": "0.1.1",
   "summary": "tgzr command line interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tgzr_shell-0.1.tar.gz",
-  "download_time": "2025-12-10T22:18:33.778532",
+  "download_filename": "tgzr_shell-0.1.1.tar.gz",
+  "download_time": "2025-12-10T22:49:22.306456",
   "package_url": "https://pypi.org/project/tgzr.shell/"
 }

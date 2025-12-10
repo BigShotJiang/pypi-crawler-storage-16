@@ -1,0 +1,11 @@
+{
+  "name": "kotogram",
+  "version": "0.0.3",
+  "summary": "A dual Python/TypeScript library for Japanese text parsing and encoding using kotogram format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kotogram-0.0.3.tar.gz",
+  "download_time": "2025-12-10T16:19:42.015742",
+  "package_url": "https://pypi.org/project/kotogram/"
+}

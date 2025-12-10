@@ -1,0 +1,11 @@
+{
+  "name": "impresso",
+  "version": "0.9.14",
+  "summary": "A Library to interact with the Impresso API",
+  "author": "Daniele Guido",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://github.com/impresso/impresso-py",
+  "download_filename": "impresso-0.9.14.tar.gz",
+  "download_time": "2025-12-10T16:20:11.793567",
+  "package_url": "https://pypi.org/project/impresso/"
+}

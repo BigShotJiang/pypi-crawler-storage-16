@@ -1,11 +1,11 @@
 {
   "name": "PyAutomationIO",
-  "version": "1.1.3",
-  "summary": "A python library to develop automation continuous tasks using sync or async concurrent threads",
+  "version": "1.1.5",
+  "summary": "A python framework to develop automation industrial processes applications and Artificial Intelligence applications for the industrial field",
   "author": "KnowAI",
   "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
   "home_page": "https://github.com/know-ai/PyAutomation",
-  "download_filename": "pyautomationio-1.1.3.tar.gz",
-  "download_time": "2025-12-09T15:42:59.434883",
+  "download_filename": "pyautomationio-1.1.5.tar.gz",
+  "download_time": "2025-12-10T16:19:46.971664",
   "package_url": "https://pypi.org/project/PyAutomationIO/"
 }

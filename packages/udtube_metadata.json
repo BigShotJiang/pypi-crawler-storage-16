@@ -1,0 +1,11 @@
+{
+  "name": "udtube",
+  "version": "0.1.6",
+  "summary": "Neural morphological analysis",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "udtube-0.1.6.tar.gz",
+  "download_time": "2025-12-10T16:19:55.006877",
+  "package_url": "https://pypi.org/project/udtube/"
+}

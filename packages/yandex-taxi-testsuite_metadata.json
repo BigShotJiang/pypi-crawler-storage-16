@@ -1,0 +1,11 @@
+{
+  "name": "yandex-taxi-testsuite",
+  "version": "0.4.0",
+  "summary": "Yandex.Taxi Testsuite Package",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/yandex/yandex-taxi-testsuite",
+  "download_filename": "yandex_taxi_testsuite-0.4.0.tar.gz",
+  "download_time": "2025-12-10T16:20:08.521987",
+  "package_url": "https://pypi.org/project/yandex-taxi-testsuite/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "picsellia-connexion-services",
+  "version": "0.3.0",
+  "summary": "Package for connection to Picsellia platforms with some wrapper around requests library",
+  "author": "Thomas Darget",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "picsellia_connexion_services-0.3.0.tar.gz",
+  "download_time": "2025-12-10T16:20:28.346633",
+  "package_url": "https://pypi.org/project/picsellia-connexion-services/"
+}

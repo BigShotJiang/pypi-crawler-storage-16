@@ -1,0 +1,11 @@
+{
+  "name": "roms-tools",
+  "version": "3.3.0",
+  "summary": "Tools for running and analysing UCLA-ROMS simulations",
+  "author": null,
+  "license": "Apache-2",
+  "home_page": null,
+  "download_filename": "roms_tools-3.3.0-py3-none-any.whl",
+  "download_time": "2025-12-10T16:20:01.391520",
+  "package_url": "https://pypi.org/project/roms-tools/"
+}

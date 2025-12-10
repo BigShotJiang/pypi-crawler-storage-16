@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-br-coa",
+  "version": "14.0.4.2.0",
+  "summary": "Base do Planos de Contas brasileiros",
+  "author": "Akretion, KMEE, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo14_addon_l10n_br_coa-14.0.4.2.0-py3-none-any.whl",
+  "download_time": "2025-12-10T16:20:07.999282",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-br-coa/"
+}

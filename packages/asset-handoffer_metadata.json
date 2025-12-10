@@ -1,11 +1,11 @@
 {
   "name": "asset-handoffer",
-  "version": "0.11.1",
+  "version": "0.12.2",
   "summary": "资产交付器",
   "author": "Refactor",
   "license": "MIT",
   "home_page": "https://github.com/HeBtcd/asset-handoffer",
-  "download_filename": "asset_handoffer-0.11.1.tar.gz",
-  "download_time": "2025-12-08T18:47:12.353301",
+  "download_filename": "asset_handoffer-0.12.2.tar.gz",
+  "download_time": "2025-12-10T16:20:27.282961",
   "package_url": "https://pypi.org/project/asset-handoffer/"
 }

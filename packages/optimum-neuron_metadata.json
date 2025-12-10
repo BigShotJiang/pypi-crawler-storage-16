@@ -1,0 +1,11 @@
+{
+  "name": "optimum-neuron",
+  "version": "0.4.3",
+  "summary": "Optimum Neuron serves as the bridge between Hugging Face libraries, such as Transformers, Diffusers, and PEFT, and AWS Trainium and Inferentia accelerators. It provides a set of tools enabling easy model loading, training, and inference on both single and multiple Neuron core configurations, across a wide range of downstream tasks.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "optimum_neuron-0.4.3.tar.gz",
+  "download_time": "2025-12-10T16:19:36.029265",
+  "package_url": "https://pypi.org/project/optimum-neuron/"
+}

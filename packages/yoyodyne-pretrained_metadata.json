@@ -1,0 +1,11 @@
+{
+  "name": "yoyodyne-pretrained",
+  "version": "0.1.7",
+  "summary": "Small-vocabulary transformer sequence-to-sequence models with warm starts",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "yoyodyne_pretrained-0.1.7.tar.gz",
+  "download_time": "2025-12-10T16:19:37.654903",
+  "package_url": "https://pypi.org/project/yoyodyne-pretrained/"
+}

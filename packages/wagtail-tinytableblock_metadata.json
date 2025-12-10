@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-tinytableblock",
+  "version": "0.4.0",
+  "summary": "A Wagtail StreamField block powered by TinyMCE and its table plugin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wagtail_tinytableblock-0.4.0.tar.gz",
+  "download_time": "2025-12-10T16:19:52.877522",
+  "package_url": "https://pypi.org/project/wagtail-tinytableblock/"
+}

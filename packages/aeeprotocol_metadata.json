@@ -1,0 +1,11 @@
+{
+  "name": "aeeprotocol",
+  "version": "8.0.0b2",
+  "summary": "Vector traceability with legal certification for AI embeddings",
+  "author": "Franco Luciano Carricondo",
+  "license": null,
+  "home_page": "https://github.com/ProtocoloAEE/aee-protocol",
+  "download_filename": "aeeprotocol-8.0.0b2.tar.gz",
+  "download_time": "2025-12-10T07:41:48.511520",
+  "package_url": "https://pypi.org/project/aeeprotocol/"
+}

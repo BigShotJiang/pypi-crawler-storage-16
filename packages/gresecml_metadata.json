@@ -1,11 +1,11 @@
 {
   "name": "gresecml",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "A small CLI security toolkit",
   "author": "Mathias Greisen",
   "license": null,
   "home_page": null,
-  "download_filename": "gresecml-0.3.6.tar.gz",
-  "download_time": "2025-12-09T14:16:14.790179",
+  "download_filename": "gresecml-0.3.7.tar.gz",
+  "download_time": "2025-12-10T07:42:31.196101",
   "package_url": "https://pypi.org/project/gresecml/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "actuneo",
+  "version": "0.1.1",
+  "summary": "African Actuarial Python Library for insurance, pensions, and investment analytics",
+  "author": "Shannon Tafadzwa Sikadi",
+  "license": "MIT",
+  "home_page": "https://github.com/ShannonT20/ACTUNEO",
+  "download_filename": "actuneo-0.1.1.tar.gz",
+  "download_time": "2025-12-10T07:42:03.234809",
+  "package_url": "https://pypi.org/project/actuneo/"
+}

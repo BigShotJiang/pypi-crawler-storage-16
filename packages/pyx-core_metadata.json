@@ -1,0 +1,11 @@
+{
+  "name": "pyx-core",
+  "version": "1.28.2",
+  "summary": "All core functionalities for using PyXMake as a build system",
+  "author": "Garbade, Marc",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyx_core-1.28.2.tar.gz",
+  "download_time": "2025-12-10T07:41:53.808249",
+  "package_url": "https://pypi.org/project/pyx-core/"
+}

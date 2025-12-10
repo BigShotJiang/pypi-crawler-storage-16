@@ -1,0 +1,11 @@
+{
+  "name": "aiobotocore",
+  "version": "3.0.0",
+  "summary": "Async client for aws services using botocore and aiohttp",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiobotocore-3.0.0.tar.gz",
+  "download_time": "2025-12-10T07:41:54.854907",
+  "package_url": "https://pypi.org/project/aiobotocore/"
+}

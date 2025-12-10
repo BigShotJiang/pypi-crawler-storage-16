@@ -1,0 +1,11 @@
+{
+  "name": "countriesdb-validator",
+  "version": "1.0.0",
+  "summary": "Backend validation package for CountriesDB - server-side validation for country and subdivision codes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "countriesdb_validator-1.0.0.tar.gz",
+  "download_time": "2025-12-10T07:42:14.910776",
+  "package_url": "https://pypi.org/project/countriesdb-validator/"
+}

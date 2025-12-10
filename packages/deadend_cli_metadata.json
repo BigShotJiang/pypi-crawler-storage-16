@@ -1,0 +1,11 @@
+{
+  "name": "deadend_cli",
+  "version": "0.0.14",
+  "summary": "AI agent CLI for security research",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deadend_cli-0.0.14-py3-none-any.whl",
+  "download_time": "2025-12-10T07:41:51.635984",
+  "package_url": "https://pypi.org/project/deadend_cli/"
+}

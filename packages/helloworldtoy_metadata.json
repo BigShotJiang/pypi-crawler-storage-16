@@ -1,0 +1,11 @@
+{
+  "name": "helloworldtoy",
+  "version": "0.1.0",
+  "summary": "A tiny toy example package",
+  "author": null,
+  "license": "MIT License\n        Copyright (c) 2025 Your Name\n        Permission is hereby granted...\n        \n        ",
+  "home_page": null,
+  "download_filename": "helloworldtoy-0.1.0.tar.gz",
+  "download_time": "2025-12-10T07:42:21.227713",
+  "package_url": "https://pypi.org/project/helloworldtoy/"
+}

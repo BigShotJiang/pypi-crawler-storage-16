@@ -1,0 +1,11 @@
+{
+  "name": "dabcli",
+  "version": "2.1.6",
+  "summary": "DAB CLI — A command-line interface for browsing and downloading music from DAB Music Player.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dabcli-2.1.6.tar.gz",
+  "download_time": "2025-12-10T07:42:06.906007",
+  "package_url": "https://pypi.org/project/dabcli/"
+}

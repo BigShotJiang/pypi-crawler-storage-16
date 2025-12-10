@@ -1,11 +1,11 @@
 {
   "name": "code-similarity-engine",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": null,
   "author": "Jonathan Louis",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "code_similarity_engine-0.2.5.tar.gz",
-  "download_time": "2025-12-10T09:44:42.529153",
+  "download_filename": "code_similarity_engine-0.2.6.tar.gz",
+  "download_time": "2025-12-10T11:49:51.057962",
   "package_url": "https://pypi.org/project/code-similarity-engine/"
 }

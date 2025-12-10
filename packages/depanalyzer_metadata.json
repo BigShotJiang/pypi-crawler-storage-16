@@ -1,0 +1,11 @@
+{
+  "name": "depanalyzer",
+  "version": "0.1.13",
+  "summary": "Dependency analyzer tool",
+  "author": "Zihao",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "depanalyzer-0.1.13.tar.gz",
+  "download_time": "2025-12-10T11:50:07.819712",
+  "package_url": "https://pypi.org/project/depanalyzer/"
+}

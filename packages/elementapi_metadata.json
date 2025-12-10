@@ -1,0 +1,11 @@
+{
+  "name": "elementapi",
+  "version": "0.7",
+  "summary": "element-iot api client lib",
+  "author": "Stefan Reiser",
+  "license": null,
+  "home_page": "https://github.com/ZennerIoT/python-elementapi",
+  "download_filename": "elementapi-0.7.tar.gz",
+  "download_time": "2025-12-10T11:49:48.468956",
+  "package_url": "https://pypi.org/project/elementapi/"
+}

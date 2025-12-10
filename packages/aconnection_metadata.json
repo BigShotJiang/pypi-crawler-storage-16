@@ -1,11 +1,11 @@
 {
   "name": "aconnection",
-  "version": "0.1.0",
-  "summary": null,
+  "version": "0.1.1",
+  "summary": "connectable providers ABC clasess for connections",
   "author": "volodymyrb",
   "license": null,
   "home_page": null,
-  "download_filename": "aconnection-0.1.0.tar.gz",
-  "download_time": "2025-12-10T10:44:47.459916",
+  "download_filename": "aconnection-0.1.1.tar.gz",
+  "download_time": "2025-12-10T11:50:11.954091",
   "package_url": "https://pypi.org/project/aconnection/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "blob-service-toolcase",
+  "version": "0.1.0",
+  "summary": "Lightweight utility for loading text data from Azure Blob Storage.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blob_service_toolcase-0.1.0.tar.gz",
+  "download_time": "2025-12-10T11:50:04.145790",
+  "package_url": "https://pypi.org/project/blob-service-toolcase/"
+}

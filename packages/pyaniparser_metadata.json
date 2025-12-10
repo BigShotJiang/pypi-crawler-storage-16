@@ -1,0 +1,11 @@
+{
+  "name": "pyaniparser",
+  "version": "0.0.7",
+  "summary": "Python wrapper for Banned.AniParser (NativeAOT C ABI)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyaniparser-0.0.7-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-12-10T12:27:17.047955",
+  "package_url": "https://pypi.org/project/pyaniparser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pidatametrics",
+  "version": "0.1.2",
+  "summary": "A wrapper for Pi Datametrics API with CSV and BigQuery support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pidatametrics-0.1.2.tar.gz",
+  "download_time": "2025-12-10T12:27:26.735460",
+  "package_url": "https://pypi.org/project/pidatametrics/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "coralogix-logger",
+  "version": "2.1.0",
+  "summary": "Coralogix Python SDK",
+  "author": "Coralogix Ltd.",
+  "license": "Apache Version 2.0",
+  "home_page": "http://www.coralogix.com/",
+  "download_filename": "coralogix_logger-2.1.0.tar.gz",
+  "download_time": "2025-12-10T12:27:24.868078",
+  "package_url": "https://pypi.org/project/coralogix-logger/"
+}

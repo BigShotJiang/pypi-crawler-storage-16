@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-10T11:50:33.276001
-- **Total Packages**: 92
-- **Total Size**: 19.6 MB
+- **Download Time**: 2025-12-10T12:28:07.150205
+- **Total Packages**: 87
+- **Total Size**: 8.1 MB
 
 ## Packages List
+- optics-framework
+- wxr
+- ansible-lint
+- mseep-knowledge-mcp
+- uv-upx
+- kleinkram
+- pyaniparser
+- logspot
+- pyxetabase
+- eval-ai-library
+- QCut
+- tencent-wedata-feature-engineering-dev
+- conversational-graph-dev
+- pydepin
+- esp-idf-kconfig
+- inspire-query-parser
+- django-plans
+- azure-doc-processing
+- coralogix-logger
+- matchbox-db
+- claude-cli-sdk
+- pidatametrics
+- xicommon
+- python-cdo-wrapper
+- code-similarity-engine
 - airmesh
 - pySiEdge
 - pytron-kit
@@ -17,7 +42,6 @@
 - django-core-micha
 - elasticsearch-haystack
 - conversational-graph
-- code-similarity-engine
 - legit-api-client
 - nebius
 - vibetuner
@@ -33,7 +57,6 @@
 - nvidia-nat-mem0ai
 - udtools
 - nvidia-nat-langchain
-- eval-ai-library
 - nvidia-nat-phoenix
 - django-8e9e15-v1
 - nvidia-nat-crewai
@@ -62,7 +85,6 @@
 - super-bario
 - nvidia-nat-mcp
 - nvidia-nat-ragaai
-- uv-upx
 - nvidia-nat-profiling
 - nvidia-nat-adk
 - tree-sitter-analyzer
@@ -71,30 +93,3 @@
 - cubed-xarray
 - tol-sdk
 - mseep-k8s-observability-mcp
-- nvidia-nat-weave
-- streamlit-octostar-utils
-- torchx-nightly
-- syn-sdk
-- aiqtoolkit-crewai
-- phantomwright
-- aiqtoolkit-weave
-- trustgraph-vertexai
-- trustgraph-ocr
-- trustgraph-mcp
-- trustgraph-flow
-- trustgraph-embeddings-hf
-- trustgraph-cli
-- trustgraph-bedrock
-- trustgraph-base
-- trustgraph
-- oc-dms-mirror
-- aiqtoolkit-test
-- fair-rec-sys
-- cumulusci-plus
-- imagetune
-- kaspi-offers-py
-- aiqtoolkit-semantic-kernel
-- opik
-- fields-metadata
-- heretic-llm
-- catalystwan

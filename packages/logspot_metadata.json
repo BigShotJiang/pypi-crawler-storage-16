@@ -1,0 +1,11 @@
+{
+  "name": "logspot",
+  "version": "0.3.0",
+  "summary": "Reusable /logs route + logging manager for Flask and FastAPI apps",
+  "author": "Rishabh Kumar Pandey",
+  "license": null,
+  "home_page": "https://github.com/rishabhpandey106/logspot",
+  "download_filename": "logspot-0.3.0.tar.gz",
+  "download_time": "2025-12-10T12:27:17.679341",
+  "package_url": "https://pypi.org/project/logspot/"
+}

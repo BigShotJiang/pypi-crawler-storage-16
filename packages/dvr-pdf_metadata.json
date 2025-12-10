@@ -1,0 +1,11 @@
+{
+  "name": "dvr-pdf",
+  "version": "1.0.22",
+  "summary": "DvRD PDF generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dvr_pdf-1.0.22.tar.gz",
+  "download_time": "2025-12-10T08:19:27.592723",
+  "package_url": "https://pypi.org/project/dvr-pdf/"
+}

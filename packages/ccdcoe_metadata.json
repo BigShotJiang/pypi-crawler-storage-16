@@ -1,0 +1,11 @@
+{
+  "name": "ccdcoe",
+  "version": "0.0.40",
+  "summary": "Package with general devops code",
+  "author": "CCDCOE",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/ccdcoe/ccdcoe",
+  "download_filename": "ccdcoe-0.0.40.tar.gz",
+  "download_time": "2025-12-10T08:19:07.983108",
+  "package_url": "https://pypi.org/project/ccdcoe/"
+}

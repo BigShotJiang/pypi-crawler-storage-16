@@ -1,0 +1,11 @@
+{
+  "name": "py-qunjielong-utils",
+  "version": "1.0.0",
+  "summary": "郭磊开发的群接龙工具库",
+  "author": "guolei",
+  "license": "MIT",
+  "home_page": "https://gitee.com/guolei19850528/py_qunjielong_utils",
+  "download_filename": "py_qunjielong_utils-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-10T08:19:39.066686",
+  "package_url": "https://pypi.org/project/py-qunjielong-utils/"
+}

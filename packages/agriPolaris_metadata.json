@@ -1,0 +1,11 @@
+{
+  "name": "agriPolaris",
+  "version": "0.1.0",
+  "summary": "A priority-queue-driven crop supply monitoring engine.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agripolaris-0.1.0.tar.gz",
+  "download_time": "2025-12-10T08:19:17.525920",
+  "package_url": "https://pypi.org/project/agriPolaris/"
+}

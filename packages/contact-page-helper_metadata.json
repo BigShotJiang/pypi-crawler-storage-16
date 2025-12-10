@@ -1,11 +1,11 @@
 {
   "name": "contact-page-helper",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Find, analyze, and process contact pages and emails",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "contact_page_helper-0.2.1.tar.gz",
-  "download_time": "2025-12-10T07:41:46.714285",
+  "download_filename": "contact_page_helper-0.2.2.tar.gz",
+  "download_time": "2025-12-10T08:19:36.450312",
   "package_url": "https://pypi.org/project/contact-page-helper/"
 }

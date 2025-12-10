@@ -1,11 +1,11 @@
 {
   "name": "ali-ops",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "阿里云命令行工具",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ali_ops-1.0.10-py3-none-any.whl",
-  "download_time": "2025-12-10T04:28:18.136732",
+  "download_filename": "ali_ops-1.0.11-py3-none-any.whl",
+  "download_time": "2025-12-10T08:19:38.029279",
   "package_url": "https://pypi.org/project/ali-ops/"
 }

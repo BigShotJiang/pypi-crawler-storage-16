@@ -1,0 +1,11 @@
+{
+  "name": "pyglove",
+  "version": "0.4.5",
+  "summary": "PyGlove: A library for manipulating Python objects.",
+  "author": "PyGlove Authors",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/google/pyglove",
+  "download_filename": "pyglove-0.4.5.tar.gz",
+  "download_time": "2025-12-10T08:19:19.115025",
+  "package_url": "https://pypi.org/project/pyglove/"
+}

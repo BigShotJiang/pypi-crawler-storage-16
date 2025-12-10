@@ -1,0 +1,11 @@
+{
+  "name": "prediction-market-agent-tooling",
+  "version": "0.69.21",
+  "summary": "Tools to benchmark, deploy and monitor prediction market agents.",
+  "author": "Gnosis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prediction_market_agent_tooling-0.69.21.tar.gz",
+  "download_time": "2025-12-10T08:19:27.073699",
+  "package_url": "https://pypi.org/project/prediction-market-agent-tooling/"
+}

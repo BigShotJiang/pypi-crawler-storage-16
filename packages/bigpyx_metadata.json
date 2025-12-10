@@ -1,0 +1,11 @@
+{
+  "name": "bigpyx",
+  "version": "0.0.2",
+  "summary": "A small, easy-to-use wrapper around Python's Decimal with configurable precision and rounding.",
+  "author": "Matt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bigpyx-0.0.2.tar.gz",
+  "download_time": "2025-12-10T08:19:08.509094",
+  "package_url": "https://pypi.org/project/bigpyx/"
+}

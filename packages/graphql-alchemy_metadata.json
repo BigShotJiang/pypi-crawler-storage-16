@@ -1,0 +1,11 @@
+{
+  "name": "graphql-alchemy",
+  "version": "0.0.5",
+  "summary": "Graph ql client library",
+  "author": "Artur Youngblood",
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphql_alchemy-0.0.5.tar.gz",
+  "download_time": "2025-12-10T08:19:21.266440",
+  "package_url": "https://pypi.org/project/graphql-alchemy/"
+}

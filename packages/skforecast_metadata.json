@@ -1,0 +1,11 @@
+{
+  "name": "skforecast",
+  "version": "0.19.1",
+  "summary": "Skforecast is a Python library for time series forecasting using statistical and machine learning models. It works with any estimator compatible with the scikit-learn API, including popular options like LightGBM, XGBoost, CatBoost, Keras, and many others.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skforecast-0.19.1.tar.gz",
+  "download_time": "2025-12-10T14:16:58.273764",
+  "package_url": "https://pypi.org/project/skforecast/"
+}

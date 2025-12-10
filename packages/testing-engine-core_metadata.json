@@ -1,0 +1,11 @@
+{
+  "name": "testing-engine-core",
+  "version": "0.3.0",
+  "summary": "E2E Testing Framework for Microservices",
+  "author": "Testing Engine Contributors",
+  "license": null,
+  "home_page": "https://github.com/MysticAladin/testing-engine-core",
+  "download_filename": "testing_engine_core-0.3.0.tar.gz",
+  "download_time": "2025-12-10T14:17:05.813530",
+  "package_url": "https://pypi.org/project/testing-engine-core/"
+}

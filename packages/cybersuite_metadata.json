@@ -1,0 +1,11 @@
+{
+  "name": "cybersuite",
+  "version": "1.0.0",
+  "summary": "A comprehensive Python-based cybersecurity toolkit",
+  "author": "Naman Goyal",
+  "license": "MIT",
+  "home_page": "https://github.com/Codeguruu03/CyberSuite",
+  "download_filename": "cybersuite-1.0.0.tar.gz",
+  "download_time": "2025-12-10T14:17:30.637946",
+  "package_url": "https://pypi.org/project/cybersuite/"
+}

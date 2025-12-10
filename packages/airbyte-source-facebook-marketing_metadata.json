@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-facebook-marketing",
+  "version": "4.1.2",
+  "summary": "Source implementation for Facebook Marketing.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_facebook_marketing-4.1.2.tar.gz",
+  "download_time": "2025-12-10T14:17:11.020024",
+  "package_url": "https://pypi.org/project/airbyte-source-facebook-marketing/"
+}

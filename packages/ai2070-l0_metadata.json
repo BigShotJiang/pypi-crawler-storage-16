@@ -1,11 +1,11 @@
 {
   "name": "ai2070-l0",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "summary": "Reliability layer for AI/LLM streaming with retry, guardrails, and observability",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ai2070_l0-0.17.0.tar.gz",
-  "download_time": "2025-12-08T22:49:52.869653",
+  "download_filename": "ai2070_l0-0.18.0.tar.gz",
+  "download_time": "2025-12-10T14:16:47.343077",
   "package_url": "https://pypi.org/project/ai2070-l0/"
 }

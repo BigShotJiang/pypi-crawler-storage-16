@@ -1,0 +1,11 @@
+{
+  "name": "morph-spines",
+  "version": "0.3.0",
+  "summary": "Package to load morphologies with spines",
+  "author": null,
+  "license": "my-license",
+  "home_page": null,
+  "download_filename": "morph_spines-0.3.0.tar.gz",
+  "download_time": "2025-12-10T14:17:24.868580",
+  "package_url": "https://pypi.org/project/morph-spines/"
+}

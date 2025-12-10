@@ -1,0 +1,11 @@
+{
+  "name": "mseep-repo-graphrag-mcp",
+  "version": "0.2.2",
+  "summary": "GraphRAG-based MCP server: builds a repository knowledge graph (Tree-sitter + LightRAG) for Q&A and change planning.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_repo_graphrag_mcp-0.2.2.tar.gz",
+  "download_time": "2025-12-10T14:16:53.708640",
+  "package_url": "https://pypi.org/project/mseep-repo-graphrag-mcp/"
+}

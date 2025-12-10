@@ -1,0 +1,11 @@
+{
+  "name": "mseep-claude-agent-sdk",
+  "version": "0.1.14",
+  "summary": "Python SDK for Claude Code",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mseep_claude_agent_sdk-0.1.14.tar.gz",
+  "download_time": "2025-12-10T14:16:50.670401",
+  "package_url": "https://pypi.org/project/mseep-claude-agent-sdk/"
+}

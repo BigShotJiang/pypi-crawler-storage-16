@@ -1,0 +1,11 @@
+{
+  "name": "gammarers.aws-daily-cloud-watch-logs-archive-stack",
+  "version": "2.9.26",
+  "summary": "AWS CloudWatch Logs daily archive to s3 bucket",
+  "author": "yicr<yicr@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/gammarers/aws-daily-cloud-watch-logs-archive-stack.git",
+  "download_filename": "gammarers_aws_daily_cloud_watch_logs_archive_stack-2.9.26.tar.gz",
+  "download_time": "2025-12-10T19:30:37.046579",
+  "package_url": "https://pypi.org/project/gammarers.aws-daily-cloud-watch-logs-archive-stack/"
+}

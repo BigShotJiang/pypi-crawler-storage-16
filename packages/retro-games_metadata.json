@@ -1,0 +1,11 @@
+{
+  "name": "retro-games",
+  "version": "1.1.1",
+  "summary": "A simple framework for Terminal-based games",
+  "author": "Chris Proctor",
+  "license": null,
+  "home_page": "https://makingwithcode.org",
+  "download_filename": "retro_games-1.1.1.tar.gz",
+  "download_time": "2025-12-10T19:30:57.969987",
+  "package_url": "https://pypi.org/project/retro-games/"
+}

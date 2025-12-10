@@ -1,0 +1,11 @@
+{
+  "name": "winzy",
+  "version": "0.0.4",
+  "summary": "CLI tools for windows. A plugin based approach.",
+  "author": "Sukhbinder Singh",
+  "license": null,
+  "home_page": "https://github.com/sukhbinder/winzy",
+  "download_filename": "winzy-0.0.4.tar.gz",
+  "download_time": "2025-12-10T19:30:50.972891",
+  "package_url": "https://pypi.org/project/winzy/"
+}

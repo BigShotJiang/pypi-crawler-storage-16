@@ -1,11 +1,11 @@
 {
   "name": "spotted",
-  "version": "0.10.0",
+  "version": "0.12.0",
   "summary": "The official Python library for the spotted API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "spotted-0.10.0.tar.gz",
-  "download_time": "2025-12-10T19:13:25.207876",
+  "download_filename": "spotted-0.12.0.tar.gz",
+  "download_time": "2025-12-10T19:30:29.895042",
   "package_url": "https://pypi.org/project/spotted/"
 }

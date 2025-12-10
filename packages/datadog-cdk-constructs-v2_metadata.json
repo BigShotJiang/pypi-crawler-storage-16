@@ -1,0 +1,11 @@
+{
+  "name": "datadog-cdk-constructs-v2",
+  "version": "3.5.0",
+  "summary": "CDK Construct Library to automatically instrument Python and Node Lambda functions with Datadog using AWS CDK v2",
+  "author": "Datadog",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/DataDog/datadog-cdk-constructs",
+  "download_filename": "datadog_cdk_constructs_v2-3.5.0.tar.gz",
+  "download_time": "2025-12-10T19:30:53.555824",
+  "package_url": "https://pypi.org/project/datadog-cdk-constructs-v2/"
+}

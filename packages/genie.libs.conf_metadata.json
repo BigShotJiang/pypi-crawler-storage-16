@@ -1,0 +1,11 @@
+{
+  "name": "genie.libs.conf",
+  "version": "25.11",
+  "summary": "Genie libs Conf: Libraries to configures topology through Python object attributes",
+  "author": "Cisco Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://developer.cisco.com/pyats",
+  "download_filename": "genie_libs_conf-25.11-py3-none-any.whl",
+  "download_time": "2025-12-10T19:31:06.365003",
+  "package_url": "https://pypi.org/project/genie.libs.conf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "genie.libs.clean",
+  "version": "25.11",
+  "summary": "Genie Library for device clean support",
+  "author": "Cisco Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://developer.cisco.com/pyats",
+  "download_filename": "genie_libs_clean-25.11-py3-none-any.whl",
+  "download_time": "2025-12-10T19:31:06.944699",
+  "package_url": "https://pypi.org/project/genie.libs.clean/"
+}

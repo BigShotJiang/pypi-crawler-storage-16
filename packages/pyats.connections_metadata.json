@@ -1,0 +1,11 @@
+{
+  "name": "pyats.connections",
+  "version": "25.11",
+  "summary": "pyATS Connection: Device Connection Handling & Base Classes",
+  "author": "Cisco Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://developer.cisco.com/pyats/",
+  "download_filename": "pyats_connections-25.11-cp310-cp310-macosx_11_0_universal2.whl",
+  "download_time": "2025-12-10T19:30:48.442813",
+  "package_url": "https://pypi.org/project/pyats.connections/"
+}

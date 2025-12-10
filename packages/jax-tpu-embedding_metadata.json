@@ -1,0 +1,11 @@
+{
+  "name": "jax-tpu-embedding",
+  "version": "0.1.0.dev20251208",
+  "summary": "JAX SparseCore API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jax_tpu_embedding-0.1.0.dev20251208.tar.gz",
+  "download_time": "2025-12-10T19:02:56.726430",
+  "package_url": "https://pypi.org/project/jax-tpu-embedding/"
+}

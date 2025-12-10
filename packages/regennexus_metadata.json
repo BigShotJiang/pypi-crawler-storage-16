@@ -1,0 +1,11 @@
+{
+  "name": "regennexus",
+  "version": "0.3.0",
+  "summary": "Universal Adapter Protocol for fast device communication",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "regennexus-0.3.0.tar.gz",
+  "download_time": "2025-12-10T19:02:32.183162",
+  "package_url": "https://pypi.org/project/regennexus/"
+}

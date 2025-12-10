@@ -1,0 +1,11 @@
+{
+  "name": "darkfield",
+  "version": "0.1.1",
+  "summary": "Screen training data before you fine-tune. Predict behavioral risks using persona vectors.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "darkfield-0.1.1.tar.gz",
+  "download_time": "2025-12-10T19:03:04.525793",
+  "package_url": "https://pypi.org/project/darkfield/"
+}

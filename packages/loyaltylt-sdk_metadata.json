@@ -1,0 +1,11 @@
+{
+  "name": "loyaltylt-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Loyalty.lt Partner API",
+  "author": "Loyalty.lt",
+  "license": null,
+  "home_page": "https://github.com/Loyalty-lt/sdk-python",
+  "download_filename": "loyaltylt_sdk-1.0.0.tar.gz",
+  "download_time": "2025-12-10T19:02:45.755921",
+  "package_url": "https://pypi.org/project/loyaltylt-sdk/"
+}

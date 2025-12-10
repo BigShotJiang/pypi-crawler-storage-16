@@ -1,11 +1,11 @@
 {
   "name": "dispatcherd",
-  "version": "2025.12.9",
+  "version": "2025.12.10",
   "summary": "An asyncio-based dispatcher for tasks in a worker pool.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dispatcherd-2025.12.9.tar.gz",
-  "download_time": "2025-12-09T19:34:39.866638",
+  "download_filename": "dispatcherd-2025.12.10.tar.gz",
+  "download_time": "2025-12-10T19:02:56.173490",
   "package_url": "https://pypi.org/project/dispatcherd/"
 }

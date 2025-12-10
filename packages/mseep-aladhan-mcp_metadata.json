@@ -1,0 +1,11 @@
+{
+  "name": "mseep-aladhan-mcp",
+  "version": "0.1.1",
+  "summary": "Model Context Protocol server for Aladhan prayer times API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mseep_aladhan_mcp-0.1.1.tar.gz",
+  "download_time": "2025-12-10T19:03:07.624683",
+  "package_url": "https://pypi.org/project/mseep-aladhan-mcp/"
+}

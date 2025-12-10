@@ -1,0 +1,11 @@
+{
+  "name": "secure-fl",
+  "version": "2025.12.11.dev1",
+  "summary": "Dual-Verifiable Framework for Federated Learning using Zero-Knowledge Proofs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "secure_fl-2025.12.11.dev1.tar.gz",
+  "download_time": "2025-12-10T19:03:00.876197",
+  "package_url": "https://pypi.org/project/secure-fl/"
+}

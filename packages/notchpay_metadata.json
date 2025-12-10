@@ -1,0 +1,11 @@
+{
+  "name": "notchpay",
+  "version": "0.1.0",
+  "summary": "Notchpay — Unofficial Python SDK for integrating the Notch Pay API. This Python package provides a simple, typed interface for interacting with all Notch Pay features, exactly as described in the official documentation: https://developer.notchpay.co/sdks/python.",
+  "author": "Wilfried-Tech",
+  "license": null,
+  "home_page": null,
+  "download_filename": "notchpay-0.1.0.tar.gz",
+  "download_time": "2025-12-10T19:02:58.784839",
+  "package_url": "https://pypi.org/project/notchpay/"
+}

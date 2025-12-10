@@ -1,0 +1,11 @@
+{
+  "name": "bruno-core",
+  "version": "0.1.0",
+  "summary": "Foundation package for the Bruno AI Assistant ecosystem",
+  "author": "Meggy AI",
+  "license": "MIT",
+  "home_page": "https://github.com/meggy-ai/bruno-core",
+  "download_filename": "bruno_core-0.1.0.tar.gz",
+  "download_time": "2025-12-10T19:02:42.602711",
+  "package_url": "https://pypi.org/project/bruno-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tf2-data",
+  "version": "1.0.7",
+  "summary": "Item schemas, unusual effects, SKUs and more useful data for TF2 trading",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tf2_data-1.0.7.tar.gz",
+  "download_time": "2025-12-10T19:03:01.395014",
+  "package_url": "https://pypi.org/project/tf2-data/"
+}

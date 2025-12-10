@@ -1,0 +1,11 @@
+{
+  "name": "kubeseal-auto",
+  "version": "0.7.0",
+  "summary": "An interactive wrapper for kubeseal binary",
+  "author": "Vadim Gedz",
+  "license": "MIT",
+  "home_page": "https://github.com/shini4i/kubeseal-auto",
+  "download_filename": "kubeseal_auto-0.7.0.tar.gz",
+  "download_time": "2025-12-10T19:02:40.416009",
+  "package_url": "https://pypi.org/project/kubeseal-auto/"
+}

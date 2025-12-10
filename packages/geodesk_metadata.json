@@ -1,0 +1,11 @@
+{
+  "name": "geodesk",
+  "version": "2.1.2",
+  "summary": "Fast and storage-efficient spatial database engine for OpenStreetMap features",
+  "author": "Clarisma / GeoDesk contributors",
+  "license": "LGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "geodesk-2.1.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-10T19:02:58.272502",
+  "package_url": "https://pypi.org/project/geodesk/"
+}

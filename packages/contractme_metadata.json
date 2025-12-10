@@ -1,0 +1,11 @@
+{
+  "name": "contractme",
+  "version": "1.6.0",
+  "summary": "A powerful, expressive and lightweight design-by-contract framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "contractme-1.6.0.tar.gz",
+  "download_time": "2025-12-10T17:57:55.832147",
+  "package_url": "https://pypi.org/project/contractme/"
+}

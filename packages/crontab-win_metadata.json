@@ -1,0 +1,11 @@
+{
+  "name": "crontab-win",
+  "version": "0.2.0",
+  "summary": "crontab for windows",
+  "author": "sukhbinder singh",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "crontab_win-0.2.0.tar.gz",
+  "download_time": "2025-12-10T17:58:02.323553",
+  "package_url": "https://pypi.org/project/crontab-win/"
+}

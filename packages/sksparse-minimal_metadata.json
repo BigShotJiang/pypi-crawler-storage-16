@@ -1,0 +1,11 @@
+{
+  "name": "sksparse-minimal",
+  "version": "0.3",
+  "summary": "A drop in replacement for sksparse for sparse Cholseky factorization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sksparse_minimal-0.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-10T17:58:08.528537",
+  "package_url": "https://pypi.org/project/sksparse-minimal/"
+}

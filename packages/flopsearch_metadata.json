@@ -1,0 +1,11 @@
+{
+  "name": "flopsearch",
+  "version": "0.2.2",
+  "summary": "Python package providing an implementation of the FLOP causal discovery algorithm for linear additive noise models",
+  "author": "Marcel Wienöbst, Sebastian Weichwald, Leonard Henckel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flopsearch-0.2.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-12-10T17:57:45.752855",
+  "package_url": "https://pypi.org/project/flopsearch/"
+}

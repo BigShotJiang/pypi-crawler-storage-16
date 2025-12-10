@@ -1,0 +1,11 @@
+{
+  "name": "bigeye-sdk",
+  "version": "0.8.2",
+  "summary": "Bigeye SDK offers developer tools and clients to interact with Bigeye programmatically.",
+  "author": "Bigeye",
+  "license": "Proprietary",
+  "home_page": "https://docs.bigeye.com/docs",
+  "download_filename": "bigeye_sdk-0.8.2.tar.gz",
+  "download_time": "2025-12-10T17:57:49.536052",
+  "package_url": "https://pypi.org/project/bigeye-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "snowpark-submit",
+  "version": "1.6.0",
+  "summary": "Snowpark Submit",
+  "author": "Snowflake, Inc",
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "snowpark_submit-1.6.0.tar.gz",
+  "download_time": "2025-12-10T17:57:44.047372",
+  "package_url": "https://pypi.org/project/snowpark-submit/"
+}

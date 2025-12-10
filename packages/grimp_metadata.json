@@ -1,0 +1,11 @@
+{
+  "name": "grimp",
+  "version": "3.14",
+  "summary": "Builds a queryable graph of the imports within one or more Python packages.",
+  "author": null,
+  "license": "BSD 2-Clause License",
+  "home_page": null,
+  "download_filename": "grimp-3.14-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-12-10T17:57:52.423449",
+  "package_url": "https://pypi.org/project/grimp/"
+}

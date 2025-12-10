@@ -1,0 +1,11 @@
+{
+  "name": "rcsb.db",
+  "version": "1.813",
+  "summary": "RCSB Python Database Access and Loading Utility Classes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rcsb_db-1.813.tar.gz",
+  "download_time": "2025-12-10T20:42:06.953627",
+  "package_url": "https://pypi.org/project/rcsb.db/"
+}

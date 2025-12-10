@@ -1,11 +1,11 @@
 {
   "name": "jmd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Streaming JSON to Markdown converter",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jmd-0.1.1.tar.gz",
-  "download_time": "2025-12-09T22:25:49.379457",
+  "download_filename": "jmd-0.1.2.tar.gz",
+  "download_time": "2025-12-10T20:42:08.004662",
   "package_url": "https://pypi.org/project/jmd/"
 }

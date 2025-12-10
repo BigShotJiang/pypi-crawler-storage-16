@@ -1,0 +1,11 @@
+{
+  "name": "gapless-network-data",
+  "version": "5.0.2",
+  "summary": "Ethereum blockchain network metrics collection infrastructure with zero-gap guarantee (multi-chain support planned)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gapless_network_data-5.0.2.tar.gz",
+  "download_time": "2025-12-10T20:42:13.709902",
+  "package_url": "https://pypi.org/project/gapless-network-data/"
+}

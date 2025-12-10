@@ -1,0 +1,11 @@
+{
+  "name": "fovus",
+  "version": "2.0.40",
+  "summary": "The Fovus Python CLI",
+  "author": "Fovus Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fovus-2.0.40-py3-none-any.whl",
+  "download_time": "2025-12-10T20:42:09.040842",
+  "package_url": "https://pypi.org/project/fovus/"
+}

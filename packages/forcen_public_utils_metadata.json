@@ -1,0 +1,11 @@
+{
+  "name": "forcen_public_utils",
+  "version": "1.0.0",
+  "summary": "Shared utility functions and common infrastructure leveraged by Forcen’s Python packages, such as forcen_bonappetit_api",
+  "author": "Forcen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "forcen_public_utils-1.0.0.tar.gz",
+  "download_time": "2025-12-10T20:41:59.654563",
+  "package_url": "https://pypi.org/project/forcen_public_utils/"
+}

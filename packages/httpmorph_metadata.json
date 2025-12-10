@@ -1,0 +1,11 @@
+{
+  "name": "httpmorph",
+  "version": "0.2.8",
+  "summary": "A Python HTTP client focused on mimicking browser fingerprints.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "httpmorph-0.2.8-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-10T20:41:47.135980",
+  "package_url": "https://pypi.org/project/httpmorph/"
+}

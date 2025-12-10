@@ -1,0 +1,11 @@
+{
+  "name": "opteryx",
+  "version": "0.26.2",
+  "summary": "Query your data, where it lives",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/mabel-dev/opteryx/",
+  "download_filename": "opteryx-0.26.2.tar.gz",
+  "download_time": "2025-12-10T23:12:36.027425",
+  "package_url": "https://pypi.org/project/opteryx/"
+}

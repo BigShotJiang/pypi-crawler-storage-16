@@ -1,0 +1,11 @@
+{
+  "name": "stellars-jupyterlab-extensions",
+  "version": "1.0.11",
+  "summary": "Metapackage aggregating all Stellars JupyterLab extensions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stellars_jupyterlab_extensions-1.0.11.tar.gz",
+  "download_time": "2025-12-10T23:12:51.882037",
+  "package_url": "https://pypi.org/project/stellars-jupyterlab-extensions/"
+}

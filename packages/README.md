@@ -1,13 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-10T22:52:59.999572
-- **Total Packages**: 82
-- **Total Size**: 40.0 MB
+- **Download Time**: 2025-12-10T23:13:08.851388
+- **Total Packages**: 73
+- **Total Size**: 36.89 MB
 
 ## Packages List
+- aiq-platform-api
 - nexaroa
+- hansel-ai
+- nisystemlink-clients
+- type-bridge
+- yutori
+- clem2itunes
+- qnote
+- flwr-nightly
 - serialcables-sphinx
+- ssm-connect
+- opteryx
+- squadron-agents
+- autodocs-mcp
+- flowtask
+- streamware
+- stats-compass-core
+- django-safe-template-engine
+- alchemyql
+- moose-lib
+- oskaragent
+- cdktf-cdktf-provider-vsphere
+- uuts
+- commlink
+- time-split
+- aind-zarr-utils
+- pyfrontkit
+- pyvns
+- pvrhinodemo
+- gradboard
+- pvrhino
+- SToG
+- jupyter-myst-build-proxy
+- biblemategui
+- photo-objects
+- compudoc
+- agentready
+- imbi-automations
+- fastapi-api-key
+- quantecon-book-theme
+- stellars-jupyterlab-extensions
+- matplotlib
+- google-cloud-spanner
+- jax-tvm-ffi
 - ipydicom
 - redgit
 - cdp-python
@@ -16,14 +58,12 @@
 - nebula-client
 - aignostics
 - vllm-autoconfig
-- moose-lib
 - silkworm-rs
 - whisper-api-sdk
 - anndata-seurat-utilities
 - polysetlib
 - shotgun-api3
 - cdktf-cdktf-provider-vault
-- qnote
 - soren
 - pyucalgarysrs
 - fetchx
@@ -31,7 +71,6 @@
 - jupyterlab-ghostty
 - mellea
 - kleur
-- squadron-agents
 - PyAutomationIO
 - braintrust
 - agentsec
@@ -40,51 +79,3 @@
 - seismic-hazard-analysis
 - nsj-rest-lib
 - bids-validator-deno
-- sqlmesh
-- rotools
-- commitmessagegenerator
-- iam-policy-validator
-- gsmservice-gateway
-- nixtla
-- mascdb
-- tgzr.shell
-- aind-zarr-utils
-- fmfug
-- optic-mcp
-- rumdl
-- deepcsim
-- pz-rail-pipelines
-- zid
-- md-babel-py
-- django-core-micha
-- cdktf-cdktf-provider-mongodbatlas
-- fid-mcp
-- securehst-webhook-notifier
-- modelaudit
-- type-bridge
-- docassemble.ALToolbox
-- miRW
-- obra-client
-- gapless-crypto-clickhouse
-- opencosmo
-- mphapi
-- oskaragent
-- telebot-constructor
-- massql
-- xnoxs-dork
-- cdktf-cdktf-provider-null
-- hansel-ai
-- biblemategui
-- cdktf-cdktf-provider-boundary
-- streamware
-- dbt-chequer
-- pdflinkcheck
-- sleipnirgroup-jormungandr
-- vellum-workflow-server
-- stactools-met-office-deterministic
-- lerobox
-- jl-ecms-server
-- jl-ecms-client
-- agentready
-- openhands-agent-server
-- openhands-tools

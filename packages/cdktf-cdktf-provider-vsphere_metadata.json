@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-cdktf-provider-vsphere",
+  "version": "11.2.1",
+  "summary": "Prebuilt vsphere Provider for Terraform CDK (cdktf)",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-provider-vsphere.git",
+  "download_filename": "cdktf_cdktf_provider_vsphere-11.2.1.tar.gz",
+  "download_time": "2025-12-10T23:12:41.781168",
+  "package_url": "https://pypi.org/project/cdktf-cdktf-provider-vsphere/"
+}

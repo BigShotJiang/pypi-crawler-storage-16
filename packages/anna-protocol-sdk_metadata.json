@@ -1,0 +1,11 @@
+{
+  "name": "anna-protocol-sdk",
+  "version": "2.0.5",
+  "summary": "SDK oficial em Python para o ANNA Protocol - Identidade e Reputação para Agentes de IA",
+  "author": "Antonio Rufino",
+  "license": "MIT",
+  "home_page": "https://github.com/anna-protocol/sdk-python",
+  "download_filename": "anna_protocol_sdk-2.0.5.tar.gz",
+  "download_time": "2025-12-10T21:36:28.851423",
+  "package_url": "https://pypi.org/project/anna-protocol-sdk/"
+}

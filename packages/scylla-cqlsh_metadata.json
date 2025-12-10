@@ -1,0 +1,11 @@
+{
+  "name": "scylla-cqlsh",
+  "version": "6.0.30",
+  "summary": "cqlsh is a Python-based command-line client for running CQL commands on a scylla cluster.",
+  "author": "Israel Fruchter",
+  "license": "Apache",
+  "home_page": "https://github.com/scylladb/scylla-cqlsh",
+  "download_filename": "scylla_cqlsh-6.0.30.tar.gz",
+  "download_time": "2025-12-10T21:36:51.000863",
+  "package_url": "https://pypi.org/project/scylla-cqlsh/"
+}

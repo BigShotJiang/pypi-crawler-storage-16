@@ -1,0 +1,11 @@
+{
+  "name": "ciomax",
+  "version": "0.7.0",
+  "summary": "Max plugin for Conductor Cloud Rendering Platform.",
+  "author": "conductor",
+  "license": null,
+  "home_page": "https://github.com/ConductorTechnologies/ciomax",
+  "download_filename": "ciomax-0.7.0-py2.py3-none-any.whl",
+  "download_time": "2025-12-10T21:36:32.084689",
+  "package_url": "https://pypi.org/project/ciomax/"
+}

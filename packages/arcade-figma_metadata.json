@@ -1,0 +1,11 @@
+{
+  "name": "arcade-figma",
+  "version": "0.1.0",
+  "summary": "Arcade tools designed for LLMs to interact with Figma",
+  "author": null,
+  "license": "Proprietary - Arcade Software License Agreement v1.0",
+  "home_page": null,
+  "download_filename": "arcade_figma-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-10T21:36:47.757391",
+  "package_url": "https://pypi.org/project/arcade-figma/"
+}

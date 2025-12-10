@@ -1,17 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-10T21:15:37.289667
-- **Total Packages**: 86
-- **Total Size**: 38.1 MB
+- **Download Time**: 2025-12-10T21:37:23.519494
+- **Total Packages**: 87
+- **Total Size**: 21.88 MB
 
 ## Packages List
+- core-mixins
+- judo-framework
+- PyAutomationIO
+- anna-protocol-sdk
+- super-bario
+- dyff-client
+- lyse
+- pulumi-awsx
+- ciomax
+- trifold
+- sift-stack-py
+- shift_left
+- emotion-machine
+- winidjango
+- nettracer3d
+- wisent
+- shell-configs
+- janssen
+- llm-metrics-lite
+- autodocs-mcp
+- nonebot-plugin-instagram
+- gim-explain
+- aind-zarr-utils
+- sybil-extras
+- hydrosim
+- aioscraper
+- traia-iatp
+- streamlit-bokeh
+- oskar-agent
+- avrae-ls
+- arcade-figma
+- coinrailz-mcp
+- lakebench
+- pyrig
+- mascdb
+- scylla-cqlsh
+- scc-firewall-manager-sdk
+- pevx
+- func-to-web
+- miblab-dl
+- code-similarity-engine
+- nexaroa
+- flowyml
+- vaultconfig
+- dsl-spa
+- aurite
+- metadata-crawler
+- pdflinkcheck
+- kaqing
+- 2025_assignment2_expenses_manager
+- virtual-knitting-machine
+- hhd
+- bijx
+- kinemotion
 - commlink
 - seclab-taskflows
 - pz-rail-astro-tools
 - reach_commons
 - apathetic-logging
-- judo-framework
 - babygrad4
 - pyrustaudit
 - rpa-quaestvm
@@ -20,7 +73,6 @@
 - tencentcloud-sdk-python-wedata
 - tencentcloud-sdk-python-waf
 - iceframe
-- avrae-ls
 - tencentcloud-sdk-python-vpc
 - fabric-utils-thelab
 - tencentcloud-sdk-python-vod
@@ -28,7 +80,6 @@
 - vllm-speculative-autoconfig
 - tencentcloud-sdk-python-tke
 - babygrad
-- nexaroa
 - tencentcloud-sdk-python-ocr
 - tencentcloud-sdk-python-mps
 - gable
@@ -42,53 +93,3 @@
 - galileo-core
 - tencentcloud-sdk-python-cynosdb
 - page-dewarp
-- tencentcloud-sdk-python-common
-- tencentcloud-sdk-python-cdwch
-- addepy
-- tencentcloud-sdk-python-cdn
-- meltanolabs-target-postgres
-- tencentcloud-sdk-python-antiddos
-- wisent
-- freva-deployment
-- ipfromwebpage
-- mascdb
-- tencentcloud-sdk-python-intl-en
-- celldega
-- simplify-vcd
-- ape-base
-- rascal-speech
-- oskar-agent
-- ideas-python
-- musicdl
-- dbt-common
-- geek-cafe-saas-sdk
-- kubiya-control-plane-api
-- hansel-ai
-- SAMBA-ilum
-- adaptive-router-core-cu12
-- lalamo
-- klondike-spec-cli
-- flaskpp
-- java-api-stubs
-- java-api
-- ufs2arco
-- adafruit-circuitpython-qualia
-- aiedatools
-- winiutils
-- pygar-client
-- webtoolkit
-- gravitas-md2gdocs
-- pulumi-azure
-- nicecall
-- scurrypy
-- safeexecute
-- dsl-spa
-- gxzip
-- artificer-workflows
-- tabdpt
-- coiled
-- pycarlo
-- blendsql
-- aa-markettracker-plugin
-- abs-hdf5
-- accessgrid

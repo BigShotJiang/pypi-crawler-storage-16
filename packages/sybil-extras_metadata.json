@@ -1,11 +1,11 @@
 {
   "name": "sybil-extras",
-  "version": "2025.12.10.2",
+  "version": "2025.12.10.3",
   "summary": "Additions to Sybil, the documentation testing tool.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sybil_extras-2025.12.10.2.tar.gz",
-  "download_time": "2025-12-10T20:16:02.595188",
+  "download_filename": "sybil_extras-2025.12.10.3.tar.gz",
+  "download_time": "2025-12-10T21:36:42.576442",
   "package_url": "https://pypi.org/project/sybil-extras/"
 }

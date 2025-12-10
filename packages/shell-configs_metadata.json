@@ -1,11 +1,11 @@
 {
   "name": "shell-configs",
-  "version": "0.3.1",
+  "version": "0.3.5",
   "summary": "Manage shell configuration files across machines with version control",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shell_configs-0.3.1.tar.gz",
-  "download_time": "2025-12-10T01:01:57.298496",
+  "download_filename": "shell_configs-0.3.5.tar.gz",
+  "download_time": "2025-12-10T21:36:38.054411",
   "package_url": "https://pypi.org/project/shell-configs/"
 }

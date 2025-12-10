@@ -1,0 +1,11 @@
+{
+  "name": "gim-explain",
+  "version": "0.1.3",
+  "summary": "Gradient-based Interpretability Method for transformer feature attribution",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gim_explain-0.1.3.tar.gz",
+  "download_time": "2025-12-10T21:36:41.278255",
+  "package_url": "https://pypi.org/project/gim-explain/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "oterogeneity",
+  "version": "1.0.0",
+  "summary": "Python library to compute heterogeneity indexes based on optimal transport.",
+  "author": "Xavier Bacon",
+  "license": "CC Attribution 4.0",
+  "home_page": null,
+  "download_filename": "oterogeneity-1.0.0.tar.gz",
+  "download_time": "2025-12-10T21:51:33.407099",
+  "package_url": "https://pypi.org/project/oterogeneity/"
+}

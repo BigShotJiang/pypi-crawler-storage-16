@@ -1,11 +1,11 @@
 {
   "name": "neoncontract-gen",
-  "version": "1.3.10",
+  "version": "1.3.11",
   "summary": "NeonContract Protocol Buffer definitions for Python - Generated SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neoncontract_gen-1.3.10.tar.gz",
-  "download_time": "2025-12-08T20:52:34.314792",
+  "download_filename": "neoncontract_gen-1.3.11.tar.gz",
+  "download_time": "2025-12-10T21:51:18.242868",
   "package_url": "https://pypi.org/project/neoncontract-gen/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "jvlogger",
+  "version": "0.1.1",
+  "summary": "Advanced Python logger with lifecycle tracking, signing, and single-instance protection",
+  "author": "Jonathan Verneau",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jvlogger-0.1.1.tar.gz",
+  "download_time": "2025-12-10T21:51:38.529300",
+  "package_url": "https://pypi.org/project/jvlogger/"
+}

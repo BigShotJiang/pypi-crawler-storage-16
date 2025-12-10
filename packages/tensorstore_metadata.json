@@ -1,0 +1,11 @@
+{
+  "name": "tensorstore",
+  "version": "0.1.80",
+  "summary": "Read and write large, multi-dimensional arrays",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensorstore-0.1.80.tar.gz",
+  "download_time": "2025-12-10T21:51:51.564416",
+  "package_url": "https://pypi.org/project/tensorstore/"
+}

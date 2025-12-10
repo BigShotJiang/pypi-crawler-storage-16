@@ -1,0 +1,11 @@
+{
+  "name": "pvporcupine",
+  "version": "4.0.0",
+  "summary": "Porcupine wake word engine.",
+  "author": "Picovoice",
+  "license": null,
+  "home_page": "https://github.com/Picovoice/porcupine",
+  "download_filename": "pvporcupine-4.0.0.tar.gz",
+  "download_time": "2025-12-10T21:51:31.872609",
+  "package_url": "https://pypi.org/project/pvporcupine/"
+}

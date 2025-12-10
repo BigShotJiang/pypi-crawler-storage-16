@@ -1,0 +1,11 @@
+{
+  "name": "c2cciutils",
+  "version": "1.7.5",
+  "summary": "Common utilities for Camptocamp CI",
+  "author": "Camptocamp",
+  "license": "FreeBSD",
+  "home_page": "https://github.com/camptocamp/c2cciutils",
+  "download_filename": "c2cciutils-1.7.5.tar.gz",
+  "download_time": "2025-12-10T21:51:29.257600",
+  "package_url": "https://pypi.org/project/c2cciutils/"
+}

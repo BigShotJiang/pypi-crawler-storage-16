@@ -1,0 +1,11 @@
+{
+  "name": "koza",
+  "version": "2.1.1",
+  "summary": "Data transformation framework for LinkML data models",
+  "author": "The Monarch Initiative",
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "koza-2.1.1.tar.gz",
+  "download_time": "2025-12-10T21:51:54.647677",
+  "package_url": "https://pypi.org/project/koza/"
+}

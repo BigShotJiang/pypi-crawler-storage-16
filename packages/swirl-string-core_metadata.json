@@ -1,11 +1,11 @@
 {
   "name": "swirl-string-core",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Swirl String Theory Canonical Core - High-performance C++ library for knot dynamics, vortex systems, and fluid mechanics",
   "author": "Omar Iskandarani",
   "license": "CC BY-NC 4.0",
   "home_page": "https://github.com/Swirl-String-Theory/SSTcore",
-  "download_filename": "swirl_string_core-0.1.0.tar.gz",
-  "download_time": "2025-12-10T17:58:01.752530",
+  "download_filename": "swirl_string_core-0.1.2.tar.gz",
+  "download_time": "2025-12-10T21:51:38.016726",
   "package_url": "https://pypi.org/project/swirl-string-core/"
 }

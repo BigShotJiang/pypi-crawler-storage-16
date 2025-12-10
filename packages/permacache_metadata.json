@@ -1,0 +1,11 @@
+{
+  "name": "permacache",
+  "version": "5.0.1",
+  "summary": "Permanant cache.",
+  "author": "Kavi Gupta",
+  "license": null,
+  "home_page": "https://github.com/kavigupta/permacache",
+  "download_filename": "permacache-5.0.1.tar.gz",
+  "download_time": "2025-12-10T21:51:48.322792",
+  "package_url": "https://pypi.org/project/permacache/"
+}

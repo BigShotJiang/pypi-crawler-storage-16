@@ -1,0 +1,11 @@
+{
+  "name": "supabase",
+  "version": "2.25.1",
+  "summary": "Supabase client for Python.",
+  "author": "Joel Lee, Leon Fedden, Daniel Reinón García, Leynier Gutiérrez González, Anand, Andrew Smith",
+  "license": null,
+  "home_page": null,
+  "download_filename": "supabase-2.25.1.tar.gz",
+  "download_time": "2025-12-10T21:51:21.319819",
+  "package_url": "https://pypi.org/project/supabase/"
+}

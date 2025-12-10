@@ -1,0 +1,11 @@
+{
+  "name": "cfxdb",
+  "version": "25.12.1",
+  "summary": "Crossbar.io Database - Core database access classes for Crossbar.io",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cfxdb-25.12.1.tar.gz",
+  "download_time": "2025-12-10T21:51:34.430489",
+  "package_url": "https://pypi.org/project/cfxdb/"
+}

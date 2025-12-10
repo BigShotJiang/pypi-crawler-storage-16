@@ -1,0 +1,11 @@
+{
+  "name": "imagebaker",
+  "version": "0.0.54",
+  "summary": "A package for baking images.",
+  "author": "Ramkrishna Acharya",
+  "license": "MIT",
+  "home_page": "https://github.com/q-viper/Image-Baker",
+  "download_filename": "imagebaker-0.0.54-py3-none-any.whl",
+  "download_time": "2025-12-10T21:51:55.672340",
+  "package_url": "https://pypi.org/project/imagebaker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-pai-dsw20220101",
+  "version": "2.2.1",
+  "summary": "Alibaba Cloud pai-dsw (20220101) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_pai_dsw20220101-2.2.1.tar.gz",
+  "download_time": "2025-12-10T17:45:54.947147",
+  "package_url": "https://pypi.org/project/alibabacloud-pai-dsw20220101/"
+}

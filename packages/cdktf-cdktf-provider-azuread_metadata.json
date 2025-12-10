@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-cdktf-provider-azuread",
+  "version": "14.3.1",
+  "summary": "Prebuilt azuread Provider for Terraform CDK (cdktf)",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-provider-azuread.git",
+  "download_filename": "cdktf_cdktf_provider_azuread-14.3.1.tar.gz",
+  "download_time": "2025-12-10T17:45:22.028661",
+  "package_url": "https://pypi.org/project/cdktf-cdktf-provider-azuread/"
+}

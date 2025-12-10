@@ -1,11 +1,11 @@
 {
   "name": "pymathis",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "A library of interacting function to enable exchanges between MATHIS and python at each time steps",
   "author": "Xavier FAURE, Francois DEMOUGE",
   "license": "GNU Lesser General Public License",
   "home_page": "https://gitlab.com/CSTB/pymathis",
-  "download_filename": "pymathis-0.3.6.tar.gz",
-  "download_time": "2025-12-10T16:50:56.301651",
+  "download_filename": "pymathis-0.3.7.tar.gz",
+  "download_time": "2025-12-10T17:45:45.054924",
   "package_url": "https://pypi.org/project/pymathis/"
 }

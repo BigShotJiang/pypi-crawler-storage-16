@@ -1,0 +1,11 @@
+{
+  "name": "eclipse-zenoh",
+  "version": "1.7.1",
+  "summary": "The Zenoh Python API",
+  "author": "kydos <angelo@icorsaro.net>, Julien Enoch <julien@enoch.fr>, Olivier Hécart <olivier.hecart@adlinktech.com>, Luca Cominardi <luca.cominardi@gmail.com>, Pierre Avital <pierre.avital@adlinktech.com>",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eclipse_zenoh-1.7.1.tar.gz",
+  "download_time": "2025-12-10T17:45:46.613195",
+  "package_url": "https://pypi.org/project/eclipse-zenoh/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "harmonized-landsat-sentinel",
+  "version": "2.1.1",
+  "summary": "Harmonized Landsat Sentinel (HLS) search and download utility",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "harmonized_landsat_sentinel-2.1.1.tar.gz",
+  "download_time": "2025-12-10T17:46:02.818282",
+  "package_url": "https://pypi.org/project/harmonized-landsat-sentinel/"
+}

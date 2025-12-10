@@ -1,0 +1,11 @@
+{
+  "name": "lnhistoryclient",
+  "version": "3.7.0",
+  "summary": "A reusable parser for Lightning Network gossip messages format.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "lnhistoryclient-3.7.0.tar.gz",
+  "download_time": "2025-12-10T17:45:26.711663",
+  "package_url": "https://pypi.org/project/lnhistoryclient/"
+}

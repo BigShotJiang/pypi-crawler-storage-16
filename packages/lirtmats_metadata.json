@@ -1,0 +1,11 @@
+{
+  "name": "lirtmats",
+  "version": "1.0.0",
+  "summary": "LiRTMaTS - Liverpool retention time matching software",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lirtmats-1.0.0.tar.gz",
+  "download_time": "2025-12-10T17:45:47.137485",
+  "package_url": "https://pypi.org/project/lirtmats/"
+}

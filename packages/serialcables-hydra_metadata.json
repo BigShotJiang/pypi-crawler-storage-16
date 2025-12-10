@@ -1,0 +1,11 @@
+{
+  "name": "serialcables-hydra",
+  "version": "1.2.0",
+  "summary": "Python library for controlling Serial Cables PCIe Gen6 HYDRA JBOF System",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "serialcables_hydra-1.2.0.tar.gz",
+  "download_time": "2025-12-10T17:45:36.119808",
+  "package_url": "https://pypi.org/project/serialcables-hydra/"
+}

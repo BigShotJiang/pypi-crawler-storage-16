@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-resourcemanager20200331",
+  "version": "2.5.0",
+  "summary": "Alibaba Cloud ResourceManager (20200331) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_resourcemanager20200331-2.5.0.tar.gz",
+  "download_time": "2025-12-10T17:45:52.343990",
+  "package_url": "https://pypi.org/project/alibabacloud-resourcemanager20200331/"
+}

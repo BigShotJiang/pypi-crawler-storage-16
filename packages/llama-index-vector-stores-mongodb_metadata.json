@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-vector-stores-mongodb",
+  "version": "0.8.2",
+  "summary": "llama-index vector_stores mongodb integration",
+  "author": "The MongoDB Python Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_vector_stores_mongodb-0.8.2.tar.gz",
+  "download_time": "2025-12-10T17:45:51.823793",
+  "package_url": "https://pypi.org/project/llama-index-vector-stores-mongodb/"
+}

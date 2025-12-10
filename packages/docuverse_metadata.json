@@ -1,0 +1,11 @@
+{
+  "name": "docuverse",
+  "version": "0.0.13",
+  "summary": "State-of-the-art Retrieval/Search engine models, including ElasticSearch, ChromaDB, Milvus, and PrimeQA",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docuverse-0.0.13-py3-none-any.whl",
+  "download_time": "2025-12-10T17:45:49.224761",
+  "package_url": "https://pypi.org/project/docuverse/"
+}

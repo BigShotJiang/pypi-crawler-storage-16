@@ -1,0 +1,11 @@
+{
+  "name": "zodchy-fastapi",
+  "version": "2.2.0",
+  "summary": "Zodchy FastAPI - FastAPI integration for zodchy architecture",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zodchy_fastapi-2.2.0.tar.gz",
+  "download_time": "2025-12-10T17:46:02.259972",
+  "package_url": "https://pypi.org/project/zodchy-fastapi/"
+}

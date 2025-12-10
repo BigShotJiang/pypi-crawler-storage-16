@@ -1,0 +1,11 @@
+{
+  "name": "lydiacai-codeindex-sdk",
+  "version": "0.1.0",
+  "summary": "CodeIndex 的官方 Python SDK，内置 Node Worker 以便直接查询索引",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lydiacai_codeindex_sdk-0.1.0.tar.gz",
+  "download_time": "2025-12-10T10:58:31.438566",
+  "package_url": "https://pypi.org/project/lydiacai-codeindex-sdk/"
+}

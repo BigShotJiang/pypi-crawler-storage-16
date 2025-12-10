@@ -1,11 +1,11 @@
 {
   "name": "isolate-proto",
-  "version": "0.28.0",
+  "version": "0.29.2",
   "summary": "(internal) gRPC definitions for Isolate Cloud",
   "author": "Features & Labels <support@fal.ai>",
   "license": null,
   "home_page": null,
-  "download_filename": "isolate_proto-0.28.0.tar.gz",
-  "download_time": "2025-12-08T21:48:14.686302",
+  "download_filename": "isolate_proto-0.29.2.tar.gz",
+  "download_time": "2025-12-10T10:58:21.080220",
   "package_url": "https://pypi.org/project/isolate-proto/"
 }

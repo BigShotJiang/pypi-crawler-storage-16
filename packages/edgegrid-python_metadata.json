@@ -1,0 +1,11 @@
+{
+  "name": "edgegrid-python",
+  "version": "2.0.4",
+  "summary": "{OPEN} client authentication protocol for python-requests",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/akamai/AkamaiOPEN-edgegrid-python",
+  "download_filename": "edgegrid_python-2.0.4.tar.gz",
+  "download_time": "2025-12-10T10:58:06.376128",
+  "package_url": "https://pypi.org/project/edgegrid-python/"
+}

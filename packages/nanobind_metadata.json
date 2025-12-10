@@ -1,11 +1,11 @@
 {
   "name": "nanobind",
-  "version": "2.10.1",
+  "version": "2.10.2",
   "summary": "nanobind: tiny and efficient C++/Python bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nanobind-2.10.1.tar.gz",
-  "download_time": "2025-12-08T19:28:10.449872",
+  "download_filename": "nanobind-2.10.2.tar.gz",
+  "download_time": "2025-12-10T10:58:00.765960",
   "package_url": "https://pypi.org/project/nanobind/"
 }

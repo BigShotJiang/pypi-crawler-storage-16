@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopfloor-reception",
+  "version": "18.0.1.6.0",
+  "summary": "Reception scenario for shopfloor",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-shopfloor",
+  "download_filename": "odoo_addon_shopfloor_reception-18.0.1.6.0-py3-none-any.whl",
+  "download_time": "2025-12-10T10:58:07.467856",
+  "package_url": "https://pypi.org/project/odoo-addon-shopfloor-reception/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kigo-gui-framework",
+  "version": "0.4.0",
+  "summary": "A simple GUI library built on PyQt6 (Pure Python)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kigo_gui_framework-0.4.0.tar.gz",
+  "download_time": "2025-12-10T10:58:15.401888",
+  "package_url": "https://pypi.org/project/kigo-gui-framework/"
+}

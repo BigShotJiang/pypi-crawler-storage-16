@@ -1,11 +1,11 @@
 {
   "name": "komon",
-  "version": "1.25.2",
+  "version": "1.25.3",
   "summary": "軽量アドバイザー型SOAR風監視ツール",
   "author": "kamonabe",
   "license": null,
   "home_page": "https://github.com/kamonabe/Komon",
-  "download_filename": "komon-1.25.2.tar.gz",
-  "download_time": "2025-12-09T13:11:14.020786",
+  "download_filename": "komon-1.25.3.tar.gz",
+  "download_time": "2025-12-10T10:58:29.399318",
   "package_url": "https://pypi.org/project/komon/"
 }

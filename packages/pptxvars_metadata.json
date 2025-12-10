@@ -1,0 +1,11 @@
+{
+  "name": "pptxvars",
+  "version": "1.0.2",
+  "summary": "Replace {{KEY}} tokens in PPTX while preserving styling & swap frame shapes for images in while preserving sizes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pptxvars-1.0.2.tar.gz",
+  "download_time": "2025-12-10T10:58:14.887815",
+  "package_url": "https://pypi.org/project/pptxvars/"
+}

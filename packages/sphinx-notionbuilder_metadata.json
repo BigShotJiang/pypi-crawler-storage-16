@@ -1,11 +1,11 @@
 {
   "name": "sphinx-notionbuilder",
-  "version": "2025.12.10",
+  "version": "2025.12.10.1",
   "summary": "Sphinx extension to build Notion pages.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sphinx_notionbuilder-2025.12.10.tar.gz",
-  "download_time": "2025-12-10T09:22:41.020575",
+  "download_filename": "sphinx_notionbuilder-2025.12.10.1.tar.gz",
+  "download_time": "2025-12-10T10:58:14.316132",
   "package_url": "https://pypi.org/project/sphinx-notionbuilder/"
 }

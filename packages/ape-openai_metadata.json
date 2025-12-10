@@ -1,0 +1,11 @@
+{
+  "name": "ape-openai",
+  "version": "1.0.3",
+  "summary": "OpenAI integration for APE (AI Programmatic Execution)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ape_openai-1.0.3.tar.gz",
+  "download_time": "2025-12-10T10:58:26.326762",
+  "package_url": "https://pypi.org/project/ape-openai/"
+}

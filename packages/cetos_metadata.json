@@ -1,0 +1,11 @@
+{
+  "name": "cetos",
+  "version": "0.0.0",
+  "summary": "A Python package for analyzing vessel data.",
+  "author": "Maritime Department - RISE",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "cetos-0.0.0.tar.gz",
+  "download_time": "2025-12-10T10:57:59.107101",
+  "package_url": "https://pypi.org/project/cetos/"
+}

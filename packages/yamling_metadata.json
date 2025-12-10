@@ -1,11 +1,11 @@
 {
   "name": "yamling",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "summary": "Enhanced YAML loading and dumping.",
   "author": "Philipp Temminghoff",
   "license": null,
   "home_page": null,
-  "download_filename": "yamling-2.1.6.tar.gz",
-  "download_time": "2025-12-09T02:48:30.679743",
+  "download_filename": "yamling-2.1.7.tar.gz",
+  "download_time": "2025-12-10T10:58:15.913318",
   "package_url": "https://pypi.org/project/yamling/"
 }

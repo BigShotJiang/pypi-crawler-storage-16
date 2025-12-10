@@ -1,0 +1,11 @@
+{
+  "name": "docling-core",
+  "version": "2.55.0",
+  "summary": "A python library to define and validate data types in Docling.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docling_core-2.55.0.tar.gz",
+  "download_time": "2025-12-10T10:58:32.971218",
+  "package_url": "https://pypi.org/project/docling-core/"
+}

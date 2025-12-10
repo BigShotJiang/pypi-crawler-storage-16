@@ -1,0 +1,11 @@
+{
+  "name": "remnawave",
+  "version": "2.3.2",
+  "summary": "A Python SDK for interacting with the Remnawave API v2.3.2.",
+  "author": "Artem",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "remnawave-2.3.2.tar.gz",
+  "download_time": "2025-12-10T04:53:01.994280",
+  "package_url": "https://pypi.org/project/remnawave/"
+}

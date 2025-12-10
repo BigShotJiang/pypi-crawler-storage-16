@@ -1,0 +1,11 @@
+{
+  "name": "payi",
+  "version": "0.1.0a146",
+  "summary": "The official Python library for the payi API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "payi-0.1.0a146.tar.gz",
+  "download_time": "2025-12-10T04:52:52.237981",
+  "package_url": "https://pypi.org/project/payi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-deep",
+  "version": "0.2.6",
+  "summary": "Deep Agent framework built on Pydantic-ai with planning, filesystem, and subagent capabilities",
+  "author": "Pydantic Deep Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_deep-0.2.6.tar.gz",
+  "download_time": "2025-12-10T04:53:11.360721",
+  "package_url": "https://pypi.org/project/pydantic-deep/"
+}

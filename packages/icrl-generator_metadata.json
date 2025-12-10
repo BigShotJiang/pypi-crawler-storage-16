@@ -1,11 +1,11 @@
 {
   "name": "icrl-generator",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "Generate ICRL thought-of-the-day images using LiteLLM, PIL, and Typer.",
   "author": "Michael Honaker",
   "license": null,
   "home_page": null,
-  "download_filename": "icrl_generator-0.0.7.tar.gz",
-  "download_time": "2025-12-10T04:28:22.980762",
+  "download_filename": "icrl_generator-0.0.8.tar.gz",
+  "download_time": "2025-12-10T04:53:08.269597",
   "package_url": "https://pypi.org/project/icrl-generator/"
 }

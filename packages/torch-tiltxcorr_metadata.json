@@ -1,0 +1,11 @@
+{
+  "name": "torch-tiltxcorr",
+  "version": "0.0.7",
+  "summary": "Cross correlation with cosine stretching for cryo-EM data in PyTorch",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "torch_tiltxcorr-0.0.7.tar.gz",
+  "download_time": "2025-12-10T04:52:57.878845",
+  "package_url": "https://pypi.org/project/torch-tiltxcorr/"
+}

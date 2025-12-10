@@ -1,0 +1,11 @@
+{
+  "name": "hummingbot-api-client",
+  "version": "1.2.5",
+  "summary": "An async Python client for Hummingbot API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hummingbot_api_client-1.2.5.tar.gz",
+  "download_time": "2025-12-10T04:52:48.086143",
+  "package_url": "https://pypi.org/project/hummingbot-api-client/"
+}

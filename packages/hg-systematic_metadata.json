@@ -1,0 +1,11 @@
+{
+  "name": "hg-systematic",
+  "version": "0.0.46",
+  "summary": "A library and examples to show how HGraph can be used for systematic trading.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hg_systematic-0.0.46.tar.gz",
+  "download_time": "2025-12-10T04:52:50.191339",
+  "package_url": "https://pypi.org/project/hg-systematic/"
+}

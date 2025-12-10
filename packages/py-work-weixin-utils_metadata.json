@@ -1,11 +1,11 @@
 {
   "name": "py-work-weixin-utils",
-  "version": "1.0.1",
-  "summary": "a python work weixin utils by guolei",
+  "version": "1.0.3",
+  "summary": "郭磊开发的企业微信工具库",
   "author": "guolei",
   "license": "MIT",
   "home_page": "https://gitee.com/guolei19850528/py_work_weixin_utils",
-  "download_filename": "py_work_weixin_utils-1.0.1-py3-none-any.whl",
-  "download_time": "2025-12-09T05:35:35.035844",
+  "download_filename": "py_work_weixin_utils-1.0.3-py3-none-any.whl",
+  "download_time": "2025-12-10T04:53:04.601721",
   "package_url": "https://pypi.org/project/py-work-weixin-utils/"
 }

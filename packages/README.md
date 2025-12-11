@@ -1,14 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-11T06:56:36.712149
-- **Total Packages**: 83
-- **Total Size**: 41.54 MB
+- **Download Time**: 2025-12-11T07:20:11.089836
+- **Total Packages**: 79
+- **Total Size**: 22.45 MB
 
 ## Packages List
+- ghadiff
+- pushsource
+- blt-toolkit
+- sphinxnotes-strike
+- amplify-excel-migrator
+- codemie-tools
+- benchmark-runner
+- reme-ai
+- MeUtils
+- mcpevolve
+- pylight-metrics
+- cheez-semg-pico
+- netmind
+- vectorgraph
+- yta-video-pyav
+- streaming-sql-engine
+- tencent-wedata-auto-ml
+- stock-pandas
+- nexaroa
+- squadron-agents
+- aidev-agent
+- kaizo
+- vectorizer-sdk
+- tavimercy-dicom-mcp
+- phasor-handler
+- ros-cdk-core
+- jndataset-up
+- praisonaibench
+- kudosx
+- zym-dataset-up
+- djb
+- waldiez
+- victron-mqtt
+- biovault-beaver
+- dora-sim-genesis-franka-grasp-cube
+- emop-frame-protocol
+- py-dactyl
+- syftbox-sdk
+- xensegripper
+- MetaRpcMT5
+- MetaRpcMT4
+- select-ai
+- warpzone-sdk
+- my-get-weather
+- anchorbrowser
+- hatch-xclam
+- tourny
+- alibaba-tvb
+- fastlifeweb
+- pyodide-mkdocs-theme
+- sff-connector
+- pyetwkit
+- yamon
 - szgf
 - nlpertools
-- vectorizer-sdk
 - refactoring-agent
 - t-tech-investments
 - openfund-core
@@ -28,64 +80,8 @@
 - alita-sdk
 - seliseblocks-genesis
 - ritest-python
-- praisonaibench
-- tavimercy-dicom-mcp
-- mcpevolve
 - lance-namespace-urllib3-client
 - nonebot-plugin-instagram
 - lance-namespace
 - interactive-terminal-mcp
-- pylight-metrics
 - alibabacloud-apig20240327
-- docstring-inheritance
-- exifplus
-- robhan-cdk-lib.aws-aps
-- yta-logger
-- robhan-cdk-lib.aws-mwaa
-- quanta-pdf
-- robhan-cdk-lib.aws-grafana
-- robhan-cdk-lib.utils
-- pulumi-aws-native
-- wavespeed
-- aliyun-python-sdk-anytrans
-- pytest-repeated
-- mcp-chatkit-widget
-- nexo-soma
-- alibabacloud-anytrans20250707
-- orcakit-sdk
-- pdflinkcheck
-- graphlit-client
-- yta-general-utils
-- nexo-google
-- starbash
-- jax-monitoring
-- pysbs-peru
-- nexaroa
-- pinggy
-- karaoke-gen
-- cheez-semg-pico
-- langchain-litellm
-- haoline
-- buster-sdk
-- jjrawlins-cdk-iam-policy-builder-helper
-- archivepodcast
-- pulumi-sdwan
-- vuer
-- redgit
-- numpy-flint-arb
-- cogent3-h5seqs
-- livechat-webservice
-- pulumi-slack
-- soildb
-- optic-mcp
-- diverse-seq
-- pulumi-signalfx
-- aiodecorator
-- django-codenerix
-- pulumi-rancher2
-- molingtools
-- OpenGeodeWeb-Viewer
-- mcp-worklog
-- oqclib
-- mcard
-- vllama

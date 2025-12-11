@@ -1,0 +1,11 @@
+{
+  "name": "my-get-weather",
+  "version": "1.1.1",
+  "summary": "运行时，输入--api_key OpenWeather-API-KEY，获取最新天气信息。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "my_get_weather-1.1.1.tar.gz",
+  "download_time": "2025-12-11T07:19:51.503011",
+  "package_url": "https://pypi.org/project/my-get-weather/"
+}

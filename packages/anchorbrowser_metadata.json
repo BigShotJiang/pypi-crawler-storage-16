@@ -1,0 +1,11 @@
+{
+  "name": "anchorbrowser",
+  "version": "0.3.13",
+  "summary": "The official Python library for the anchorbrowser API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "anchorbrowser-0.3.13.tar.gz",
+  "download_time": "2025-12-11T07:19:52.043862",
+  "package_url": "https://pypi.org/project/anchorbrowser/"
+}

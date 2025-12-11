@@ -1,11 +1,11 @@
 {
   "name": "squadron-agents",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "The Operating System for Autonomous Software Teams",
   "author": "MikeeBuilds",
   "license": null,
   "home_page": "https://github.com/MikeeBuilds/squadron",
-  "download_filename": "squadron_agents-0.4.0.tar.gz",
-  "download_time": "2025-12-11T05:55:42.873842",
+  "download_filename": "squadron_agents-0.4.1.tar.gz",
+  "download_time": "2025-12-11T07:19:36.786783",
   "package_url": "https://pypi.org/project/squadron-agents/"
 }

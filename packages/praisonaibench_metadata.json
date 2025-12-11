@@ -1,11 +1,11 @@
 {
   "name": "praisonaibench",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "Simple LLM Benchmarking Tool using PraisonAI Agents",
   "author": "MervinPraison",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "praisonaibench-0.0.10.tar.gz",
-  "download_time": "2025-12-11T06:56:01.149866",
+  "download_filename": "praisonaibench-0.0.11.tar.gz",
+  "download_time": "2025-12-11T07:19:42.066447",
   "package_url": "https://pypi.org/project/praisonaibench/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mcpevolve",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "summary": "A framework for systematically refining MCP server prompts, enhancing tool descriptions, and optimizing function code to improve clarity, consistency, and overall system performance.",
   "author": "Salesforce Research",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "mcpevolve-0.0.6.tar.gz",
-  "download_time": "2025-12-11T06:56:02.723504",
+  "download_filename": "mcpevolve-0.0.9.tar.gz",
+  "download_time": "2025-12-11T07:19:30.773266",
   "package_url": "https://pypi.org/project/mcpevolve/"
 }

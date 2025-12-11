@@ -1,11 +1,11 @@
 {
   "name": "pyetwkit",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "summary": "High-performance ETW (Event Tracing for Windows) consumer library for Python",
   "author": "m96-chan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyetwkit-1.1.0.tar.gz",
-  "download_time": "2025-12-11T05:18:17.315965",
+  "download_filename": "pyetwkit-2.0.0.tar.gz",
+  "download_time": "2025-12-11T07:19:55.900668",
   "package_url": "https://pypi.org/project/pyetwkit/"
 }

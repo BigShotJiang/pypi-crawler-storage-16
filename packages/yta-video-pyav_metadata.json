@@ -1,11 +1,11 @@
 {
   "name": "yta-video-pyav",
-  "version": "0.3.15",
+  "version": "0.3.16",
   "summary": "Youtube Autonomous Video PyAv Module",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_video_pyav-0.3.15.tar.gz",
-  "download_time": "2025-12-09T11:30:50.075162",
+  "download_filename": "yta_video_pyav-0.3.16.tar.gz",
+  "download_time": "2025-12-11T07:19:33.489040",
   "package_url": "https://pypi.org/project/yta-video-pyav/"
 }

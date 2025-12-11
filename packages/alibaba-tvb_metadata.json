@@ -1,0 +1,11 @@
+{
+  "name": "alibaba-tvb",
+  "version": "2.1.8",
+  "summary": "TV Bridge",
+  "author": "Juncheng Chen",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "alibaba_tvb-2.1.8-py2.py3-none-any.whl",
+  "download_time": "2025-12-11T07:19:53.705714",
+  "package_url": "https://pypi.org/project/alibaba-tvb/"
+}

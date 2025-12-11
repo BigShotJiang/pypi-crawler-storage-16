@@ -1,11 +1,11 @@
 {
   "name": "tab-transformer-pytorch",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Tab Transformer - Pytorch",
   "author": "Phil Wang",
   "license": "MIT",
   "home_page": "https://github.com/lucidrains/tab-transformer-pytorch",
-  "download_filename": "tab_transformer_pytorch-0.5.0.tar.gz",
-  "download_time": "2025-12-11T22:40:39.412482",
+  "download_filename": "tab_transformer_pytorch-0.5.1.tar.gz",
+  "download_time": "2025-12-11T22:52:16.787871",
   "package_url": "https://pypi.org/project/tab-transformer-pytorch/"
 }

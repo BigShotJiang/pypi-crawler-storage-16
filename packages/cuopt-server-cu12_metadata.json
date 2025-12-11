@@ -1,0 +1,11 @@
+{
+  "name": "cuopt-server-cu12",
+  "version": "25.12.0",
+  "summary": "cuOpt Microserver - GPU Combinatorial Optimization",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cuopt_server_cu12-25.12.0.tar.gz",
+  "download_time": "2025-12-11T22:52:18.858331",
+  "package_url": "https://pypi.org/project/cuopt-server-cu12/"
+}

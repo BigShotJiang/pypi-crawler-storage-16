@@ -1,0 +1,11 @@
+{
+  "name": "amd-lightgbm",
+  "version": "0.0.1",
+  "summary": "LightGBM is a gradient boosting framework that uses tree based learning algorithms. It is designed to be distributed and efficient.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "amd_lightgbm-0.0.1.tar.gz",
+  "download_time": "2025-12-11T22:52:19.907211",
+  "package_url": "https://pypi.org/project/amd-lightgbm/"
+}

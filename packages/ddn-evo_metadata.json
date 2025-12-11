@@ -1,0 +1,11 @@
+{
+  "name": "ddn-evo",
+  "version": "0.1.0",
+  "summary": "Discrete Distribution Networks with Evolutionary Algorithms",
+  "author": "Emre Dinc",
+  "license": null,
+  "home_page": "https://github.com/EmreDinc10/ddn_evo",
+  "download_filename": "ddn_evo-0.1.0.tar.gz",
+  "download_time": "2025-12-11T22:14:46.246747",
+  "package_url": "https://pypi.org/project/ddn-evo/"
+}

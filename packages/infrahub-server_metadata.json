@@ -1,0 +1,11 @@
+{
+  "name": "infrahub-server",
+  "version": "1.6.1",
+  "summary": "Infrahub is taking a new approach to Infrastructure Management by providing a new generation of datastore to organize and control all the data that defines how an infrastructure should run.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "infrahub_server-1.6.1.tar.gz",
+  "download_time": "2025-12-11T22:14:58.114954",
+  "package_url": "https://pypi.org/project/infrahub-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "types-boto3-sesv2",
-  "version": "1.42.5",
-  "summary": "Type annotations for boto3 SESV2 1.42.5 service generated with mypy-boto3-builder 8.12.0",
+  "version": "1.42.8",
+  "summary": "Type annotations for boto3 SESV2 1.42.8 service generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "types_boto3_sesv2-1.42.5.tar.gz",
-  "download_time": "2025-12-08T20:52:55.051217",
+  "download_filename": "types_boto3_sesv2-1.42.8.tar.gz",
+  "download_time": "2025-12-11T22:14:24.665194",
   "package_url": "https://pypi.org/project/types-boto3-sesv2/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-organizations",
+  "version": "1.42.3",
+  "summary": "Type annotations for boto3 Organizations 1.42.3 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_boto3_organizations-1.42.3.tar.gz",
+  "download_time": "2025-12-11T22:14:28.876323",
+  "package_url": "https://pypi.org/project/types-boto3-organizations/"
+}

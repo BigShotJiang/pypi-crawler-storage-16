@@ -1,0 +1,11 @@
+{
+  "name": "parse-lp",
+  "version": "3.0.3",
+  "summary": "A LP file format parser for Python, powered by Rust",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parse_lp-3.0.3.tar.gz",
+  "download_time": "2025-12-11T22:14:39.036986",
+  "package_url": "https://pypi.org/project/parse-lp/"
+}

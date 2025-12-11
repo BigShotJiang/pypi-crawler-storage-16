@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-report",
+  "version": "1.0.2",
+  "summary": "Universal FastAPI documentation generator - automatically document REST endpoints and MCP tools",
+  "author": "FastAPI Report Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/maat16/fastapi-report",
+  "download_filename": "fastapi_report-1.0.2.tar.gz",
+  "download_time": "2025-12-11T22:40:33.045916",
+  "package_url": "https://pypi.org/project/fastapi-report/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "metrics_layer",
+  "version": "0.16.26",
+  "summary": "The open source metrics layer.",
+  "author": "Paul Blankley",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/Zenlytic/metrics_layer",
+  "download_filename": "metrics_layer-0.16.26.tar.gz",
+  "download_time": "2025-12-11T22:41:12.267503",
+  "package_url": "https://pypi.org/project/metrics_layer/"
+}

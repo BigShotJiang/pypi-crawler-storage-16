@@ -1,0 +1,11 @@
+{
+  "name": "spcm",
+  "version": "1.11.1",
+  "summary": "Package for Spectrum Instrumentation GmbH cards",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spcm-1.11.1.tar.gz",
+  "download_time": "2025-12-11T13:14:09.081546",
+  "package_url": "https://pypi.org/project/spcm/"
+}

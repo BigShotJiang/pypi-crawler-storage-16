@@ -1,11 +1,11 @@
 {
   "name": "brynq-sdk-brynq",
-  "version": "4.1.6",
+  "version": "4.1.7",
   "summary": "BrynQ SDK for the BrynQ.com platform",
   "author": "BrynQ",
   "license": "BrynQ License",
   "home_page": null,
-  "download_filename": "brynq_sdk_brynq-4.1.6.tar.gz",
-  "download_time": "2025-12-09T14:16:11.043166",
+  "download_filename": "brynq_sdk_brynq-4.1.7.tar.gz",
+  "download_time": "2025-12-11T13:14:21.893837",
   "package_url": "https://pypi.org/project/brynq-sdk-brynq/"
 }

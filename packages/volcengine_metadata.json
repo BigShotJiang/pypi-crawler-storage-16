@@ -1,0 +1,11 @@
+{
+  "name": "volcengine",
+  "version": "1.0.209",
+  "summary": "The Volcengine SDK for Python",
+  "author": "Volcengine SDK",
+  "license": "MIT License",
+  "home_page": "https://github.com/Volcengine/volc-sdk-python",
+  "download_filename": "volcengine-1.0.209.tar.gz",
+  "download_time": "2025-12-11T13:14:31.681863",
+  "package_url": "https://pypi.org/project/volcengine/"
+}

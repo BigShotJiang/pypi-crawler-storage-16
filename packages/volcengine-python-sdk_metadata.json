@@ -1,11 +1,11 @@
 {
   "name": "volcengine-python-sdk",
-  "version": "4.0.41",
+  "version": "4.0.42",
   "summary": "Volcengine SDK for Python",
   "author": null,
   "license": null,
   "home_page": "https://github.com/volcengine/volcengine-python-sdk",
-  "download_filename": "volcengine_python_sdk-4.0.41.tar.gz",
-  "download_time": "2025-12-09T07:41:02.387874",
+  "download_filename": "volcengine_python_sdk-4.0.42.tar.gz",
+  "download_time": "2025-12-11T13:14:28.700990",
   "package_url": "https://pypi.org/project/volcengine-python-sdk/"
 }

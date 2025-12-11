@@ -1,11 +1,11 @@
 {
   "name": "mapget",
-  "version": "2025.4.0",
+  "version": "2025.5.0",
   "summary": "Python bindings for the mapget library.",
   "author": "Klebert Engineering",
   "license": null,
   "home_page": "https://github.com/klebert-engineering/mapget",
-  "download_filename": "mapget-2025.4.0-cp310-cp310-macosx_10_15_x86_64.whl",
-  "download_time": "2025-12-10T15:55:58.304535",
+  "download_filename": "mapget-2025.5.0-cp310-cp310-manylinux_2_28_aarch64.whl",
+  "download_time": "2025-12-11T13:14:26.933556",
   "package_url": "https://pypi.org/project/mapget/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "textual-mastermind",
+  "version": "3.1.0",
+  "summary": "Mastermind game built with Textual",
+  "author": "Rafal Padkowski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "textual_mastermind-3.1.0.tar.gz",
+  "download_time": "2025-12-11T13:13:46.242150",
+  "package_url": "https://pypi.org/project/textual-mastermind/"
+}

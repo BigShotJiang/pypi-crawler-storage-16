@@ -1,11 +1,11 @@
 {
   "name": "owid-grapher-py",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "summary": "OWID charts for rendering in Jupyter notebooks.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "owid_grapher_py-0.2.4.tar.gz",
-  "download_time": "2025-12-11T09:19:36.000478",
+  "download_filename": "owid_grapher_py-0.3.0.tar.gz",
+  "download_time": "2025-12-11T13:13:47.149265",
   "package_url": "https://pypi.org/project/owid-grapher-py/"
 }

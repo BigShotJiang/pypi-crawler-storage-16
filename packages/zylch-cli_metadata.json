@@ -1,0 +1,11 @@
+{
+  "name": "zylch-cli",
+  "version": "0.9.0",
+  "summary": "Thin CLI client for Zylch AI - connects to Zylch API server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zylch_cli-0.9.0.tar.gz",
+  "download_time": "2025-12-11T13:14:22.539793",
+  "package_url": "https://pypi.org/project/zylch-cli/"
+}

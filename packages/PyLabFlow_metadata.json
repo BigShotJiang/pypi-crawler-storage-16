@@ -1,0 +1,11 @@
+{
+  "name": "PyLabFlow",
+  "version": "0.2.1.4",
+  "summary": "PyLabFlow is a lightweight framework that simplifies experiment management, reducing setup time with reusable components for training, logging, and checkpointing. It streamlines workflows, making it ideal for fast and efficient experimentation.",
+  "author": "BBEK-Anand",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ExperQuick/PyLabFlow",
+  "download_filename": "pylabflow-0.2.1.4.tar.gz",
+  "download_time": "2025-12-11T13:14:08.432375",
+  "package_url": "https://pypi.org/project/PyLabFlow/"
+}

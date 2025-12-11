@@ -1,0 +1,11 @@
+{
+  "name": "viresclient",
+  "version": "0.14.0",
+  "summary": "A Python client for interacting with a VirES server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "viresclient-0.14.0.tar.gz",
+  "download_time": "2025-12-11T11:14:39.042589",
+  "package_url": "https://pypi.org/project/viresclient/"
+}

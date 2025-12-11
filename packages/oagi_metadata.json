@@ -1,0 +1,11 @@
+{
+  "name": "oagi",
+  "version": "0.12.0",
+  "summary": "Official API of OpenAGI Foundation (metapackage with all features)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oagi-0.12.0.tar.gz",
+  "download_time": "2025-12-11T11:14:35.915591",
+  "package_url": "https://pypi.org/project/oagi/"
+}

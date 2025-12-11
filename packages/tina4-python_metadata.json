@@ -1,11 +1,11 @@
 {
   "name": "tina4-python",
-  "version": "0.2.144",
+  "version": "0.2.145",
   "summary": "Tina4Python - This is not another framework for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tina4_python-0.2.144.tar.gz",
-  "download_time": "2025-12-11T09:19:16.513568",
+  "download_filename": "tina4_python-0.2.145.tar.gz",
+  "download_time": "2025-12-11T11:14:28.634945",
   "package_url": "https://pypi.org/project/tina4-python/"
 }

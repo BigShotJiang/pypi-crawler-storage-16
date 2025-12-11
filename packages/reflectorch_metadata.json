@@ -1,0 +1,11 @@
+{
+  "name": "reflectorch",
+  "version": "1.5.1",
+  "summary": "A Pytorch-based package for the analysis of reflectometry data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reflectorch-1.5.1.tar.gz",
+  "download_time": "2025-12-11T11:14:14.245988",
+  "package_url": "https://pypi.org/project/reflectorch/"
+}

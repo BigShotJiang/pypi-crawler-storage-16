@@ -1,11 +1,11 @@
 {
   "name": "pytimbr-api",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Timbr REST API connector",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytimbr_api-2.1.0.tar.gz",
-  "download_time": "2025-12-11T09:46:17.374908",
+  "download_filename": "pytimbr_api-2.1.1.tar.gz",
+  "download_time": "2025-12-11T11:14:33.309767",
   "package_url": "https://pypi.org/project/pytimbr-api/"
 }

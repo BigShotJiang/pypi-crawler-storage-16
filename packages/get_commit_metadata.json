@@ -1,0 +1,11 @@
+{
+  "name": "get_commit",
+  "version": "0.1.0",
+  "summary": "Get is a CLI tool that automates commit messages using Gemini AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "get_commit-0.1.0.tar.gz",
+  "download_time": "2025-12-11T11:14:30.709483",
+  "package_url": "https://pypi.org/project/get_commit/"
+}

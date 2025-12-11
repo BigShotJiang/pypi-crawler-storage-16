@@ -1,0 +1,11 @@
+{
+  "name": "mcp-chatkit-widget",
+  "version": "0.2.0",
+  "summary": "MCP server that loads ChatKit widgets from a directory and registers them as tools for AI agents to invoke and generate ChatKit widgets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_chatkit_widget-0.2.0.tar.gz",
+  "download_time": "2025-12-11T06:56:14.202396",
+  "package_url": "https://pypi.org/project/mcp-chatkit-widget/"
+}

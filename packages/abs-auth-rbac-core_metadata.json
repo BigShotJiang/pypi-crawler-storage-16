@@ -1,0 +1,11 @@
+{
+  "name": "abs-auth-rbac-core",
+  "version": "0.3.19",
+  "summary": "RBAC and Auth core utilities including JWT token management.",
+  "author": "AutoBridgeSystems",
+  "license": null,
+  "home_page": null,
+  "download_filename": "abs_auth_rbac_core-0.3.19.tar.gz",
+  "download_time": "2025-12-11T06:55:54.830290",
+  "package_url": "https://pypi.org/project/abs-auth-rbac-core/"
+}

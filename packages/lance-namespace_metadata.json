@@ -1,0 +1,11 @@
+{
+  "name": "lance-namespace",
+  "version": "0.3.1",
+  "summary": "Lance Namespace interface and plugin registry",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lance_namespace-0.3.1.tar.gz",
+  "download_time": "2025-12-11T06:56:04.289339",
+  "package_url": "https://pypi.org/project/lance-namespace/"
+}

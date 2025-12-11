@@ -1,11 +1,11 @@
 {
   "name": "vuer",
-  "version": "0.0.69",
+  "version": "0.0.70",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vuer-0.0.69.tar.gz",
-  "download_time": "2025-12-11T04:04:52.646131",
+  "download_filename": "vuer-0.0.70.tar.gz",
+  "download_time": "2025-12-11T06:56:26.291208",
   "package_url": "https://pypi.org/project/vuer/"
 }

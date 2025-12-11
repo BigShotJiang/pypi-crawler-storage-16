@@ -1,0 +1,11 @@
+{
+  "name": "pinggy",
+  "version": "0.0.20",
+  "summary": "Tunneling tool",
+  "author": "Pinggy",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "pinggy-0.0.20-cp310-abi3-manylinux_2_28_aarch64.whl",
+  "download_time": "2025-12-11T06:56:21.020778",
+  "package_url": "https://pypi.org/project/pinggy/"
+}

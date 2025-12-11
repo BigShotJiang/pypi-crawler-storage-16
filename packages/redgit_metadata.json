@@ -1,11 +1,11 @@
 {
   "name": "redgit",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "AI-powered Git workflow assistant with task management integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "redgit-1.1.3.tar.gz",
-  "download_time": "2025-12-11T04:05:03.751516",
+  "download_filename": "redgit-1.1.4.tar.gz",
+  "download_time": "2025-12-11T06:56:26.813254",
   "package_url": "https://pypi.org/project/redgit/"
 }

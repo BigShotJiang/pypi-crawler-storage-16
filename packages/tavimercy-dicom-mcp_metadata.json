@@ -1,11 +1,11 @@
 {
   "name": "tavimercy-dicom-mcp",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "基于 MCP (Model Context Protocol) 的 DICOM 医学影像文件分析工具",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tavimercy_dicom_mcp-2.1.1.tar.gz",
-  "download_time": "2025-12-11T05:55:41.852555",
+  "download_filename": "tavimercy_dicom_mcp-2.1.2.tar.gz",
+  "download_time": "2025-12-11T06:56:01.672914",
   "package_url": "https://pypi.org/project/tavimercy-dicom-mcp/"
 }

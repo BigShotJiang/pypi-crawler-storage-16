@@ -1,11 +1,11 @@
 {
   "name": "quanta-pdf",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Advanced PDF layout analysis engine for extracting figures, tables, and structured content",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quanta_pdf-1.0.4.tar.gz",
-  "download_time": "2025-12-11T05:55:30.027215",
+  "download_filename": "quanta_pdf-1.0.5.tar.gz",
+  "download_time": "2025-12-11T06:56:10.024440",
   "package_url": "https://pypi.org/project/quanta-pdf/"
 }

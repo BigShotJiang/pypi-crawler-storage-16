@@ -1,11 +1,11 @@
 {
   "name": "pysbs-peru",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "pysbs-peru Cliente Python no oficial para acceder a datos financieros públicos de la SBS Perú (Curvas, Vectores, Spreads) | Market Data Perú | Finanzas",
   "author": "Erik Carl Candela Rojas",
   "license": "NOTFOUND",
   "home_page": null,
-  "download_filename": "pysbs_peru-0.0.2.tar.gz",
-  "download_time": "2025-12-09T20:48:42.993665",
+  "download_filename": "pysbs_peru-0.0.3.tar.gz",
+  "download_time": "2025-12-11T06:56:19.939737",
   "package_url": "https://pypi.org/project/pysbs-peru/"
 }

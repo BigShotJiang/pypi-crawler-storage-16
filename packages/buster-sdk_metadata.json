@@ -1,11 +1,11 @@
 {
   "name": "buster-sdk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A Python SDK for Buster",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "buster_sdk-0.0.2.tar.gz",
-  "download_time": "2025-12-10T21:51:36.470043",
+  "download_filename": "buster_sdk-0.0.3.tar.gz",
+  "download_time": "2025-12-11T06:56:23.648263",
   "package_url": "https://pypi.org/project/buster-sdk/"
 }

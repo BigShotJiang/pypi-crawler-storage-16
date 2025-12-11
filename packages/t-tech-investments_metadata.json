@@ -1,0 +1,11 @@
+{
+  "name": "t-tech-investments",
+  "version": "0.3.0",
+  "summary": "T-Invest Python SDK",
+  "author": "Invest Public API Team",
+  "license": "Apache-2.0",
+  "home_page": "https://developer.tbank.ru/invest/intro/intro",
+  "download_filename": "t_tech_investments-0.3.0.tar.gz",
+  "download_time": "2025-12-11T06:55:51.670348",
+  "package_url": "https://pypi.org/project/t-tech-investments/"
+}

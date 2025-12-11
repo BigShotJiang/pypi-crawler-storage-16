@@ -1,11 +1,11 @@
 {
   "name": "exifplus",
-  "version": "1.1.6",
+  "version": "1.2.0",
   "summary": "A simple EXIF metadata viewer and editor.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "exifplus-1.1.6.tar.gz",
-  "download_time": "2025-12-10T10:44:45.802931",
+  "download_filename": "exifplus-1.2.0.tar.gz",
+  "download_time": "2025-12-11T06:56:07.419462",
   "package_url": "https://pypi.org/project/exifplus/"
 }

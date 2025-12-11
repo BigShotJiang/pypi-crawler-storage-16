@@ -1,0 +1,11 @@
+{
+  "name": "nlpertools",
+  "version": "1.0.12",
+  "summary": "A small package about small basic IO operation when coding",
+  "author": "youshuJi",
+  "license": null,
+  "home_page": "https://github.com/lvzii/nlpertools",
+  "download_filename": "nlpertools-1.0.12.tar.gz",
+  "download_time": "2025-12-11T06:55:50.056016",
+  "package_url": "https://pypi.org/project/nlpertools/"
+}

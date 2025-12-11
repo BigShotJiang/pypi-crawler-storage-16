@@ -1,11 +1,11 @@
 {
   "name": "nexo-google",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "Google package for Nexo",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "nexo_google-0.0.10.tar.gz",
-  "download_time": "2025-12-10T10:16:27.204474",
+  "download_filename": "nexo_google-0.0.11.tar.gz",
+  "download_time": "2025-12-11T06:56:18.374814",
   "package_url": "https://pypi.org/project/nexo-google/"
 }

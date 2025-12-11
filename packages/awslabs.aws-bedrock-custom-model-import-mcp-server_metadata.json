@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.aws-bedrock-custom-model-import-mcp-server",
+  "version": "0.0.7",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for Bedrock Custom Model Import",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "awslabs_aws_bedrock_custom_model_import_mcp_server-0.0.7.tar.gz",
+  "download_time": "2025-12-11T23:32:03.578180",
+  "package_url": "https://pypi.org/project/awslabs.aws-bedrock-custom-model-import-mcp-server/"
+}

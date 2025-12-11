@@ -1,0 +1,11 @@
+{
+  "name": "pyNTM",
+  "version": "4.0.1",
+  "summary": "Network traffic modeler API written in Python 3",
+  "author": "Tim Fiola",
+  "license": null,
+  "home_page": "https://github.com/tim-fiola/network_traffic_modeler_py3",
+  "download_filename": "pyntm-4.0.1.tar.gz",
+  "download_time": "2025-12-11T23:32:21.039480",
+  "package_url": "https://pypi.org/project/pyNTM/"
+}

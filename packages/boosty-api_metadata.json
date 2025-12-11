@@ -1,0 +1,11 @@
+{
+  "name": "boosty-api",
+  "version": "1.0.0",
+  "summary": "Boosty.to unofficial API client for authentication and user operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boosty_api-1.0.0.tar.gz",
+  "download_time": "2025-12-11T23:32:01.911380",
+  "package_url": "https://pypi.org/project/boosty-api/"
+}

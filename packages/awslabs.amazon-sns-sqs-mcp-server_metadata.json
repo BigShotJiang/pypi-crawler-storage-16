@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.amazon-sns-sqs-mcp-server",
+  "version": "2.0.11",
+  "summary": "A Model Context Protocol server for Amazon SNS and SQS to provision and manage your messaging services",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_amazon_sns_sqs_mcp_server-2.0.11.tar.gz",
+  "download_time": "2025-12-11T23:32:09.412066",
+  "package_url": "https://pypi.org/project/awslabs.amazon-sns-sqs-mcp-server/"
+}

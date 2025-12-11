@@ -1,0 +1,11 @@
+{
+  "name": "tiledb-bioimg",
+  "version": "0.3.10",
+  "summary": "Package supports all bio-imaging functionality provided by TileDB",
+  "author": "TileDB, Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/TileDB-Inc/TileDB-Bioimaging",
+  "download_filename": "tiledb_bioimg-0.3.10-py3-none-any.whl",
+  "download_time": "2025-12-11T23:32:14.771558",
+  "package_url": "https://pypi.org/project/tiledb-bioimg/"
+}

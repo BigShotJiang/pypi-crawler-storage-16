@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.amazon-mq-mcp-server",
+  "version": "2.0.12",
+  "summary": "A Model Context Protocol server for AmazonMQ to provision and manage your AMQ brokers",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_amazon_mq_mcp_server-2.0.12.tar.gz",
+  "download_time": "2025-12-11T23:32:08.876808",
+  "package_url": "https://pypi.org/project/awslabs.amazon-mq-mcp-server/"
+}

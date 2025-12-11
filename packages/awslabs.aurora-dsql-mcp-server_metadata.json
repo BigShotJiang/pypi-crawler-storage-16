@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.aurora-dsql-mcp-server",
+  "version": "1.0.10",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for Aurora DSQL",
+  "author": "Amazon Web Services, Ram Dwivedula, Yoni Shalom",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_aurora_dsql_mcp_server-1.0.10.tar.gz",
+  "download_time": "2025-12-11T23:32:05.733226",
+  "package_url": "https://pypi.org/project/awslabs.aurora-dsql-mcp-server/"
+}

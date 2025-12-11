@@ -1,17 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-11T23:14:32.702395
-- **Total Packages**: 88
-- **Total Size**: 26.27 MB
+- **Download Time**: 2025-12-11T23:32:46.453030
+- **Total Packages**: 86
+- **Total Size**: 17.07 MB
 
 ## Packages List
+- cider-cli
+- univi
+- mh_structlog
+- boosty-api
+- tombi
+- streamware
+- awslabs.aws-bedrock-custom-model-import-mcp-server
+- awslabs.aws-appsync-mcp-server
+- optimflow-lifex
+- pyenvector
+- awslabs.aurora-dsql-mcp-server
+- awslabs.amazon-qindex-mcp-server
+- awslabs.amazon-qbusiness-anonymous-mcp-server
+- awslabs.amazon-keyspaces-mcp-server
+- awslabs.amazon-kendra-index-mcp-server
+- bioviz-kit
+- awslabs.amazon-mq-mcp-server
+- awslabs.amazon-sns-sqs-mcp-server
+- awslabs.amazon-bedrock-agentcore-mcp-server
+- awslabs.amazon-neptune-mcp-server
+- awslabs.aws-api-mcp-server
+- messthaler-wulff
+- dynamarq
+- ct-veegan
+- simba-uw-tf-dev
+- ternimator
+- IRanges
+- tiledb-bioimg
+- optimflow
+- ntn
+- logging-singleton
+- abstract-ide
+- haoline
+- stats-compass-core
+- gmdkit
+- dvt-core
+- djb
+- zipstrain
+- nexaai
+- pyNTM
+- oop-di
+- sayou-core
+- msgflux
+- liman-signal-processing
+- whatsplay
+- smart-data-manager
+- pdflinkcheck
+- fastyr-ai-pipeline
+- colation
+- nuacht
+- buildrunner
+- assisted-service-client
+- elifecleaner
+- ntnx-ncm-dsl
 - ciffy
 - access-specifiers
 - aind-behavior-vr-foraging
-- haoline
 - biblemategui
-- ct-veegan
 - atlas-actris
 - agent-framework-devui-visualizations
 - tclogger
@@ -26,7 +78,6 @@
 - tiledbsoma
 - amd-nerfacc
 - vcfcache
-- streamware
 - graphlit-client
 - aind-clabe
 - fastmcp
@@ -34,7 +85,6 @@
 - atomicds
 - trackio
 - django-spellbook
-- ntn
 - im-calculation
 - trulens
 - trulens-eval
@@ -42,55 +92,3 @@
 - trulens-providers-litellm
 - trulens-providers-langchain
 - trulens-providers-huggingface
-- trulens-providers-google
-- trulens-providers-cortex
-- trulens-providers-bedrock
-- trulens-otel-semconv
-- trulens-hotspots
-- trulens-feedback
-- trulens-dashboard
-- trulens-core
-- trulens-connectors-snowflake
-- trulens-benchmark
-- trulens-apps-nemo
-- trulens-apps-llamaindex
-- trulens-apps-langgraph
-- trulens-apps-langchain
-- titangpt
-- web-scraper-toolkit
-- ogcapi-registry
-- discrete-continuous-embed-readout
-- amd-gsplat
-- svc-infra
-- SnakeScan
-- glvar
-- databricks-labs-lakebridge
-- djb
-- sc-utility
-- jsonql-db
-- alliance-platform-codegen
-- hcs-cli
-- artifact-experiment
-- hcs-core
-- linkture
-- ext4
-- cuga
-- messthaler-wulff
-- c2cciutils
-- actio
-- nuql
-- pdflinkcheck
-- synth-ai
-- tab-transformer-pytorch
-- select-ai
-- serialcables-hydra
-- cuopt-server-cu13
-- cuopt-server-cu12
-- cuopt-sh-client
-- amd-lightgbm
-- pressoir
-- msgflux
-- tool-search
-- uv-upx
-- atomscale
-- mcp-run-python

@@ -1,11 +1,11 @@
 {
   "name": "pdflinkcheck",
-  "version": "1.1.10",
+  "version": "1.1.12",
   "summary": "A purpose-built PDF link analysis reporting tool.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pdflinkcheck-1.1.10.tar.gz",
-  "download_time": "2025-12-11T22:52:15.736308",
+  "download_filename": "pdflinkcheck-1.1.12.tar.gz",
+  "download_time": "2025-12-11T23:32:24.703324",
   "package_url": "https://pypi.org/project/pdflinkcheck/"
 }

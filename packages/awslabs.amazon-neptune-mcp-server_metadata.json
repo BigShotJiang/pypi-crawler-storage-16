@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.amazon-neptune-mcp-server",
+  "version": "1.0.8",
+  "summary": "An Amazon Neptune MCP server that allows for fetching status, schema, and querying using openCypher, Gremlin, and SPARQL for Neptune Database and openCypher for Neptune Analytics.",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_amazon_neptune_mcp_server-1.0.8.tar.gz",
+  "download_time": "2025-12-11T23:32:10.455578",
+  "package_url": "https://pypi.org/project/awslabs.amazon-neptune-mcp-server/"
+}

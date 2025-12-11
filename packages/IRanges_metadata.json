@@ -1,0 +1,11 @@
+{
+  "name": "IRanges",
+  "version": "0.6.0",
+  "summary": "Python implementation of the [**IRanges**](https://bioconductor.org/packages/IRanges) Bioconductor package.",
+  "author": "LTLA",
+  "license": "MIT",
+  "home_page": "https://github.com/biocpy/iranges",
+  "download_filename": "iranges-0.6.0.tar.gz",
+  "download_time": "2025-12-11T23:32:14.251243",
+  "package_url": "https://pypi.org/project/IRanges/"
+}

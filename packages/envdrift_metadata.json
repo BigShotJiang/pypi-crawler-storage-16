@@ -1,11 +1,11 @@
 {
   "name": "envdrift",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "summary": "Prevent environment variable drift with Pydantic schema validation, pre-commit hooks, and dotenvx encryption",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "envdrift-0.1.0.tar.gz",
-  "download_time": "2025-12-10T05:40:04.583155",
+  "download_filename": "envdrift-1.1.0.tar.gz",
+  "download_time": "2025-12-11T03:01:54.033880",
   "package_url": "https://pypi.org/project/envdrift/"
 }

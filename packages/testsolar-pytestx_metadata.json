@@ -1,11 +1,11 @@
 {
   "name": "testsolar-pytestx",
-  "version": "0.1.67",
+  "version": "0.1.70",
   "summary": "Pytest tool for TestSolar",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "testsolar_pytestx-0.1.67.tar.gz",
-  "download_time": "2025-12-10T13:12:07.256939",
+  "download_filename": "testsolar_pytestx-0.1.70.tar.gz",
+  "download_time": "2025-12-11T03:01:58.400375",
   "package_url": "https://pypi.org/project/testsolar-pytestx/"
 }

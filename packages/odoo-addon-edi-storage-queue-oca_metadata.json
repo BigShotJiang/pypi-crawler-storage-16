@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-edi-storage-queue-oca",
+  "version": "18.0.1.0.0.4",
+  "summary": "Integrates EDI Storage with Queue",
+  "author": "ACSONE,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/edi-framework",
+  "download_filename": "odoo_addon_edi_storage_queue_oca-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-12-11T03:01:39.165177",
+  "package_url": "https://pypi.org/project/odoo-addon-edi-storage-queue-oca/"
+}

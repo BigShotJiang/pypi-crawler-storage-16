@@ -1,0 +1,11 @@
+{
+  "name": "env-canada",
+  "version": "0.12.2",
+  "summary": "A package to access meteorological data from Environment Canada",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "env_canada-0.12.2.tar.gz",
+  "download_time": "2025-12-11T03:02:01.080937",
+  "package_url": "https://pypi.org/project/env-canada/"
+}

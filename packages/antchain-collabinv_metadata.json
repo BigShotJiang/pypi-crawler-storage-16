@@ -1,0 +1,11 @@
+{
+  "name": "antchain-collabinv",
+  "version": "1.0.61",
+  "summary": "Ant Chain COLLABINV SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_collabinv-1.0.61.tar.gz",
+  "download_time": "2025-12-11T03:02:24.194939",
+  "package_url": "https://pypi.org/project/antchain-collabinv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "inspeqtor",
+  "version": "0.1.0",
+  "summary": "Python library for characterization and calibration of quantum device.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inspeqtor-0.1.0.tar.gz",
+  "download_time": "2025-12-11T03:01:56.176412",
+  "package_url": "https://pypi.org/project/inspeqtor/"
+}

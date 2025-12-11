@@ -1,11 +1,11 @@
 {
   "name": "airbyte",
-  "version": "0.33.8",
+  "version": "0.34.0",
   "summary": "PyAirbyte",
   "author": "Airbyte",
   "license": null,
   "home_page": null,
-  "download_filename": "airbyte-0.33.8.tar.gz",
-  "download_time": "2025-12-10T21:51:53.108944",
+  "download_filename": "airbyte-0.34.0.tar.gz",
+  "download_time": "2025-12-11T03:02:03.759746",
   "package_url": "https://pypi.org/project/airbyte/"
 }

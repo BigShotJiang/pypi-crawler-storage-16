@@ -1,11 +1,11 @@
 {
   "name": "OpenGeodeWeb-Back",
-  "version": "5.14.0",
+  "version": "5.14.1",
   "summary": "OpenGeodeWeb-Back is an open source framework that proposes handy python functions and wrappers for the OpenGeode ecosystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opengeodeweb_back-5.14.0.tar.gz",
-  "download_time": "2025-12-10T15:56:18.443776",
+  "download_filename": "opengeodeweb_back-5.14.1.tar.gz",
+  "download_time": "2025-12-11T03:02:15.894219",
   "package_url": "https://pypi.org/project/OpenGeodeWeb-Back/"
 }

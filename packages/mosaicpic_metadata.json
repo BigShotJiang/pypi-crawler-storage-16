@@ -1,0 +1,11 @@
+{
+  "name": "mosaicpic",
+  "version": "0.6.0",
+  "summary": "Convert images to mosaic tile patterns with perceptual color matching",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mosaicpic-0.6.0.tar.gz",
+  "download_time": "2025-12-11T03:02:09.019445",
+  "package_url": "https://pypi.org/project/mosaicpic/"
+}

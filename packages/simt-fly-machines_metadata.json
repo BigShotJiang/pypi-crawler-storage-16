@@ -1,0 +1,11 @@
+{
+  "name": "simt-fly-machines",
+  "version": "0.2.4",
+  "summary": "A python API to start, stop and list Fly.io machines",
+  "author": "Chris Hatch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simt_fly_machines-0.2.4.tar.gz",
+  "download_time": "2025-12-11T03:02:16.957983",
+  "package_url": "https://pypi.org/project/simt-fly-machines/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "picsellia",
+  "version": "6.28.0",
+  "summary": "Python SDK package for Picsellia MLOps platform",
+  "author": "Pierre-Nicolas Tiffreau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "picsellia-6.28.0.tar.gz",
+  "download_time": "2025-12-11T09:19:50.506482",
+  "package_url": "https://pypi.org/project/picsellia/"
+}

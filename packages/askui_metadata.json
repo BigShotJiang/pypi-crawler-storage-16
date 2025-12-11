@@ -1,11 +1,11 @@
 {
   "name": "askui",
-  "version": "0.22.8",
+  "version": "0.22.9",
   "summary": "Automate computer tasks in Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "askui-0.22.8.tar.gz",
-  "download_time": "2025-12-09T20:32:41.349975",
+  "download_filename": "askui-0.22.9.tar.gz",
+  "download_time": "2025-12-11T09:19:08.287249",
   "package_url": "https://pypi.org/project/askui/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cjm-transcription-plugin-whisper",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "OpenAI Whisper plugin for the cjm-transcription-plugin-system library - provides local speech-to-text transcription with configurable model selection and parameter control.",
   "author": "Christian J. Mills",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/cj-mills/cjm-transcription-plugin-whisper",
-  "download_filename": "cjm_transcription_plugin_whisper-0.0.6.tar.gz",
-  "download_time": "2025-12-11T04:48:37.278377",
+  "download_filename": "cjm_transcription_plugin_whisper-0.0.7.tar.gz",
+  "download_time": "2025-12-11T09:19:44.083321",
   "package_url": "https://pypi.org/project/cjm-transcription-plugin-whisper/"
 }

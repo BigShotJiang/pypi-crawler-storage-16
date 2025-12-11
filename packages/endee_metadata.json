@@ -1,11 +1,11 @@
 {
   "name": "endee",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Enddee is the Next-Generation Vector Database for Scalable, High-Performance AI",
   "author": "Endee Labs",
   "license": null,
   "home_page": "https://endee.io",
-  "download_filename": "endee-0.1.3.tar.gz",
-  "download_time": "2025-12-09T04:22:51.362569",
+  "download_filename": "endee-0.1.4.tar.gz",
+  "download_time": "2025-12-11T09:19:14.785423",
   "package_url": "https://pypi.org/project/endee/"
 }

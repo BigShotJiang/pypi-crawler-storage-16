@@ -1,0 +1,11 @@
+{
+  "name": "lsst-ctrl-bps-htcondor",
+  "version": "30.2025.5000",
+  "summary": "HTCondor plugin for lsst-ctrl-bps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsst_ctrl_bps_htcondor-30.2025.5000.tar.gz",
+  "download_time": "2025-12-11T09:19:37.651124",
+  "package_url": "https://pypi.org/project/lsst-ctrl-bps-htcondor/"
+}

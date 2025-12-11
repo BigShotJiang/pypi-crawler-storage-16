@@ -1,11 +1,11 @@
 {
   "name": "radia",
-  "version": "1.3.10",
+  "version": "1.3.13",
   "summary": "Radia 3D Magnetostatics with NGSolve Integration and OpenMP Parallelization",
   "author": "Pascal Elleaume",
   "license": "BSD-style AND MIT",
   "home_page": "https://github.com/ksugahar/Radia_NGSolve",
-  "download_filename": "radia-1.3.10.tar.gz",
-  "download_time": "2025-12-10T04:28:34.283378",
+  "download_filename": "radia-1.3.13.tar.gz",
+  "download_time": "2025-12-11T09:19:33.817787",
   "package_url": "https://pypi.org/project/radia/"
 }

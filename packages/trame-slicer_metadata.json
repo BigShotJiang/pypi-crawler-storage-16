@@ -1,11 +1,11 @@
 {
   "name": "trame-slicer",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "summary": "trame-slicer library",
   "author": null,
   "license": "Apache 2.0 License",
   "home_page": null,
-  "download_filename": "trame_slicer-1.7.0.tar.gz",
-  "download_time": "2025-12-09T06:53:13.172236",
+  "download_filename": "trame_slicer-1.7.1.tar.gz",
+  "download_time": "2025-12-11T09:19:40.924941",
   "package_url": "https://pypi.org/project/trame-slicer/"
 }

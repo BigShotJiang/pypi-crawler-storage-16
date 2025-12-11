@@ -1,0 +1,11 @@
+{
+  "name": "colony",
+  "version": "1.4.31",
+  "summary": "Colony Framework",
+  "author": "Hive Solutions Lda.",
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://getcolony.com",
+  "download_filename": "colony-1.4.31.tar.gz",
+  "download_time": "2025-12-11T05:17:57.122208",
+  "package_url": "https://pypi.org/project/colony/"
+}

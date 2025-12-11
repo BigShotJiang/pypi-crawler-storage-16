@@ -1,11 +1,11 @@
 {
   "name": "quazydb",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "summary": "Powerful yet simple Python ORM",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "quazydb-1.2.6-py3-none-any.whl",
-  "download_time": "2025-12-10T19:03:01.905396",
+  "download_filename": "quazydb-1.2.7-py3-none-any.whl",
+  "download_time": "2025-12-11T05:18:24.055729",
   "package_url": "https://pypi.org/project/quazydb/"
 }

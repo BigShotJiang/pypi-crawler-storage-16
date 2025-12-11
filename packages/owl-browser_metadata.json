@@ -1,11 +1,11 @@
 {
   "name": "owl-browser",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "AI-first browser automation SDK with on-device vision model and natural language selectors",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "owl_browser-1.2.2.tar.gz",
-  "download_time": "2025-12-08T23:30:30.945743",
+  "download_filename": "owl_browser-1.2.3.tar.gz",
+  "download_time": "2025-12-11T05:18:14.721916",
   "package_url": "https://pypi.org/project/owl-browser/"
 }

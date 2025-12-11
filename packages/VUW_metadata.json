@@ -1,11 +1,11 @@
 {
   "name": "VUW",
-  "version": "1.5.1",
+  "version": "1.5.3",
   "summary": "보험 데이터 분석용 Python 패키지",
   "author": "Jiwon Chae",
   "license": "MIT",
   "home_page": "https://github.com/lalapetitechae/vuw",
-  "download_filename": "vuw-1.5.1.tar.gz",
-  "download_time": "2025-12-11T04:48:21.629876",
+  "download_filename": "vuw-1.5.3.tar.gz",
+  "download_time": "2025-12-11T05:17:59.189031",
   "package_url": "https://pypi.org/project/VUW/"
 }

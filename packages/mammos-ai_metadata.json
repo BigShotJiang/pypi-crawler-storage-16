@@ -1,0 +1,11 @@
+{
+  "name": "mammos-ai",
+  "version": "0.2.0",
+  "summary": "Pre-trained AI models",
+  "author": "Christina Winkler, Timoteo Colnaghi, Swapneel Amit Pathak, Andrea Petrocchi, Samuel Holt, Martin Lang, Hans Fangohr, Andreas Marek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mammos_ai-0.2.0.tar.gz",
+  "download_time": "2025-12-11T20:17:34.479438",
+  "package_url": "https://pypi.org/project/mammos-ai/"
+}

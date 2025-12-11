@@ -1,0 +1,11 @@
+{
+  "name": "dwave-ocean-sdk",
+  "version": "9.2.0",
+  "summary": "Software development kit for open source D-Wave tools",
+  "author": "D-Wave",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/dwavesystems/dwave-ocean-sdk",
+  "download_filename": "dwave_ocean_sdk-9.2.0.tar.gz",
+  "download_time": "2025-12-11T20:17:17.467400",
+  "package_url": "https://pypi.org/project/dwave-ocean-sdk/"
+}

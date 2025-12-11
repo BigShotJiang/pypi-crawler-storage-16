@@ -1,0 +1,11 @@
+{
+  "name": "tclogger",
+  "version": "1.10",
+  "summary": "Python terminal colored logger",
+  "author": "Hansimov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tclogger-1.10.tar.gz",
+  "download_time": "2025-12-11T20:17:05.434717",
+  "package_url": "https://pypi.org/project/tclogger/"
+}

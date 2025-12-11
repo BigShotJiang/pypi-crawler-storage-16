@@ -1,0 +1,11 @@
+{
+  "name": "weblogin",
+  "version": "1.13",
+  "summary": "Automates logging into web UIs to access unofficial APIs",
+  "author": "Daniel Bosk",
+  "license": "MIT",
+  "home_page": "https://github.com/dbosk/weblogin",
+  "download_filename": "weblogin-1.13.tar.gz",
+  "download_time": "2025-12-11T20:17:16.404503",
+  "package_url": "https://pypi.org/project/weblogin/"
+}

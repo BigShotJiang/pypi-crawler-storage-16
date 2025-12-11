@@ -1,0 +1,11 @@
+{
+  "name": "heaserver-keychain",
+  "version": "1.11.0",
+  "summary": "a service for managing laboratory credentials",
+  "author": "Research Informatics Shared Resource, Huntsman Cancer Institute, Salt Lake City, UT",
+  "license": "Apache License 2.0",
+  "home_page": "https://risr.hci.utah.edu",
+  "download_filename": "heaserver_keychain-1.11.0.tar.gz",
+  "download_time": "2025-12-11T20:17:20.084222",
+  "package_url": "https://pypi.org/project/heaserver-keychain/"
+}

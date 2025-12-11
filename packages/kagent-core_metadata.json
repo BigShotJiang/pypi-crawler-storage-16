@@ -1,11 +1,11 @@
 {
   "name": "kagent-core",
-  "version": "0.7.6",
+  "version": "0.7.7",
   "summary": "kagent common library for kagent python packages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kagent_core-0.7.6.tar.gz",
-  "download_time": "2025-12-09T15:52:40.723340",
+  "download_filename": "kagent_core-0.7.7.tar.gz",
+  "download_time": "2025-12-11T15:47:05.196919",
   "package_url": "https://pypi.org/project/kagent-core/"
 }

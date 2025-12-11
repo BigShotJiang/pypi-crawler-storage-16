@@ -1,0 +1,11 @@
+{
+  "name": "admin-scripts",
+  "version": "0.6.9",
+  "summary": "Administration Scripts",
+  "author": "Hive Solutions Lda.",
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://admin-scripts.hive.pt",
+  "download_filename": "admin_scripts-0.6.9.tar.gz",
+  "download_time": "2025-12-11T15:47:32.315480",
+  "package_url": "https://pypi.org/project/admin-scripts/"
+}

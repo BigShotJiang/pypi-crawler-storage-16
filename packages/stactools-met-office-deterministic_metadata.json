@@ -1,11 +1,11 @@
 {
   "name": "stactools-met-office-deterministic",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Python package for generating STAC metadata for the Met Office Deterministic Numerical Weather Prediction model",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stactools_met_office_deterministic-0.3.1.tar.gz",
-  "download_time": "2025-12-10T22:49:08.049089",
+  "download_filename": "stactools_met_office_deterministic-0.3.2.tar.gz",
+  "download_time": "2025-12-11T15:47:47.374655",
   "package_url": "https://pypi.org/project/stactools-met-office-deterministic/"
 }

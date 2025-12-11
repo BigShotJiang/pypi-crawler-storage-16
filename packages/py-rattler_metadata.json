@@ -1,11 +1,11 @@
 {
   "name": "py-rattler",
-  "version": "0.19.0",
+  "version": "0.20.0",
   "summary": "A blazing fast library to work with the conda ecosystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_rattler-0.19.0.tar.gz",
-  "download_time": "2025-12-09T14:57:07.094227",
+  "download_filename": "py_rattler-0.20.0.tar.gz",
+  "download_time": "2025-12-11T15:47:09.846785",
   "package_url": "https://pypi.org/project/py-rattler/"
 }

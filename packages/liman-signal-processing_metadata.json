@@ -1,0 +1,11 @@
+{
+  "name": "liman-signal-processing",
+  "version": "0.2.4",
+  "summary": "Библиотека для обработки сырого сигнала в системах вибродиагностики и токовой диагностики",
+  "author": "Nikita Besednyi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "liman_signal_processing-0.2.4.tar.gz",
+  "download_time": "2025-12-11T15:47:28.067322",
+  "package_url": "https://pypi.org/project/liman-signal-processing/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "carbus-lib",
+  "version": "0.1.1",
+  "summary": "Async CAN / ISO-TP / UDS library for Car Bus Analyzer",
+  "author": "Mike",
+  "license": null,
+  "home_page": null,
+  "download_filename": "carbus_lib-0.1.1.tar.gz",
+  "download_time": "2025-12-11T15:47:23.936429",
+  "package_url": "https://pypi.org/project/carbus-lib/"
+}

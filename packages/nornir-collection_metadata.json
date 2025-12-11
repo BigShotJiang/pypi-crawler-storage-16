@@ -1,11 +1,11 @@
 {
   "name": "nornir-collection",
-  "version": "0.0.45",
+  "version": "0.0.47",
   "summary": "Nornir-Collection contains network automation functions and complete IaC workflows with         Nornir and other python libraries. It contains Nornir tasks and general functions in Nornir style.",
   "author": "Willi Kubny",
   "license": null,
   "home_page": null,
-  "download_filename": "nornir_collection-0.0.45.tar.gz",
-  "download_time": "2025-12-09T16:19:47.841281",
+  "download_filename": "nornir_collection-0.0.47.tar.gz",
+  "download_time": "2025-12-11T15:47:26.518886",
   "package_url": "https://pypi.org/project/nornir-collection/"
 }

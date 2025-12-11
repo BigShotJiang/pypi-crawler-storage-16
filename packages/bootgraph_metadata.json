@@ -1,0 +1,11 @@
+{
+  "name": "bootgraph",
+  "version": "1.18.0",
+  "summary": "A Python library for integrating SQLModel and Strawberry, providing a seamless GraphQL integration with FastAPI and advanced features for database interactions.",
+  "author": "Matheus Doreto",
+  "license": "MIT",
+  "home_page": "https://github.com/MDoreto/graphemy",
+  "download_filename": "bootgraph-1.18.0.tar.gz",
+  "download_time": "2025-12-11T15:47:29.626718",
+  "package_url": "https://pypi.org/project/bootgraph/"
+}

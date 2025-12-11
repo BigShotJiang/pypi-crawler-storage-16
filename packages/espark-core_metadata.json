@@ -1,11 +1,11 @@
 {
   "name": "espark-core",
-  "version": "0.3.1",
+  "version": "0.4.2",
   "summary": "The core module of the Espark ESP32-based IoT device management framework.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "espark_core-0.3.1.tar.gz",
-  "download_time": "2025-12-10T13:49:55.174279",
+  "download_filename": "espark_core-0.4.2.tar.gz",
+  "download_time": "2025-12-11T15:47:49.456076",
   "package_url": "https://pypi.org/project/espark-core/"
 }

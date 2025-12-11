@@ -1,0 +1,11 @@
+{
+  "name": "lima2-client",
+  "version": "4.0.9",
+  "summary": "Python client library for Lima2 detector",
+  "author": "BCU (ESRF)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lima2_client-4.0.9.tar.gz",
+  "download_time": "2025-12-11T15:47:41.177612",
+  "package_url": "https://pypi.org/project/lima2-client/"
+}

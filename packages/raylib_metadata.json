@@ -1,0 +1,11 @@
+{
+  "name": "raylib",
+  "version": "5.5.0.4",
+  "summary": "Python CFFI bindings for Raylib",
+  "author": "Electron Studio",
+  "license": null,
+  "home_page": "https://github.com/electronstudio/raylib-python-cffi",
+  "download_filename": "raylib-5.5.0.4.tar.gz",
+  "download_time": "2025-12-11T15:47:41.697048",
+  "package_url": "https://pypi.org/project/raylib/"
+}

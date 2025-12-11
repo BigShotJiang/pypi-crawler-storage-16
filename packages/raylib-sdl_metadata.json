@@ -1,0 +1,11 @@
+{
+  "name": "raylib-sdl",
+  "version": "5.5.0.4",
+  "summary": "Python CFFI bindings for Raylib",
+  "author": "Electron Studio",
+  "license": null,
+  "home_page": "https://github.com/electronstudio/raylib-python-cffi",
+  "download_filename": "raylib_sdl-5.5.0.4-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-11T15:47:32.837786",
+  "package_url": "https://pypi.org/project/raylib-sdl/"
+}

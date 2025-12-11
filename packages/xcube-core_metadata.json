@@ -1,0 +1,11 @@
+{
+  "name": "xcube-core",
+  "version": "1.13.0",
+  "summary": "xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. ",
+  "author": "xcube Development Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xcube_core-1.13.0.tar.gz",
+  "download_time": "2025-12-11T15:47:35.980219",
+  "package_url": "https://pypi.org/project/xcube-core/"
+}

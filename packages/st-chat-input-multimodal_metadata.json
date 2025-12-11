@@ -1,11 +1,11 @@
 {
   "name": "st-chat-input-multimodal",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Streamlit multimodal chat input component with text, image, and voice support",
   "author": "tsuzukia21",
   "license": null,
   "home_page": "https://github.com/tsuzukia21/st-chat-input-multimodal",
-  "download_filename": "st_chat_input_multimodal-1.0.5.tar.gz",
-  "download_time": "2025-12-11T14:45:06.208961",
+  "download_filename": "st_chat_input_multimodal-1.0.6.tar.gz",
+  "download_time": "2025-12-11T15:47:17.144602",
   "package_url": "https://pypi.org/project/st-chat-input-multimodal/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "claude-cli-sdk",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python SDK wrapping Claude CLI - Use Skills, Hooks, Slash Commands, Agents without official SDK",
   "author": "Claude CLI SDK Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_cli_sdk-0.2.0.tar.gz",
-  "download_time": "2025-12-10T14:47:58.560758",
+  "download_filename": "claude_cli_sdk-0.2.1.tar.gz",
+  "download_time": "2025-12-11T15:47:16.631698",
   "package_url": "https://pypi.org/project/claude-cli-sdk/"
 }

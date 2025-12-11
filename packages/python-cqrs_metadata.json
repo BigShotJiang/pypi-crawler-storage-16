@@ -1,0 +1,11 @@
+{
+  "name": "python-cqrs",
+  "version": "4.3.1",
+  "summary": "Python CQRS pattern implementation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_cqrs-4.3.1.tar.gz",
+  "download_time": "2025-12-11T15:47:39.638631",
+  "package_url": "https://pypi.org/project/python-cqrs/"
+}

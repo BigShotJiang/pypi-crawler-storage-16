@@ -1,11 +1,11 @@
 {
   "name": "http-content-parser",
-  "version": "0.0.21",
+  "version": "0.0.23",
   "summary": "parse http's payload and response",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "http_content_parser-0.0.21.tar.gz",
-  "download_time": "2025-12-11T11:54:52.079392",
+  "download_filename": "http_content_parser-0.0.23.tar.gz",
+  "download_time": "2025-12-11T15:47:22.389965",
   "package_url": "https://pypi.org/project/http-content-parser/"
 }

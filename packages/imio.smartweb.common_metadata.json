@@ -1,0 +1,11 @@
+{
+  "name": "imio.smartweb.common",
+  "version": "1.2.42",
+  "summary": "Common utilities, vocabularies, taxonomies for imio.smartweb & co products",
+  "author": "iMio",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/imio/imio.smartweb.common",
+  "download_filename": "imio_smartweb_common-1.2.42.tar.gz",
+  "download_time": "2025-12-11T15:47:44.807072",
+  "package_url": "https://pypi.org/project/imio.smartweb.common/"
+}

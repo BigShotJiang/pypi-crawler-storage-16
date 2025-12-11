@@ -1,0 +1,11 @@
+{
+  "name": "antchain-riskplus",
+  "version": "1.30.0",
+  "summary": "Ant Chain RISKPLUS SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_riskplus-1.30.0.tar.gz",
+  "download_time": "2025-12-11T05:55:28.994962",
+  "package_url": "https://pypi.org/project/antchain-riskplus/"
+}

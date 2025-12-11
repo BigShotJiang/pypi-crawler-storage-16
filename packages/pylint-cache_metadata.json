@@ -1,0 +1,11 @@
+{
+  "name": "pylint-cache",
+  "version": "1.1.0",
+  "summary": "A smart caching wrapper for pylint with dependency-aware cache invalidation",
+  "author": "Mitch Haile",
+  "license": "MIT",
+  "home_page": "https://www.featrix.ai",
+  "download_filename": "pylint_cache-1.1.0.tar.gz",
+  "download_time": "2025-12-11T05:55:44.918770",
+  "package_url": "https://pypi.org/project/pylint-cache/"
+}

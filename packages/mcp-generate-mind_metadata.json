@@ -1,0 +1,11 @@
+{
+  "name": "mcp-generate-mind",
+  "version": "0.7.0",
+  "summary": "MCP服务器用于思维导图的生成",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_generate_mind-0.7.0-py3-none-any.whl",
+  "download_time": "2025-12-11T05:55:39.809973",
+  "package_url": "https://pypi.org/project/mcp-generate-mind/"
+}

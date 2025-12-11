@@ -1,11 +1,11 @@
 {
   "name": "femtocrux",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "summary": "Femtosense Compiler",
   "author": "Femtosense",
   "license": null,
   "home_page": "https://github.com/femtosense/femtocrux",
-  "download_filename": "femtocrux-3.0.0-py3-none-any.whl",
-  "download_time": "2025-12-09T23:48:27.736130",
+  "download_filename": "femtocrux-3.1.0-py3-none-any.whl",
+  "download_time": "2025-12-11T05:55:43.893135",
   "package_url": "https://pypi.org/project/femtocrux/"
 }

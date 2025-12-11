@@ -1,0 +1,11 @@
+{
+  "name": "error-helper-by-delica",
+  "version": "0.1.dev1",
+  "summary": "A package for easily checking input parameters and printing informative error messages",
+  "author": "Delica Leboe-McGowan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "error_helper_by_delica-0.1.dev1.tar.gz",
+  "download_time": "2025-12-11T05:55:45.429428",
+  "package_url": "https://pypi.org/project/error-helper-by-delica/"
+}

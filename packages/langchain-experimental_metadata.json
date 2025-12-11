@@ -1,0 +1,11 @@
+{
+  "name": "langchain-experimental",
+  "version": "0.4.1",
+  "summary": "Building applications with LLMs through composability",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_experimental-0.4.1.tar.gz",
+  "download_time": "2025-12-11T05:55:51.081847",
+  "package_url": "https://pypi.org/project/langchain-experimental/"
+}

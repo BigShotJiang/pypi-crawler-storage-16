@@ -1,11 +1,11 @@
 {
   "name": "puda-drivers",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Hardware drivers for the PUDA platform.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "puda_drivers-0.0.4.tar.gz",
-  "download_time": "2025-12-10T05:15:50.158292",
+  "download_filename": "puda_drivers-0.0.5.tar.gz",
+  "download_time": "2025-12-11T05:55:43.383013",
   "package_url": "https://pypi.org/project/puda-drivers/"
 }

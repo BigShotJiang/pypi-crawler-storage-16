@@ -1,0 +1,11 @@
+{
+  "name": "hedera-agent-kit",
+  "version": "3.0.0",
+  "summary": "Use the Hedera Agent Kit to build agents that can interact with the Hedera network in any framework you like",
+  "author": "Hashgraph",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hedera_agent_kit-3.0.0.tar.gz",
+  "download_time": "2025-12-11T14:56:17.240535",
+  "package_url": "https://pypi.org/project/hedera-agent-kit/"
+}

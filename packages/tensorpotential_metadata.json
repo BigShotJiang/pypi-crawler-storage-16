@@ -1,0 +1,11 @@
+{
+  "name": "tensorpotential",
+  "version": "0.5.6",
+  "summary": "Graph Atomic Cluster Expansion (GRACE)",
+  "author": null,
+  "license": "Academic Software License (ASL)",
+  "home_page": null,
+  "download_filename": "tensorpotential-0.5.6.tar.gz",
+  "download_time": "2025-12-11T14:56:25.106441",
+  "package_url": "https://pypi.org/project/tensorpotential/"
+}

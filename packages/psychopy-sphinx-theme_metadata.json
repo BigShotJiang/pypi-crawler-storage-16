@@ -1,11 +1,11 @@
 {
   "name": "psychopy-sphinx-theme",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "summary": "Sphinx theme to make docs look like PsychoPy docs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "psychopy_sphinx_theme-0.0.6.tar.gz",
-  "download_time": "2025-12-10T16:20:00.844177",
+  "download_filename": "psychopy_sphinx_theme-0.0.8.tar.gz",
+  "download_time": "2025-12-11T14:56:37.047514",
   "package_url": "https://pypi.org/project/psychopy-sphinx-theme/"
 }

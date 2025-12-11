@@ -1,0 +1,11 @@
+{
+  "name": "myonset",
+  "version": "1.1",
+  "summary": "Myonset is a package for detecting EMG burst onset.",
+  "author": "Boris Burle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "myonset-1.1.tar.gz",
+  "download_time": "2025-12-11T14:56:33.774324",
+  "package_url": "https://pypi.org/project/myonset/"
+}

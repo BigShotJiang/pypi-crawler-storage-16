@@ -1,0 +1,11 @@
+{
+  "name": "python-minifier",
+  "version": "3.1.1",
+  "summary": "Transform Python source code into it's most compact representation",
+  "author": "Daniel Flook",
+  "license": "MIT",
+  "home_page": "https://github.com/dflook/python-minifier",
+  "download_filename": "python_minifier-3.1.1.tar.gz",
+  "download_time": "2025-12-11T21:35:06.857050",
+  "package_url": "https://pypi.org/project/python-minifier/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "prefect-databricks",
+  "version": "0.4.0",
+  "summary": "Prefect integrations with Databricks",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "prefect_databricks-0.4.0.tar.gz",
+  "download_time": "2025-12-11T21:35:25.704503",
+  "package_url": "https://pypi.org/project/prefect-databricks/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "voice2text",
+  "version": "0.1.0",
+  "summary": "Local voice-to-text with Whisper + LLM cleanup",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voice2text-0.1.0.tar.gz",
+  "download_time": "2025-12-11T21:35:05.170595",
+  "package_url": "https://pypi.org/project/voice2text/"
+}

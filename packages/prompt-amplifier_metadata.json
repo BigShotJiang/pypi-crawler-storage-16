@@ -1,11 +1,11 @@
 {
   "name": "prompt-amplifier",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Transform short prompts into detailed, structured instructions using context-aware retrieval",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "prompt_amplifier-0.2.0.tar.gz",
-  "download_time": "2025-12-09T15:52:45.408295",
+  "download_filename": "prompt_amplifier-0.2.1.tar.gz",
+  "download_time": "2025-12-11T14:45:15.138064",
   "package_url": "https://pypi.org/project/prompt-amplifier/"
 }

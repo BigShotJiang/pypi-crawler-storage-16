@@ -1,0 +1,11 @@
+{
+  "name": "omicscope",
+  "version": "1.5.0",
+  "summary": "OmicScope: from quantitative proteomics to systems biology.",
+  "author": "Guilherme Reis-de-Oliveira",
+  "license": "MIT",
+  "home_page": "https://github.com/guireiso/omicscope",
+  "download_filename": "omicscope-1.5.0-py3-none-any.whl",
+  "download_time": "2025-12-11T14:45:07.790875",
+  "package_url": "https://pypi.org/project/omicscope/"
+}

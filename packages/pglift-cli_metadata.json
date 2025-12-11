@@ -1,0 +1,11 @@
+{
+  "name": "pglift-cli",
+  "version": "2.6.1",
+  "summary": "Command-line interface for pglift",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "pglift_cli-2.6.1.tar.gz",
+  "download_time": "2025-12-11T14:44:26.885248",
+  "package_url": "https://pypi.org/project/pglift-cli/"
+}

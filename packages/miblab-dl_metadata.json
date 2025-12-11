@@ -1,11 +1,11 @@
 {
   "name": "miblab-dl",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "Python API for miblab's trained deep-learning models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "miblab_dl-0.0.4.tar.gz",
-  "download_time": "2025-12-11T09:19:21.394777",
+  "download_filename": "miblab_dl-0.0.7.tar.gz",
+  "download_time": "2025-12-11T14:45:08.851982",
   "package_url": "https://pypi.org/project/miblab-dl/"
 }

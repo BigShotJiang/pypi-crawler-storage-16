@@ -1,0 +1,11 @@
+{
+  "name": "traceAI-google-genai",
+  "version": "0.1.1",
+  "summary": "OpenTelemetry instrumentation for Google Gen AI",
+  "author": "Future AGI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "traceai_google_genai-0.1.1.tar.gz",
+  "download_time": "2025-12-11T14:45:12.496838",
+  "package_url": "https://pypi.org/project/traceAI-google-genai/"
+}

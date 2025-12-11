@@ -1,11 +1,11 @@
 {
   "name": "tracecov",
-  "version": "0.13.2",
-  "summary": null,
+  "version": "0.13.3",
+  "summary": "Schema-level API coverage down to individual keywords.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tracecov-0.13.2.tar.gz",
-  "download_time": "2025-12-11T13:52:35.883950",
+  "download_filename": "tracecov-0.13.3.tar.gz",
+  "download_time": "2025-12-11T14:44:57.855935",
   "package_url": "https://pypi.org/project/tracecov/"
 }

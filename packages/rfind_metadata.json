@@ -1,0 +1,11 @@
+{
+  "name": "rfind",
+  "version": "0.1.0",
+  "summary": "Discover files in directories with execute-only permission - when 'ls' fails but access is possible",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rfind-0.1.0.tar.gz",
+  "download_time": "2025-12-11T14:44:54.223629",
+  "package_url": "https://pypi.org/project/rfind/"
+}

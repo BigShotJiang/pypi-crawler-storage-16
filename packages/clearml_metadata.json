@@ -1,0 +1,11 @@
+{
+  "name": "clearml",
+  "version": "2.0.2",
+  "summary": "ClearML - Auto-Magical Experiment Manager, Version Control, and MLOps for AI",
+  "author": "ClearML",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/clearml/clearml",
+  "download_filename": "clearml-2.0.2-py2.py3-none-any.whl",
+  "download_time": "2025-12-11T14:44:28.480607",
+  "package_url": "https://pypi.org/project/clearml/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deker-server-adapters",
+  "version": "1.0.9",
+  "summary": "Plugin with server adapters for Deker",
+  "author": "OpenWeather",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "deker_server_adapters-1.0.9.tar.gz",
+  "download_time": "2025-12-11T14:44:51.086805",
+  "package_url": "https://pypi.org/project/deker-server-adapters/"
+}

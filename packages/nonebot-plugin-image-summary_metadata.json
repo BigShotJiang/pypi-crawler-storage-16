@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-image-summary",
+  "version": "0.1.2",
+  "summary": "NoneBot2 插件：拦截所有图片消息并注入摘要/外显文本。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_image_summary-0.1.2.tar.gz",
+  "download_time": "2025-12-11T14:44:27.926669",
+  "package_url": "https://pypi.org/project/nonebot-plugin-image-summary/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "seesea",
+  "version": "2.0.4",
+  "summary": "SeeSea Python SDK - Privacy-focused metasearch engine",
+  "author": "SeeSea Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seesea-2.0.4-py3-none-any.whl",
+  "download_time": "2025-12-11T14:44:38.409153",
+  "package_url": "https://pypi.org/project/seesea/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "glitchlings",
-  "version": "0.10.3",
+  "version": "0.11.0",
   "summary": "Monsters for your language games.",
   "author": "osoleve",
   "license": null,
   "home_page": null,
-  "download_filename": "glitchlings-0.10.3.tar.gz",
-  "download_time": "2025-12-09T23:13:35.186717",
+  "download_filename": "glitchlings-0.11.0.tar.gz",
+  "download_time": "2025-12-11T14:45:05.687639",
   "package_url": "https://pypi.org/project/glitchlings/"
 }

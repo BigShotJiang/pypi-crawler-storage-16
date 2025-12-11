@@ -1,11 +1,11 @@
 {
   "name": "tracecov-professional",
-  "version": "0.13.2",
+  "version": "0.13.3",
   "summary": "TraceCov Professional Edition. Contact info@tracecov.sh for access.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tracecov_professional-0.13.2.tar.gz",
-  "download_time": "2025-12-11T13:52:35.369697",
+  "download_filename": "tracecov_professional-0.13.3.tar.gz",
+  "download_time": "2025-12-11T14:44:56.819353",
   "package_url": "https://pypi.org/project/tracecov-professional/"
 }

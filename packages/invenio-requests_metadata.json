@@ -1,0 +1,11 @@
+{
+  "name": "invenio-requests",
+  "version": "11.0.0",
+  "summary": "Invenio module for generic and customizable requests.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-requests",
+  "download_filename": "invenio_requests-11.0.0.tar.gz",
+  "download_time": "2025-12-11T14:44:34.745133",
+  "package_url": "https://pypi.org/project/invenio-requests/"
+}

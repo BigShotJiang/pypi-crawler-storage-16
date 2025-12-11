@@ -1,11 +1,11 @@
 {
   "name": "instantgrade",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "An automated evaluation framework for Python notebooks and Excel assignments",
   "author": "Chandravesh Chaudhari",
   "license": "MIT",
   "home_page": "https://github.com/chandraveshchaudhari/instantgrade",
-  "download_filename": "instantgrade-0.1.8.tar.gz",
-  "download_time": "2025-12-11T17:53:31.918627",
+  "download_filename": "instantgrade-0.1.10.tar.gz",
+  "download_time": "2025-12-11T18:57:06.742183",
   "package_url": "https://pypi.org/project/instantgrade/"
 }

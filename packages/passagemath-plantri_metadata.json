@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-plantri",
+  "version": "10.6.41",
+  "summary": "passagemath: Generating planar graphs with plantri and fullgen",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_plantri-10.6.41-cp310-cp310-musllinux_1_2_x86_64.whl",
+  "download_time": "2025-12-11T18:56:51.141786",
+  "package_url": "https://pypi.org/project/passagemath-plantri/"
+}

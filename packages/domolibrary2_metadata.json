@@ -1,0 +1,11 @@
+{
+  "name": "domolibrary2",
+  "version": "2.3.0",
+  "summary": "A Python library for interacting with Domo APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "domolibrary2-2.3.0.tar.gz",
+  "download_time": "2025-12-11T18:56:22.991473",
+  "package_url": "https://pypi.org/project/domolibrary2/"
+}

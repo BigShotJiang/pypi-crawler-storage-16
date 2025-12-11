@@ -1,0 +1,11 @@
+{
+  "name": "heaserver",
+  "version": "1.46.0",
+  "summary": "The server side of HEA.",
+  "author": "Research Informatics Shared Resource, Huntsman Cancer Institute, Salt Lake City, UT",
+  "license": "Apache License 2.0",
+  "home_page": "https://risr.hci.utah.edu",
+  "download_filename": "heaserver-1.46.0.tar.gz",
+  "download_time": "2025-12-11T18:57:04.106946",
+  "package_url": "https://pypi.org/project/heaserver/"
+}

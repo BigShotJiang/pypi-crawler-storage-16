@@ -1,11 +1,11 @@
 {
   "name": "airbyte-ai-zendesk-support",
-  "version": "0.18.3",
+  "version": "0.18.5",
   "summary": "Airbyte Zendesk-Support Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_ai_zendesk_support-0.18.3.tar.gz",
-  "download_time": "2025-12-11T16:20:33.243020",
+  "download_filename": "airbyte_ai_zendesk_support-0.18.5.tar.gz",
+  "download_time": "2025-12-11T18:56:56.832812",
   "package_url": "https://pypi.org/project/airbyte-ai-zendesk-support/"
 }

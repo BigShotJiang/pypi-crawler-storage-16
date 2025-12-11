@@ -1,0 +1,11 @@
+{
+  "name": "darwin-py",
+  "version": "3.3.0",
+  "summary": "Library and command line interface for darwin.v7labs.com",
+  "author": "V7",
+  "license": "MIT",
+  "home_page": "https://docs.v7labs.com/reference/getting-started-2",
+  "download_filename": "darwin_py-3.3.0.tar.gz",
+  "download_time": "2025-12-11T18:56:19.541302",
+  "package_url": "https://pypi.org/project/darwin-py/"
+}

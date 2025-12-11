@@ -1,11 +1,11 @@
 {
   "name": "ayechat-dev",
-  "version": "0.31.1.20251211164300",
+  "version": "0.31.1.20251211184534",
   "summary": "Aye Chat: Terminal-first AI Code Generator",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ayechat_dev-0.31.1.20251211164300.tar.gz",
-  "download_time": "2025-12-11T18:19:44.681698",
+  "download_filename": "ayechat_dev-0.31.1.20251211184534.tar.gz",
+  "download_time": "2025-12-11T18:56:36.938750",
   "package_url": "https://pypi.org/project/ayechat-dev/"
 }

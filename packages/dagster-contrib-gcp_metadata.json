@@ -1,0 +1,11 @@
+{
+  "name": "dagster-contrib-gcp",
+  "version": "0.0.9",
+  "summary": "Community contributed Google Cloud Platform integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_contrib_gcp-0.0.9.tar.gz",
+  "download_time": "2025-12-11T18:56:25.078120",
+  "package_url": "https://pypi.org/project/dagster-contrib-gcp/"
+}

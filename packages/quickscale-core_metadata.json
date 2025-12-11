@@ -1,0 +1,11 @@
+{
+  "name": "quickscale-core",
+  "version": "0.73.0",
+  "summary": "Core scaffolding and utilities for QuickScale Django project generator",
+  "author": "Experto AI",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Experto-AI/quickscale",
+  "download_filename": "quickscale_core-0.73.0.tar.gz",
+  "download_time": "2025-12-11T18:56:39.501910",
+  "package_url": "https://pypi.org/project/quickscale-core/"
+}

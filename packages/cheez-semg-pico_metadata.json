@@ -1,0 +1,11 @@
+{
+  "name": "cheez-semg-pico",
+  "version": "1.1.1",
+  "summary": "SDK for CheezPico USB/BLE Devices",
+  "author": "vecang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cheez_semg_pico-1.1.1.tar.gz",
+  "download_time": "2025-12-11T06:22:43.507799",
+  "package_url": "https://pypi.org/project/cheez-semg-pico/"
+}

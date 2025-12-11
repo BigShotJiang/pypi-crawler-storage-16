@@ -1,0 +1,11 @@
+{
+  "name": "jax-monitoring",
+  "version": "0.1.0",
+  "summary": "JAX Monitoring to send JAX metrics to Google Cloud Monitoring",
+  "author": "Sam Stoelinga",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jax_monitoring-0.1.0.tar.gz",
+  "download_time": "2025-12-11T06:22:32.434544",
+  "package_url": "https://pypi.org/project/jax-monitoring/"
+}

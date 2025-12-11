@@ -1,0 +1,11 @@
+{
+  "name": "modern-di-fastapi",
+  "version": "1.0.1",
+  "summary": "Modern-DI integration for FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "modern_di_fastapi-1.0.1.tar.gz",
+  "download_time": "2025-12-11T06:22:46.634487",
+  "package_url": "https://pypi.org/project/modern-di-fastapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "psyke",
+  "version": "1.0.4",
+  "summary": "Python-based implementation of PSyKE, i.e. a Platform for Symbolic Knowledge Extraction",
+  "author": "Matteo Magnini",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/psykei/psyke-python",
+  "download_filename": "psyke-1.0.4.tar.gz",
+  "download_time": "2025-12-11T06:22:38.817913",
+  "package_url": "https://pypi.org/project/psyke/"
+}

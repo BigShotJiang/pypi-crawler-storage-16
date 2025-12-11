@@ -1,11 +1,11 @@
 {
   "name": "axmp-ai-agent-core",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Add your description here",
   "author": "Kilsoo Kang",
   "license": null,
   "home_page": null,
-  "download_filename": "axmp_ai_agent_core-0.1.4-py3-none-any.whl",
-  "download_time": "2025-12-10T06:54:11.205700",
+  "download_filename": "axmp_ai_agent_core-0.1.5-py3-none-any.whl",
+  "download_time": "2025-12-11T06:22:36.707662",
   "package_url": "https://pypi.org/project/axmp-ai-agent-core/"
 }

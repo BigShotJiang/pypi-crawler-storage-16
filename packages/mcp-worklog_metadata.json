@@ -1,11 +1,11 @@
 {
   "name": "mcp-worklog",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "MCP 服务：自动化生成和管理工作日报",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_worklog-0.1.2.tar.gz",
-  "download_time": "2025-12-11T04:04:36.250341",
+  "download_filename": "mcp_worklog-0.2.0.tar.gz",
+  "download_time": "2025-12-11T06:22:22.214257",
   "package_url": "https://pypi.org/project/mcp-worklog/"
 }

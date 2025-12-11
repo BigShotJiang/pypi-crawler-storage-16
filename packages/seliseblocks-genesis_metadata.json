@@ -1,11 +1,11 @@
 {
   "name": "seliseblocks-genesis",
-  "version": "0.2.21",
+  "version": "0.2.22",
   "summary": "Reusable FastAPI utilities like middlewares, singletons, and more for Selise Blocks and Selise Genesis projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "seliseblocks_genesis-0.2.21.tar.gz",
-  "download_time": "2025-12-10T19:42:27.361141",
+  "download_filename": "seliseblocks_genesis-0.2.22.tar.gz",
+  "download_time": "2025-12-11T06:22:36.194061",
   "package_url": "https://pypi.org/project/seliseblocks-genesis/"
 }

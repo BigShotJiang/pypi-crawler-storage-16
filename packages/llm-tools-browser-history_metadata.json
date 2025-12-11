@@ -1,0 +1,11 @@
+{
+  "name": "llm-tools-browser-history",
+  "version": "0.2.0",
+  "summary": "MCP server for searching local browser history files. Also compatible with llm-tools.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llm_tools_browser_history-0.2.0.tar.gz",
+  "download_time": "2025-12-11T19:16:41.403738",
+  "package_url": "https://pypi.org/project/llm-tools-browser-history/"
+}

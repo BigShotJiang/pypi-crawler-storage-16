@@ -1,0 +1,11 @@
+{
+  "name": "rubber-ducky",
+  "version": "1.2.2",
+  "summary": "Quick CLI do-it-all tool. Use natural language to spit out bash commands",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rubber_ducky-1.2.2.tar.gz",
+  "download_time": "2025-12-11T19:16:48.754330",
+  "package_url": "https://pypi.org/project/rubber-ducky/"
+}

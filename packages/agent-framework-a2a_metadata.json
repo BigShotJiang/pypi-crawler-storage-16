@@ -1,11 +1,11 @@
 {
   "name": "agent-framework-a2a",
-  "version": "1.0.0b251209",
+  "version": "1.0.0b251211",
   "summary": "A2A integration for Microsoft Agent Framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_framework_a2a-1.0.0b251209.tar.gz",
-  "download_time": "2025-12-09T23:13:25.859134",
+  "download_filename": "agent_framework_a2a-1.0.0b251211.tar.gz",
+  "download_time": "2025-12-11T19:16:37.248244",
   "package_url": "https://pypi.org/project/agent-framework-a2a/"
 }

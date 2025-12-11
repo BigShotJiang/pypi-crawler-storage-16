@@ -1,0 +1,11 @@
+{
+  "name": "async-customerio",
+  "version": "2.4.1",
+  "summary": "Async CustomerIO Client - a Python client to interact with CustomerIO in an async fashion.",
+  "author": "Aleksandr Omyshev",
+  "license": "MIT",
+  "home_page": "https://github.com/healthjoy/async-customerio",
+  "download_filename": "async_customerio-2.4.1.tar.gz",
+  "download_time": "2025-12-11T19:16:28.828462",
+  "package_url": "https://pypi.org/project/async-customerio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "anipy-api",
+  "version": "3.8.1",
+  "summary": "api for anipy-cli",
+  "author": "sdaqo",
+  "license": "GPL-3.0",
+  "home_page": "https://sdaqo.github.io/anipy-cli",
+  "download_filename": "anipy_api-3.8.1.tar.gz",
+  "download_time": "2025-12-11T19:16:09.347385",
+  "package_url": "https://pypi.org/project/anipy-api/"
+}

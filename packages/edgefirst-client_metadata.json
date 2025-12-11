@@ -1,0 +1,11 @@
+{
+  "name": "edgefirst-client",
+  "version": "2.6.3",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://edgefirst.ai",
+  "download_filename": "edgefirst_client-2.6.3-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-11T19:16:30.549113",
+  "package_url": "https://pypi.org/project/edgefirst-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fastgps",
+  "version": "1.1",
+  "summary": "Fast Gaussian processes regression in O(n log n)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastgps-1.1.tar.gz",
+  "download_time": "2025-12-11T19:16:08.198870",
+  "package_url": "https://pypi.org/project/fastgps/"
+}

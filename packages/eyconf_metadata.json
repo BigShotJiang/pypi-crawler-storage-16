@@ -1,0 +1,11 @@
+{
+  "name": "eyconf",
+  "version": "0.5.0",
+  "summary": "Easy Yaml based Configuration for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eyconf-0.5.0.tar.gz",
+  "download_time": "2025-12-11T19:16:47.732446",
+  "package_url": "https://pypi.org/project/eyconf/"
+}

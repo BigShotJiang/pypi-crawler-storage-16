@@ -1,0 +1,11 @@
+{
+  "name": "apilinker",
+  "version": "0.6.0",
+  "summary": "A universal bridge to connect, map, and automate data transfer between any two REST APIs",
+  "author": "K. Kartas",
+  "license": "MIT",
+  "home_page": "https://github.com/kkartas/APILinker",
+  "download_filename": "apilinker-0.6.0.tar.gz",
+  "download_time": "2025-12-11T19:16:48.243380",
+  "package_url": "https://pypi.org/project/apilinker/"
+}

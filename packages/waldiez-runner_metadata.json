@@ -1,11 +1,11 @@
 {
   "name": "waldiez-runner",
-  "version": "0.6.9",
+  "version": "0.6.10",
   "summary": "Serve and run your Waldiez flows in isolated environments and stream logs/input/output via Redis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "waldiez_runner-0.6.9.tar.gz",
-  "download_time": "2025-12-11T10:18:05.078303",
+  "download_filename": "waldiez_runner-0.6.10.tar.gz",
+  "download_time": "2025-12-11T19:16:19.843746",
   "package_url": "https://pypi.org/project/waldiez-runner/"
 }

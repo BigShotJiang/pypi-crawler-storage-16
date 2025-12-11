@@ -1,11 +1,11 @@
 {
   "name": "tobiko-cloud-helpers",
-  "version": "202550.1.0",
+  "version": "202550.2.0",
   "summary": null,
   "author": "TobikoData Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "tobiko_cloud_helpers-202550.1.0.tar.gz",
-  "download_time": "2025-12-09T19:34:39.344268",
+  "download_filename": "tobiko_cloud_helpers-202550.2.0.tar.gz",
+  "download_time": "2025-12-11T19:16:45.042310",
   "package_url": "https://pypi.org/project/tobiko-cloud-helpers/"
 }

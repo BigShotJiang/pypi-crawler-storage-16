@@ -1,11 +1,11 @@
 {
   "name": "coordax",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "summary": "Coordinate axes for scientific computing in JAX",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coordax-0.1.6.tar.gz",
-  "download_time": "2025-12-08T19:27:57.808088",
+  "download_filename": "coordax-0.2.0.tar.gz",
+  "download_time": "2025-12-11T19:16:23.497473",
   "package_url": "https://pypi.org/project/coordax/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "NREL-reVX",
+  "version": "0.5.4",
+  "summary": "National Laboratory of the Rockies' (NLR's) reV eXchange Tool: reVX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nrel_revx-0.5.4.tar.gz",
+  "download_time": "2025-12-11T19:16:40.893375",
+  "package_url": "https://pypi.org/project/NREL-reVX/"
+}

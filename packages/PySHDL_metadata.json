@@ -1,11 +1,11 @@
 {
   "name": "PySHDL",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "SHDL (Simple Hardware Description Language) is a minimal HDL designed for creating digital circuits and easily simulating them. It compiles directly to C for maximum performance and portability. PySHDL is the Python interface for SHDL.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyshdl-0.2.0-py3-none-any.whl",
-  "download_time": "2025-12-11T17:21:22.047498",
+  "download_filename": "pyshdl-0.2.3.tar.gz",
+  "download_time": "2025-12-11T19:16:24.594760",
   "package_url": "https://pypi.org/project/PySHDL/"
 }

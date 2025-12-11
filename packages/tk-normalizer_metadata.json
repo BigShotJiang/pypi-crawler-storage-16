@@ -1,0 +1,11 @@
+{
+  "name": "tk-normalizer",
+  "version": "1.1.0",
+  "summary": "URL normalization library for consistent URL representation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tk_normalizer-1.1.0.tar.gz",
+  "download_time": "2025-12-11T19:16:22.467280",
+  "package_url": "https://pypi.org/project/tk-normalizer/"
+}

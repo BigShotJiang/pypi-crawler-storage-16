@@ -1,11 +1,11 @@
 {
   "name": "satispy",
-  "version": "1.2",
+  "version": "1.3",
   "summary": "An interface to SAT solver tools (like minisat)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "satispy-1.2.tar.gz",
-  "download_time": "2025-12-11T09:58:56.850710",
+  "download_filename": "satispy-1.3.tar.gz",
+  "download_time": "2025-12-11T19:16:15.097036",
   "package_url": "https://pypi.org/project/satispy/"
 }

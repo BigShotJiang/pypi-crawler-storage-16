@@ -1,11 +1,11 @@
 {
   "name": "regscale-cli",
-  "version": "6.29.1.1",
+  "version": "6.29.2.0",
   "summary": "Command Line Interface (CLI) for bulk processing/loading data into RegScale",
   "author": "Travis Howerton",
   "license": "MIT",
   "home_page": "https://github.com/RegScale/regscale-cli",
-  "download_filename": "regscale_cli-6.29.1.1-py3-none-any.whl",
-  "download_time": "2025-12-09T05:13:58.037165",
+  "download_filename": "regscale_cli-6.29.2.0-py3-none-any.whl",
+  "download_time": "2025-12-11T19:16:47.220506",
   "package_url": "https://pypi.org/project/regscale-cli/"
 }

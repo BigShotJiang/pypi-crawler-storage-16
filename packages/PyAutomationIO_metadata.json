@@ -1,11 +1,11 @@
 {
   "name": "PyAutomationIO",
-  "version": "1.1.9",
+  "version": "1.1.11",
   "summary": "A python framework to develop automation industrial processes applications and Artificial Intelligence applications for the industrial field",
   "author": "KnowAI",
   "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
   "home_page": "https://github.com/know-ai/PyAutomation",
-  "download_filename": "pyautomationio-1.1.9.tar.gz",
-  "download_time": "2025-12-10T22:52:29.646854",
+  "download_filename": "pyautomationio-1.1.11.tar.gz",
+  "download_time": "2025-12-11T19:16:39.349354",
   "package_url": "https://pypi.org/project/PyAutomationIO/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "agent-framework-anthropic",
-  "version": "1.0.0b251209",
+  "version": "1.0.0b251211",
   "summary": "Anthropic integration for Microsoft Agent Framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_framework_anthropic-1.0.0b251209.tar.gz",
-  "download_time": "2025-12-09T23:13:24.831551",
+  "download_filename": "agent_framework_anthropic-1.0.0b251211.tar.gz",
+  "download_time": "2025-12-11T19:16:34.659616",
   "package_url": "https://pypi.org/project/agent-framework-anthropic/"
 }

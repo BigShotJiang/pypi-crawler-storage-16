@@ -1,0 +1,11 @@
+{
+  "name": "aind-behavior-vr-foraging",
+  "version": "0.6.4",
+  "summary": "A library that defines AIND data schema for the Aind Behavior VR Foraging experiment.",
+  "author": "Bruno Cruz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aind_behavior_vr_foraging-0.6.4.tar.gz",
+  "download_time": "2025-12-11T23:13:47.018970",
+  "package_url": "https://pypi.org/project/aind-behavior-vr-foraging/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trulens-feedback",
+  "version": "2.5.2",
+  "summary": "A TruLens extension package implementing feedback functions for LLM App evaluation.",
+  "author": "Snowflake Inc.",
+  "license": "MIT",
+  "home_page": "https://trulens.org/",
+  "download_filename": "trulens_feedback-2.5.2.tar.gz",
+  "download_time": "2025-12-11T23:14:08.296423",
+  "package_url": "https://pypi.org/project/trulens-feedback/"
+}

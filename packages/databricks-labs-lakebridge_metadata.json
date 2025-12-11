@@ -1,0 +1,11 @@
+{
+  "name": "databricks-labs-lakebridge",
+  "version": "0.11.2",
+  "summary": "Fast and predictable migrations to Databricks Lakehouse Platform. This tool is designed to help you migrate your data and workloads to the Databricks Lakehouse Platform in a fast, predictable, and reliable way. It provides a set of tools and utilities to help you reconcile your data and workloads, assess your current state, and plan your migration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "databricks_labs_lakebridge-0.11.2.tar.gz",
+  "download_time": "2025-12-11T23:14:17.243893",
+  "package_url": "https://pypi.org/project/databricks-labs-lakebridge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trulens-apps-langgraph",
+  "version": "2.5.2",
+  "summary": "Library to systematically track and evaluate LangGraph based applications.",
+  "author": "Snowflake Inc.",
+  "license": "MIT",
+  "home_page": "https://trulens.org/",
+  "download_filename": "trulens_apps_langgraph-2.5.2.tar.gz",
+  "download_time": "2025-12-11T23:14:11.966428",
+  "package_url": "https://pypi.org/project/trulens-apps-langgraph/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trulens-otel-semconv",
+  "version": "2.5.2",
+  "summary": "Semantic conventions for spans produced by TruLens.",
+  "author": "Snowflake Inc.",
+  "license": "MIT",
+  "home_page": "https://trulens.org/",
+  "download_filename": "trulens_otel_semconv-2.5.2.tar.gz",
+  "download_time": "2025-12-11T23:14:07.253713",
+  "package_url": "https://pypi.org/project/trulens-otel-semconv/"
+}

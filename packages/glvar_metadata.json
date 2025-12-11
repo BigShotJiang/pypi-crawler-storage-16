@@ -1,11 +1,11 @@
 {
   "name": "glvar",
-  "version": "0.1",
+  "version": "0.4",
   "summary": "Fetch variables from GitLab and inject into environment for local commands",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "glvar-0.1.tar.gz",
-  "download_time": "2025-12-11T14:56:18.323975",
+  "download_filename": "glvar-0.4.tar.gz",
+  "download_time": "2025-12-11T23:14:16.719652",
   "package_url": "https://pypi.org/project/glvar/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tiledbsoma",
+  "version": "2.1.2",
+  "summary": "Python API for efficient storage and retrieval of single-cell data using TileDB",
+  "author": "TileDB, Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/single-cell-data/TileDB-SOMA/tree/main/apis/python",
+  "download_filename": "tiledbsoma-2.1.2.tar.gz",
+  "download_time": "2025-12-11T23:13:55.680641",
+  "package_url": "https://pypi.org/project/tiledbsoma/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pywcmp",
+  "version": "0.13.0",
+  "summary": "A Python implementation of the test suite for WMO Core Metadata Profile",
+  "author": "Tom Kralidis",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/World-Meteorological-Organization/pywcmp",
+  "download_filename": "pywcmp-0.13.0.tar.gz",
+  "download_time": "2025-12-11T10:17:47.835277",
+  "package_url": "https://pypi.org/project/pywcmp/"
+}

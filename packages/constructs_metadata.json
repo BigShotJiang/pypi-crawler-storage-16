@@ -1,0 +1,11 @@
+{
+  "name": "constructs",
+  "version": "10.4.4",
+  "summary": "A programming model for software-defined state",
+  "author": "Amazon Web Services<aws-cdk-dev@amazon.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aws/constructs",
+  "download_filename": "constructs-10.4.4.tar.gz",
+  "download_time": "2025-12-11T10:18:03.515430",
+  "package_url": "https://pypi.org/project/constructs/"
+}

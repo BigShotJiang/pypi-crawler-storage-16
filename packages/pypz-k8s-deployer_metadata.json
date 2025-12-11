@@ -1,0 +1,11 @@
+{
+  "name": "pypz-k8s-deployer",
+  "version": "0.9.4",
+  "summary": "This package provides the Kubernetes implementation of the deployer interface for pypz.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pypz_k8s_deployer-0.9.4.tar.gz",
+  "download_time": "2025-12-11T10:17:54.069032",
+  "package_url": "https://pypi.org/project/pypz-k8s-deployer/"
+}

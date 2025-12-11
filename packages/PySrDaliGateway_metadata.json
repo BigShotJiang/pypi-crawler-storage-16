@@ -1,0 +1,11 @@
+{
+  "name": "PySrDaliGateway",
+  "version": "0.19.1",
+  "summary": "Python library for Sunricher DALI Gateway (EDA)",
+  "author": "Sunricher",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pysrdaligateway-0.19.1.tar.gz",
+  "download_time": "2025-12-11T10:18:10.314427",
+  "package_url": "https://pypi.org/project/PySrDaliGateway/"
+}

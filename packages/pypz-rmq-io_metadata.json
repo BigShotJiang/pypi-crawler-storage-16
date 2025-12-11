@@ -1,0 +1,11 @@
+{
+  "name": "pypz-rmq-io",
+  "version": "0.9.4",
+  "summary": "Provides an AMQP implementation for RabbitMQ of the ChannelInput/OutputPort in pypz.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pypz_rmq_io-0.9.4.tar.gz",
+  "download_time": "2025-12-11T10:17:50.431282",
+  "package_url": "https://pypi.org/project/pypz-rmq-io/"
+}

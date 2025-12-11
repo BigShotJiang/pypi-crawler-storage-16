@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.FactSetGlobalPrices",
+  "version": "2.5.0",
+  "summary": "FactSet Global Prices client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/FactSetGlobalPrices/v1",
+  "download_filename": "fds_sdk_factsetglobalprices-2.5.0.tar.gz",
+  "download_time": "2025-12-11T10:17:33.166833",
+  "package_url": "https://pypi.org/project/fds.sdk.FactSetGlobalPrices/"
+}

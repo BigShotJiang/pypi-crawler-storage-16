@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.FactSetEstimates",
+  "version": "2.2.0",
+  "summary": "FactSet Estimates client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/FactSetEstimates/v2",
+  "download_filename": "fds_sdk_factsetestimates-2.2.0.tar.gz",
+  "download_time": "2025-12-11T10:17:33.688842",
+  "package_url": "https://pypi.org/project/fds.sdk.FactSetEstimates/"
+}

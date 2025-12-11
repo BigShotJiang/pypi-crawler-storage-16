@@ -1,0 +1,11 @@
+{
+  "name": "jinko-sdk",
+  "version": "0.5.4",
+  "summary": "A Python package containing jinko_helpers, jinko_stats, and crabbit modules aimed to be used with Jinko.ai API",
+  "author": "SSE Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jinko_sdk-0.5.4.tar.gz",
+  "download_time": "2025-12-11T10:17:47.315178",
+  "package_url": "https://pypi.org/project/jinko-sdk/"
+}

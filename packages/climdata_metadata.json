@@ -1,0 +1,11 @@
+{
+  "name": "climdata",
+  "version": "0.3.5",
+  "summary": "This project automates the fetching and extraction of weather data from multiple sources — such as MSWX, DWD HYRAS, ERA5-Land, NASA-NEX-GDDP, and more — for a given location and time range.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "climdata-0.3.5.tar.gz",
+  "download_time": "2025-12-11T10:17:21.892416",
+  "package_url": "https://pypi.org/project/climdata/"
+}

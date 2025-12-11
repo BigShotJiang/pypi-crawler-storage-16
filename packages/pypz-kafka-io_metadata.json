@@ -1,0 +1,11 @@
+{
+  "name": "pypz-kafka-io",
+  "version": "0.9.4",
+  "summary": "Provides a Kafka implementation of the ChannelInput/OutputPort in pypz.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pypz_kafka_io-0.9.4.tar.gz",
+  "download_time": "2025-12-11T10:17:51.991943",
+  "package_url": "https://pypi.org/project/pypz-kafka-io/"
+}

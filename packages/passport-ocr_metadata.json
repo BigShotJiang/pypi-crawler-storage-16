@@ -1,0 +1,11 @@
+{
+  "name": "passport-ocr",
+  "version": "0.1.0",
+  "summary": "A robust Python library for extracting information from passports using OCR (Tesseract) and MRZ parsing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "passport_ocr-0.1.0.tar.gz",
+  "download_time": "2025-12-11T10:18:01.933112",
+  "package_url": "https://pypi.org/project/passport-ocr/"
+}

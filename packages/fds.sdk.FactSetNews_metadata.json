@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.FactSetNews",
+  "version": "1.1.0",
+  "summary": "FactSet News client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/FactSetNews/v1",
+  "download_filename": "fds_sdk_factsetnews-1.1.0.tar.gz",
+  "download_time": "2025-12-11T10:17:32.645650",
+  "package_url": "https://pypi.org/project/fds.sdk.FactSetNews/"
+}

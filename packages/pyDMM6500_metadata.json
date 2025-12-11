@@ -1,0 +1,11 @@
+{
+  "name": "pyDMM6500",
+  "version": "2025.0.5",
+  "summary": "A Python library for Keithley's DMM6500",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydmm6500-2025.0.5.tar.gz",
+  "download_time": "2025-12-11T17:20:42.609374",
+  "package_url": "https://pypi.org/project/pyDMM6500/"
+}

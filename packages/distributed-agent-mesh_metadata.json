@@ -1,0 +1,11 @@
+{
+  "name": "distributed-agent-mesh",
+  "version": "0.1.0",
+  "summary": "A framework for autonomous agents that collaborate via P2P communication",
+  "author": "Abhishek Kumar",
+  "license": "MIT",
+  "home_page": "https://github.com/Kumar123ips/distributed-agent-mesh",
+  "download_filename": "distributed_agent_mesh-0.1.0.tar.gz",
+  "download_time": "2025-12-11T17:21:11.554294",
+  "package_url": "https://pypi.org/project/distributed-agent-mesh/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "golden-utils",
+  "version": "0.1.2",
+  "summary": "Utilities for annoying or slowing details, like capitalizing booleans",
+  "author": "Golden Dev",
+  "license": "MIT",
+  "home_page": "https://github.com/Goldencubist/golden-utils",
+  "download_filename": "golden_utils-0.1.2.tar.gz",
+  "download_time": "2025-12-11T17:21:04.789826",
+  "package_url": "https://pypi.org/project/golden-utils/"
+}

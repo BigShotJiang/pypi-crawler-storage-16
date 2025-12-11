@@ -1,0 +1,11 @@
+{
+  "name": "ensue-cli",
+  "version": "0.1.0",
+  "summary": "CLI for Ensue Memory - a distributed memory network for AI agents built on MCP, enabling persistent, shared context across conversations and applications",
+  "author": "Mutable State Inc",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ensue_cli-0.1.0.tar.gz",
+  "download_time": "2025-12-11T17:20:45.758023",
+  "package_url": "https://pypi.org/project/ensue-cli/"
+}

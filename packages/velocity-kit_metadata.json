@@ -1,0 +1,11 @@
+{
+  "name": "velocity-kit",
+  "version": "0.1.0",
+  "summary": "A cross-platform toolkit for building RNA velocity-ready spliced/unspliced matrices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "velocity_kit-0.1.0.tar.gz",
+  "download_time": "2025-12-11T17:20:45.239607",
+  "package_url": "https://pypi.org/project/velocity-kit/"
+}

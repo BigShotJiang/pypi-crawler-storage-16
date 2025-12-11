@@ -1,0 +1,11 @@
+{
+  "name": "pydataframer",
+  "version": "0.2.1",
+  "summary": "The official Python library for the dataframer API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pydataframer-0.2.1.tar.gz",
+  "download_time": "2025-12-11T17:21:06.341493",
+  "package_url": "https://pypi.org/project/pydataframer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dbt-common",
-  "version": "1.37.0",
+  "version": "1.37.1",
   "summary": "The shared common utilities that dbt-core and adapter implementations use",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_common-1.37.0.tar.gz",
-  "download_time": "2025-12-10T21:15:20.718651",
+  "download_filename": "dbt_common-1.37.1.tar.gz",
+  "download_time": "2025-12-11T17:20:48.399403",
   "package_url": "https://pypi.org/project/dbt-common/"
 }

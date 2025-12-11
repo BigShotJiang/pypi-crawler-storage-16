@@ -1,11 +1,11 @@
 {
   "name": "pheval-lirical",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": null,
   "author": "Yasemin Bridges",
   "license": null,
   "home_page": null,
-  "download_filename": "pheval_lirical-0.2.2.tar.gz",
-  "download_time": "2025-12-11T14:56:31.003205",
+  "download_filename": "pheval_lirical-0.2.3.tar.gz",
+  "download_time": "2025-12-11T17:21:09.468124",
   "package_url": "https://pypi.org/project/pheval-lirical/"
 }

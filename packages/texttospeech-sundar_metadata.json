@@ -1,11 +1,11 @@
 {
   "name": "texttospeech-sundar",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Hybrid online+offline text-to-speech package",
   "author": "Sundarapandi T",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "texttospeech_sundar-1.0.0.tar.gz",
-  "download_time": "2025-12-11T16:20:12.887696",
+  "download_filename": "texttospeech_sundar-1.0.2.tar.gz",
+  "download_time": "2025-12-11T17:21:19.448914",
   "package_url": "https://pypi.org/project/texttospeech-sundar/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "obra-client",
-  "version": "0.2.4",
+  "version": "0.2.7",
   "summary": "Obra SaaS Client - AI orchestration platform for autonomous software development",
   "author": "Obra Team",
   "license": "Proprietary - All Rights Reserved",
   "home_page": null,
-  "download_filename": "obra_client-0.2.4-py3-none-any.whl",
-  "download_time": "2025-12-10T22:52:47.253800",
+  "download_filename": "obra_client-0.2.7-py3-none-any.whl",
+  "download_time": "2025-12-11T17:20:54.782410",
   "package_url": "https://pypi.org/project/obra-client/"
 }

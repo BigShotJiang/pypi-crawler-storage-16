@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-thumbnail-choice-block",
+  "version": "0.1.1",
+  "summary": "A Wagtail block that displays thumbnail images for choice fields",
+  "author": "Lincoln Loop",
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "wagtail_thumbnail_choice_block-0.1.1.tar.gz",
+  "download_time": "2025-12-11T17:20:59.536756",
+  "package_url": "https://pypi.org/project/wagtail-thumbnail-choice-block/"
+}

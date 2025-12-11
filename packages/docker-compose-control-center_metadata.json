@@ -1,0 +1,11 @@
+{
+  "name": "docker-compose-control-center",
+  "version": "5.0.0",
+  "summary": "Docker Compose Control Center is a small utility web application. It allows for control of docker containers, and specifically services created with docker-compose",
+  "author": "Center for Nanoscale Science and Technology",
+  "license": "Public domain",
+  "home_page": "https://github.com/usnistgov/docker-control-center",
+  "download_filename": "docker_compose_control_center-5.0.0.tar.gz",
+  "download_time": "2025-12-11T17:20:57.471391",
+  "package_url": "https://pypi.org/project/docker-compose-control-center/"
+}

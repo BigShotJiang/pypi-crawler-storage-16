@@ -1,0 +1,11 @@
+{
+  "name": "lattica-polymorph",
+  "version": "0.1.2",
+  "summary": "Polymarket data scraper and pipeline",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lattica_polymorph-0.1.2.tar.gz",
+  "download_time": "2025-12-11T17:21:08.948042",
+  "package_url": "https://pypi.org/project/lattica-polymorph/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sqlglotrs",
+  "version": "0.9.0",
+  "summary": "An easily customizable SQL parser and transpiler",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlglotrs-0.9.0.tar.gz",
+  "download_time": "2025-12-11T17:21:00.076788",
+  "package_url": "https://pypi.org/project/sqlglotrs/"
+}

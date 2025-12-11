@@ -1,11 +1,11 @@
 {
   "name": "medmodels",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Limebit Medmodels Package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "medmodels-0.4.0.tar.gz",
-  "download_time": "2025-12-11T04:48:22.172288",
+  "download_filename": "medmodels-0.4.1.tar.gz",
+  "download_time": "2025-12-11T17:20:56.357779",
   "package_url": "https://pypi.org/project/medmodels/"
 }

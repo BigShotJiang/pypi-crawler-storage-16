@@ -1,11 +1,11 @@
 {
   "name": "flac-detective",
-  "version": "0.6.1",
+  "version": "0.6.5",
   "summary": "Advanced FLAC authenticity analyzer - Detects MP3-to-FLAC transcodes with high precision",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flac_detective-0.6.1.tar.gz",
-  "download_time": "2025-12-10T11:16:30.257950",
+  "download_filename": "flac_detective-0.6.5.tar.gz",
+  "download_time": "2025-12-11T17:21:05.309242",
   "package_url": "https://pypi.org/project/flac-detective/"
 }

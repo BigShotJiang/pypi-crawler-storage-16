@@ -1,0 +1,11 @@
+{
+  "name": "mcp-replay-dota2",
+  "version": "1.0.5",
+  "summary": "Model Context Protocol server for Dota 2 match analysis using replay files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_replay_dota2-1.0.5.tar.gz",
+  "download_time": "2025-12-11T09:46:19.582912",
+  "package_url": "https://pypi.org/project/mcp-replay-dota2/"
+}

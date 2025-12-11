@@ -1,0 +1,11 @@
+{
+  "name": "avisdk",
+  "version": "31.2.1",
+  "summary": "Avi python API SDK for Avi Controller REST API with samples and, utilities",
+  "author": "Avi Networks",
+  "license": "Avi Networks",
+  "home_page": "https://github.com/vmware/alb-sdk",
+  "download_filename": "avisdk-31.2.1.tar.gz",
+  "download_time": "2025-12-11T09:46:28.076522",
+  "package_url": "https://pypi.org/project/avisdk/"
+}

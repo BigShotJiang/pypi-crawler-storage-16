@@ -1,0 +1,11 @@
+{
+  "name": "lithic",
+  "version": "0.112.0",
+  "summary": "The official Python library for the lithic API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lithic-0.112.0.tar.gz",
+  "download_time": "2025-12-11T09:46:33.833671",
+  "package_url": "https://pypi.org/project/lithic/"
+}

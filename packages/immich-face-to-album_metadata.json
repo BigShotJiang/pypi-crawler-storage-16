@@ -1,0 +1,11 @@
+{
+  "name": "immich-face-to-album",
+  "version": "1.0.12",
+  "summary": "Tool to import a user's face from Immich into an album, mimicking the Google Photos \"auto-updating album\" feature.",
+  "author": "romainrbr",
+  "license": "WTFPL",
+  "home_page": "https://github.com/romainrbr/immich-face-to-album",
+  "download_filename": "immich_face_to_album-1.0.12.tar.gz",
+  "download_time": "2025-12-11T09:46:39.550264",
+  "package_url": "https://pypi.org/project/immich-face-to-album/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "symbolic-compartmental-model",
+  "version": "0.0.4",
+  "summary": "Analyzing protein-complex dynamics using metabolic age quantified by stable-isotope labeling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "symbolic_compartmental_model-0.0.4.tar.gz",
+  "download_time": "2025-12-11T09:46:57.936523",
+  "package_url": "https://pypi.org/project/symbolic-compartmental-model/"
+}

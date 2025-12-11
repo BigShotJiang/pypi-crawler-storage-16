@@ -1,0 +1,11 @@
+{
+  "name": "selenium-ui-test-tool",
+  "version": "2.1.1",
+  "summary": "Python library that simplifies Selenium WebDriver UI test automation",
+  "author": "Yann Dipita",
+  "license": "MIT",
+  "home_page": "https://kingcrud12.github.io/selenium_ui_test_tool/",
+  "download_filename": "selenium_ui_test_tool-2.1.1.tar.gz",
+  "download_time": "2025-12-11T09:46:36.950350",
+  "package_url": "https://pypi.org/project/selenium-ui-test-tool/"
+}

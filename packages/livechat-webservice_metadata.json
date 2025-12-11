@@ -1,11 +1,11 @@
 {
   "name": "livechat-webservice",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "summary": "Webservice client for LiveChat API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "livechat_webservice-0.1.4.tar.gz",
-  "download_time": "2025-12-11T06:56:28.378525",
+  "download_filename": "livechat_webservice-0.1.8.tar.gz",
+  "download_time": "2025-12-11T09:46:21.769647",
   "package_url": "https://pypi.org/project/livechat-webservice/"
 }

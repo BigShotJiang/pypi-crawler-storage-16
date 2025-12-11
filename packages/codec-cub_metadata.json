@@ -1,11 +1,11 @@
 {
   "name": "codec-cub",
-  "version": "0.0.14",
-  "summary": "Parsing shit and shit",
+  "version": "0.0.15",
+  "summary": "Parsing and encoding various codec configuration formats.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codec_cub-0.0.14.tar.gz",
-  "download_time": "2025-12-10T07:42:24.864990",
+  "download_filename": "codec_cub-0.0.15.tar.gz",
+  "download_time": "2025-12-11T09:46:39.029508",
   "package_url": "https://pypi.org/project/codec-cub/"
 }

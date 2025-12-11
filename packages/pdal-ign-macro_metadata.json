@@ -1,0 +1,11 @@
+{
+  "name": "pdal-ign-macro",
+  "version": "0.6.1",
+  "summary": "Macros and pipelines for Pdal based on the https://github.com/IGNF/pdal-ign-plugin plugin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdal_ign_macro-0.6.1.tar.gz",
+  "download_time": "2025-12-11T09:46:44.801312",
+  "package_url": "https://pypi.org/project/pdal-ign-macro/"
+}

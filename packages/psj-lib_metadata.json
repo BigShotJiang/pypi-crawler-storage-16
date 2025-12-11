@@ -1,0 +1,11 @@
+{
+  "name": "psj-lib",
+  "version": "1.0.0",
+  "summary": "Python library for amplifiers and other devices of piezosystem jena",
+  "author": "piezosystem jena GmbH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "psj_lib-1.0.0.tar.gz",
+  "download_time": "2025-12-11T09:46:25.462972",
+  "package_url": "https://pypi.org/project/psj-lib/"
+}

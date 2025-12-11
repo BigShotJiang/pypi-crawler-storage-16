@@ -1,0 +1,11 @@
+{
+  "name": "ansys-chemkin",
+  "version": "2025.2.0",
+  "summary": "PyChemkin provides Pythonic interface to Ansys chemkin utilities and reactor models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_chemkin-2025.2.0.tar.gz",
+  "download_time": "2025-12-11T09:58:52.880796",
+  "package_url": "https://pypi.org/project/ansys-chemkin/"
+}

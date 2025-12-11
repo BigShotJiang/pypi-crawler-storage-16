@@ -1,11 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-11T09:47:03.689304
-- **Total Packages**: 92
-- **Total Size**: 43.96 MB
+- **Download Time**: 2025-12-11T09:59:33.006848
+- **Total Packages**: 93
+- **Total Size**: 21.51 MB
 
 ## Packages List
+- canns
+- trendsagi
+- tradingapi
+- mcp-atlassian-bruno
+- nebius
+- CreGeoReference
+- lightcone-io
+- waldiez-studio
+- agenta
+- polysetlib
+- idzhiblavi-libdots
+- clisechubman
+- nmaipy
+- sharepoint-v1-api
+- superset-hetuengine-connector
+- moomoo-api
+- retab
+- pyEcoTrend-ista
+- futu-api
+- djb
+- checkpoint-engine
+- pyterrier-dr
+- ansys-chemkin
+- openmeter
+- iparapheur-provisioning
+- millheater
+- ryry-cli
+- hex-device
+- iparapheur-internal
+- satispy
+- dbhose-airflow
+- matrice-compute
+- ros-cdk-paidswapi
+- value-object-pattern
+- lex-app
+- ros-cdk-eventbridge
 - webviz-config-equinor
 - ros-cdk-eais
 - ros-cdk-cloudfw
@@ -25,7 +61,6 @@
 - xsuite
 - sirs-import
 - apache-gravitino
-- retab
 - psj-lib
 - rdsai-cli
 - mplang-nightly
@@ -49,14 +84,12 @@
 - nvfuser-cu130
 - narratelean
 - selenium-ui-test-tool
-- djb
 - norfab
 - nvfuser-cu128
 - codec-cub
 - immich-face-to-album
 - nvfuser-cu126
 - mySQLDBCtrlAPI
-- checkpoint-engine
 - instructure-dap-client
 - skribble
 - cerebrium
@@ -66,35 +99,3 @@
 - pdal-ign-macro
 - infraion
 - secops
-- wiliot-testers
-- NseKit
-- entity-linker-client
-- bootlick
-- eyepy
-- entity-linkings
-- depup
-- sefi
-- acryl-datahub-actions
-- graphsense-lib
-- gooddata-flexconnect
-- gooddata-fdw
-- gooddata-api-client
-- gooddata-dbt
-- gooddata-flight-server
-- gooddata-pipelines
-- gooddata-sdk
-- gooddata-pandas
-- mcp-atlassian-bruno
-- flood-adapt
-- klondike-spec-cli
-- symbolic-compartmental-model
-- webviz-subsurface
-- matrice-common
-- oarepo-rdm
-- acryl-datahub-gx-plugin
-- acryl-datahub
-- acryl-datahub-airflow-plugin
-- prefect-datahub
-- acryl-datahub-dagster-plugin
-- wg-manager
-- orcakit-sdk

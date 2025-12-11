@@ -1,0 +1,11 @@
+{
+  "name": "lightcone-io",
+  "version": "0.6.0",
+  "summary": "Module for reading SWIFT lightcone output.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lightcone_io-0.6.0.tar.gz",
+  "download_time": "2025-12-11T09:58:43.756798",
+  "package_url": "https://pypi.org/project/lightcone-io/"
+}

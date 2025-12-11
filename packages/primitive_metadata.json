@@ -1,11 +1,11 @@
 {
   "name": "primitive",
-  "version": "0.2.111",
+  "version": "0.2.112",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "primitive-0.2.111.tar.gz",
-  "download_time": "2025-12-11T20:17:15.356819",
+  "download_filename": "primitive-0.2.112.tar.gz",
+  "download_time": "2025-12-11T21:15:25.379941",
   "package_url": "https://pypi.org/project/primitive/"
 }

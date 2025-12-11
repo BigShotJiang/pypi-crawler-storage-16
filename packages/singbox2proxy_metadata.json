@@ -1,11 +1,11 @@
 {
   "name": "singbox2proxy",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "🐳 Use sing-box (v2ray) proxies (VLESS + REALITY, VMess, Trojan, Shadowsocks, Hysteria, Hysteria2, TUIC, WireGuard, SSH) directly in your http clients, with chaining support and easy CLI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "singbox2proxy-0.2.6.tar.gz",
-  "download_time": "2025-12-11T18:20:18.437996",
+  "download_filename": "singbox2proxy-0.2.7.tar.gz",
+  "download_time": "2025-12-11T21:15:20.248596",
   "package_url": "https://pypi.org/project/singbox2proxy/"
 }

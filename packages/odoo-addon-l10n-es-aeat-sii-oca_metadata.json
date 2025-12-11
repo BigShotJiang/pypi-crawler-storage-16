@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-es-aeat-sii-oca",
+  "version": "18.0.1.3.1",
+  "summary": "=?utf-8?q?Suministro_Inmediato_de_Informaci=C3=B3n_en_el_IVA?=",
+  "author": "Acysos S.L.,Diagram,Minorisa,Studio73,FactorLibre,Comunitea,Otherway,Tecnativa,Javi Melendez,Sygel,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-spain",
+  "download_filename": "odoo_addon_l10n_es_aeat_sii_oca-18.0.1.3.1-py3-none-any.whl",
+  "download_time": "2025-12-11T21:15:30.641105",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-es-aeat-sii-oca/"
+}

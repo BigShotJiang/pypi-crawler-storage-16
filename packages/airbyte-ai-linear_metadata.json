@@ -1,11 +1,11 @@
 {
   "name": "airbyte-ai-linear",
-  "version": "0.19.5",
+  "version": "0.19.6",
   "summary": "Airbyte Linear Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_ai_linear-0.19.5.tar.gz",
-  "download_time": "2025-12-11T18:56:57.345710",
+  "download_filename": "airbyte_ai_linear-0.19.6.tar.gz",
+  "download_time": "2025-12-11T21:15:28.449108",
   "package_url": "https://pypi.org/project/airbyte-ai-linear/"
 }

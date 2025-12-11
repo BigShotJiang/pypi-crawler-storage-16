@@ -1,11 +1,11 @@
 {
   "name": "reverse-pred",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Library to run Reverse Predictivity",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reverse_pred-0.1.2.tar.gz",
-  "download_time": "2025-12-10T20:15:48.975279",
+  "download_filename": "reverse_pred-0.1.3.tar.gz",
+  "download_time": "2025-12-11T21:15:47.863779",
   "package_url": "https://pypi.org/project/reverse-pred/"
 }

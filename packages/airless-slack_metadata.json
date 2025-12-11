@@ -1,11 +1,11 @@
 {
   "name": "airless-slack",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Airless package to manage slack",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "airless_slack-0.2.0.tar.gz",
-  "download_time": "2025-12-11T18:20:22.084861",
+  "download_filename": "airless_slack-0.3.0.tar.gz",
+  "download_time": "2025-12-11T21:15:39.926804",
   "package_url": "https://pypi.org/project/airless-slack/"
 }

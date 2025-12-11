@@ -1,11 +1,11 @@
 {
   "name": "dao-ai",
-  "version": "0.0.33",
+  "version": "0.0.34",
   "summary": "DAO AI: A modular, multi-agent orchestration framework for complex AI workflows. Supports agent handoff, tool integration, and dynamic configuration via YAML.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dao_ai-0.0.33-py3-none-any.whl",
-  "download_time": "2025-12-10T14:48:22.866494",
+  "download_filename": "dao_ai-0.0.34-py3-none-any.whl",
+  "download_time": "2025-12-11T21:15:31.153467",
   "package_url": "https://pypi.org/project/dao-ai/"
 }

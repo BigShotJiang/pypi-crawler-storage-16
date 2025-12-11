@@ -1,0 +1,11 @@
+{
+  "name": "django-jbank",
+  "version": "4.9.1",
+  "summary": "Collection of small utilities for Django and Django REST framework projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_jbank-4.9.1.tar.gz",
+  "download_time": "2025-12-11T21:15:38.390154",
+  "package_url": "https://pypi.org/project/django-jbank/"
+}

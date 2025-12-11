@@ -1,11 +1,11 @@
 {
   "name": "uipath-runtime",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Runtime abstractions and interfaces for building agents and automation scripts in the UiPath ecosystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uipath_runtime-0.2.6.tar.gz",
-  "download_time": "2025-12-11T11:14:04.253578",
+  "download_filename": "uipath_runtime-0.2.7.tar.gz",
+  "download_time": "2025-12-11T11:55:03.590430",
   "package_url": "https://pypi.org/project/uipath-runtime/"
 }

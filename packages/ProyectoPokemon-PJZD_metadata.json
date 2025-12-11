@@ -1,0 +1,11 @@
+{
+  "name": "ProyectoPokemon-PJZD",
+  "version": "1.0.1",
+  "summary": "Librería para consultar estadísticas de Pokémon por grupo a partir de un CSV.",
+  "author": "Pedro Javier Zambudio Decillis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "proyectopokemon_pjzd-1.0.1.tar.gz",
+  "download_time": "2025-12-11T11:54:53.862583",
+  "package_url": "https://pypi.org/project/ProyectoPokemon-PJZD/"
+}

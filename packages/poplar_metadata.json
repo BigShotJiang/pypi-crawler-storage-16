@@ -1,0 +1,11 @@
+{
+  "name": "poplar",
+  "version": "0.3",
+  "summary": "A python package for modelling selection effects with machine learning",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "poplar-0.3.tar.gz",
+  "download_time": "2025-12-11T11:54:39.286364",
+  "package_url": "https://pypi.org/project/poplar/"
+}

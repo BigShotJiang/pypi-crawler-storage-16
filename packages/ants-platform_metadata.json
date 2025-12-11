@@ -1,0 +1,11 @@
+{
+  "name": "ants-platform",
+  "version": "3.4.0",
+  "summary": "A client library for accessing ants-platform",
+  "author": "ants-platform",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ants_platform-3.4.0.tar.gz",
+  "download_time": "2025-12-11T11:54:43.382056",
+  "package_url": "https://pypi.org/project/ants-platform/"
+}

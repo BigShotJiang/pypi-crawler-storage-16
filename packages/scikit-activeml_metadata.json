@@ -1,0 +1,11 @@
+{
+  "name": "scikit-activeml",
+  "version": "1.0.0",
+  "summary": "scikit-activeml is a Python library for active learning on top of SciPy and scikit-learn.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scikit_activeml-1.0.0.tar.gz",
+  "download_time": "2025-12-11T11:54:50.350169",
+  "package_url": "https://pypi.org/project/scikit-activeml/"
+}

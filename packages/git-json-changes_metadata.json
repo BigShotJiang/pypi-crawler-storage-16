@@ -1,11 +1,11 @@
 {
   "name": "git-json-changes",
-  "version": "0.2.0",
+  "version": "0.2.4",
   "summary": "Extract structured JSON of Git changes with PR and issue tracker integration",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "git_json_changes-0.2.0-py3-none-any.whl",
-  "download_time": "2025-12-11T11:14:11.101481",
+  "download_filename": "git_json_changes-0.2.4-py3-none-any.whl",
+  "download_time": "2025-12-11T11:54:34.011997",
   "package_url": "https://pypi.org/project/git-json-changes/"
 }

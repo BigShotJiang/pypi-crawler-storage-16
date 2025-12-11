@@ -1,0 +1,11 @@
+{
+  "name": "remotex",
+  "version": "1.0.1",
+  "summary": "A feature-rich SSH server management CLI tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "remotex-1.0.1.tar.gz",
+  "download_time": "2025-12-11T15:16:59.918354",
+  "package_url": "https://pypi.org/project/remotex/"
+}

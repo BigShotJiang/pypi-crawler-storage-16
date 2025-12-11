@@ -5,7 +5,7 @@
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "restate_sdk-0.13.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2025-12-11T13:52:03.243982",
+  "download_filename": "restate_sdk-0.13.1.tar.gz",
+  "download_time": "2025-12-11T15:17:00.967839",
   "package_url": "https://pypi.org/project/restate-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sborf",
+  "version": "0.0.2",
+  "summary": "A neural network that predicts and designs alternative DNA encodings for proteins, aiming to fine-tune their expression",
+  "author": "Gabriele Orlando",
+  "license": null,
+  "home_page": "https://github.com/grogdrinker/sborf",
+  "download_filename": "sborf-0.0.2.tar.gz",
+  "download_time": "2025-12-11T15:16:55.484340",
+  "package_url": "https://pypi.org/project/sborf/"
+}

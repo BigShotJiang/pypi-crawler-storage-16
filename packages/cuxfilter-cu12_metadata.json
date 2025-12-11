@@ -1,0 +1,11 @@
+{
+  "name": "cuxfilter-cu12",
+  "version": "25.12.0",
+  "summary": "GPU accelerated cross filtering with cuDF",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cuxfilter_cu12-25.12.0.tar.gz",
+  "download_time": "2025-12-11T12:29:17.509756",
+  "package_url": "https://pypi.org/project/cuxfilter-cu12/"
+}

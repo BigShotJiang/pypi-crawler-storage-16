@@ -1,0 +1,11 @@
+{
+  "name": "cli-tools-by-oleksa",
+  "version": "2.1.0",
+  "summary": "Lightweight helper toolkit for building CLI (command-line) applications in Python.",
+  "author": "Oleksa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cli_tools_by_oleksa-2.1.0.tar.gz",
+  "download_time": "2025-12-11T12:29:37.061665",
+  "package_url": "https://pypi.org/project/cli-tools-by-oleksa/"
+}

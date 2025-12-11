@@ -1,0 +1,11 @@
+{
+  "name": "pathsim-chem",
+  "version": "0.1.1",
+  "summary": "Chemical Engineering Blocks for PathSim",
+  "author": "PathSim Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pathsim_chem-0.1.1.tar.gz",
+  "download_time": "2025-12-11T12:29:47.019085",
+  "package_url": "https://pypi.org/project/pathsim-chem/"
+}

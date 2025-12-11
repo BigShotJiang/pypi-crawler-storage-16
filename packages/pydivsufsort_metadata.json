@@ -1,0 +1,11 @@
+{
+  "name": "pydivsufsort",
+  "version": "0.0.19",
+  "summary": "String algorithms",
+  "author": "Louis Abraham",
+  "license": "MIT",
+  "home_page": "https://github.com/louisabraham/pydivsufsort",
+  "download_filename": "pydivsufsort-0.0.19-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-12-11T12:29:46.374324",
+  "package_url": "https://pypi.org/project/pydivsufsort/"
+}

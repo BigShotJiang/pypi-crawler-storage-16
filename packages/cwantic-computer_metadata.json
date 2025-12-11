@@ -1,0 +1,11 @@
+{
+  "name": "cwantic-computer",
+  "version": "0.1.4",
+  "summary": "Cwantic's Python Library giving access to MetaPiping and MetaStructure",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cwantic_computer-0.1.4-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-12-11T12:29:31.303447",
+  "package_url": "https://pypi.org/project/cwantic-computer/"
+}

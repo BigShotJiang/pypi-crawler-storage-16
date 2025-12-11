@@ -1,11 +1,11 @@
 {
   "name": "crc-pulp-rpm-client",
-  "version": "20251210.3",
+  "version": "20251211.2",
   "summary": "Pulp 3 API",
   "author": "Pulp Team",
   "license": "GPLv2+",
   "home_page": null,
-  "download_filename": "crc_pulp_rpm_client-20251210.3.tar.gz",
-  "download_time": "2025-12-10T16:20:22.388105",
+  "download_filename": "crc_pulp_rpm_client-20251211.2.tar.gz",
+  "download_time": "2025-12-11T17:53:24.710979",
   "package_url": "https://pypi.org/project/crc-pulp-rpm-client/"
 }

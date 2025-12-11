@@ -1,0 +1,11 @@
+{
+  "name": "ufo2ft",
+  "version": "3.6.9",
+  "summary": "A bridge between UFOs and FontTools.",
+  "author": "James Godfrey-Kittle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ufo2ft-3.6.9.tar.gz",
+  "download_time": "2025-12-11T17:53:22.540141",
+  "package_url": "https://pypi.org/project/ufo2ft/"
+}

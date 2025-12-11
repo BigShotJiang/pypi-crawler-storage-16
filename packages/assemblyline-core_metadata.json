@@ -1,0 +1,11 @@
+{
+  "name": "assemblyline-core",
+  "version": "4.6.0.23",
+  "summary": "Assemblyline 4 - Core components",
+  "author": "CCCS Assemblyline development team",
+  "license": "MIT",
+  "home_page": "https://github.com/CybercentreCanada/assemblyline-core/",
+  "download_filename": "assemblyline_core-4.6.0.23.tar.gz",
+  "download_time": "2025-12-11T17:53:53.379159",
+  "package_url": "https://pypi.org/project/assemblyline-core/"
+}

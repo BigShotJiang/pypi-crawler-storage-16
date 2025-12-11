@@ -1,0 +1,11 @@
+{
+  "name": "RESTinstance",
+  "version": "1.6.2",
+  "summary": "Robot Framework library for RESTful JSON APIs",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "restinstance-1.6.2.tar.gz",
+  "download_time": "2025-12-11T17:53:49.089462",
+  "package_url": "https://pypi.org/project/RESTinstance/"
+}

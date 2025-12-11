@@ -1,0 +1,11 @@
+{
+  "name": "airless-google-cloud-core",
+  "version": "0.2.0",
+  "summary": "Airless package with the main components to use airless in google cloud",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "airless_google_cloud_core-0.2.0.tar.gz",
+  "download_time": "2025-12-11T17:53:11.431501",
+  "package_url": "https://pypi.org/project/airless-google-cloud-core/"
+}

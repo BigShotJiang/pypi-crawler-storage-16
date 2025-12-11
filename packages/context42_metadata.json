@@ -1,11 +1,11 @@
 {
   "name": "context42",
-  "version": "0.2.0",
-  "summary": "MCP RAG Server - Local text search with compression",
+  "version": "0.3.2",
+  "summary": "MCP RAG Server with CLaRa semantic compression",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "context42-0.2.0.tar.gz",
-  "download_time": "2025-12-11T14:45:04.117230",
+  "download_filename": "context42-0.3.2.tar.gz",
+  "download_time": "2025-12-11T17:53:20.802024",
   "package_url": "https://pypi.org/project/context42/"
 }

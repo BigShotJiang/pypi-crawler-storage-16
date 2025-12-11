@@ -1,0 +1,11 @@
+{
+  "name": "tpu-info",
+  "version": "0.8.0",
+  "summary": "CLI tool to view TPU metrics",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tpu_info-0.8.0-py3-none-any.whl",
+  "download_time": "2025-12-11T17:53:37.328392",
+  "package_url": "https://pypi.org/project/tpu-info/"
+}

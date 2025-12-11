@@ -1,11 +1,11 @@
 {
   "name": "rich-style",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "A Python library for creating and applying full-color, linear, and circular gradients to text with easy color management.",
   "author": "PcoiDev",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rich_style-1.1.5.tar.gz",
-  "download_time": "2025-12-11T17:21:18.408527",
+  "download_filename": "rich_style-1.1.6.tar.gz",
+  "download_time": "2025-12-11T17:53:41.064180",
   "package_url": "https://pypi.org/project/rich-style/"
 }

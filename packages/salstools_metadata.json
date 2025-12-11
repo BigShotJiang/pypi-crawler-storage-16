@@ -1,11 +1,11 @@
 {
   "name": "salstools",
-  "version": "0.1.2",
+  "version": "0.1.4.2",
   "summary": "Utilities for charts and analytics",
-  "author": null,
+  "author": "Sals",
   "license": null,
   "home_page": null,
-  "download_filename": "salstools-0.1.2.tar.gz",
-  "download_time": "2025-12-11T14:45:14.045384",
+  "download_filename": "salstools-0.1.4.2.tar.gz",
+  "download_time": "2025-12-11T17:53:46.451812",
   "package_url": "https://pypi.org/project/salstools/"
 }

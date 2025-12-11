@@ -1,0 +1,11 @@
+{
+  "name": "assert-element",
+  "version": "0.6.0",
+  "summary": "Simple TestCase assertion that finds element based on it's path and check if it equals with given content.",
+  "author": "Petr Dlouhý",
+  "license": "MIT",
+  "home_page": "https://github.com/PetrDlouhy/django-assert-element",
+  "download_filename": "assert_element-0.6.0.tar.gz",
+  "download_time": "2025-12-11T17:53:32.476352",
+  "package_url": "https://pypi.org/project/assert-element/"
+}

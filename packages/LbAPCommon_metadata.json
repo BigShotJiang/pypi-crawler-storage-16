@@ -1,0 +1,11 @@
+{
+  "name": "LbAPCommon",
+  "version": "0.14.27",
+  "summary": "Common utilities used by LHCb DPA WP2 related software",
+  "author": "LHCb",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lbapcommon-0.14.27.tar.gz",
+  "download_time": "2025-12-11T17:53:38.394772",
+  "package_url": "https://pypi.org/project/LbAPCommon/"
+}

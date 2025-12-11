@@ -1,11 +1,11 @@
 {
   "name": "wikipedia-tablo-cekici",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Wikipedia sayfalarından tablo verilerini çeken Python kütüphanesi",
-  "author": "özgürözen",
+  "author": "Özgür Özen",
   "license": null,
   "home_page": "https://github.com/ozgurrozennn/my_project",
-  "download_filename": "wikipedia_tablo_cekici-1.0.0.tar.gz",
-  "download_time": "2025-12-11T13:52:09.934794",
+  "download_filename": "wikipedia_tablo_cekici-1.0.1.tar.gz",
+  "download_time": "2025-12-11T14:18:20.894518",
   "package_url": "https://pypi.org/project/wikipedia-tablo-cekici/"
 }

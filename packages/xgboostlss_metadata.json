@@ -1,11 +1,11 @@
 {
   "name": "xgboostlss",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "XGBoostLSS - An extension of XGBoost to probabilistic modelling",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "xgboostlss-0.6.0.tar.gz",
-  "download_time": "2025-12-11T11:54:52.677487",
+  "download_filename": "xgboostlss-0.6.1.tar.gz",
+  "download_time": "2025-12-11T14:18:21.943670",
   "package_url": "https://pypi.org/project/xgboostlss/"
 }

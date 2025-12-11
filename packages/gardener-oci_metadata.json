@@ -1,0 +1,11 @@
+{
+  "name": "gardener-oci",
+  "version": "1.2730.0",
+  "summary": "Gardener OCI lib",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gardener_oci-1.2730.0-py3-none-any.whl",
+  "download_time": "2025-12-11T14:18:09.009275",
+  "package_url": "https://pypi.org/project/gardener-oci/"
+}

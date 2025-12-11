@@ -1,0 +1,11 @@
+{
+  "name": "dessca",
+  "version": "1.0.0",
+  "summary": "Improved Exploring Starts by Kernel Density Estimation-Based State-Space Coverage Acceleration in Reinforcement Learning.",
+  "author": "Maximilian Schenke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dessca-1.0.0.tar.gz",
+  "download_time": "2025-12-11T14:18:19.871480",
+  "package_url": "https://pypi.org/project/dessca/"
+}

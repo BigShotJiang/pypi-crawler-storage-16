@@ -1,0 +1,11 @@
+{
+  "name": "distributed-ucxx-cu12",
+  "version": "0.47.0",
+  "summary": "UCX communication module for Dask Distributed",
+  "author": "NVIDIA Corporation",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "distributed_ucxx_cu12-0.47.0-py3-none-any.whl",
+  "download_time": "2025-12-11T14:18:41.162678",
+  "package_url": "https://pypi.org/project/distributed-ucxx-cu12/"
+}

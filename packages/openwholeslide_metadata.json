@@ -1,0 +1,11 @@
+{
+  "name": "openwholeslide",
+  "version": "0.3.5",
+  "summary": "Wrapper around tifffile library to have the same API as OpenSlide.",
+  "author": "Arthur Elskens, Adrien Foucart",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/prother-wal_ulb_lis_mnu/openwholeslide",
+  "download_filename": "openwholeslide-0.3.5.tar.gz",
+  "download_time": "2025-12-11T14:18:26.603768",
+  "package_url": "https://pypi.org/project/openwholeslide/"
+}

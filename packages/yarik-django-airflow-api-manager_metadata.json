@@ -1,11 +1,11 @@
 {
   "name": "yarik-django-airflow-api-manager",
-  "version": "2.0.19",
+  "version": "2.0.20",
   "summary": "Airflow api manager django app.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yarik_django_airflow_api_manager-2.0.19.tar.gz",
-  "download_time": "2025-12-11T13:14:29.854477",
+  "download_filename": "yarik_django_airflow_api_manager-2.0.20-py3-none-any.whl",
+  "download_time": "2025-12-11T14:18:07.432179",
   "package_url": "https://pypi.org/project/yarik-django-airflow-api-manager/"
 }

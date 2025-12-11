@@ -1,0 +1,11 @@
+{
+  "name": "da4ml",
+  "version": "0.4.1",
+  "summary": "Distributed Arithmetic for Machine Learning",
+  "author": null,
+  "license": "GNU Lesser General Public License v3 (LGPLv3)",
+  "home_page": null,
+  "download_filename": "da4ml-0.4.1.tar.gz",
+  "download_time": "2025-12-11T14:18:03.307659",
+  "package_url": "https://pypi.org/project/da4ml/"
+}

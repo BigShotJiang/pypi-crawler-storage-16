@@ -1,0 +1,11 @@
+{
+  "name": "beancount_cc_importers",
+  "version": "0.1.13",
+  "summary": "Beancount importer plugin",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "beancount_cc_importers-0.1.13.tar.gz",
+  "download_time": "2025-12-11T14:18:43.840490",
+  "package_url": "https://pypi.org/project/beancount_cc_importers/"
+}

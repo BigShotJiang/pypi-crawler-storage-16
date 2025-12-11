@@ -1,0 +1,11 @@
+{
+  "name": "optimizely-opal.opal-tools-sdk",
+  "version": "0.1.10.dev0",
+  "summary": "SDK for creating Opal-compatible tools services",
+  "author": "Optimizely",
+  "license": "MIT",
+  "home_page": "https://github.com/optimizely/opal-tools-sdk",
+  "download_filename": "optimizely_opal_opal_tools_sdk-0.1.10.dev0.tar.gz",
+  "download_time": "2025-12-11T14:18:19.341401",
+  "package_url": "https://pypi.org/project/optimizely-opal.opal-tools-sdk/"
+}

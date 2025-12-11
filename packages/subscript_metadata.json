@@ -1,0 +1,11 @@
+{
+  "name": "subscript",
+  "version": "1.14.5",
+  "summary": "Equinor's collection of subsurface reservoir modelling scripts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "subscript-1.14.5-py3-none-any.whl",
+  "download_time": "2025-12-11T14:18:21.408333",
+  "package_url": "https://pypi.org/project/subscript/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kvikio-cu13",
+  "version": "25.12.0",
+  "summary": "KvikIO - GPUDirect Storage",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kvikio_cu13-25.12.0-cp310-cp310-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2025-12-11T14:18:38.571445",
+  "package_url": "https://pypi.org/project/kvikio-cu13/"
+}

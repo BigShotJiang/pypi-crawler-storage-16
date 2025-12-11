@@ -1,0 +1,11 @@
+{
+  "name": "zeroros",
+  "version": "1.1.1",
+  "summary": "ZeroROS middleware",
+  "author": "Miquel Massot",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/miquelmassot/zeroros",
+  "download_filename": "zeroros-1.1.1.tar.gz",
+  "download_time": "2025-12-11T16:20:30.500918",
+  "package_url": "https://pypi.org/project/zeroros/"
+}

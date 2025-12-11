@@ -1,0 +1,11 @@
+{
+  "name": "carlogtt-python-library",
+  "version": "1.7.0",
+  "summary": "A versatile Python library offering a collection of reusable utility functions designed to streamline common programming tasks and promote code reusability across various projects.",
+  "author": "Carlo Gatti",
+  "license": null,
+  "home_page": "https://github.com/64rl0/CarlogttPythonLibrary.git",
+  "download_filename": "carlogtt_python_library-1.7.0.tar.gz",
+  "download_time": "2025-12-11T16:20:26.017685",
+  "package_url": "https://pypi.org/project/carlogtt-python-library/"
+}

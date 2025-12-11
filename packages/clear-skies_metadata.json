@@ -1,11 +1,11 @@
 {
   "name": "clear-skies",
-  "version": "2.0.25",
+  "version": "2.0.26",
   "summary": "A framework for building backends in the cloud",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clear_skies-2.0.25.tar.gz",
-  "download_time": "2025-12-10T13:49:40.491114",
+  "download_filename": "clear_skies-2.0.26.tar.gz",
+  "download_time": "2025-12-11T16:20:19.948669",
   "package_url": "https://pypi.org/project/clear-skies/"
 }

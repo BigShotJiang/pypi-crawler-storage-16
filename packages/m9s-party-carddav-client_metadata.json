@@ -1,0 +1,11 @@
+{
+  "name": "m9s-party-carddav-client",
+  "version": "7.0.6",
+  "summary": "Tryton Party Carddav Client Module",
+  "author": "MBSolutions",
+  "license": "GPL-3",
+  "home_page": "https://www.m9s.biz/",
+  "download_filename": "m9s_party_carddav_client-7.0.6.tar.gz",
+  "download_time": "2025-12-11T16:19:58.592111",
+  "package_url": "https://pypi.org/project/m9s-party-carddav-client/"
+}

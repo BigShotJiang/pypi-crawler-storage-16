@@ -1,0 +1,11 @@
+{
+  "name": "lib-layered-config",
+  "version": "5.0.0",
+  "summary": "Cross-platform layered configuration loader for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lib_layered_config-5.0.0.tar.gz",
+  "download_time": "2025-12-11T16:19:56.953523",
+  "package_url": "https://pypi.org/project/lib-layered-config/"
+}

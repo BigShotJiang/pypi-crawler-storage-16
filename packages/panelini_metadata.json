@@ -1,0 +1,11 @@
+{
+  "name": "panelini",
+  "version": "0.7.0",
+  "summary": "Panelini is a user-friendly Python package designed to provide an out-of-the-box panel with a beautiful and responsive layout. It simplifies the creation of interactive dashboards by handling dynamic content seamlessly using Python Panel components. Whether you're building complex data visualizations or simple interactive interfaces, panelini offers an easy-to-use solution that enhances productivity and aesthetics.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "panelini-0.7.0.tar.gz",
+  "download_time": "2025-12-11T16:20:03.598527",
+  "package_url": "https://pypi.org/project/panelini/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "amazon-braket-sdk",
+  "version": "1.106.5",
+  "summary": "An open source library for interacting with quantum computing devices on Amazon Braket",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/amazon-braket/amazon-braket-sdk-python",
+  "download_filename": "amazon_braket_sdk-1.106.5.tar.gz",
+  "download_time": "2025-12-11T16:20:01.336946",
+  "package_url": "https://pypi.org/project/amazon-braket-sdk/"
+}

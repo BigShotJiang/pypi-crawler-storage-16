@@ -1,0 +1,11 @@
+{
+  "name": "FAIRLinked",
+  "version": "0.3.2.2",
+  "summary": "Transform materials research data into FAIR-compliant RDF Data. Align your datasets with MDS-Onto and convert them into Linked Data, enhancing interoperability and reusability for seamless data integration. See the README or vignette for more information. This tool is used by the SDLE Research Center at Case Western Reserve University.",
+  "author": "Van D. Tran, Brandon Lee, Henry Dirks, Ritika Lamba, Balashanmuga Priyan Rajamohan, Gabriel Ponon, Quynh D. Tran, Ozan Dernek, Yinghui Wu, Erika I. Barcelos, Roger H. French, Laura S. Bruckman",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "fairlinked-0.3.2.2.tar.gz",
+  "download_time": "2025-12-11T16:19:59.137788",
+  "package_url": "https://pypi.org/project/FAIRLinked/"
+}

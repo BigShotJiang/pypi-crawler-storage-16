@@ -1,0 +1,11 @@
+{
+  "name": "llnl-clippy",
+  "version": "0.4.1",
+  "summary": "A Python interface to HPC resources",
+  "author": "Roger Pearce, Seth Bromberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llnl_clippy-0.4.1.tar.gz",
+  "download_time": "2025-12-11T16:20:06.408578",
+  "package_url": "https://pypi.org/project/llnl-clippy/"
+}

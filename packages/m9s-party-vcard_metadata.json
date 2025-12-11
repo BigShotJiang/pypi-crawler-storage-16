@@ -1,0 +1,11 @@
+{
+  "name": "m9s-party-vcard",
+  "version": "7.0.8",
+  "summary": "Tryton Party Vcard Module",
+  "author": "MBSolutions",
+  "license": "GPL-3",
+  "home_page": "https://www.m9s.biz/",
+  "download_filename": "m9s_party_vcard-7.0.8.tar.gz",
+  "download_time": "2025-12-11T16:20:11.780346",
+  "package_url": "https://pypi.org/project/m9s-party-vcard/"
+}

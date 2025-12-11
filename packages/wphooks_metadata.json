@@ -1,0 +1,11 @@
+{
+  "name": "wphooks",
+  "version": "0.1.0",
+  "summary": "WordPress-style Hooks for Python",
+  "author": "Manuel Canga",
+  "license": null,
+  "home_page": "https://github.com/manuelcanga/wphooks",
+  "download_filename": "wphooks-0.1.0.tar.gz",
+  "download_time": "2025-12-11T16:19:56.404016",
+  "package_url": "https://pypi.org/project/wphooks/"
+}

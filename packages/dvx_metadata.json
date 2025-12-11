@@ -1,0 +1,11 @@
+{
+  "name": "dvx",
+  "version": "0.0.0",
+  "summary": "Minimal data version control - content-addressable storage for data files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dvx-0.0.0.tar.gz",
+  "download_time": "2025-12-11T20:43:30.372308",
+  "package_url": "https://pypi.org/project/dvx/"
+}

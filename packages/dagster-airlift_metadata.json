@@ -1,0 +1,11 @@
+{
+  "name": "dagster-airlift",
+  "version": "0.28.6",
+  "summary": "A toolkit for observing integration and migration between Apache Airflow and Dagster.",
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-airlift",
+  "download_filename": "dagster_airlift-0.28.6.tar.gz",
+  "download_time": "2025-12-11T20:44:08.643641",
+  "package_url": "https://pypi.org/project/dagster-airlift/"
+}

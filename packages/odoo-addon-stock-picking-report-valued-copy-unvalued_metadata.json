@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-picking-report-valued-copy-unvalued",
+  "version": "17.0.1.0.0",
+  "summary": "Print valued and unvalued delivery slip at the same time",
+  "author": "=?utf-8?q?Alberto_Mart=C3=ADnez=2C_Odoo_Community_Association_=28OCA=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/sygel-technology/sy-stock-logistics-reporting",
+  "download_filename": "odoo_addon_stock_picking_report_valued_copy_unvalued-17.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-11T20:43:17.218564",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-picking-report-valued-copy-unvalued/"
+}

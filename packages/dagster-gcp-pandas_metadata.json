@@ -1,11 +1,11 @@
 {
   "name": "dagster-gcp-pandas",
-  "version": "0.28.5",
+  "version": "0.28.6",
   "summary": "Package for storing Pandas DataFrames in GCP.",
   "author": "Dagster Labs",
   "license": "Apache-2.0",
   "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-gcp-pandas",
-  "download_filename": "dagster_gcp_pandas-0.28.5.tar.gz",
-  "download_time": "2025-12-09T23:48:43.083036",
+  "download_filename": "dagster_gcp_pandas-0.28.6.tar.gz",
+  "download_time": "2025-12-11T20:43:39.982423",
   "package_url": "https://pypi.org/project/dagster-gcp-pandas/"
 }

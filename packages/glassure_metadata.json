@@ -1,0 +1,11 @@
+{
+  "name": "glassure",
+  "version": "2.3.0",
+  "summary": "API and GUI for analysis of X-ray total scattering data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "glassure-2.3.0.tar.gz",
+  "download_time": "2025-12-11T20:44:01.689577",
+  "package_url": "https://pypi.org/project/glassure/"
+}

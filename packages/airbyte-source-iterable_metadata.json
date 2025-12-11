@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-iterable",
+  "version": "0.6.53",
+  "summary": "Source implementation for Iterable.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_iterable-0.6.53.tar.gz",
+  "download_time": "2025-12-11T20:43:26.951850",
+  "package_url": "https://pypi.org/project/airbyte-source-iterable/"
+}

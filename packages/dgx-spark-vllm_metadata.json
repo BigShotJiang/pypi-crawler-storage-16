@@ -1,11 +1,11 @@
 {
   "name": "dgx-spark-vllm",
-  "version": "25.9.2",
+  "version": "25.9.3",
   "summary": "vLLM for DGX Spark (GB10). After pip install, run: sudo dgx-spark-vllm-install",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dgx_spark_vllm-25.9.2.tar.gz",
-  "download_time": "2025-12-11T07:53:20.669604",
+  "download_filename": "dgx_spark_vllm-25.9.3.tar.gz",
+  "download_time": "2025-12-11T10:48:05.407179",
   "package_url": "https://pypi.org/project/dgx-spark-vllm/"
 }

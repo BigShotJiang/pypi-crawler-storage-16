@@ -1,0 +1,11 @@
+{
+  "name": "great-expectations",
+  "version": "1.9.3",
+  "summary": "Always know what to expect from your data.",
+  "author": "The Great Expectations Team",
+  "license": "Apache-2.0",
+  "home_page": "https://greatexpectations.io",
+  "download_filename": "great_expectations-1.9.3-py3-none-any.whl",
+  "download_time": "2025-12-11T04:48:43.048912",
+  "package_url": "https://pypi.org/project/great-expectations/"
+}

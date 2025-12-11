@@ -1,11 +1,11 @@
 {
   "name": "dirdotenv",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Like direnv, but works with both .envrc and .env files",
   "author": "Alexey Grigorev",
   "license": null,
   "home_page": null,
-  "download_filename": "dirdotenv-0.0.1.tar.gz",
-  "download_time": "2025-12-10T20:41:50.224612",
+  "download_filename": "dirdotenv-0.0.2.tar.gz",
+  "download_time": "2025-12-11T04:48:27.062305",
   "package_url": "https://pypi.org/project/dirdotenv/"
 }

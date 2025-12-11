@@ -1,0 +1,11 @@
+{
+  "name": "tornado",
+  "version": "6.5.3",
+  "summary": "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",
+  "author": "Facebook",
+  "license": "Apache-2.0",
+  "home_page": "http://www.tornadoweb.org/",
+  "download_filename": "tornado-6.5.3.tar.gz",
+  "download_time": "2025-12-11T04:49:01.428645",
+  "package_url": "https://pypi.org/project/tornado/"
+}

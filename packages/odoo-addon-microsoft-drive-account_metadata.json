@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-microsoft-drive-account",
+  "version": "18.0.2.0.0.1",
+  "summary": "Link user with Microsoft",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/storage",
+  "download_filename": "odoo_addon_microsoft_drive_account-18.0.2.0.0.1-py3-none-any.whl",
+  "download_time": "2025-12-11T04:48:41.980345",
+  "package_url": "https://pypi.org/project/odoo-addon-microsoft-drive-account/"
+}

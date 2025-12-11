@@ -1,11 +1,11 @@
 {
   "name": "cdk-monitoring-constructs",
-  "version": "9.17.1",
+  "version": "9.19.0",
   "summary": "cdk-monitoring-constructs",
   "author": "Amazon Web Services<aws-cdk-dev@amazon.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cdklabs/cdk-monitoring-constructs",
-  "download_filename": "cdk_monitoring_constructs-9.17.1.tar.gz",
-  "download_time": "2025-12-08T23:30:36.219653",
+  "download_filename": "cdk_monitoring_constructs-9.19.0.tar.gz",
+  "download_time": "2025-12-11T04:48:56.178815",
   "package_url": "https://pypi.org/project/cdk-monitoring-constructs/"
 }

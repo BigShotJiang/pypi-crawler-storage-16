@@ -1,0 +1,11 @@
+{
+  "name": "odoo12-addon-product-supplierinfo-for-customer-picking",
+  "version": "12.0.1.0.0.99.dev10",
+  "summary": "This module makes the product customer code visible in the stock moves of a picking.",
+  "author": "Agile Business Group, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo12_addon_product_supplierinfo_for_customer_picking-12.0.1.0.0.99.dev10-py3-none-any.whl",
+  "download_time": "2025-12-11T04:48:48.839198",
+  "package_url": "https://pypi.org/project/odoo12-addon-product-supplierinfo-for-customer-picking/"
+}

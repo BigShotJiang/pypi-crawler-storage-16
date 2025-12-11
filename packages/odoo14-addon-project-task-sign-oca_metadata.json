@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-project-task-sign-oca",
+  "version": "14.0.1.0.1.dev5",
+  "summary": "Project Task Sign Oca",
+  "author": "Escodoo, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sign",
+  "download_filename": "odoo14_addon_project_task_sign_oca-14.0.1.0.1.dev5-py3-none-any.whl",
+  "download_time": "2025-12-11T04:48:59.840890",
+  "package_url": "https://pypi.org/project/odoo14-addon-project-task-sign-oca/"
+}

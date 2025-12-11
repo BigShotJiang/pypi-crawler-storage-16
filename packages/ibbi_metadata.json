@@ -1,0 +1,11 @@
+{
+  "name": "ibbi",
+  "version": "0.2.3",
+  "summary": "A package for bark and ambrosia beetle identification.",
+  "author": "G. Christopher Marais",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ibbi-0.2.3.tar.gz",
+  "download_time": "2025-12-11T04:48:54.099039",
+  "package_url": "https://pypi.org/project/ibbi/"
+}

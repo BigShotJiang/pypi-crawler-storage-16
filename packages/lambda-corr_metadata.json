@@ -1,0 +1,11 @@
+{
+  "name": "lambda-corr",
+  "version": "0.1.2",
+  "summary": "Repeated-Average-Rank Correlations Λ (Lambda): a family of robust, symmetric/asymmetric measures of monotone association based on pairwise rank slopes.",
+  "author": "Jon Paul Lundquist",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lambda_corr-0.1.2.tar.gz",
+  "download_time": "2025-12-11T04:48:38.314523",
+  "package_url": "https://pypi.org/project/lambda-corr/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "recce-nightly",
-  "version": "1.28.0.20251209",
+  "version": "1.29.0.20251211",
   "summary": "Environment diff tool for dbt",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "recce_nightly-1.28.0.20251209.tar.gz",
-  "download_time": "2025-12-09T18:17:37.589101",
+  "download_filename": "recce_nightly-1.29.0.20251211.tar.gz",
+  "download_time": "2025-12-11T18:19:56.499271",
   "package_url": "https://pypi.org/project/recce-nightly/"
 }

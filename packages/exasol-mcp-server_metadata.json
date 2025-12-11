@@ -1,0 +1,11 @@
+{
+  "name": "exasol-mcp-server",
+  "version": "1.2.1",
+  "summary": "Exasol MCP Server",
+  "author": "Mikhail Beck",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exasol_mcp_server-1.2.1.tar.gz",
+  "download_time": "2025-12-11T18:19:59.587711",
+  "package_url": "https://pypi.org/project/exasol-mcp-server/"
+}

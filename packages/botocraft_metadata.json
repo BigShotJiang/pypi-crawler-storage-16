@@ -1,0 +1,11 @@
+{
+  "name": "botocraft",
+  "version": "0.21.4",
+  "summary": "An opinionated boto3 wrapper for AWS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "botocraft-0.21.4.tar.gz",
+  "download_time": "2025-12-11T18:20:00.102663",
+  "package_url": "https://pypi.org/project/botocraft/"
+}

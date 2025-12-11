@@ -1,11 +1,11 @@
 {
   "name": "airless-google-cloud-storage",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Airless package to work with google cloud storage",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "airless_google_cloud_storage-0.2.0.tar.gz",
-  "download_time": "2025-12-11T17:21:23.086608",
+  "download_filename": "airless_google_cloud_storage-0.3.0.tar.gz",
+  "download_time": "2025-12-11T18:20:26.724079",
   "package_url": "https://pypi.org/project/airless-google-cloud-storage/"
 }

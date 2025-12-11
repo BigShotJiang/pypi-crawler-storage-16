@@ -1,0 +1,11 @@
+{
+  "name": "italian-tax-validators",
+  "version": "1.1.0",
+  "summary": "Python library for validating Italian Codice Fiscale and Partita IVA",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "italian_tax_validators-1.1.0.tar.gz",
+  "download_time": "2025-12-11T18:20:04.207992",
+  "package_url": "https://pypi.org/project/italian-tax-validators/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "anduril-lattice-sdk",
+  "version": "4.0.0",
+  "summary": "HTTP clients for the Anduril Lattice SDK",
+  "author": "Anduril Industries",
+  "license": null,
+  "home_page": null,
+  "download_filename": "anduril_lattice_sdk-4.0.0.tar.gz",
+  "download_time": "2025-12-11T18:20:16.370112",
+  "package_url": "https://pypi.org/project/anduril-lattice-sdk/"
+}

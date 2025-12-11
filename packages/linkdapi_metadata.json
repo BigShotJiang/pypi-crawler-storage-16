@@ -1,0 +1,11 @@
+{
+  "name": "linkdapi",
+  "version": "1.0.4",
+  "summary": "Python SDK for LinkdAPI - The Most Reliable Unofficial LinkedIn API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linkdapi-1.0.4.tar.gz",
+  "download_time": "2025-12-11T18:19:50.070342",
+  "package_url": "https://pypi.org/project/linkdapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "miso-client",
+  "version": "2.1.2",
+  "summary": "Python client SDK for AI Fabrix authentication, authorization, and logging",
+  "author": "AI Fabrix Team",
+  "license": null,
+  "home_page": "https://github.com/aifabrix/miso-client-python",
+  "download_filename": "miso_client-2.1.2.tar.gz",
+  "download_time": "2025-12-11T18:19:54.943228",
+  "package_url": "https://pypi.org/project/miso-client/"
+}

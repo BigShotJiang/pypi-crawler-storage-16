@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-dysmsapi20170525",
+  "version": "4.3.1",
+  "summary": "Alibaba Cloud Dysmsapi (20170525) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_dysmsapi20170525-4.3.1.tar.gz",
+  "download_time": "2025-12-11T18:20:02.676365",
+  "package_url": "https://pypi.org/project/alibabacloud-dysmsapi20170525/"
+}

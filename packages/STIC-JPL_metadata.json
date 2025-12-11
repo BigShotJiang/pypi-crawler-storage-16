@@ -1,0 +1,11 @@
+{
+  "name": "STIC-JPL",
+  "version": "1.5.0",
+  "summary": "Surface Temperature Initiated Closure (STIC) Evapotranspiration Model Python Implementation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stic_jpl-1.5.0.tar.gz",
+  "download_time": "2025-12-11T18:20:17.925509",
+  "package_url": "https://pypi.org/project/STIC-JPL/"
+}

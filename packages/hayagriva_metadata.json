@@ -1,0 +1,11 @@
+{
+  "name": "hayagriva",
+  "version": "0.1.0",
+  "summary": "Modular Retrieval-Augmented Generation (RAG) framework.",
+  "author": "Hayagriva Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hayagriva-0.1.0.tar.gz",
+  "download_time": "2025-12-11T18:20:09.419819",
+  "package_url": "https://pypi.org/project/hayagriva/"
+}

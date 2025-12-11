@@ -1,0 +1,11 @@
+{
+  "name": "agentic-reliability-framework",
+  "version": "2.0.0",
+  "summary": "Production-grade multi-agent AI system for infrastructure reliability monitoring and self-healing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentic_reliability_framework-2.0.0.tar.gz",
+  "download_time": "2025-12-11T18:19:52.367030",
+  "package_url": "https://pypi.org/project/agentic-reliability-framework/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ipystream",
+  "version": "0.1.5",
+  "summary": "Easy interactive Jupyter dashboards, flowing top to bottom like a stream",
+  "author": "Charles Dabadie",
+  "license": "MIT",
+  "home_page": "https://github.com/jleblanc64/ipystream",
+  "download_filename": "ipystream-0.1.5.tar.gz",
+  "download_time": "2025-12-11T18:19:55.458826",
+  "package_url": "https://pypi.org/project/ipystream/"
+}

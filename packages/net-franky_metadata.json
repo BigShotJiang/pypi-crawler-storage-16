@@ -1,0 +1,11 @@
+{
+  "name": "net-franky",
+  "version": "1.0.0",
+  "summary": "Minimal pyproject for the net_franky package",
+  "author": "Yannik Blei",
+  "license": null,
+  "home_page": null,
+  "download_filename": "net_franky-1.0.0.tar.gz",
+  "download_time": "2025-12-11T18:20:07.366001",
+  "package_url": "https://pypi.org/project/net-franky/"
+}

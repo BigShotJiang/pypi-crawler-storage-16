@@ -1,0 +1,11 @@
+{
+  "name": "xls2ddl",
+  "version": "1.1.1",
+  "summary": "a xlsx file to database ddl converter",
+  "author": "\"yu moqing\"",
+  "license": "\"MIT\"",
+  "home_page": null,
+  "download_filename": "xls2ddl-1.1.1-py3-none-any.whl",
+  "download_time": "2025-12-11T08:20:53.564315",
+  "package_url": "https://pypi.org/project/xls2ddl/"
+}

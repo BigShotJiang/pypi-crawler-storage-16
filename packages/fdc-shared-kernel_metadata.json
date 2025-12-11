@@ -1,11 +1,11 @@
 {
   "name": "fdc-shared-kernel",
-  "version": "0.0.150",
+  "version": "0.0.151",
   "summary": "Shared library for microservice",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fdc_shared_kernel-0.0.150.tar.gz",
-  "download_time": "2025-12-11T05:55:54.145034",
+  "download_filename": "fdc_shared_kernel-0.0.151.tar.gz",
+  "download_time": "2025-12-11T08:20:52.497659",
   "package_url": "https://pypi.org/project/fdc-shared-kernel/"
 }

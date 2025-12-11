@@ -1,0 +1,11 @@
+{
+  "name": "humsana-local",
+  "version": "1.0.0",
+  "summary": "Local behavioral context for AI coding assistants. Zero accounts, zero cloud.",
+  "author": "Ram",
+  "license": null,
+  "home_page": "https://github.com/ramchatrern/humsana-local",
+  "download_filename": "humsana_local-1.0.0.tar.gz",
+  "download_time": "2025-12-11T08:20:53.032694",
+  "package_url": "https://pypi.org/project/humsana-local/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-processor-baggage",
+  "version": "0.60b1",
+  "summary": "OpenTelemetry Baggage Span Processor",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_processor_baggage-0.60b1.tar.gz",
+  "download_time": "2025-12-11T13:52:40.543032",
+  "package_url": "https://pypi.org/project/opentelemetry-processor-baggage/"
+}

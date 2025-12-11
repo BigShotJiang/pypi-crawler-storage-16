@@ -1,11 +1,11 @@
 {
   "name": "sfrs-element-loader",
-  "version": "0.2.13",
-  "summary": "A tool to load and inspect SFRS elements from a database using SQLAlchemy. First working development.",
+  "version": "0.2.14",
+  "summary": "A tool to load and inspect SFRS elements from a database using SQLAlchemy.",
   "author": "Achim Andres",
   "license": null,
   "home_page": null,
-  "download_filename": "sfrs_element_loader-0.2.13.tar.gz",
-  "download_time": "2025-12-10T13:49:57.271784",
+  "download_filename": "sfrs_element_loader-0.2.14.tar.gz",
+  "download_time": "2025-12-11T13:52:28.131797",
   "package_url": "https://pypi.org/project/sfrs-element-loader/"
 }

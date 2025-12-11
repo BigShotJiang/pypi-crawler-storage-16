@@ -1,0 +1,11 @@
+{
+  "name": "dropbox-paper-export",
+  "version": "0.1.0",
+  "summary": "Export Dropbox Paper documents to markdown",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dropbox_paper_export-0.1.0.tar.gz",
+  "download_time": "2025-12-11T13:52:10.446441",
+  "package_url": "https://pypi.org/project/dropbox-paper-export/"
+}

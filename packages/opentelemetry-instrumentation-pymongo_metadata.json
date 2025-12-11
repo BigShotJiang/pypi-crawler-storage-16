@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-pymongo",
+  "version": "0.60b1",
+  "summary": "OpenTelemetry pymongo instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_pymongo-0.60b1.tar.gz",
+  "download_time": "2025-12-11T13:52:49.264816",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-pymongo/"
+}

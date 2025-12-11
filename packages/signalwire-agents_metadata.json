@@ -1,11 +1,11 @@
 {
   "name": "signalwire-agents",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "summary": "SignalWire AI Agents SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "signalwire_agents-1.0.15.tar.gz",
-  "download_time": "2025-12-09T13:11:08.889893",
+  "download_filename": "signalwire_agents-1.0.16.tar.gz",
+  "download_time": "2025-12-11T13:52:04.274096",
   "package_url": "https://pypi.org/project/signalwire-agents/"
 }

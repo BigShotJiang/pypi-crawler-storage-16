@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-wsgi",
+  "version": "0.60b1",
+  "summary": "WSGI Middleware for OpenTelemetry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_wsgi-0.60b1.tar.gz",
+  "download_time": "2025-12-11T13:52:41.055070",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-wsgi/"
+}

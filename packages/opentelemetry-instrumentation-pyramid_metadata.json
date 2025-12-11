@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-pyramid",
+  "version": "0.60b1",
+  "summary": "OpenTelemetry Pyramid instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_pyramid-0.60b1.tar.gz",
+  "download_time": "2025-12-11T13:52:47.727927",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-pyramid/"
+}

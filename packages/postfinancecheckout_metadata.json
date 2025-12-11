@@ -1,0 +1,11 @@
+{
+  "name": "postfinancecheckout",
+  "version": "6.3.0",
+  "summary": "PostFinance Checkout API",
+  "author": "postfinancecheckout",
+  "license": null,
+  "home_page": null,
+  "download_filename": "postfinancecheckout-6.3.0.tar.gz",
+  "download_time": "2025-12-11T13:52:06.326258",
+  "package_url": "https://pypi.org/project/postfinancecheckout/"
+}

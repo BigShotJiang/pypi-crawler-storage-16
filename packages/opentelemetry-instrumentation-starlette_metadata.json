@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-starlette",
+  "version": "0.60b1",
+  "summary": "OpenTelemetry Starlette Instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_starlette-0.60b1.tar.gz",
+  "download_time": "2025-12-11T13:52:44.647022",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-starlette/"
+}

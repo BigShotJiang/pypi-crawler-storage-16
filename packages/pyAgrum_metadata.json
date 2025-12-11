@@ -1,0 +1,11 @@
+{
+  "name": "pyAgrum",
+  "version": "2.3.1",
+  "summary": "Bayesian networks and other Probabilistic Graphical Models.",
+  "author": "Pierre-Henri Wuillemin and Christophe Gonzales",
+  "license": null,
+  "home_page": "https://agrum.gitlab.io/",
+  "download_filename": "pyagrum-2.3.1-cp310-abi3-macosx_10_15_x86_64.whl",
+  "download_time": "2025-12-11T13:52:36.435005",
+  "package_url": "https://pypi.org/project/pyAgrum/"
+}

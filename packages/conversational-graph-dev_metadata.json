@@ -1,11 +1,11 @@
 {
   "name": "conversational-graph-dev",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Conversational graph workflow package",
   "author": "Videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "conversational_graph_dev-0.0.3.tar.gz",
-  "download_time": "2025-12-11T11:14:03.698491",
+  "download_filename": "conversational_graph_dev-0.0.5.tar.gz",
+  "download_time": "2025-12-11T13:52:39.008382",
   "package_url": "https://pypi.org/project/conversational-graph-dev/"
 }

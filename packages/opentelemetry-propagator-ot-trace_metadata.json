@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-propagator-ot-trace",
+  "version": "0.60b1",
+  "summary": "OT Trace Propagator for OpenTelemetry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_propagator_ot_trace-0.60b1.tar.gz",
+  "download_time": "2025-12-11T13:52:40.031279",
+  "package_url": "https://pypi.org/project/opentelemetry-propagator-ot-trace/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llmfy",
+  "version": "0.4.8",
+  "summary": "`LLMfy` is a framework for developing applications with large language models (LLMs).",
+  "author": "irufano",
+  "license": null,
+  "home_page": "https://github.com/irufano/llmfy",
+  "download_filename": "llmfy-0.4.8.tar.gz",
+  "download_time": "2025-12-11T13:52:33.809264",
+  "package_url": "https://pypi.org/project/llmfy/"
+}

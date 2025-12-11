@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-resource-detector-containerid",
+  "version": "0.60b1",
+  "summary": "Container Resource Detector for OpenTelemetry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_resource_detector_containerid-0.60b1.tar.gz",
+  "download_time": "2025-12-11T13:52:39.518908",
+  "package_url": "https://pypi.org/project/opentelemetry-resource-detector-containerid/"
+}

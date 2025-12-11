@@ -1,0 +1,11 @@
+{
+  "name": "django-simple-history",
+  "version": "3.11.0",
+  "summary": "Store model history and view/revert changes from admin site.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_simple_history-3.11.0.tar.gz",
+  "download_time": "2025-12-11T13:52:04.788912",
+  "package_url": "https://pypi.org/project/django-simple-history/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "claude-session-manager-mcp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "MCP server for managing Claude Code conversation sessions",
   "author": "drumrobot43@gmail.com",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_session_manager_mcp-0.1.4.tar.gz",
-  "download_time": "2025-12-11T08:51:52.206383",
+  "download_filename": "claude_session_manager_mcp-0.1.5.tar.gz",
+  "download_time": "2025-12-11T13:52:15.583569",
   "package_url": "https://pypi.org/project/claude-session-manager-mcp/"
 }

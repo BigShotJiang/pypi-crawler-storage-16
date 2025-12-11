@@ -1,0 +1,11 @@
+{
+  "name": "fattureincloud-mcp",
+  "version": "1.2.0",
+  "summary": "MCP Server for Fatture in Cloud API - Italian electronic invoicing with Claude AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fattureincloud_mcp-1.2.0.tar.gz",
+  "download_time": "2025-12-11T11:33:06.469748",
+  "package_url": "https://pypi.org/project/fattureincloud-mcp/"
+}

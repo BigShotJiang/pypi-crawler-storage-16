@@ -1,0 +1,11 @@
+{
+  "name": "aleph",
+  "version": "1.6.0",
+  "summary": "ALEPH is a bioinformatics tool for structure interpretation and generation of fragment-based library for Molecular Replacement.",
+  "author": "Massimo Domenico Sammito",
+  "license": null,
+  "home_page": "http://chango.ibmb.csic.es/ALEPH",
+  "download_filename": "aleph-1.6.0.tar.gz",
+  "download_time": "2025-12-11T11:33:03.374601",
+  "package_url": "https://pypi.org/project/aleph/"
+}

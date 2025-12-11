@@ -1,11 +1,11 @@
 {
   "name": "djb",
-  "version": "0.2.8",
+  "version": "0.2.13",
   "summary": "Django + Bun deployment platform",
   "author": "kajicom",
   "license": null,
   "home_page": null,
-  "download_filename": "djb-0.2.8.tar.gz",
-  "download_time": "2025-12-11T10:17:56.144091",
+  "download_filename": "djb-0.2.13.tar.gz",
+  "download_time": "2025-12-11T11:33:12.055660",
   "package_url": "https://pypi.org/project/djb/"
 }

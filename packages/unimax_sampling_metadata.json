@@ -1,0 +1,11 @@
+{
+  "name": "unimax_sampling",
+  "version": "1.0.0",
+  "summary": "Implementation of the UniMax sampling method for effective language sampling for multilingual pretraining",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unimax_sampling-1.0.0.tar.gz",
+  "download_time": "2025-12-11T11:32:29.562472",
+  "package_url": "https://pypi.org/project/unimax_sampling/"
+}

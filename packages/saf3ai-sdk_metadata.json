@@ -1,0 +1,11 @@
+{
+  "name": "saf3ai-sdk",
+  "version": "0.2.3",
+  "summary": "Unified observability and security scanning SDK for AI agents across 23+ frameworks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "saf3ai_sdk-0.2.3.tar.gz",
+  "download_time": "2025-12-11T11:33:05.785612",
+  "package_url": "https://pypi.org/project/saf3ai-sdk/"
+}

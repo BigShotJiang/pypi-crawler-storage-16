@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-mail-activity-board",
-  "version": "18.0.1.0.0.3",
+  "version": "18.0.1.1.0.3",
   "summary": "Add Activity Boards",
   "author": "SDi, David Juaneda, Sodexis, ACSONE SA/NV, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/mail",
-  "download_filename": "odoo_addon_mail_activity_board-18.0.1.0.0.3-py3-none-any.whl",
-  "download_time": "2025-12-11T04:04:58.481846",
+  "download_filename": "odoo_addon_mail_activity_board-18.0.1.1.0.3-py3-none-any.whl",
+  "download_time": "2025-12-11T11:32:45.340349",
   "package_url": "https://pypi.org/project/odoo-addon-mail-activity-board/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "welearn-database",
-  "version": "0.2.8",
+  "version": "1.0.0",
   "summary": "All stuff related to relationnal database from the WeLearn project",
   "author": "Théo",
   "license": "cc-by-sa-nc",
   "home_page": null,
-  "download_filename": "welearn_database-0.2.8.tar.gz",
-  "download_time": "2025-12-10T10:58:05.802665",
+  "download_filename": "welearn_database-1.0.0.tar.gz",
+  "download_time": "2025-12-11T11:32:42.307537",
   "package_url": "https://pypi.org/project/welearn-database/"
 }

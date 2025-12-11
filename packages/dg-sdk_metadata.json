@@ -1,0 +1,11 @@
+{
+  "name": "dg-sdk",
+  "version": "2.0.16",
+  "summary": "汇付天下为了提高客户的接入体验，特提供封装的开发SDK，使用本SDK将极大的简化开发者的工作，开发者将无需考虑通信、签名、验签等，只需要关注业务参数的拼装",
+  "author": "huifu developers",
+  "license": null,
+  "home_page": "https://paas.huifu.com/",
+  "download_filename": "dg_sdk-2.0.16.tar.gz",
+  "download_time": "2025-12-11T11:33:00.422024",
+  "package_url": "https://pypi.org/project/dg-sdk/"
+}

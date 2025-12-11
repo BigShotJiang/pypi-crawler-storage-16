@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.cdk-mcp-server",
+  "version": "1.0.10",
+  "summary": "An AWS CDK MCP server that provides guidance on AWS Cloud Development Kit best practices, infrastructure as code patterns, and security compliance with CDK Nag. This server offers tools to validate infrastructure designs, explain CDK Nag rules, analyze suppressions, generate Bedrock Agent schemas, and discover Solutions Constructs patterns.",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_cdk_mcp_server-1.0.10.tar.gz",
+  "download_time": "2025-12-11T23:50:53.250154",
+  "package_url": "https://pypi.org/project/awslabs.cdk-mcp-server/"
+}

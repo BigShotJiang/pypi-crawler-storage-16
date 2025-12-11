@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.aws-bedrock-data-automation-mcp-server",
+  "version": "0.0.11",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for Bedrock Data Automation",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_aws_bedrock_data_automation_mcp_server-0.0.11.tar.gz",
+  "download_time": "2025-12-11T23:51:10.329220",
+  "package_url": "https://pypi.org/project/awslabs.aws-bedrock-data-automation-mcp-server/"
+}

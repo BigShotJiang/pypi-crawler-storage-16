@@ -1,0 +1,11 @@
+{
+  "name": "tnh-scholar",
+  "version": "0.2.1",
+  "summary": "TNH Scholar is an AI-driven project designed to explore, query, and translate the teachings of Thich Nhat Hanh and Plum Village community.",
+  "author": "Aaron K. Solomon",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "tnh_scholar-0.2.1.tar.gz",
+  "download_time": "2025-12-11T23:51:13.435649",
+  "package_url": "https://pypi.org/project/tnh-scholar/"
+}

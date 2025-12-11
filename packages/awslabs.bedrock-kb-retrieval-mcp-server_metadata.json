@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.bedrock-kb-retrieval-mcp-server",
+  "version": "1.0.11",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for Bedrock Knowledge Base Retrieval",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_bedrock_kb_retrieval_mcp_server-1.0.11.tar.gz",
+  "download_time": "2025-12-11T23:50:57.074088",
+  "package_url": "https://pypi.org/project/awslabs.bedrock-kb-retrieval-mcp-server/"
+}

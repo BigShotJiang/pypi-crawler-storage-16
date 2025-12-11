@@ -1,0 +1,11 @@
+{
+  "name": "bizdurr",
+  "version": "1.0.1",
+  "summary": "A lightweight, flexible business duration calculator.",
+  "author": "clrk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bizdurr-1.0.1.tar.gz",
+  "download_time": "2025-12-11T23:50:45.047481",
+  "package_url": "https://pypi.org/project/bizdurr/"
+}

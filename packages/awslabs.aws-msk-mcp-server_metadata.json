@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.aws-msk-mcp-server",
+  "version": "0.0.10",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for aws-msk",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_aws_msk_mcp_server-0.0.10.tar.gz",
+  "download_time": "2025-12-11T23:51:10.840980",
+  "package_url": "https://pypi.org/project/awslabs.aws-msk-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.billing-cost-management-mcp-server",
+  "version": "0.0.7",
+  "summary": "A Model Context Protocol (MCP) server that provides tools for AWS Billing and Cost Management by wrapping boto3 SDK functions.",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_billing_cost_management_mcp_server-0.0.7.tar.gz",
+  "download_time": "2025-12-11T23:50:56.558447",
+  "package_url": "https://pypi.org/project/awslabs.billing-cost-management-mcp-server/"
+}

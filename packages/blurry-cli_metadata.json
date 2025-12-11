@@ -1,0 +1,11 @@
+{
+  "name": "blurry-cli",
+  "version": "0.21.0",
+  "summary": "A Mistune-based static site generator for Python",
+  "author": "John Franey",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blurry_cli-0.21.0.tar.gz",
+  "download_time": "2025-12-11T23:50:46.196346",
+  "package_url": "https://pypi.org/project/blurry-cli/"
+}

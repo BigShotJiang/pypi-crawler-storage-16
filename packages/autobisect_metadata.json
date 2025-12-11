@@ -1,0 +1,11 @@
+{
+  "name": "autobisect",
+  "version": "9.0.0",
+  "summary": "Automatic bisection utility for Mozilla Firefox and SpiderMonkey",
+  "author": "Jason Kratzer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autobisect-9.0.0.tar.gz",
+  "download_time": "2025-12-11T23:51:03.491680",
+  "package_url": "https://pypi.org/project/autobisect/"
+}

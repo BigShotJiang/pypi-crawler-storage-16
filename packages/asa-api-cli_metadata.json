@@ -1,0 +1,11 @@
+{
+  "name": "asa-api-cli",
+  "version": "0.1.0",
+  "summary": "Command-line interface for Apple Search Ads campaign management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asa_api_cli-0.1.0.tar.gz",
+  "download_time": "2025-12-11T01:02:51.490353",
+  "package_url": "https://pypi.org/project/asa-api-cli/"
+}

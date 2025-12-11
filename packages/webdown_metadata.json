@@ -1,0 +1,11 @@
+{
+  "name": "webdown",
+  "version": "0.8.1",
+  "summary": "Convert web pages and HTML files to markdown and Claude XML formats",
+  "author": "Travis Cole",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "webdown-0.8.1.tar.gz",
+  "download_time": "2025-12-11T01:02:53.141306",
+  "package_url": "https://pypi.org/project/webdown/"
+}

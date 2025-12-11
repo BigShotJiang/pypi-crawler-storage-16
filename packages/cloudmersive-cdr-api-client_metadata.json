@@ -1,0 +1,11 @@
+{
+  "name": "cloudmersive-cdr-api-client",
+  "version": "3.1.1",
+  "summary": "CDR API",
+  "author": null,
+  "license": null,
+  "home_page": "https://cloudmersive.com/content-disarm-and-reconstruction-cdr-api",
+  "download_filename": "cloudmersive_cdr_api_client-3.1.1.tar.gz",
+  "download_time": "2025-12-11T01:02:43.596436",
+  "package_url": "https://pypi.org/project/cloudmersive-cdr-api-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deepdub",
+  "version": "0.1.19",
+  "summary": "A Python client for interacting with the Deepdub API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deepdub-0.1.19.tar.gz",
+  "download_time": "2025-12-11T01:02:30.285759",
+  "package_url": "https://pypi.org/project/deepdub/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kubectl-marimo",
+  "version": "0.2.0",
+  "summary": "kubectl plugin for deploying marimo notebooks to Kubernetes",
+  "author": "marimo-team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kubectl_marimo-0.2.0.tar.gz",
+  "download_time": "2025-12-11T01:02:49.381889",
+  "package_url": "https://pypi.org/project/kubectl-marimo/"
+}

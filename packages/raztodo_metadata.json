@@ -1,0 +1,11 @@
+{
+  "name": "raztodo",
+  "version": "0.1.1",
+  "summary": "A fast, zero-dependency command-line todo/task manager using SQLite.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "raztodo-0.1.1.tar.gz",
+  "download_time": "2025-12-11T01:02:57.472702",
+  "package_url": "https://pypi.org/project/raztodo/"
+}

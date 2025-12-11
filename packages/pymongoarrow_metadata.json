@@ -1,0 +1,11 @@
+{
+  "name": "pymongoarrow",
+  "version": "1.11.0",
+  "summary": "Tools for using NumPy, Pandas, Polars, and PyArrow with MongoDB",
+  "author": "Prashant Mital",
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "pymongoarrow-1.11.0.tar.gz",
+  "download_time": "2025-12-11T01:02:38.187296",
+  "package_url": "https://pypi.org/project/pymongoarrow/"
+}

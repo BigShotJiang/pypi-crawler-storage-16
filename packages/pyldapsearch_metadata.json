@@ -1,0 +1,11 @@
+{
+  "name": "pyldapsearch",
+  "version": "0.1.8",
+  "summary": "Tool for issuing manual LDAP queries which offers bofhound compatible output",
+  "author": "Matt Creel",
+  "license": null,
+  "home_page": "https://github.com/fortalice/pyldapsearch",
+  "download_filename": "pyldapsearch-0.1.8.tar.gz",
+  "download_time": "2025-12-11T01:02:58.556517",
+  "package_url": "https://pypi.org/project/pyldapsearch/"
+}

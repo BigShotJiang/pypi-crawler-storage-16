@@ -1,0 +1,11 @@
+{
+  "name": "tonutils",
+  "version": "0.5.6",
+  "summary": "Tonutils is a high-level, object-oriented Python library designed to facilitate seamless interactions with the TON blockchain.",
+  "author": "nessshon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tonutils-0.5.6.tar.gz",
+  "download_time": "2025-12-11T01:02:26.572900",
+  "package_url": "https://pypi.org/project/tonutils/"
+}

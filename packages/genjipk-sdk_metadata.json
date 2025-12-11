@@ -1,0 +1,11 @@
+{
+  "name": "genjipk-sdk",
+  "version": "2.2.0",
+  "summary": "A command library for Genji Parkour services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genjipk_sdk-2.2.0.tar.gz",
+  "download_time": "2025-12-11T01:03:03.021760",
+  "package_url": "https://pypi.org/project/genjipk-sdk/"
+}

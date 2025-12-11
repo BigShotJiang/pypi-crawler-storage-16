@@ -1,11 +1,11 @@
 {
   "name": "macsdk",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Multi-Agent Chatbot SDK - Build customizable multi-agent chatbots with ease",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "macsdk-0.1.1.tar.gz",
-  "download_time": "2025-12-09T19:24:49.110877",
+  "download_filename": "macsdk-0.2.1.tar.gz",
+  "download_time": "2025-12-11T19:50:01.955093",
   "package_url": "https://pypi.org/project/macsdk/"
 }

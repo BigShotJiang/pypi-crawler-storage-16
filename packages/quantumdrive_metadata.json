@@ -1,11 +1,11 @@
 {
   "name": "quantumdrive",
-  "version": "1.3.70",
+  "version": "1.3.71",
   "summary": "QuantumDrive platform and SDK",
   "author": "Chris Steel",
   "license": "LicenseRef-AlphSix-Proprietary",
   "home_page": null,
-  "download_filename": "quantumdrive-1.3.70.tar.gz",
-  "download_time": "2025-12-10T04:52:55.307671",
+  "download_filename": "quantumdrive-1.3.71.tar.gz",
+  "download_time": "2025-12-11T19:49:53.184823",
   "package_url": "https://pypi.org/project/quantumdrive/"
 }

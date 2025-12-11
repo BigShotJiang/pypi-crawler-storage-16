@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-pari-seadata-small",
+  "version": "10.6.41",
+  "summary": "passagemath: Computational Number Theory with PARI/GP: seadata_small",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_pari_seadata_small-10.6.41-py3-none-any.whl",
+  "download_time": "2025-12-11T19:50:19.882492",
+  "package_url": "https://pypi.org/project/passagemath-pari-seadata-small/"
+}

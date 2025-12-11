@@ -1,0 +1,11 @@
+{
+  "name": "cumulus-library",
+  "version": "5.1.1",
+  "summary": "Clinical study SQL generation for data derived from bulk FHIR",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cumulus_library-5.1.1.tar.gz",
+  "download_time": "2025-12-11T19:49:51.044364",
+  "package_url": "https://pypi.org/project/cumulus-library/"
+}

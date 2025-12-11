@@ -1,11 +1,11 @@
 {
   "name": "sip-videogen",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "summary": "Transform video ideas into complete videos using AI agent teams",
   "author": "Sip Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sip_videogen-0.2.6.tar.gz",
-  "download_time": "2025-12-11T04:49:05.064859",
+  "download_filename": "sip_videogen-0.3.0.tar.gz",
+  "download_time": "2025-12-11T19:50:39.663201",
   "package_url": "https://pypi.org/project/sip-videogen/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "raft-dask-cu13",
+  "version": "25.12.0",
+  "summary": "Reusable Accelerated Functions & Tools Dask Infrastructure",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "raft_dask_cu13-25.12.0-cp310-cp310-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2025-12-11T19:50:15.794211",
+  "package_url": "https://pypi.org/project/raft-dask-cu13/"
+}

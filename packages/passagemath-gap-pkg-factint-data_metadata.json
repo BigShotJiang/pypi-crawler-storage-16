@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-gap-pkg-factint-data",
+  "version": "10.6.41",
+  "summary": "passagemath: Computational Group Theory with GAP: factint data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_gap_pkg_factint_data-10.6.41-py3-none-any.whl",
+  "download_time": "2025-12-11T19:50:38.480604",
+  "package_url": "https://pypi.org/project/passagemath-gap-pkg-factint-data/"
+}

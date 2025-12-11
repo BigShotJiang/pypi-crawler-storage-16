@@ -1,11 +1,11 @@
 {
   "name": "zid",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "ZID is a unique identifier with nice properties",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zid-1.4.0.tar.gz",
-  "download_time": "2025-12-10T22:52:41.554214",
+  "download_filename": "zid-1.4.1.tar.gz",
+  "download_time": "2025-12-11T19:49:48.894542",
   "package_url": "https://pypi.org/project/zid/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-gap-pkg-float",
+  "version": "10.6.41",
+  "summary": "passagemath: Computational Group Theory with GAP: float package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_gap_pkg_float-10.6.41-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-12-11T19:49:52.606717",
+  "package_url": "https://pypi.org/project/passagemath-gap-pkg-float/"
+}

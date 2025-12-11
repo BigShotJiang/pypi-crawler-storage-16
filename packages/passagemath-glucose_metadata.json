@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-glucose",
+  "version": "10.6.41",
+  "summary": "passagemath: Interface to the SAT solver glucose",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_glucose-10.6.41-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-12-11T19:49:44.974535",
+  "package_url": "https://pypi.org/project/passagemath-glucose/"
+}

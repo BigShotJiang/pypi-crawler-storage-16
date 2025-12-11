@@ -1,0 +1,11 @@
+{
+  "name": "faraday-plugins",
+  "version": "1.27.1",
+  "summary": "Faraday plugins package",
+  "author": "Faradaysec",
+  "license": "GNU General Public License v3",
+  "home_page": null,
+  "download_filename": "faraday_plugins-1.27.1.tar.gz",
+  "download_time": "2025-12-11T19:50:06.412921",
+  "package_url": "https://pypi.org/project/faraday-plugins/"
+}

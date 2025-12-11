@@ -1,0 +1,11 @@
+{
+  "name": "heaobject",
+  "version": "1.35.0",
+  "summary": "Data and other classes that are passed into and out of HEA REST APIs.",
+  "author": "Research Informatics Shared Resource, Huntsman Cancer Institute, Salt Lake City, UT",
+  "license": "Apache License 2.0",
+  "home_page": "https://risr.hci.utah.edu",
+  "download_filename": "heaobject-1.35.0.tar.gz",
+  "download_time": "2025-12-11T19:50:00.361776",
+  "package_url": "https://pypi.org/project/heaobject/"
+}

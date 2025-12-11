@@ -1,0 +1,11 @@
+{
+  "name": "fscan",
+  "version": "0.6.3",
+  "summary": "Fscan tool for monitoring narrow spectral artifacts in LIGO data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fscan-0.6.3.tar.gz",
+  "download_time": "2025-12-11T19:49:58.706358",
+  "package_url": "https://pypi.org/project/fscan/"
+}

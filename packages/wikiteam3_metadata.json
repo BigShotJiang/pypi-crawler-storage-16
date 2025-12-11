@@ -1,0 +1,11 @@
+{
+  "name": "wikiteam3",
+  "version": "4.4.7",
+  "summary": "Tools for downloading and preserving MediaWikis. We archive MediaWikis, from Wikipedia to tiniest wikis.",
+  "author": "emijrp, nemobis, randomnetcat, NyaMisty, PiRSquared17, Hydriz",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "wikiteam3-4.4.7.tar.gz",
+  "download_time": "2025-12-11T21:50:34.183508",
+  "package_url": "https://pypi.org/project/wikiteam3/"
+}

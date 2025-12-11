@@ -1,11 +1,11 @@
 {
   "name": "hark-cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "100% offline, Whisper-powered voice notes from your terminal",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "hark_cli-0.1.0.tar.gz",
-  "download_time": "2025-12-10T17:45:41.860201",
+  "download_filename": "hark_cli-0.2.0.tar.gz",
+  "download_time": "2025-12-11T21:50:36.255795",
   "package_url": "https://pypi.org/project/hark-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "galileo-core",
-  "version": "3.75.0",
+  "version": "3.76.0",
   "summary": "Shared schemas and configuration for Galileo's Python packages.",
   "author": "Galileo Technologies Inc.",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "galileo_core-3.75.0.tar.gz",
-  "download_time": "2025-12-10T21:15:09.138329",
+  "download_filename": "galileo_core-3.76.0.tar.gz",
+  "download_time": "2025-12-11T21:49:55.626512",
   "package_url": "https://pypi.org/project/galileo-core/"
 }

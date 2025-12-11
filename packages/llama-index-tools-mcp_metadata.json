@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-tools-mcp",
+  "version": "0.4.4",
+  "summary": "llama-index tools mcp integration",
+  "author": "Sebastian Kalisz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_tools_mcp-0.4.4.tar.gz",
+  "download_time": "2025-12-11T21:50:04.979939",
+  "package_url": "https://pypi.org/project/llama-index-tools-mcp/"
+}

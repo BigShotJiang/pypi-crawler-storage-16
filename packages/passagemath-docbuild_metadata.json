@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-docbuild",
+  "version": "10.6.41",
+  "summary": "passagemath: Build system of the Sage documentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_docbuild-10.6.41.tar.gz",
+  "download_time": "2025-12-11T21:50:26.822874",
+  "package_url": "https://pypi.org/project/passagemath-docbuild/"
+}

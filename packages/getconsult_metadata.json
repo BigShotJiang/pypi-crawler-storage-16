@@ -1,11 +1,11 @@
 {
   "name": "getconsult",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Consult a panel of LLM-based expert agents that deliberate and reach consensus",
   "author": "Consult",
   "license": null,
   "home_page": null,
-  "download_filename": "getconsult-0.2.0.tar.gz",
-  "download_time": "2025-12-11T06:22:52.276275",
+  "download_filename": "getconsult-0.3.0.tar.gz",
+  "download_time": "2025-12-11T21:49:58.771636",
   "package_url": "https://pypi.org/project/getconsult/"
 }

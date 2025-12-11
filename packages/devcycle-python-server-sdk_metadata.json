@@ -1,0 +1,11 @@
+{
+  "name": "devcycle-python-server-sdk",
+  "version": "3.13.4",
+  "summary": "DevCycle Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/devcycleHQ/python-server-sdk",
+  "download_filename": "devcycle_python_server_sdk-3.13.4.tar.gz",
+  "download_time": "2025-12-11T21:50:14.301999",
+  "package_url": "https://pypi.org/project/devcycle-python-server-sdk/"
+}

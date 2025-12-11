@@ -1,11 +1,11 @@
 {
   "name": "django-tag-me",
-  "version": "2025.12.11.1",
+  "version": "2025.12.11.2",
   "summary": "A simple approach to Django tagging",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "django_tag_me-2025.12.11.1.tar.gz",
-  "download_time": "2025-12-11T05:18:11.092316",
+  "download_filename": "django_tag_me-2025.12.11.2.tar.gz",
+  "download_time": "2025-12-11T05:45:36.410268",
   "package_url": "https://pypi.org/project/django-tag-me/"
 }

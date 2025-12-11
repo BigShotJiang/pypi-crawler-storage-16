@@ -1,0 +1,11 @@
+{
+  "name": "cjm-transcription-plugin-voxtral-vllm",
+  "version": "0.0.5",
+  "summary": "Mistral Voxtral plugin for the cjm-transcription-plugin-system library - provides local speech-to-text transcription through vLLM with configurable model selection and parameter control.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-transcription-plugin-voxtral-vllm",
+  "download_filename": "cjm_transcription_plugin_voxtral_vllm-0.0.5.tar.gz",
+  "download_time": "2025-12-11T05:45:21.403788",
+  "package_url": "https://pypi.org/project/cjm-transcription-plugin-voxtral-vllm/"
+}

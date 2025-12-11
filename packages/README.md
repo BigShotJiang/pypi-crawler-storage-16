@@ -1,17 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-11T05:18:42.472959
-- **Total Packages**: 87
-- **Total Size**: 25.61 MB
+- **Download Time**: 2025-12-11T05:45:54.574751
+- **Total Packages**: 84
+- **Total Size**: 15.73 MB
 
 ## Packages List
+- geoai-py
+- rhosocial-activerecord-mysql
+- aisbom-cli
+- pulumi-xyz
+- local-brain
+- pulumi-artifactory
+- red-tidegear
+- HyperCoast
+- FourCIPP
+- mcpevolve
+- uv-upx
+- dbgear
+- mlog-util
+- dragon-ml-toolbox
+- MeUtils
+- vuw
+- agno-dinesh
+- whop-sdk
+- pulumi-akamai
+- pulumi-archive
+- vnag
+- pulumi-aiven
+- deriva-ml
+- bouquin
+- process-gpt-agent-utils
+- cjm-transcription-plugin-voxtral-vllm
+- ipysketch-lite
 - chemrxn-cleaner
 - colony
 - pdflinkcheck
-- pulumi-xyz
 - nexaroa
-- VUW
 - process-gpt-agent-sdk
 - azure-sfi-agent
 - dlr-ifc-parser
@@ -28,7 +53,6 @@
 - my-cli-utilities
 - nexaai
 - femtorun
-- aisbom-cli
 - skivvy
 - mkvdb
 - python-smarttub
@@ -43,7 +67,6 @@
 - owl-browser
 - iamdata
 - clashy.py
-- mcpevolve
 - nexus-matcher
 - pyetwkit
 - pyhabitat
@@ -67,29 +90,3 @@
 - harbor
 - moptipyapps
 - mkdocs-materialx
-- CheckmarxPythonSDK
-- projectaria-vrs-health-check
-- halib
-- dirdotenv
-- passagemath-planarity
-- passagemath-objects
-- passagemath-homfly
-- relax-gen
-- passagemath-graphs
-- passagemath-glpk
-- passagemath-combinat
-- passagemath-cliquer
-- passagemath-cddlib
-- slashed
-- spork-lang
-- passagemath-categories
-- pyobfus
-- emop-frame-protocol
-- rss_da_stac
-- genericlib
-- gridlock
-- cjm-transcription-plugin-whisper
-- monsterui
-- lambda-corr
-- litellm-enterprise
-- ansys-api-discovery

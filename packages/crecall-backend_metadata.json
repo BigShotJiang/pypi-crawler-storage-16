@@ -1,0 +1,11 @@
+{
+  "name": "crecall-backend",
+  "version": "0.2.1",
+  "summary": "CRecall Backend - Advanced code memory and recall system",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crecall_backend-0.2.1.tar.gz",
+  "download_time": "2025-12-11T07:42:48.097913",
+  "package_url": "https://pypi.org/project/crecall-backend/"
+}

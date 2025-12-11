@@ -1,0 +1,11 @@
+{
+  "name": "FTL-Extract",
+  "version": "0.9.0",
+  "summary": "Extract fluent keys from python code and organize them in .ftl files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ftl_extract-0.9.0.tar.gz",
+  "download_time": "2025-12-11T07:43:12.161676",
+  "package_url": "https://pypi.org/project/FTL-Extract/"
+}

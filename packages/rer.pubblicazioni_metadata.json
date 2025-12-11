@@ -1,0 +1,11 @@
+{
+  "name": "rer.pubblicazioni",
+  "version": "3.0.5",
+  "summary": "An add-on to manage publications for Regione Emilia Romagna.",
+  "author": "RedTurtle",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.python.org/pypi/rer.pubblicazioni",
+  "download_filename": "rer_pubblicazioni-3.0.5.tar.gz",
+  "download_time": "2025-12-11T07:43:15.260896",
+  "package_url": "https://pypi.org/project/rer.pubblicazioni/"
+}

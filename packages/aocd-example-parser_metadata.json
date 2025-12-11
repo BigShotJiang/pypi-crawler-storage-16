@@ -1,11 +1,11 @@
 {
   "name": "aocd-example-parser",
-  "version": "2025.12.9",
+  "version": "2025.12.11",
   "summary": "Implementation of example parser plugins for advent-of-code-data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aocd_example_parser-2025.12.9.tar.gz",
-  "download_time": "2025-12-09T08:51:07.568524",
+  "download_filename": "aocd_example_parser-2025.12.11.tar.gz",
+  "download_time": "2025-12-11T07:43:08.277795",
   "package_url": "https://pypi.org/project/aocd-example-parser/"
 }

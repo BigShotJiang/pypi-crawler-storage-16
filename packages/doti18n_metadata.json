@@ -1,0 +1,11 @@
+{
+  "name": "doti18n",
+  "version": "0.3.3",
+  "summary": "Python library for loading localizations with dot access and pluralization.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "doti18n-0.3.3.tar.gz",
+  "download_time": "2025-12-11T07:43:05.313061",
+  "package_url": "https://pypi.org/project/doti18n/"
+}

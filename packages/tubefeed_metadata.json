@@ -1,0 +1,11 @@
+{
+  "name": "tubefeed",
+  "version": "3.0.7",
+  "summary": "seamlessly integrate YouTube with Audiobookshelf",
+  "author": "Eric Tröbs",
+  "license": null,
+  "home_page": "https://gitlab.com/troebs/tubefeed",
+  "download_filename": "tubefeed-3.0.7.tar.gz",
+  "download_time": "2025-12-11T07:42:52.791424",
+  "package_url": "https://pypi.org/project/tubefeed/"
+}

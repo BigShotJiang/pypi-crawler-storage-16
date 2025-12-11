@@ -1,11 +1,11 @@
 {
   "name": "og-test-x402",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "x402: An internet native payments protocol",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "og_test_x402-0.0.2.tar.gz",
-  "download_time": "2025-12-09T14:56:58.361272",
+  "download_filename": "og_test_x402-0.0.4.tar.gz",
+  "download_time": "2025-12-11T07:43:09.532597",
   "package_url": "https://pypi.org/project/og-test-x402/"
 }

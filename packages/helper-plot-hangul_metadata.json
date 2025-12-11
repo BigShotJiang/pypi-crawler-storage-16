@@ -1,11 +1,11 @@
 {
   "name": "helper-plot-hangul",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Matplotlib 한글 폰트 자동 설정 라이브러리",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "helper_plot_hangul-0.5.2.tar.gz",
-  "download_time": "2025-12-10T01:01:30.961873",
+  "download_filename": "helper_plot_hangul-0.5.3.tar.gz",
+  "download_time": "2025-12-11T04:04:48.842837",
   "package_url": "https://pypi.org/project/helper-plot-hangul/"
 }

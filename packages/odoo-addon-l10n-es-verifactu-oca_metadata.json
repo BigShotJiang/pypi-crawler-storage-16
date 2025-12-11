@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-l10n-es-verifactu-oca",
-  "version": "18.0.1.2.1",
+  "version": "18.0.1.2.1.3",
   "summary": "=?utf-8?q?Comunicaci=C3=B3n_VERI*FACTU?=",
   "author": "Aures Tic,ForgeFlow,Tecnativa,Factor Libre,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/l10n-spain",
-  "download_filename": "odoo_addon_l10n_es_verifactu_oca-18.0.1.2.1-py3-none-any.whl",
-  "download_time": "2025-12-10T08:19:40.621516",
+  "download_filename": "odoo_addon_l10n_es_verifactu_oca-18.0.1.2.1.3-py3-none-any.whl",
+  "download_time": "2025-12-11T04:05:01.659270",
   "package_url": "https://pypi.org/project/odoo-addon-l10n-es-verifactu-oca/"
 }

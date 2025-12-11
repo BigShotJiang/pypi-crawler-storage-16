@@ -1,0 +1,11 @@
+{
+  "name": "dbt-spark-emr-serverless-addons",
+  "version": "0.1.2",
+  "summary": "A dbt-spark adapter using Livy to connect to Spark clusters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_spark_emr_serverless_addons-0.1.2.tar.gz",
+  "download_time": "2025-12-11T04:05:00.599971",
+  "package_url": "https://pypi.org/project/dbt-spark-emr-serverless-addons/"
+}

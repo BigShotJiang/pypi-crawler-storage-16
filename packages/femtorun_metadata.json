@@ -1,11 +1,11 @@
 {
   "name": "femtorun",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "summary": "Femtorun defines the runtime interface for Femtosense software",
   "author": "Femtosense",
   "license": null,
   "home_page": "https://femtosense.ai/",
-  "download_filename": "femtorun-3.0.0-py3-none-any.whl",
-  "download_time": "2025-12-09T23:31:25.905532",
+  "download_filename": "femtorun-3.0.1-py3-none-any.whl",
+  "download_time": "2025-12-11T04:04:59.003544",
   "package_url": "https://pypi.org/project/femtorun/"
 }

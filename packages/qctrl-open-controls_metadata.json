@@ -1,0 +1,11 @@
+{
+  "name": "qctrl-open-controls",
+  "version": "12.0.2",
+  "summary": "Q-CTRL Open Controls",
+  "author": "Q-CTRL",
+  "license": "Apache-2.0",
+  "home_page": "https://q-ctrl.com",
+  "download_filename": "qctrl_open_controls-12.0.2.tar.gz",
+  "download_time": "2025-12-11T04:04:20.478446",
+  "package_url": "https://pypi.org/project/qctrl-open-controls/"
+}

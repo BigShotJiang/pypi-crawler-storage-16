@@ -1,11 +1,11 @@
 {
   "name": "supermemory",
-  "version": "3.10.0",
+  "version": "3.11.0",
   "summary": "The official Python library for the supermemory API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "supermemory-3.10.0.tar.gz",
-  "download_time": "2025-12-10T07:17:37.536795",
+  "download_filename": "supermemory-3.11.0.tar.gz",
+  "download_time": "2025-12-11T04:05:05.324145",
   "package_url": "https://pypi.org/project/supermemory/"
 }

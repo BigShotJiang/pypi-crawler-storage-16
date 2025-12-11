@@ -1,0 +1,11 @@
+{
+  "name": "gwaslab-agent",
+  "version": "0.0.8",
+  "summary": "GWASLab Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gwaslab_agent-0.0.8.tar.gz",
+  "download_time": "2025-12-11T04:05:04.798364",
+  "package_url": "https://pypi.org/project/gwaslab-agent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kohakuvault",
+  "version": "0.8.0",
+  "summary": "SQLite-backed KV store (Rust+PyO3) with vector search, auto-packing, and efficient array storage",
+  "author": "KohakuVault Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kohakuvault-0.8.0.tar.gz",
+  "download_time": "2025-12-11T04:04:27.110226",
+  "package_url": "https://pypi.org/project/kohakuvault/"
+}

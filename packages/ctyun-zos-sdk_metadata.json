@@ -1,0 +1,11 @@
+{
+  "name": "ctyun-zos-sdk",
+  "version": "0.3.0",
+  "summary": "A boto3-compatible SDK for CTyun Object Storage (ZOS) with httpx backend",
+  "author": "Liu Xin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctyun_zos_sdk-0.3.0.tar.gz",
+  "download_time": "2025-12-11T04:04:49.937799",
+  "package_url": "https://pypi.org/project/ctyun-zos-sdk/"
+}

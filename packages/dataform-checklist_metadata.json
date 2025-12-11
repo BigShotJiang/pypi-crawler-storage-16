@@ -1,11 +1,11 @@
 {
   "name": "dataform-checklist",
-  "version": "1.0.0",
+  "version": "1.2.2",
   "summary": "Generate Excel deployment checklists from Dataform repositories",
   "author": "PTTEP Data Engineering Team",
   "license": "MIT",
-  "home_page": "https://github.com/OshigeAkito/dataform-checklist-package",
-  "download_filename": "dataform_checklist-1.0.0.tar.gz",
-  "download_time": "2025-12-09T08:50:22.760780",
+  "home_page": "https://github.com/pttep/dataform-checklist",
+  "download_filename": "dataform_checklist-1.2.2.tar.gz",
+  "download_time": "2025-12-11T04:04:26.004489",
   "package_url": "https://pypi.org/project/dataform-checklist/"
 }

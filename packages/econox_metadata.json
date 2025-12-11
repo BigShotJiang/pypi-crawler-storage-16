@@ -1,0 +1,11 @@
+{
+  "name": "econox",
+  "version": "0.1.0",
+  "summary": "A JAX-based library for structural modeling and estimation in economics.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "econox-0.1.0.tar.gz",
+  "download_time": "2025-12-11T04:04:24.902868",
+  "package_url": "https://pypi.org/project/econox/"
+}

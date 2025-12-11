@@ -1,0 +1,11 @@
+{
+  "name": "xparse-client",
+  "version": "0.2.9",
+  "summary": "面向Agent和RAG的新一代文档处理 AI Infra",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xparse_client-0.2.9.tar.gz",
+  "download_time": "2025-12-11T04:04:52.096358",
+  "package_url": "https://pypi.org/project/xparse-client/"
+}

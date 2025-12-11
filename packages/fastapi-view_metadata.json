@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-view",
+  "version": "0.6.2",
+  "summary": "A jinja2 view template helping function for FastAPI.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_view-0.6.2.tar.gz",
+  "download_time": "2025-12-11T04:05:02.181974",
+  "package_url": "https://pypi.org/project/fastapi-view/"
+}

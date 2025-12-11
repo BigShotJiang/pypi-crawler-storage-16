@@ -1,11 +1,11 @@
 {
   "name": "aiedatools",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "summary": "A modern, open-source Python library built for efficient, scalable data profiling and visualization",
   "author": null,
   "license": "LICENSE",
   "home_page": null,
-  "download_filename": "aiedatools-0.0.3.tar.gz",
-  "download_time": "2025-12-10T21:15:27.486237",
+  "download_filename": "aiedatools-0.0.7.tar.gz",
+  "download_time": "2025-12-11T04:04:29.250393",
   "package_url": "https://pypi.org/project/aiedatools/"
 }

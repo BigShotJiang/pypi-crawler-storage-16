@@ -1,11 +1,11 @@
 {
   "name": "cjm-plugin-system",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "summary": "Generic plugin system with discovery, configuration validation, and runtime management for extensible Python applications.",
   "author": "Christian J. Mills",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/cj-mills/cjm-plugin-system",
-  "download_filename": "cjm_plugin_system-0.0.7.tar.gz",
-  "download_time": "2025-12-11T08:20:42.007113",
+  "download_filename": "cjm_plugin_system-0.0.9.tar.gz",
+  "download_time": "2025-12-11T08:51:35.083086",
   "package_url": "https://pypi.org/project/cjm-plugin-system/"
 }

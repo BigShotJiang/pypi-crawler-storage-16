@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-rtk",
+  "version": "1.0.6",
+  "summary": "A package that provides a set of tools to build a FastAPI application with a Class-Based CRUD API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_rtk-1.0.6.tar.gz",
+  "download_time": "2025-12-11T08:51:32.769695",
+  "package_url": "https://pypi.org/project/fastapi-rtk/"
+}

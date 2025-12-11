@@ -1,0 +1,11 @@
+{
+  "name": "tadoasync",
+  "version": "0.2.3",
+  "summary": "Asynchronous Python client for controlling Tado devices.",
+  "author": "Erwin Douna",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tadoasync-0.2.3.tar.gz",
+  "download_time": "2025-12-11T08:51:55.086654",
+  "package_url": "https://pypi.org/project/tadoasync/"
+}

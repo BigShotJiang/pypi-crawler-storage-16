@@ -1,0 +1,11 @@
+{
+  "name": "transformerbeeclient",
+  "version": "0.3.0",
+  "summary": "async HTTP client to communicate with transformer.bee/edifact-bo4e-converter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "transformerbeeclient-0.3.0.tar.gz",
+  "download_time": "2025-12-11T08:51:58.550823",
+  "package_url": "https://pypi.org/project/transformerbeeclient/"
+}

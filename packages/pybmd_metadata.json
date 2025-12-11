@@ -1,0 +1,11 @@
+{
+  "name": "pybmd",
+  "version": "2025.3.1",
+  "summary": "python library for Davinci Resolve(Repack)",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pybmd-2025.3.1.tar.gz",
+  "download_time": "2025-12-11T08:51:56.816200",
+  "package_url": "https://pypi.org/project/pybmd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hacktools",
+  "version": "0.38.7",
+  "summary": "A set of utilities and tools for rom hacking and translations.",
+  "author": "Illidan",
+  "license": null,
+  "home_page": "https://github.com/Illidanz/hacktools",
+  "download_filename": "hacktools-0.38.7.tar.gz",
+  "download_time": "2025-12-11T08:51:49.318803",
+  "package_url": "https://pypi.org/project/hacktools/"
+}

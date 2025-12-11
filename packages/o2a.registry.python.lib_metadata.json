@@ -1,0 +1,11 @@
+{
+  "name": "o2a.registry.python.lib",
+  "version": "0.3.1",
+  "summary": "Basic wrapper around the https://registry.o2a-data.de/api/ powered by pydantic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "o2a_registry_python_lib-0.3.1-py3-none-any.whl",
+  "download_time": "2025-12-11T08:52:11.936307",
+  "package_url": "https://pypi.org/project/o2a.registry.python.lib/"
+}

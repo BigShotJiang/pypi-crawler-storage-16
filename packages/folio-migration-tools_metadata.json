@@ -1,0 +1,11 @@
+{
+  "name": "folio-migration-tools",
+  "version": "1.9.10",
+  "summary": "A tool allowing you to migrate data from legacy ILS:s (Library systems) into FOLIO LSP",
+  "author": "Theodor Tolstoy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "folio_migration_tools-1.9.10.tar.gz",
+  "download_time": "2025-12-11T08:52:11.360170",
+  "package_url": "https://pypi.org/project/folio-migration-tools/"
+}

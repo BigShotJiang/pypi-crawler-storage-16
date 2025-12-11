@@ -1,0 +1,11 @@
+{
+  "name": "openspliceai",
+  "version": "0.0.5",
+  "summary": "Deep learning framework that decodes splicing across species",
+  "author": "Kuan-Hao Chao",
+  "license": null,
+  "home_page": "https://github.com/Kuanhao-Chao/OpenSpliceAI",
+  "download_filename": "openspliceai-0.0.5.tar.gz",
+  "download_time": "2025-12-11T08:51:44.654743",
+  "package_url": "https://pypi.org/project/openspliceai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyeboot",
+  "version": "0.2.3",
+  "summary": "Python interface for pspdecrypt and sign_np.",
+  "author": "Illidan",
+  "license": null,
+  "home_page": "https://github.com/Illidanz/pyeboot",
+  "download_filename": "pyeboot-0.2.3.tar.gz",
+  "download_time": "2025-12-11T08:51:40.193066",
+  "package_url": "https://pypi.org/project/pyeboot/"
+}

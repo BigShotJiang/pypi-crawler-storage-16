@@ -1,11 +1,11 @@
 {
   "name": "coze-coding-utils",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Utilities for Coze coding client runtime context and helpers.",
   "author": "Bytedance Stone Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "coze_coding_utils-0.1.8.tar.gz",
-  "download_time": "2025-12-11T06:55:54.306074",
+  "download_filename": "coze_coding_utils-0.1.9.tar.gz",
+  "download_time": "2025-12-11T08:51:53.360420",
   "package_url": "https://pypi.org/project/coze-coding-utils/"
 }

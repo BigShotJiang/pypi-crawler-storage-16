@@ -1,0 +1,11 @@
+{
+  "name": "accel-hydra",
+  "version": "0.0.3",
+  "summary": "AccelHydra is a lightweight, modular, configurable training framework built on Accelerate and Hydra",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "accel_hydra-0.0.3.tar.gz",
+  "download_time": "2025-12-11T08:52:14.832514",
+  "package_url": "https://pypi.org/project/accel-hydra/"
+}

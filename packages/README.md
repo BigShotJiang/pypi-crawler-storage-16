@@ -1,32 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-11T07:43:28.062500
-- **Total Packages**: 84
-- **Total Size**: 31.59 MB
+- **Download Time**: 2025-12-11T07:53:55.174561
+- **Total Packages**: 78
+- **Total Size**: 9.0 MB
 
 ## Packages List
+- sqlor
+- sagemaker-mlops
+- localorm
+- binary-refinery
+- llumo
+- openfund-taker
+- openfund-maker
+- gate-api
+- vectorgraph
+- remnawave
+- wifilab
+- librifygen
+- odoo-addon-mail-post-defer
+- vector2png
+- metadata-crawler
+- SURE-tools
+- PureCloudPlatformClientV2
+- dgx-spark-vllm
+- tgzr.shell
+- wmill-pg
+- exxec
+- mcp-atlassian-bruno
+- wmill
+- windmill-api
+- nexaroa
+- pylight-metrics
+- eole
+- doc-page-extractor
+- sayou-document
+- dynafield
+- nqlib
+- sc-utility
+- OpenOrchestrator
+- oomol-fusion-sdk
+- bruno-llm
+- openmetadata-managed-apis
+- ycd2
+- my-get-weather
+- komon
 - supertone
 - medusa-security
-- ycd2
 - nanasqlite
-- dgx-spark-vllm
 - igap-bot
 - zk-doc-mcp-server
 - pygifconvt-jwLee
-- vectorgraph
 - nora-observability
 - crecall-backend
 - dragon-ml-toolbox
 - kindaxml
 - igkrx
 - orcakit-sdk
-- vector2png
 - chipstream
 - wnm
 - tubefeed
 - kurra
-- pylight-metrics
 - feldera
 - chalkpy
 - endoreg-db
@@ -39,13 +73,9 @@
 - query-patterns
 - dcnum
 - advent-of-code-wim
-- openfund-taker
-- openfund-maker
 - vulners
-- SURE-tools
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
-- nexaroa
 - ai-edge-litert-nightly
 - doti18n
 - karaoke-gen
@@ -54,39 +84,3 @@
 - claude-session-manager-mcp
 - aocd-example-parser
 - tactus
-- og-test-x402
-- exasol-saas-api
-- mltoolhub
-- pyRedNoise
-- ideastatica-rcs-api
-- FTL-Extract
-- ideastatica-connection-api
-- dihlibs
-- spritz-cli
-- mysqlengine
-- starrocks
-- rer.pubblicazioni
-- catsu
-- postgresql-mcp-server3
-- rasesql-mcp-server
-- wbportfolio
-- wbcrm
-- wbwriter
-- wbtasks
-- wbreport
-- wbnews
-- wbmailing
-- wbhuman_resources
-- wbfdm
-- wbcore
-- wbaccounting
-- wbcompliance
-- praisonaibench
-- wbwiki
-- pushsource
-- blt-toolkit
-- sphinxnotes-strike
-- amplify-excel-migrator
-- codemie-tools
-- benchmark-runner
-- reme-ai

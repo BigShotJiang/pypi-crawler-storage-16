@@ -1,0 +1,11 @@
+{
+  "name": "divyam-llm-interop",
+  "version": "0.1.1",
+  "summary": "A lightweight, provider-neutral library for translating LLM requests and responses across model APIs.",
+  "author": "DivyamAI Technologies Private Limited",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "divyam_llm_interop-0.1.1.tar.gz",
+  "download_time": "2025-12-11T19:33:12.415156",
+  "package_url": "https://pypi.org/project/divyam-llm-interop/"
+}

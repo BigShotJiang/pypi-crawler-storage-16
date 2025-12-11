@@ -1,0 +1,11 @@
+{
+  "name": "gptcmd",
+  "version": "2.3.2",
+  "summary": "Command line GPT conversation and experimentation environment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gptcmd-2.3.2.tar.gz",
+  "download_time": "2025-12-11T19:33:08.294686",
+  "package_url": "https://pypi.org/project/gptcmd/"
+}

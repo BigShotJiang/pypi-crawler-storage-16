@@ -1,0 +1,11 @@
+{
+  "name": "aries-askar",
+  "version": "0.5.0",
+  "summary": "Python wrapper for the Aries Askar cryptographic library",
+  "author": "OpenWallet Foundation Askar Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aries_askar-0.5.0-py3-none-macosx_10_9_universal2.whl",
+  "download_time": "2025-12-11T19:33:23.456667",
+  "package_url": "https://pypi.org/project/aries-askar/"
+}

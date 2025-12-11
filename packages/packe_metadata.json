@@ -1,0 +1,11 @@
+{
+  "name": "packe",
+  "version": "0.7.1",
+  "summary": "Flexible bash script runner.",
+  "author": "GregRos",
+  "license": "MIT",
+  "home_page": "https://github.com/GregRos/packe",
+  "download_filename": "packe-0.7.1.tar.gz",
+  "download_time": "2025-12-11T19:33:15.044220",
+  "package_url": "https://pypi.org/project/packe/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pulumi-okta",
-  "version": "6.1.0",
+  "version": "6.2.0",
   "summary": "A Pulumi package for creating and managing okta resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_okta-6.1.0.tar.gz",
-  "download_time": "2025-12-09T06:53:26.792063",
+  "download_filename": "pulumi_okta-6.2.0.tar.gz",
+  "download_time": "2025-12-11T19:33:25.517539",
   "package_url": "https://pypi.org/project/pulumi-okta/"
 }

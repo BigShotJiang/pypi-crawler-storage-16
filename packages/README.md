@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-11T19:16:55.005756
+- **Download Time**: 2025-12-11T19:33:48.545264
 - **Total Packages**: 89
-- **Total Size**: 37.17 MB
+- **Total Size**: 24.24 MB
 
 ## Packages List
+- brewtils
+- kleur
+- pdd-cli
+- biblemategui
+- ethyca-fides
+- deeporigin
+- mbo_utilities
+- roboto
+- netpbmfile
+- bgetech-modbus
+- wildflow
+- based-utils
+- policyengine-us
+- gptcmd
+- analyst-klondike
+- dwarf-p-ice3
+- spgci
+- ct-veegan
+- epymorph
+- google-air-quality-api
+- ros-cdk-rocketmq
+- divyam-llm-interop
+- anaconda-auth
+- context-packager
+- cf-xarray
+- kaxanuk.data-curator
+- packe
+- wildflow-splat
+- ternimator
+- huscy.project-design
+- LJSE
+- anyt
+- cirq-core
+- cirq-google
+- cirq-pasqal
+- cirq-aqt
+- cirq
+- cirq-web
+- cirq-ionq
+- quantconnect-stubs
+- pyquoks
+- aries-askar
+- ros-cdk-gwlb
+- pulumi-provider-boilerplate
+- espark-core
 - pulumi-okta
 - anipy-cli
 - fastgps
@@ -34,18 +79,15 @@
 - recurly
 - html-to-markdown
 - omni-analytics-sdk
-- ct-veegan
 - tk-normalizer
 - waldiez-jupyter
 - coordax
 - coiled
 - PySHDL
 - lomatching
-- pulumi-provider-boilerplate
 - httpx-aiohttp
 - waldiez-studio
 - vital
-- pyquoks
 - async-customerio
 - agent-framework-mem0
 - agent-framework-declarative
@@ -53,45 +95,3 @@
 - agent-framework-devui
 - agent-framework
 - agent-framework-core
-- ydb-sqlalchemy
-- agent-framework-azure-ai
-- agent-framework-redis
-- agent-framework-ag-ui
-- agent-framework-anthropic
-- agent-framework-azure-ai-search
-- agent-framework-purview
-- agent-framework-copilotstudio
-- agent-framework-azurefunctions
-- agent-framework-a2a
-- agent-framework-chatkit
-- aiosend
-- PyAutomationIO
-- rapidsmpf-cu13
-- amsdal_server
-- NREL-reVX
-- llm-tools-browser-history
-- rapidsmpf-cu12
-- claude-mpm
-- django-8e9e15-v1
-- pykaleidescape
-- kuzu-memory
-- fleandr-test-package
-- tobiko-cloud-helpers
-- tobiko-cloud-api-client
-- tobiko-cloud-pydantic
-- hcsegment
-- regscale-cli
-- eyconf
-- apilinker
-- rubber-ducky
-- cuga
-- gdb-mcp
-- trivialai
-- darwin-py
-- osdental-mb-library
-- iatoolkit
-- continual-foragax
-- domolibrary2
-- wisent
-- worker-automate-hub
-- dagster-contrib-gcp

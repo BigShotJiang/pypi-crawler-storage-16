@@ -1,11 +1,11 @@
 {
   "name": "pattingalloang",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "JAX-Accelerated Aizawa Attractor Analysis with Comprehensive Chaos Metrics",
   "author": "Sandy H. S. Herho",
   "license": "MIT",
   "home_page": "https://github.com/sandyherho/pattingalloang",
-  "download_filename": "pattingalloang-0.0.1.tar.gz",
-  "download_time": "2025-12-11T05:55:32.599017",
+  "download_filename": "pattingalloang-0.0.2.tar.gz",
+  "download_time": "2025-12-11T19:33:27.047856",
   "package_url": "https://pypi.org/project/pattingalloang/"
 }

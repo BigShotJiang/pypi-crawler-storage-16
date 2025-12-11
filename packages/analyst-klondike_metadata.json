@@ -1,11 +1,11 @@
 {
   "name": "analyst-klondike",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "summary": "Тренажер Python от Клондайка Аналитика",
   "author": null,
   "license": "Commercial License  Copyright (c) 2025-present <analyst-klondike@yandex.ru> Исключительные права принадлежит Малюге Илье Викторовичу. Запрещено использовать, модифицировать, каким-либо образом изменять исходный текст программы без разрешения автора.",
   "home_page": null,
-  "download_filename": "analyst_klondike-1.0.4.tar.gz",
-  "download_time": "2025-12-11T09:46:22.809549",
+  "download_filename": "analyst_klondike-1.0.7.tar.gz",
+  "download_time": "2025-12-11T19:33:08.808108",
   "package_url": "https://pypi.org/project/analyst-klondike/"
 }

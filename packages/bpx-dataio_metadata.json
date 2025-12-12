@@ -1,11 +1,11 @@
 {
   "name": "bpx-dataio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Useful utilities for data IO operations, including Snowflake, S3, and SageMaker integrations.",
   "author": "Julian Liu",
   "license": "MIT",
   "home_page": "https://github.com/bpx/bpx-dataio",
-  "download_filename": "bpx_dataio-0.1.0.tar.gz",
-  "download_time": "2025-12-12T22:36:28.612365",
+  "download_filename": "bpx_dataio-0.1.1.tar.gz",
+  "download_time": "2025-12-12T23:14:34.044709",
   "package_url": "https://pypi.org/project/bpx-dataio/"
 }

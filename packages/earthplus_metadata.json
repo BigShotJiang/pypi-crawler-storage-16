@@ -1,0 +1,11 @@
+{
+  "name": "earthplus",
+  "version": "0.1.0",
+  "summary": "A simple Python 3D engine for beginners using Pygame and OpenGL",
+  "author": "Francis Jusu",
+  "license": "MIT",
+  "home_page": "https://github.com/Francis589-png/earthplus",
+  "download_filename": "earthplus-0.1.0.tar.gz",
+  "download_time": "2025-12-12T23:32:07.591641",
+  "package_url": "https://pypi.org/project/earthplus/"
+}

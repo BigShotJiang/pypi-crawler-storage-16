@@ -1,0 +1,11 @@
+{
+  "name": "grew-tse",
+  "version": "0.1.2",
+  "summary": "A library for the generation of minimal-pair syntactic tests from treebanks for Targeted Syntactic Evaluation of LLMs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grew_tse-0.1.2.tar.gz",
+  "download_time": "2025-12-12T23:32:31.441311",
+  "package_url": "https://pypi.org/project/grew-tse/"
+}

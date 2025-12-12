@@ -1,11 +1,11 @@
 {
   "name": "aoc-tiles",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "Fancy Advent of Code README tiles showing the completion status of the challenges per day",
-  "author": "Brutenis Gliwa,",
-  "license": "Apache-2.0",
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "aoc_tiles-0.7.0.tar.gz",
-  "download_time": "2025-12-12T21:04:28.906292",
+  "download_filename": "aoc_tiles-0.7.2.tar.gz",
+  "download_time": "2025-12-12T23:32:25.211703",
   "package_url": "https://pypi.org/project/aoc-tiles/"
 }

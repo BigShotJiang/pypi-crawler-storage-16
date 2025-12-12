@@ -1,26 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-12T21:32:41.029646
-- **Total Packages**: 93
-- **Total Size**: 22.81 MB
+- **Download Time**: 2025-12-12T21:44:10.287271
+- **Total Packages**: 90
+- **Total Size**: 0.74 MB
 
 ## Packages List
-- easier
-- vim-eof-comment
-- katana-mcp-server
-- flowmason
-- velocity-python
-- hark-cli
-- saultcollege-csd110-25f-linewise
-- mp-api
-- physionet
-- lite-slurm
-- ayechat-dev
-- spellbot
-- genlist-butler
-- saudi-dialect-eou
-- empathy-framework
 - yaml-overlay
 - airbyte-ai-jira
 - azure-llm-toolkit
@@ -30,6 +15,7 @@
 - langchain-cratedb
 - 2025_assignment2_expenses_manager
 - jfjoch-client
+- ayechat-dev
 - wisent
 - airbyte-ai-stripe
 - pyairahome
@@ -99,3 +85,14 @@
 - tshap
 - nsmbl-mcp
 - edge-tts
+- eisp
+- yaka-llm
+- seerpy
+- opengris-scaler
+- stanley-cbp
+- pulumi
+- agentready
+- kaqing
+- aws-cdk.region-info
+- aws-cdk.integ-tests-alpha
+- aws-cdk.cx-api

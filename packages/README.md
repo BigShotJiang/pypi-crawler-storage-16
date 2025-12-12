@@ -1,11 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-12T21:05:10.102983
-- **Total Packages**: 97
-- **Total Size**: 52.2 MB
+- **Download Time**: 2025-12-12T21:14:25.980946
+- **Total Packages**: 96
+- **Total Size**: 11.92 MB
 
 ## Packages List
+- dyff-schema
+- statsig
+- pymomenta
+- api-watch
+- seemps
+- nexaroa
+- timestep
+- 2025_assignment2_expenses_manager
+- ggplotly
+- typer-ui
+- sonicmesh
+- RockyRoad
+- glean-api-client
+- stewbeet
+- fluxem-core
+- singlestoredb
+- mteb
+- kopi-docka
+- vidavis
 - gecko-iot-client
 - nopecha-extension
 - recurly
@@ -15,9 +34,7 @@
 - braindecode
 - discrimintools
 - odoo-addon-l10n-fr-account-payment-intl-credit-transfer
-- saudi-arabic-eou
 - odoo-addon-account-payment-sepa-direct-debit
-- coolerama
 - phaselab
 - adaptive-router-core-cu12
 - dataframe-textual
@@ -36,7 +53,6 @@
 - csv-stats
 - tawala
 - fsai-proto-specs
-- kopi-docka
 - wsba-hockey
 - multi-storage-client
 - tshap
@@ -86,20 +102,3 @@
 - aws-cdk.aws-cloud9-alpha
 - aws-cdk.aws-bedrock-alpha
 - aws-cdk.aws-bedrock-agentcore-alpha
-- aws-cdk.aws-apprunner-alpha
-- aws-cdk.aws-applicationsignals-alpha
-- aws-cdk.aws-amplify-alpha
-- aws-cdk.app-staging-synthesizer-alpha
-- epublib
-- remdb
-- dotpromptz-handlebars
-- winipyside
-- winidjango
-- propp-fr
-- odoo-addon-account-payment-sepa-credit-transfer
-- mock-spark
-- llm-ner-nel
-- fmcmcpkd
-- gaik
-- ci-guardian
-- flac-detective

@@ -1,0 +1,11 @@
+{
+  "name": "statsig",
+  "version": "0.66.2",
+  "summary": "Statsig Python Server SDK",
+  "author": "Tore Hanssen, Jiakan Wang",
+  "license": "ISC",
+  "home_page": "https://github.com/statsig-io/python-sdk",
+  "download_filename": "statsig-0.66.2.tar.gz",
+  "download_time": "2025-12-12T21:13:36.387328",
+  "package_url": "https://pypi.org/project/statsig/"
+}

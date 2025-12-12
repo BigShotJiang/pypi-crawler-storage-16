@@ -1,0 +1,11 @@
+{
+  "name": "vidavis",
+  "version": "0.1.2",
+  "summary": "Radio astronomy visibility data visualization",
+  "author": null,
+  "license": "LGPL",
+  "home_page": null,
+  "download_filename": "vidavis-0.1.2.tar.gz",
+  "download_time": "2025-12-12T21:13:45.215697",
+  "package_url": "https://pypi.org/project/vidavis/"
+}

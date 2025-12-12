@@ -1,11 +1,11 @@
 {
   "name": "pyMSFT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "python MultiSlice Fourier-Transform toolbox",
   "author": null,
   "license": "CC-BY-4.0",
   "home_page": null,
-  "download_filename": "pymsft-1.0.0.tar.gz",
-  "download_time": "2025-12-11T14:44:58.375661",
+  "download_filename": "pymsft-1.0.1.tar.gz",
+  "download_time": "2025-12-12T14:34:50.062510",
   "package_url": "https://pypi.org/project/pyMSFT/"
 }

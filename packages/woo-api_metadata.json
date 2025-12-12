@@ -1,0 +1,11 @@
+{
+  "name": "woo-api",
+  "version": "0.0.109",
+  "summary": "woo crypto exchange api client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "woo_api-0.0.109.tar.gz",
+  "download_time": "2025-12-12T14:34:40.374092",
+  "package_url": "https://pypi.org/project/woo-api/"
+}

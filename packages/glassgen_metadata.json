@@ -1,0 +1,11 @@
+{
+  "name": "glassgen",
+  "version": "0.2.3",
+  "summary": "A flexible synthetic data generation service",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "glassgen-0.2.3.tar.gz",
+  "download_time": "2025-12-12T14:34:44.095432",
+  "package_url": "https://pypi.org/project/glassgen/"
+}

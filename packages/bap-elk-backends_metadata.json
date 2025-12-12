@@ -1,0 +1,11 @@
+{
+  "name": "bap-elk-backends",
+  "version": "0.8.2",
+  "summary": "GrimoireELK plugic for public-inbox.",
+  "author": "Bitergia Developers",
+  "license": "GPL-3.0+",
+  "home_page": "https://chaoss.github.io/grimoirelab/",
+  "download_filename": "bap_elk_backends-0.8.2.tar.gz",
+  "download_time": "2025-12-12T14:35:01.268600",
+  "package_url": "https://pypi.org/project/bap-elk-backends/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "earthkit-workflows",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Earthkit Workflows is a Python library for declaring earthkit task DAGs, as well as scheduling and executing them on heterogeneous computing systems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "earthkit_workflows-0.5.0-py3-none-any.whl",
-  "download_time": "2025-12-12T13:48:02.928545",
+  "download_filename": "earthkit_workflows-0.5.1-py3-none-any.whl",
+  "download_time": "2025-12-12T14:34:29.936563",
   "package_url": "https://pypi.org/project/earthkit-workflows/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tkinterweb",
+  "version": "4.10.0",
+  "summary": "HTML/CSS viewer, editor, and app builder for Tkinter",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/Andereoo/TkinterWeb",
+  "download_filename": "tkinterweb-4.10.0-py3-none-any.whl",
+  "download_time": "2025-12-12T16:44:33.544870",
+  "package_url": "https://pypi.org/project/tkinterweb/"
+}

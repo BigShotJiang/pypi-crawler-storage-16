@@ -1,11 +1,11 @@
 {
   "name": "supervised-multidimensional-scaling",
-  "version": "0.5.2",
-  "summary": "Add your description here",
-  "author": "Shape Wizards Team",
+  "version": "0.5.3",
+  "summary": "A plug-and-play, scikit-learn compatible implementation of Supervised Multi-Dimensional Scaling (SMDS) for automatic feature manifold discovery in LLMs.",
+  "author": "Vinayak Joshi, Jan Karas, Anton Kantsemal, Simon Kistner, Arwin Sanee Ghomi",
   "license": null,
   "home_page": null,
-  "download_filename": "supervised_multidimensional_scaling-0.5.2.tar.gz",
-  "download_time": "2025-12-09T16:49:23.060897",
+  "download_filename": "supervised_multidimensional_scaling-0.5.3.tar.gz",
+  "download_time": "2025-12-12T16:44:50.323047",
   "package_url": "https://pypi.org/project/supervised-multidimensional-scaling/"
 }

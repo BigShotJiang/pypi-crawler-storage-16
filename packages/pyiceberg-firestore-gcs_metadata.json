@@ -1,0 +1,11 @@
+{
+  "name": "pyiceberg-firestore-gcs",
+  "version": "0.1.3",
+  "summary": "A GCP opinionated pyiceberg catalog.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyiceberg_firestore_gcs-0.1.3.tar.gz",
+  "download_time": "2025-12-12T16:44:44.174705",
+  "package_url": "https://pypi.org/project/pyiceberg-firestore-gcs/"
+}

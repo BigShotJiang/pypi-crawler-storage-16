@@ -1,11 +1,11 @@
 {
   "name": "aptabase",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Python SDK for Aptabase analytics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aptabase-0.0.3.tar.gz",
-  "download_time": "2025-12-12T15:53:48.143171",
+  "download_filename": "aptabase-0.0.4.tar.gz",
+  "download_time": "2025-12-12T16:44:43.049475",
   "package_url": "https://pypi.org/project/aptabase/"
 }

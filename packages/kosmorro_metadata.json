@@ -1,0 +1,11 @@
+{
+  "name": "kosmorro",
+  "version": "1.0.0",
+  "summary": "A program to compute the ephemerides.",
+  "author": "Jérôme Deuchnord",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "kosmorro-1.0.0.tar.gz",
+  "download_time": "2025-12-12T16:44:52.474365",
+  "package_url": "https://pypi.org/project/kosmorro/"
+}

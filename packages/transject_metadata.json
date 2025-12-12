@@ -1,0 +1,11 @@
+{
+  "name": "transject",
+  "version": "0.1.0",
+  "summary": "Manifold-Preserving Transformer Framework for NLP Tasks",
+  "author": "Ayan Sengupta, Md. Shad Akhtar, Tanmoy Chakraborty",
+  "license": "MIT",
+  "home_page": "https://github.com/parmanu-lcs2/TransJect",
+  "download_filename": "transject-0.1.0.tar.gz",
+  "download_time": "2025-12-12T18:21:39.688251",
+  "package_url": "https://pypi.org/project/transject/"
+}

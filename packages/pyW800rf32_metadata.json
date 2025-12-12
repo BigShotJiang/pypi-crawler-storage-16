@@ -1,0 +1,11 @@
+{
+  "name": "pyW800rf32",
+  "version": "0.5",
+  "summary": "A library to communicate with the W800rf32 family of devices",
+  "author": "George Farris",
+  "license": null,
+  "home_page": "https://github.com/horga83/W800rf32",
+  "download_filename": "pyw800rf32-0.5.tar.gz",
+  "download_time": "2025-12-12T18:21:39.174374",
+  "package_url": "https://pypi.org/project/pyW800rf32/"
+}

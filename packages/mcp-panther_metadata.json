@@ -1,0 +1,11 @@
+{
+  "name": "mcp-panther",
+  "version": "2.1.1",
+  "summary": "Panther Labs MCP Server",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mcp_panther-2.1.1.tar.gz",
+  "download_time": "2025-12-12T18:21:29.326102",
+  "package_url": "https://pypi.org/project/mcp-panther/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "environ-odoo-config",
-  "version": "0.5.6",
+  "version": "0.6.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "environ_odoo_config-0.5.6.tar.gz",
-  "download_time": "2025-12-10T14:16:41.411432",
+  "download_filename": "environ_odoo_config-0.6.0.tar.gz",
+  "download_time": "2025-12-12T18:21:42.778043",
   "package_url": "https://pypi.org/project/environ-odoo-config/"
 }

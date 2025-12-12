@@ -1,11 +1,11 @@
 {
   "name": "pipefunc",
-  "version": "0.90.0",
+  "version": "0.90.1",
   "summary": "A Python library for defining, managing, and executing function pipelines.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pipefunc-0.90.0.tar.gz",
-  "download_time": "2025-12-12T07:19:44.059055",
+  "download_filename": "pipefunc-0.90.1.tar.gz",
+  "download_time": "2025-12-12T18:22:03.667172",
   "package_url": "https://pypi.org/project/pipefunc/"
 }

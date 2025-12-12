@@ -1,11 +1,11 @@
 {
   "name": "polars-bloomberg",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Python library providing a Polars DataFrame interface for easy and intuitive access to Bloomberg API.",
   "author": "Marek Ozana, Ph.D.",
-  "license": "Apache-2.0",
+  "license": null,
   "home_page": null,
-  "download_filename": "polars_bloomberg-0.5.2.tar.gz",
-  "download_time": "2025-12-11T19:50:03.089728",
+  "download_filename": "polars_bloomberg-0.5.3.tar.gz",
+  "download_time": "2025-12-12T18:22:04.205718",
   "package_url": "https://pypi.org/project/polars-bloomberg/"
 }

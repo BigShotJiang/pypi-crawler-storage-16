@@ -1,0 +1,11 @@
+{
+  "name": "touchlab-comm-py",
+  "version": "0.2.0",
+  "summary": "Touchlab Driver Python Bindings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "touchlab_comm_py-0.2.0.tar.gz",
+  "download_time": "2025-12-12T18:21:31.399831",
+  "package_url": "https://pypi.org/project/touchlab-comm-py/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bizteamai-smcp-biz",
-  "version": "1.23.3",
+  "version": "1.24.0",
   "summary": "SMCP Business Edition - Secure Model Context Protocol with advanced licensing",
   "author": null,
   "license": "Commercial",
   "home_page": null,
-  "download_filename": "bizteamai_smcp_biz-1.23.3.tar.gz",
-  "download_time": "2025-12-09T18:17:50.133075",
+  "download_filename": "bizteamai_smcp_biz-1.24.0.tar.gz",
+  "download_time": "2025-12-12T18:21:54.739379",
   "package_url": "https://pypi.org/project/bizteamai-smcp-biz/"
 }

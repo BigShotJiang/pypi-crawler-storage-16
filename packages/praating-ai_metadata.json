@@ -1,0 +1,11 @@
+{
+  "name": "praating-ai",
+  "version": "0.3.0",
+  "summary": "Push-to-talk voice dictation for Linux using Whisper AI",
+  "author": "Frederick van Staden",
+  "license": null,
+  "home_page": null,
+  "download_filename": "praating_ai-0.3.0.tar.gz",
+  "download_time": "2025-12-12T18:21:44.315363",
+  "package_url": "https://pypi.org/project/praating-ai/"
+}

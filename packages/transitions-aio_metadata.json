@@ -1,0 +1,11 @@
+{
+  "name": "transitions-aio",
+  "version": "0.9.3.4",
+  "summary": "A lightweight, anyio-capable, object-oriented state machine implementation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transitions_aio-0.9.3.4.tar.gz",
+  "download_time": "2025-12-12T18:21:25.119841",
+  "package_url": "https://pypi.org/project/transitions-aio/"
+}

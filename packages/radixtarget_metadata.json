@@ -1,11 +1,11 @@
 {
   "name": "radixtarget",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "summary": "Fast radix tree for IP addresses and DNS names",
   "author": "TheTechromancer",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "radixtarget-4.0.3.tar.gz",
-  "download_time": "2025-12-11T22:15:10.731127",
+  "download_filename": "radixtarget-4.0.4.tar.gz",
+  "download_time": "2025-12-12T22:36:29.850113",
   "package_url": "https://pypi.org/project/radixtarget/"
 }

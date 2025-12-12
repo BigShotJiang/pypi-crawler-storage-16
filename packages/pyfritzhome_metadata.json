@@ -1,0 +1,11 @@
+{
+  "name": "pyfritzhome",
+  "version": "0.6.18",
+  "summary": "Fritz!Box Smarthome Python Library",
+  "author": "Heiko Thiery",
+  "license": "MIT",
+  "home_page": "http://github.com/hthiery/python-fritzhome",
+  "download_filename": "pyfritzhome-0.6.18.tar.gz",
+  "download_time": "2025-12-12T22:36:24.838081",
+  "package_url": "https://pypi.org/project/pyfritzhome/"
+}

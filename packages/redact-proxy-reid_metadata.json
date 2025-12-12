@@ -1,11 +1,11 @@
 {
   "name": "redact-proxy-reid",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "DE-ID/RE-ID SDK for LLMs - Full-cycle PHI protection with automatic re-identification",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "redact_proxy_reid-0.1.1.tar.gz",
-  "download_time": "2025-12-12T21:49:32.022648",
+  "download_filename": "redact_proxy_reid-0.1.2.tar.gz",
+  "download_time": "2025-12-12T22:36:45.285563",
   "package_url": "https://pypi.org/project/redact-proxy-reid/"
 }

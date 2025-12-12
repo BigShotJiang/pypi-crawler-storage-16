@@ -1,0 +1,11 @@
+{
+  "name": "modelcif",
+  "version": "1.6",
+  "summary": "Package for handling ModelCIF mmCIF and BinaryCIF files",
+  "author": "Ben Webb",
+  "license": "MIT",
+  "home_page": "https://github.com/ihmwg/python-modelcif",
+  "download_filename": "modelcif-1.6.tar.gz",
+  "download_time": "2025-12-12T22:36:37.955912",
+  "package_url": "https://pypi.org/project/modelcif/"
+}

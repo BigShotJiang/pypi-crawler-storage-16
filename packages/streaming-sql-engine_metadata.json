@@ -1,11 +1,11 @@
 {
   "name": "streaming-sql-engine",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A lightweight SQL execution engine for streaming row-by-row queries with joins across multiple data sources",
   "author": "Theodore Pantazopoulo",
   "license": null,
   "home_page": "https://github.com/Ierofantis/streaming-sql-engine/tree/master",
-  "download_filename": "streaming_sql_engine-0.1.7.tar.gz",
-  "download_time": "2025-12-12T22:14:34.473302",
+  "download_filename": "streaming_sql_engine-0.1.8.tar.gz",
+  "download_time": "2025-12-12T22:36:49.045424",
   "package_url": "https://pypi.org/project/streaming-sql-engine/"
 }

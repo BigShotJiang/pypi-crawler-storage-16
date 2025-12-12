@@ -1,11 +1,11 @@
 {
   "name": "spotify-bulk-actions-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for bulk Spotify operations with confidence-scored song matching, batch playlist creation, and library exports",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spotify_bulk_actions_mcp-0.1.0.tar.gz",
-  "download_time": "2025-12-12T22:14:19.314858",
+  "download_filename": "spotify_bulk_actions_mcp-0.1.1.tar.gz",
+  "download_time": "2025-12-12T22:36:43.699836",
   "package_url": "https://pypi.org/project/spotify-bulk-actions-mcp/"
 }

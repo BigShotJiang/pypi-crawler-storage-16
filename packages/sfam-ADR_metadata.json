@@ -1,11 +1,11 @@
 {
   "name": "sfam-ADR",
-  "version": "1.0.0",
-  "summary": "Secure Feature Abstraction Model (SFAM) & SecuADR Engine",
+  "version": "1.0.4",
+  "summary": "A neuro-symbolic, privacy-preserving biometric authentication engine.",
   "author": "lumine8",
   "license": null,
   "home_page": "https://github.com/Lumine8/SFAM",
-  "download_filename": "sfam_adr-1.0.0.tar.gz",
-  "download_time": "2025-12-12T22:15:04.511222",
+  "download_filename": "sfam_adr-1.0.4.tar.gz",
+  "download_time": "2025-12-12T22:36:28.070062",
   "package_url": "https://pypi.org/project/sfam-ADR/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cuga",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "CUGA is an open-source generalist agent for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cuga-0.2.3.tar.gz",
-  "download_time": "2025-12-11T23:14:22.478528",
+  "download_filename": "cuga-0.2.5.tar.gz",
+  "download_time": "2025-12-12T13:10:43.231176",
   "package_url": "https://pypi.org/project/cuga/"
 }

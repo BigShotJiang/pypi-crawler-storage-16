@@ -1,0 +1,11 @@
+{
+  "name": "devtools-base32",
+  "version": "1.0.0",
+  "summary": "Base32 encoder/decoder",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/base32",
+  "download_filename": "devtools_base32-1.0.0.tar.gz",
+  "download_time": "2025-12-12T13:11:04.381778",
+  "package_url": "https://pypi.org/project/devtools-base32/"
+}

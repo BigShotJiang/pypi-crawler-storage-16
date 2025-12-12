@@ -1,0 +1,11 @@
+{
+  "name": "devtools-character-map",
+  "version": "1.0.0",
+  "summary": "Character map and Unicode lookup",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/character-map",
+  "download_filename": "devtools_character_map-1.0.0.tar.gz",
+  "download_time": "2025-12-12T13:11:00.795656",
+  "package_url": "https://pypi.org/project/devtools-character-map/"
+}

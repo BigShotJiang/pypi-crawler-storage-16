@@ -1,0 +1,11 @@
+{
+  "name": "devtools-border-radius",
+  "version": "1.0.0",
+  "summary": "CSS border-radius generator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/border-radius",
+  "download_filename": "devtools_border_radius-1.0.0.tar.gz",
+  "download_time": "2025-12-12T13:11:02.849750",
+  "package_url": "https://pypi.org/project/devtools-border-radius/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "safepass-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Offline password manager with strong encryption",
   "author": "Baran Celal Tonyalı",
   "license": null,
   "home_page": "https://github.com/barancll/safepass",
-  "download_filename": "safepass_cli-1.0.3.tar.gz",
-  "download_time": "2025-12-12T11:33:58.966473",
+  "download_filename": "safepass_cli-1.0.4.tar.gz",
+  "download_time": "2025-12-12T13:10:43.763029",
   "package_url": "https://pypi.org/project/safepass-cli/"
 }

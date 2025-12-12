@@ -1,0 +1,11 @@
+{
+  "name": "devtools-chmod",
+  "version": "1.0.0",
+  "summary": "Unix chmod permission calculator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/chmod-calculator",
+  "download_filename": "devtools_chmod-1.0.0.tar.gz",
+  "download_time": "2025-12-12T13:11:00.283710",
+  "package_url": "https://pypi.org/project/devtools-chmod/"
+}

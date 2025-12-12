@@ -1,0 +1,11 @@
+{
+  "name": "devtools-credit-card",
+  "version": "1.0.0",
+  "summary": "Credit card validator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/credit-card-validator",
+  "download_filename": "devtools_credit_card-1.0.0.tar.gz",
+  "download_time": "2025-12-12T13:10:57.722618",
+  "package_url": "https://pypi.org/project/devtools-credit-card/"
+}

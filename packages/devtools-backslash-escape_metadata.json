@@ -1,0 +1,11 @@
+{
+  "name": "devtools-backslash-escape",
+  "version": "1.0.0",
+  "summary": "Backslash escape/unescape tool",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/backslash-escape",
+  "download_filename": "devtools_backslash_escape-1.0.0.tar.gz",
+  "download_time": "2025-12-12T13:11:05.404571",
+  "package_url": "https://pypi.org/project/devtools-backslash-escape/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ultralytics",
+  "version": "8.3.237",
+  "summary": "Ultralytics YOLO 🚀 for SOTA object detection, multi-object tracking, instance segmentation, pose estimation and image classification.",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "ultralytics-8.3.237.tar.gz",
+  "download_time": "2025-12-12T13:10:35.916196",
+  "package_url": "https://pypi.org/project/ultralytics/"
+}

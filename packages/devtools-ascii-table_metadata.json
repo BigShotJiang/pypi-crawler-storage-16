@@ -1,0 +1,11 @@
+{
+  "name": "devtools-ascii-table",
+  "version": "1.0.0",
+  "summary": "ASCII table reference and converter",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/ascii-table",
+  "download_filename": "devtools_ascii_table-1.0.0.tar.gz",
+  "download_time": "2025-12-12T13:11:06.426195",
+  "package_url": "https://pypi.org/project/devtools-ascii-table/"
+}

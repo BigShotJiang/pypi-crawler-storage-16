@@ -1,0 +1,11 @@
+{
+  "name": "devtools-cidr",
+  "version": "1.0.0",
+  "summary": "CIDR notation calculator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/cidr-calculator",
+  "download_filename": "devtools_cidr-1.0.0.tar.gz",
+  "download_time": "2025-12-12T13:10:59.768164",
+  "package_url": "https://pypi.org/project/devtools-cidr/"
+}

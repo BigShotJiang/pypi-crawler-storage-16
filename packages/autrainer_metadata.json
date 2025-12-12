@@ -1,0 +1,11 @@
+{
+  "name": "autrainer",
+  "version": "0.9.1",
+  "summary": "A Modular and Extensible Deep Learning Toolkit for Computer Audition Tasks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autrainer-0.9.1.tar.gz",
+  "download_time": "2025-12-12T13:10:38.542076",
+  "package_url": "https://pypi.org/project/autrainer/"
+}

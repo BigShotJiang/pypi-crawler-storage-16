@@ -1,0 +1,11 @@
+{
+  "name": "cocotbext-ahb",
+  "version": "0.5.0",
+  "summary": "CocotbExt AHB Bus VIP",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cocotbext_ahb-0.5.0.tar.gz",
+  "download_time": "2025-12-12T13:10:50.957998",
+  "package_url": "https://pypi.org/project/cocotbext-ahb/"
+}

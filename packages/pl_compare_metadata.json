@@ -1,0 +1,11 @@
+{
+  "name": "pl_compare",
+  "version": "0.9.3",
+  "summary": "A tool to find the differences between two tables.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pl_compare-0.9.3.tar.gz",
+  "download_time": "2025-12-12T13:11:14.758545",
+  "package_url": "https://pypi.org/project/pl_compare/"
+}

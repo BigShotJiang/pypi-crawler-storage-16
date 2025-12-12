@@ -1,0 +1,11 @@
+{
+  "name": "get-stock-news",
+  "version": "0.1.0",
+  "summary": "Collect Google News articles for Taiwanese stocks and keywords.",
+  "author": "Hung-Ching Lee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "get_stock_news-0.1.0.tar.gz",
+  "download_time": "2025-12-12T13:10:32.836304",
+  "package_url": "https://pypi.org/project/get-stock-news/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "babelbetes",
+  "version": "0.1.0",
+  "summary": "Extracting standardized tables from heterogeneous diabetes management datasets",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/nudgebg/babelbetes",
+  "download_filename": "babelbetes-0.1.0.tar.gz",
+  "download_time": "2025-12-12T13:10:55.139379",
+  "package_url": "https://pypi.org/project/babelbetes/"
+}

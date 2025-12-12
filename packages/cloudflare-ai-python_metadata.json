@@ -1,0 +1,11 @@
+{
+  "name": "cloudflare-ai-python",
+  "version": "0.1.0",
+  "summary": "A Python client for Cloudflare Workers AI",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/him6794/cloudflare-ai",
+  "download_filename": "cloudflare_ai_python-0.1.0.tar.gz",
+  "download_time": "2025-12-12T13:10:47.875325",
+  "package_url": "https://pypi.org/project/cloudflare-ai-python/"
+}

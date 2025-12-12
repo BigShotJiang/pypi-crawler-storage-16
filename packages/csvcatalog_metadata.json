@@ -1,0 +1,11 @@
+{
+  "name": "csvcatalog",
+  "version": "1.1",
+  "summary": "tool for creating catalog from .csv tables in duckdb/sqlite storage",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "csvcatalog-1.1.tar.gz",
+  "download_time": "2025-12-12T13:11:15.825911",
+  "package_url": "https://pypi.org/project/csvcatalog/"
+}

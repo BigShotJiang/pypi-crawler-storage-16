@@ -1,0 +1,11 @@
+{
+  "name": "devtools-color-palette",
+  "version": "1.0.0",
+  "summary": "Color palette generator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/color-palette",
+  "download_filename": "devtools_color_palette-1.0.0.tar.gz",
+  "download_time": "2025-12-12T13:10:58.743183",
+  "package_url": "https://pypi.org/project/devtools-color-palette/"
+}

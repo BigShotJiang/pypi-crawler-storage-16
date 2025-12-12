@@ -1,0 +1,11 @@
+{
+  "name": "anyid",
+  "version": "0.3.0",
+  "summary": "A unified Python ID generator library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anyid-0.3.0.tar.gz",
+  "download_time": "2025-12-12T13:10:54.604800",
+  "package_url": "https://pypi.org/project/anyid/"
+}

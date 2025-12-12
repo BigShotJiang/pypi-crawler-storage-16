@@ -1,0 +1,11 @@
+{
+  "name": "cx",
+  "version": "0.2.4",
+  "summary": "Compute nearest neighbor distances along the coast with a view angle.",
+  "author": "Radovan Bast",
+  "license": null,
+  "home_page": "https://github.com/bast/coastal-express",
+  "download_filename": "cx-0.2.4.tar.gz",
+  "download_time": "2025-12-12T13:10:30.252556",
+  "package_url": "https://pypi.org/project/cx/"
+}

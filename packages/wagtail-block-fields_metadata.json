@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-block-fields",
+  "version": "0.1.0",
+  "summary": "Allows using StructBlock and ListBlock as model fields",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wagtail_block_fields-0.1.0.tar.gz",
+  "download_time": "2025-12-12T13:10:46.340208",
+  "package_url": "https://pypi.org/project/wagtail-block-fields/"
+}

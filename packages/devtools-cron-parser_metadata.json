@@ -1,0 +1,11 @@
+{
+  "name": "devtools-cron-parser",
+  "version": "1.0.0",
+  "summary": "Cron expression parser",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/cron-parser",
+  "download_filename": "devtools_cron_parser-1.0.0.tar.gz",
+  "download_time": "2025-12-12T13:10:57.212238",
+  "package_url": "https://pypi.org/project/devtools-cron-parser/"
+}

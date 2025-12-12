@@ -1,0 +1,11 @@
+{
+  "name": "formant",
+  "version": "1.320.0",
+  "summary": "Formant python package (Python 3.12)",
+  "author": "Formant",
+  "license": "MIT",
+  "home_page": "https://formant.io",
+  "download_filename": "formant-1.320.0-cp312-none-any.whl",
+  "download_time": "2025-12-12T04:56:11.959824",
+  "package_url": "https://pypi.org/project/formant/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "marsguard",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Modular Python SDK for generating guardrails via the MARSGuard backend API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "marsguard-0.2.1.tar.gz",
-  "download_time": "2025-12-12T04:31:37.064973",
+  "download_filename": "marsguard-0.2.2.tar.gz",
+  "download_time": "2025-12-12T04:56:24.437741",
   "package_url": "https://pypi.org/project/marsguard/"
 }

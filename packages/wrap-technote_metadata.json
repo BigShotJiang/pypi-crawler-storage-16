@@ -1,0 +1,11 @@
+{
+  "name": "wrap-technote",
+  "version": "0.116",
+  "summary": "Code for the annual WRAP technical notes",
+  "author": "DEW Water Science (Kent Inverarity)",
+  "license": "All rights reserved @ DEW",
+  "home_page": "https://github.com/dew-waterscience/wrap_technote",
+  "download_filename": "wrap_technote-0.116-py3-none-any.whl",
+  "download_time": "2025-12-12T04:56:09.442531",
+  "package_url": "https://pypi.org/project/wrap-technote/"
+}

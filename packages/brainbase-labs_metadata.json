@@ -1,11 +1,11 @@
 {
   "name": "brainbase-labs",
-  "version": "7.5.2",
+  "version": "7.6.0",
   "summary": "The official Python library for the brainbase-labs API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "brainbase_labs-7.5.2.tar.gz",
-  "download_time": "2025-12-12T03:58:54.540434",
+  "download_filename": "brainbase_labs-7.6.0.tar.gz",
+  "download_time": "2025-12-12T04:56:08.842885",
   "package_url": "https://pypi.org/project/brainbase-labs/"
 }

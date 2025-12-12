@@ -1,25 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-12T04:32:24.754795
-- **Total Packages**: 89
-- **Total Size**: 15.9 MB
+- **Download Time**: 2025-12-12T04:56:52.466942
+- **Total Packages**: 84
+- **Total Size**: 19.63 MB
 
 ## Packages List
+- onnxruntime-genai-directml
+- identity-ocr
+- bloggy
+- brainbase-labs
+- wrap-technote
+- nonencm
+- ofsc
+- pyrig
+- formant
+- llm-completion
+- pypnm-docsis
+- quillmark
+- cjm-transcription-plugin-voxtral-vllm
+- relace-mcp-server
+- kryten-py
+- radboy
+- pulumi-aws-native
+- abstract-utilities
+- dew-gwdata
+- datasage-mds
+- tree-processing
+- aule-attention
+- autocoder-nano
+- dyada
+- ceylonai-next
+- library
+- sayou-refinery
+- unstructured-ingest
+- pytest-polymeric-report
+- airbyte-ai-zendesk-support
+- marsguard
+- securevector-ai-monitor
+- geek-cafe-saas-sdk
+- djsmartcache
+- glurpc
+- flowmason
+- keras-nlp-nightly
+- keras-hub-nightly
 - langsmith-tool-server
 - genifai
 - terrakio-admin-api
-- djsmartcache
 - terrakio-api
 - zipline-cli
 - macsdk
 - terrakio-core
-- marsguard
 - hcom
 - airbyte-ai-greenhouse
 - airbyte-ai-gong
 - airbyte-ai-github
-- airbyte-ai-zendesk-support
 - airbyte-ai-stripe
 - airbyte-ai-linear
 - Aplicacion-ventas-moncada
@@ -28,7 +63,6 @@
 - airbyte-agent-mcp
 - airbyte-ai-salesforce
 - robhan-cdk-lib.aws-aps
-- geek-cafe-saas-sdk
 - robhan-cdk-lib.aws-mwaa
 - mock-spark
 - robhan-cdk-lib.aws-grafana
@@ -38,7 +72,6 @@
 - yta-editor
 - finter
 - nonebot-plugin-image-summary
-- firelens-monitor
 - odoo-addon-microsoft-drive-account
 - d3sdk
 - apathetic-logging
@@ -57,41 +90,3 @@
 - quel-ic-config
 - odoo-addon-stock-release-channel
 - odoo-addon-sale-stock-release-channel-delivery-date
-- ka9q-python
-- ieee-gui
-- wifilab
-- graph-id-core
-- tbusd
-- fin-agent
-- autoglm-gui
-- ipyslides
-- strands-robots
-- cloud-diagnostics-xprof
-- maestro-reporter
-- ciffy
-- chromedriver-binary
-- vizflow
-- alibabacloud-imm20200930
-- open-terminalui
-- glurpc
-- napari-plugin-manager
-- boulder-opal-scale-up
-- odoo-addons-oca-sale-workflow
-- minikai
-- pydmtools
-- odoo-addon-sale-order-line-sequence
-- cgm-format
-- aimodelshare
-- sdtfile
-- identity-ocr
-- theconn
-- jotunn
-- macprefs
-- axen-runtime
-- aap-dspy
-- aap-core
-- mcp-proto-okn
-- ChronicleLogger
-- boulder-opal-scale-up-sdk
-- ytp-dl
-- mftsccs

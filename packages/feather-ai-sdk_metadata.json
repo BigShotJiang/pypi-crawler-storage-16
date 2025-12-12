@@ -1,11 +1,11 @@
 {
   "name": "feather-ai-sdk",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "The lightest Agentic AI Framework you'll ever see",
   "author": "Luca Bozzetti",
   "license": null,
   "home_page": null,
-  "download_filename": "feather_ai_sdk-0.1.4.tar.gz",
-  "download_time": "2025-12-11T05:55:55.160908",
+  "download_filename": "feather_ai_sdk-0.1.7.tar.gz",
+  "download_time": "2025-12-12T14:52:14.680802",
   "package_url": "https://pypi.org/project/feather-ai-sdk/"
 }

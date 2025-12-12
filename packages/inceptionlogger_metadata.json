@@ -1,11 +1,11 @@
 {
   "name": "inceptionlogger",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "inceptionlogger is a package that allows you to log your application to graylog",
   "author": "KhaduaBloom",
   "license": null,
   "home_page": "https://github.com/KhaduaBloom/inceptionforcepackages/tree/main/PythonPackage/inceptionLogger",
-  "download_filename": "inceptionlogger-0.2.3.tar.gz",
-  "download_time": "2025-12-12T13:10:31.812319",
+  "download_filename": "inceptionlogger-0.2.4.tar.gz",
+  "download_time": "2025-12-12T14:52:05.554436",
   "package_url": "https://pypi.org/project/inceptionlogger/"
 }

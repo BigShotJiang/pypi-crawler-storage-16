@@ -1,0 +1,11 @@
+{
+  "name": "turftopic",
+  "version": "0.23.1",
+  "summary": "Topic modeling with contextual representations from sentence transformers.",
+  "author": "Márton Kardos",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "turftopic-0.23.1.tar.gz",
+  "download_time": "2025-12-12T14:52:19.465438",
+  "package_url": "https://pypi.org/project/turftopic/"
+}

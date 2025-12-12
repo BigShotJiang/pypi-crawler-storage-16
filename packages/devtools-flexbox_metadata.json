@@ -1,0 +1,11 @@
+{
+  "name": "devtools-flexbox",
+  "version": "1.0.0",
+  "summary": "CSS Flexbox generator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/flexbox-generator",
+  "download_filename": "devtools_flexbox-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T14:52:04.438502",
+  "package_url": "https://pypi.org/project/devtools-flexbox/"
+}

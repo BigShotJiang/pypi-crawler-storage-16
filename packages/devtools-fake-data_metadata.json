@@ -1,0 +1,11 @@
+{
+  "name": "devtools-fake-data",
+  "version": "1.0.0",
+  "summary": "Fake data generator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/fake-data-generator",
+  "download_filename": "devtools_fake_data-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T14:52:11.491348",
+  "package_url": "https://pypi.org/project/devtools-fake-data/"
+}

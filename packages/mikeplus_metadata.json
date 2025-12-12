@@ -1,0 +1,11 @@
+{
+  "name": "mikeplus",
+  "version": "2025.6.0",
+  "summary": "A python script package to manipulate MIKE+ database, run simulation by using MIKE+ data, run tools based on MIKE+ data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mikeplus-2025.6.0-py3-none-any.whl",
+  "download_time": "2025-12-12T14:52:23.043141",
+  "package_url": "https://pypi.org/project/mikeplus/"
+}

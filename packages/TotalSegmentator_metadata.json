@@ -1,0 +1,11 @@
+{
+  "name": "TotalSegmentator",
+  "version": "2.12.0",
+  "summary": "Robust segmentation of 104 classes in CT images.",
+  "author": "Jakob Wasserthal",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/wasserth/TotalSegmentator",
+  "download_filename": "totalsegmentator-2.12.0.tar.gz",
+  "download_time": "2025-12-12T14:51:54.197654",
+  "package_url": "https://pypi.org/project/TotalSegmentator/"
+}

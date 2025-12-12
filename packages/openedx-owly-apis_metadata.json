@@ -1,11 +1,11 @@
 {
   "name": "openedx-owly-apis",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "summary": "One-line description for README and other doc files.",
   "author": "lberoes@aulasneo.com",
   "license": "AGPL 3.0",
   "home_page": "https://github.com/aulasneo/openedx-owly-apis",
-  "download_filename": "openedx_owly_apis-1.6.2.tar.gz",
-  "download_time": "2025-12-12T13:10:29.185063",
+  "download_filename": "openedx_owly_apis-1.6.3.tar.gz",
+  "download_time": "2025-12-12T14:52:09.738467",
   "package_url": "https://pypi.org/project/openedx-owly-apis/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "devtools-epoch-batch",
+  "version": "1.0.0",
+  "summary": "Batch epoch timestamp converter",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/epoch-batch-converter",
+  "download_filename": "devtools_epoch_batch-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T14:52:13.597032",
+  "package_url": "https://pypi.org/project/devtools-epoch-batch/"
+}

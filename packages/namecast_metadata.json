@@ -1,0 +1,11 @@
+{
+  "name": "namecast",
+  "version": "0.1.0",
+  "summary": "AI-powered brand name oracle - forecast your name's future",
+  "author": "Max Ghenis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "namecast-0.1.0.tar.gz",
+  "download_time": "2025-12-12T14:52:07.168121",
+  "package_url": "https://pypi.org/project/namecast/"
+}

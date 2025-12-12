@@ -1,0 +1,11 @@
+{
+  "name": "orca-descriptors",
+  "version": "0.3.1",
+  "summary": "A library of QSAR descriptors calculation using ORCA script",
+  "author": "MassonNN",
+  "license": "LICENSE.md",
+  "home_page": null,
+  "download_filename": "orca_descriptors-0.3.1.tar.gz",
+  "download_time": "2025-12-12T14:52:02.389512",
+  "package_url": "https://pypi.org/project/orca-descriptors/"
+}

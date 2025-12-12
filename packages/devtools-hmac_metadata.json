@@ -1,0 +1,11 @@
+{
+  "name": "devtools-hmac",
+  "version": "1.0.0",
+  "summary": "HMAC generator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/hmac-generator",
+  "download_filename": "devtools_hmac-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T14:51:55.794945",
+  "package_url": "https://pypi.org/project/devtools-hmac/"
+}

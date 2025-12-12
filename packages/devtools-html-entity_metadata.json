@@ -1,0 +1,11 @@
+{
+  "name": "devtools-html-entity",
+  "version": "1.0.0",
+  "summary": "HTML entity reference",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/html-entity",
+  "download_filename": "devtools_html_entity-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T14:51:48.722185",
+  "package_url": "https://pypi.org/project/devtools-html-entity/"
+}

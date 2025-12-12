@@ -1,0 +1,11 @@
+{
+  "name": "devtools-html-entities",
+  "version": "1.0.0",
+  "summary": "HTML entities encoder/decoder",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/html-entities",
+  "download_filename": "devtools_html_entities-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T14:51:50.590627",
+  "package_url": "https://pypi.org/project/devtools-html-entities/"
+}

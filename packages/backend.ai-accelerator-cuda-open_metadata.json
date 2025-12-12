@@ -1,0 +1,11 @@
+{
+  "name": "backend.ai-accelerator-cuda-open",
+  "version": "25.18.0",
+  "summary": "Backend.AI Accelerator Plugin for CUDA",
+  "author": "Lablup Inc. and contributors",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/lablup/backend.ai",
+  "download_filename": "backend_ai_accelerator_cuda_open-25.18.0.tar.gz",
+  "download_time": "2025-12-12T14:15:21.739089",
+  "package_url": "https://pypi.org/project/backend.ai-accelerator-cuda-open/"
+}

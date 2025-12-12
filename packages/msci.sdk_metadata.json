@@ -1,11 +1,11 @@
 {
   "name": "msci.sdk",
-  "version": "1.28.0",
+  "version": "1.28.1",
   "summary": "Provides easy interface for users to integrate MSCI APIs, content and data into their own choice of platform.",
   "author": "MSCI",
   "license": "MSCI",
   "home_page": "https://developer.msci.com/code-libraries/msci-python-sdk",
-  "download_filename": "msci_sdk-1.28.0-py3-none-any.whl",
-  "download_time": "2025-12-10T13:12:31.211027",
+  "download_filename": "msci_sdk-1.28.1-py3-none-any.whl",
+  "download_time": "2025-12-12T14:15:27.728693",
   "package_url": "https://pypi.org/project/msci.sdk/"
 }

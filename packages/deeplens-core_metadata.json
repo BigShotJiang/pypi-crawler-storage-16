@@ -1,0 +1,11 @@
+{
+  "name": "deeplens-core",
+  "version": "1.2.0",
+  "summary": "DeepLens: differentiable optical lens simulator for end-to-end cameras.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "deeplens_core-1.2.0.tar.gz",
+  "download_time": "2025-12-12T14:14:54.004517",
+  "package_url": "https://pypi.org/project/deeplens-core/"
+}

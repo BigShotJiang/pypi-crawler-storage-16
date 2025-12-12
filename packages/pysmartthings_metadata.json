@@ -1,0 +1,11 @@
+{
+  "name": "pysmartthings",
+  "version": "3.5.1",
+  "summary": "Asynchronous Python client for SmartThings.",
+  "author": "Andrew Sayre",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pysmartthings-3.5.1.tar.gz",
+  "download_time": "2025-12-12T14:15:26.114111",
+  "package_url": "https://pypi.org/project/pysmartthings/"
+}

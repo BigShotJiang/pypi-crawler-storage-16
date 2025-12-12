@@ -1,0 +1,11 @@
+{
+  "name": "safe-kit",
+  "version": "0.0.2",
+  "summary": "Python implementation of the Safe Protocol Kit",
+  "author": "smallyu",
+  "license": "MIT",
+  "home_page": "https://github.com/smallyunet/safe-kit",
+  "download_filename": "safe_kit-0.0.2.tar.gz",
+  "download_time": "2025-12-12T14:15:28.815885",
+  "package_url": "https://pypi.org/project/safe-kit/"
+}

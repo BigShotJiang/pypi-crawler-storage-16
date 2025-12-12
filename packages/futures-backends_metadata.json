@@ -1,0 +1,11 @@
+{
+  "name": "futures-backends",
+  "version": "0.0.1",
+  "summary": "Select the concurrent.futures backend at runtime",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "futures_backends-0.0.1.tar.gz",
+  "download_time": "2025-12-12T14:15:31.729950",
+  "package_url": "https://pypi.org/project/futures-backends/"
+}

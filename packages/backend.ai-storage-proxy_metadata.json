@@ -1,0 +1,11 @@
+{
+  "name": "backend.ai-storage-proxy",
+  "version": "25.18.0",
+  "summary": "Backend.AI Storage Proxy",
+  "author": "Lablup Inc. and contributors",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/lablup/backend.ai",
+  "download_filename": "backend_ai_storage_proxy-25.18.0.tar.gz",
+  "download_time": "2025-12-12T14:15:10.626434",
+  "package_url": "https://pypi.org/project/backend.ai-storage-proxy/"
+}

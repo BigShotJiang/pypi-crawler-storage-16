@@ -1,0 +1,11 @@
+{
+  "name": "pingshui-rhyme",
+  "version": "0.18",
+  "summary": "A Python package for classifying Chinese characters phonologically based on the Middle Chinese Pingshui rhyme scheme",
+  "author": "rbnyng",
+  "license": null,
+  "home_page": "https://github.com/rbnyng/pingshui_rhyme",
+  "download_filename": "pingshui_rhyme-0.18.tar.gz",
+  "download_time": "2025-12-12T14:14:49.402116",
+  "package_url": "https://pypi.org/project/pingshui-rhyme/"
+}

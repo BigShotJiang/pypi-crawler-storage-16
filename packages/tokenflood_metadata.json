@@ -1,0 +1,11 @@
+{
+  "name": "tokenflood",
+  "version": "0.6.0",
+  "summary": "Tokenflood is a load testing framework for simulating arbitary loads on instruction-tuned LLMs.",
+  "author": "Thomas Werkmeister",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tokenflood-0.6.0.tar.gz",
+  "download_time": "2025-12-12T14:15:22.839002",
+  "package_url": "https://pypi.org/project/tokenflood/"
+}

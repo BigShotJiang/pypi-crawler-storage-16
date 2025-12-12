@@ -1,0 +1,11 @@
+{
+  "name": "backend.ai-appproxy-worker",
+  "version": "25.18.0",
+  "summary": "Backend.AI AppProxy Worker",
+  "author": "Lablup Inc. and contributors",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/lablup/backend.ai",
+  "download_filename": "backend_ai_appproxy_worker-25.18.0.tar.gz",
+  "download_time": "2025-12-12T14:15:17.306104",
+  "package_url": "https://pypi.org/project/backend.ai-appproxy-worker/"
+}

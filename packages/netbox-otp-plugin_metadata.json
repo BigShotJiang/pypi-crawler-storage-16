@@ -1,0 +1,11 @@
+{
+  "name": "netbox-otp-plugin",
+  "version": "1.3.4",
+  "summary": "OTP Login NetBox plugin",
+  "author": "Andrey Shalashov",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/k1nky/netbox-otp-plugin",
+  "download_filename": "netbox_otp_plugin-1.3.4.tar.gz",
+  "download_time": "2025-12-12T14:14:48.299786",
+  "package_url": "https://pypi.org/project/netbox-otp-plugin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vasara",
+  "version": "0.1.0",
+  "summary": "A fun little command-line tool for fetching random Warhammer lore snippets from the wikis.",
+  "author": "It Ankka",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "vasara-0.1.0.tar.gz",
+  "download_time": "2025-12-12T15:54:14.972176",
+  "package_url": "https://pypi.org/project/vasara/"
+}

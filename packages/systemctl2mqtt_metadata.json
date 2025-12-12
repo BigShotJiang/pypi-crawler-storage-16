@@ -1,0 +1,11 @@
+{
+  "name": "systemctl2mqtt",
+  "version": "1.4.0",
+  "summary": "Send your systemctl stats and and events to mqtt and discovery them in home assistant.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "systemctl2mqtt-1.4.0.tar.gz",
+  "download_time": "2025-12-12T15:53:54.344166",
+  "package_url": "https://pypi.org/project/systemctl2mqtt/"
+}

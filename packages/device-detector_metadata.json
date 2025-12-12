@@ -1,0 +1,11 @@
+{
+  "name": "device-detector",
+  "version": "6.0.0",
+  "summary": "Python3 port of matomo's Device Detector",
+  "author": "Dave Burkholder",
+  "license": "MIT",
+  "home_page": "https://github.com/thinkwelltwd/device_detector",
+  "download_filename": "device_detector-6.0.0.tar.gz",
+  "download_time": "2025-12-12T15:53:42.471543",
+  "package_url": "https://pypi.org/project/device-detector/"
+}

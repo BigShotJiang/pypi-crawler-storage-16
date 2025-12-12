@@ -1,0 +1,11 @@
+{
+  "name": "eea.dexterity.themes",
+  "version": "1.5",
+  "summary": "Environment Topics and subtopics",
+  "author": "European Environment Agency: IDM2 A-Team",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/eea/eea.dexterity.themes",
+  "download_filename": "eea_dexterity_themes-1.5.tar.gz",
+  "download_time": "2025-12-12T15:53:49.727179",
+  "package_url": "https://pypi.org/project/eea.dexterity.themes/"
+}

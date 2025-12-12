@@ -1,0 +1,11 @@
+{
+  "name": "devtools-unix-perms",
+  "version": "1.0.0",
+  "summary": "Unix permissions calculator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/unix-permissions",
+  "download_filename": "devtools_unix_perms-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T15:54:23.696178",
+  "package_url": "https://pypi.org/project/devtools-unix-perms/"
+}

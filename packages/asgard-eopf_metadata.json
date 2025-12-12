@@ -1,0 +1,11 @@
+{
+  "name": "asgard-eopf",
+  "version": "1.3.5",
+  "summary": "A Sensor Geometry Application Re-usable by-Design",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asgard_eopf-1.3.5-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-12-12T15:53:38.307539",
+  "package_url": "https://pypi.org/project/asgard-eopf/"
+}

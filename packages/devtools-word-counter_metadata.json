@@ -1,0 +1,11 @@
+{
+  "name": "devtools-word-counter",
+  "version": "1.0.0",
+  "summary": "Word and character counter",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/word-counter",
+  "download_filename": "devtools_word_counter-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T15:54:09.317608",
+  "package_url": "https://pypi.org/project/devtools-word-counter/"
+}

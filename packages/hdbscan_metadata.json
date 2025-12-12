@@ -1,0 +1,11 @@
+{
+  "name": "hdbscan",
+  "version": "0.8.41",
+  "summary": "Clustering based on density with variable density clusters",
+  "author": null,
+  "license": "BSD",
+  "home_page": "http://github.com/scikit-learn-contrib/hdbscan",
+  "download_filename": "hdbscan-0.8.41.tar.gz",
+  "download_time": "2025-12-12T15:53:49.212852",
+  "package_url": "https://pypi.org/project/hdbscan/"
+}

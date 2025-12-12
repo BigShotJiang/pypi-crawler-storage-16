@@ -1,0 +1,11 @@
+{
+  "name": "eea.jquery",
+  "version": "11.4",
+  "summary": "jQuery library and plugins for Plone",
+  "author": "European Environment Agency: IDM2 A-Team",
+  "license": "GPL",
+  "home_page": "https://github.com/eea/eea.jquery",
+  "download_filename": "eea_jquery-11.4.tar.gz",
+  "download_time": "2025-12-12T15:53:44.541776",
+  "package_url": "https://pypi.org/project/eea.jquery/"
+}

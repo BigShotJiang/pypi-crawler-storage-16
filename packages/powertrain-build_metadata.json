@@ -1,0 +1,11 @@
+{
+  "name": "powertrain-build",
+  "version": "1.13.1",
+  "summary": "A Continuous Integration (CI) build system testing all configurations where a Simulink model is used.",
+  "author": "Henrik Wahlqvist",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://opendev.org/volvocars/powertrain-build",
+  "download_filename": "powertrain_build-1.13.1.tar.gz",
+  "download_time": "2025-12-12T15:53:47.120812",
+  "package_url": "https://pypi.org/project/powertrain-build/"
+}

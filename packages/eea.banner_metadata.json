@@ -1,0 +1,11 @@
+{
+  "name": "eea.banner",
+  "version": "1.5",
+  "summary": "volto-banner backend support",
+  "author": "European Environment Agency: IDM2 A-Team",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/eea/eea.banner",
+  "download_filename": "eea_banner-1.5.tar.gz",
+  "download_time": "2025-12-12T15:53:50.752264",
+  "package_url": "https://pypi.org/project/eea.banner/"
+}

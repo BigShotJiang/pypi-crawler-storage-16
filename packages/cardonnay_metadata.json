@@ -1,11 +1,11 @@
 {
   "name": "cardonnay",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "summary": "Cardano Local Testnet",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cardonnay-0.2.10.tar.gz",
-  "download_time": "2025-12-09T10:46:54.160899",
+  "download_filename": "cardonnay-0.2.11.tar.gz",
+  "download_time": "2025-12-12T15:53:43.496807",
   "package_url": "https://pypi.org/project/cardonnay/"
 }

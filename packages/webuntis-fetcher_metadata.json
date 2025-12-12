@@ -1,11 +1,11 @@
 {
   "name": "webuntis-fetcher",
-  "version": "19",
+  "version": "20",
   "summary": "get school timetable data and messages from WebUntis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "webuntis_fetcher-19.tar.gz",
-  "download_time": "2025-12-12T15:38:07.886004",
+  "download_filename": "webuntis_fetcher-20.tar.gz",
+  "download_time": "2025-12-12T15:53:40.907136",
   "package_url": "https://pypi.org/project/webuntis-fetcher/"
 }

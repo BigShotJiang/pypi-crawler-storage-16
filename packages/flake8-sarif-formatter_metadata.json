@@ -1,11 +1,11 @@
 {
   "name": "flake8-sarif-formatter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A SARIF formatter for flake8",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flake8_sarif_formatter-1.0.2.tar.gz",
-  "download_time": "2025-12-12T15:16:27.596537",
+  "download_filename": "flake8_sarif_formatter-1.0.3.tar.gz",
+  "download_time": "2025-12-12T15:53:55.371319",
   "package_url": "https://pypi.org/project/flake8-sarif-formatter/"
 }

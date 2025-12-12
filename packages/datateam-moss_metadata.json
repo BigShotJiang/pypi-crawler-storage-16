@@ -1,11 +1,11 @@
 {
   "name": "datateam-moss",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Functions needed for datateam MOSS (municipality of Amsterdam)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datateam_moss-0.1.4.tar.gz",
-  "download_time": "2025-12-12T15:16:57.089659",
+  "download_filename": "datateam_moss-0.1.5.tar.gz",
+  "download_time": "2025-12-12T15:54:17.030300",
   "package_url": "https://pypi.org/project/datateam-moss/"
 }

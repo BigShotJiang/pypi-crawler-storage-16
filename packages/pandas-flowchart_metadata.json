@@ -1,0 +1,11 @@
+{
+  "name": "pandas-flowchart",
+  "version": "0.1.1",
+  "summary": "A library for tracking pandas operations and generating Mermaid flowcharts",
+  "author": "rafael scherer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pandas_flowchart-0.1.1.tar.gz",
+  "download_time": "2025-12-12T15:54:18.568772",
+  "package_url": "https://pypi.org/project/pandas-flowchart/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "acceso-polymarket",
+  "version": "1.0.0",
+  "summary": "Python SDK for Polymarket prediction markets via Acceso API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "acceso_polymarket-1.0.0.tar.gz",
+  "download_time": "2025-12-12T15:54:03.596027",
+  "package_url": "https://pypi.org/project/acceso-polymarket/"
+}

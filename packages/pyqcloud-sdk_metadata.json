@@ -1,0 +1,11 @@
+{
+  "name": "pyqcloud-sdk",
+  "version": "0.0.4",
+  "summary": "A wrapper for tencentcloud-sdk-python-common",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyqcloud_sdk-0.0.4.tar.gz",
+  "download_time": "2025-12-12T15:53:50.240986",
+  "package_url": "https://pypi.org/project/pyqcloud-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "devtools-url-parser",
+  "version": "1.0.0",
+  "summary": "URL parser",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/url-parser",
+  "download_filename": "devtools_url_parser-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T15:54:19.599591",
+  "package_url": "https://pypi.org/project/devtools-url-parser/"
+}

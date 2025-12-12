@@ -1,11 +1,11 @@
 {
   "name": "apathetic-logging",
-  "version": "0.18.1",
+  "version": "0.18.2",
   "summary": "Small quality-of-life features on top of stdlib.",
   "author": "Apathetic Tools",
   "license": null,
   "home_page": null,
-  "download_filename": "apathetic_logging-0.18.1.tar.gz",
-  "download_time": "2025-12-12T04:31:53.888664",
+  "download_filename": "apathetic_logging-0.18.2.tar.gz",
+  "download_time": "2025-12-12T07:43:15.983346",
   "package_url": "https://pypi.org/project/apathetic-logging/"
 }

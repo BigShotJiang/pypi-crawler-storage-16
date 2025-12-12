@@ -1,11 +1,11 @@
 {
   "name": "layercode-gym",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "summary": "Utilities for simulating LayerCode voice agent conversations",
   "author": "Jan Siml",
   "license": null,
   "home_page": null,
-  "download_filename": "layercode_gym-0.5.1.tar.gz",
-  "download_time": "2025-12-12T16:17:27.903129",
+  "download_filename": "layercode_gym-0.6.0.tar.gz",
+  "download_time": "2025-12-12T17:15:06.915127",
   "package_url": "https://pypi.org/project/layercode-gym/"
 }

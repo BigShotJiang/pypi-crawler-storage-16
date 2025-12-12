@@ -1,0 +1,11 @@
+{
+  "name": "compli-ai",
+  "version": "0.1.0",
+  "summary": "Auto-generate EU AI Act technical documentation from your code.",
+  "author": "Compli-AI Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/compli-ai",
+  "download_filename": "compli_ai-0.1.0.tar.gz",
+  "download_time": "2025-12-12T17:15:25.313849",
+  "package_url": "https://pypi.org/project/compli-ai/"
+}

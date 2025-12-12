@@ -1,0 +1,11 @@
+{
+  "name": "anomalo",
+  "version": "0.35.2",
+  "summary": "Python bindings for the Anomalo API",
+  "author": "Anomalo",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "anomalo-0.35.2.tar.gz",
+  "download_time": "2025-12-12T17:15:09.567254",
+  "package_url": "https://pypi.org/project/anomalo/"
+}

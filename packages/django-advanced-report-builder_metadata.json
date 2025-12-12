@@ -1,11 +1,11 @@
 {
   "name": "django-advanced-report-builder",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "Django app that allows you to build reports from modals",
   "author": "Thomas Turner",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_advanced_report_builder-1.1.5-py3-none-any.whl",
-  "download_time": "2025-12-11T11:54:42.210707",
+  "download_filename": "django_advanced_report_builder-1.1.6-py3-none-any.whl",
+  "download_time": "2025-12-12T17:15:30.463895",
   "package_url": "https://pypi.org/project/django-advanced-report-builder/"
 }

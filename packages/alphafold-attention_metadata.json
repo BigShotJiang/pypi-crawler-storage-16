@@ -1,11 +1,11 @@
 {
   "name": "alphafold-attention",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "AlphaFold with attention head access for ColabFold",
   "author": "Suchetan Dontha",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "alphafold_attention-0.0.3.tar.gz",
-  "download_time": "2025-12-12T15:16:57.615108",
+  "download_filename": "alphafold_attention-0.0.4.tar.gz",
+  "download_time": "2025-12-12T17:15:03.396303",
   "package_url": "https://pypi.org/project/alphafold-attention/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "imas-idstools",
+  "version": "2.4.0",
+  "summary": "Python based collection of data analysis and visualization tools written in IMAS framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imas_idstools-2.4.0.tar.gz",
+  "download_time": "2025-12-12T17:15:19.639519",
+  "package_url": "https://pypi.org/project/imas-idstools/"
+}

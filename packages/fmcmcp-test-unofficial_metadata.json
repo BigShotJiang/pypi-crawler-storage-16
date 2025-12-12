@@ -1,0 +1,11 @@
+{
+  "name": "fmcmcp-test-unofficial",
+  "version": "0.20250126.0",
+  "summary": "Forked from daxm/fmcmcp, originally created by Dax M. Model Context Protocol server for Cisco Firepower Management Center - Unofficial",
+  "author": "kduong429",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fmcmcp_test_unofficial-0.20250126.0.tar.gz",
+  "download_time": "2025-12-12T17:15:10.597280",
+  "package_url": "https://pypi.org/project/fmcmcp-test-unofficial/"
+}

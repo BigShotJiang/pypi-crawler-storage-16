@@ -1,0 +1,11 @@
+{
+  "name": "abi-markdowner",
+  "version": "0.1.19",
+  "summary": "A tool to convert MultiversX Smart Contract ABI files into Markdown documentation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "abi_markdowner-0.1.19.tar.gz",
+  "download_time": "2025-12-12T17:15:32.009948",
+  "package_url": "https://pypi.org/project/abi-markdowner/"
+}

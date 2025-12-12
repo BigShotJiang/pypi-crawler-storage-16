@@ -1,11 +1,11 @@
 {
   "name": "airbyte-ai-asana",
-  "version": "0.19.8",
+  "version": "0.19.9",
   "summary": "Airbyte Asana Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_ai_asana-0.19.8.tar.gz",
-  "download_time": "2025-12-12T04:31:44.101416",
+  "download_filename": "airbyte_ai_asana-0.19.9.tar.gz",
+  "download_time": "2025-12-12T17:15:36.634574",
   "package_url": "https://pypi.org/project/airbyte-ai-asana/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ascii-guard",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "summary": "A minimal-dependency Python linter for detecting and fixing misaligned ASCII art boxes in documentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ascii_guard-2.0.1.tar.gz",
-  "download_time": "2025-12-12T16:44:44.773077",
+  "download_filename": "ascii_guard-2.1.0.tar.gz",
+  "download_time": "2025-12-12T17:15:09.054436",
   "package_url": "https://pypi.org/project/ascii-guard/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cachka",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Enterprise-grade hybrid cache for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cachka-0.2.5.tar.gz",
-  "download_time": "2025-12-12T17:36:40.846341",
+  "download_filename": "cachka-0.2.6.tar.gz",
+  "download_time": "2025-12-12T20:38:18.374584",
   "package_url": "https://pypi.org/project/cachka/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "plapperi",
+  "version": "0.0.2",
+  "summary": "The official Python library for the Plapperi API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plapperi-0.0.2.tar.gz",
+  "download_time": "2025-12-12T20:37:45.492793",
+  "package_url": "https://pypi.org/project/plapperi/"
+}

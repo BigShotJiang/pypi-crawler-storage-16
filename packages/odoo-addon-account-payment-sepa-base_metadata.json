@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-account-payment-sepa-base",
-  "version": "18.0.2.2.0",
+  "version": "19.0.1.0.0.3",
   "summary": "Base module for SEPA file generation",
   "author": "Akretion, Noviat, Tecnativa, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/bank-payment-alternative",
-  "download_filename": "odoo_addon_account_payment_sepa_base-18.0.2.2.0-py3-none-any.whl",
-  "download_time": "2025-12-12T08:52:21.593765",
+  "download_filename": "odoo_addon_account_payment_sepa_base-19.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-12T20:38:12.579527",
   "package_url": "https://pypi.org/project/odoo-addon-account-payment-sepa-base/"
 }

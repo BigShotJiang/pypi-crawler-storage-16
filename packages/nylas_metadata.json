@@ -1,0 +1,11 @@
+{
+  "name": "nylas",
+  "version": "6.14.0",
+  "summary": "Python bindings for the Nylas API platform.",
+  "author": "Nylas Team",
+  "license": "MIT",
+  "home_page": "https://github.com/nylas/nylas-python",
+  "download_filename": "nylas-6.14.0.tar.gz",
+  "download_time": "2025-12-12T20:38:07.287273",
+  "package_url": "https://pypi.org/project/nylas/"
+}

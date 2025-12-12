@@ -1,11 +1,11 @@
 {
   "name": "threaded-order",
-  "version": "1.6.0",
+  "version": "1.6.2",
   "summary": "A lightweight framework for running functions concurrently across multiple threads while maintaining a defined execution order.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "threaded_order-1.6.0.tar.gz",
-  "download_time": "2025-12-11T04:48:58.275905",
+  "download_filename": "threaded_order-1.6.2.tar.gz",
+  "download_time": "2025-12-12T20:38:09.362907",
   "package_url": "https://pypi.org/project/threaded-order/"
 }

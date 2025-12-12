@@ -1,11 +1,11 @@
 {
   "name": "django-brick-astley",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Reusable bricks for Django templates",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_brick_astley-0.2.0.tar.gz",
-  "download_time": "2025-12-10T21:51:30.833115",
+  "download_filename": "django_brick_astley-0.3.0.tar.gz",
+  "download_time": "2025-12-12T20:38:21.985991",
   "package_url": "https://pypi.org/project/django-brick-astley/"
 }

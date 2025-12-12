@@ -1,11 +1,11 @@
 {
   "name": "boto3-stubs-lite",
-  "version": "1.42.7",
-  "summary": "Lite type annotations for boto3 1.42.7 generated with mypy-boto3-builder 8.12.0",
+  "version": "1.42.9",
+  "summary": "Lite type annotations for boto3 1.42.9 generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boto3_stubs_lite-1.42.7.tar.gz",
-  "download_time": "2025-12-10T20:41:34.040015",
+  "download_filename": "boto3_stubs_lite-1.42.9-py3-none-any.whl",
+  "download_time": "2025-12-12T20:37:49.833668",
   "package_url": "https://pypi.org/project/boto3-stubs-lite/"
 }

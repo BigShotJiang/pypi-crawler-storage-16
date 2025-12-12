@@ -1,0 +1,11 @@
+{
+  "name": "django-blti",
+  "version": "3.0.16",
+  "summary": "A Django Application on which to build IMS BLTI Tool Providers",
+  "author": "UW-IT Student & Educational Technology Services",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/uw-it-aca/django-blti",
+  "download_filename": "django_blti-3.0.16.tar.gz",
+  "download_time": "2025-12-12T20:38:22.499365",
+  "package_url": "https://pypi.org/project/django-blti/"
+}

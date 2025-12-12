@@ -1,0 +1,11 @@
+{
+  "name": "tesseract-jax",
+  "version": "0.2.3",
+  "summary": "Tesseract JAX executes Tesseracts as part of JAX programs, with full support for function transformations like JIT, `grad`, and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tesseract_jax-0.2.3.tar.gz",
+  "download_time": "2025-12-12T20:37:55.253218",
+  "package_url": "https://pypi.org/project/tesseract-jax/"
+}

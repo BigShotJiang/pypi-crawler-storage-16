@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-account-payment-mandate",
-  "version": "18.0.2.1.0",
+  "version": "19.0.1.0.0.3",
   "summary": "Add support for banking mandates used in direct debits",
   "author": "Compassion CH, Tecnativa, Akretion, Therp B.V., Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/bank-payment-alternative",
-  "download_filename": "odoo_addon_account_payment_mandate-18.0.2.1.0-py3-none-any.whl",
-  "download_time": "2025-12-12T08:52:32.852326",
+  "download_filename": "odoo_addon_account_payment_mandate-19.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-12T20:38:23.555272",
   "package_url": "https://pypi.org/project/odoo-addon-account-payment-mandate/"
 }

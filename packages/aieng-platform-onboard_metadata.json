@@ -1,0 +1,11 @@
+{
+  "name": "aieng-platform-onboard",
+  "version": "0.4.0",
+  "summary": "CLI tool for onboarding participants to AI Engineering bootcamps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aieng_platform_onboard-0.4.0.tar.gz",
+  "download_time": "2025-12-12T20:38:04.677096",
+  "package_url": "https://pypi.org/project/aieng-platform-onboard/"
+}

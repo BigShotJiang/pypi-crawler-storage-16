@@ -1,0 +1,11 @@
+{
+  "name": "PyBioImageUtils",
+  "version": "0.0.1",
+  "summary": "Utilities for bioimaging and bioimage analysis workflows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybioimageutils-0.0.1-py3-none-any.whl",
+  "download_time": "2025-12-12T21:32:13.415389",
+  "package_url": "https://pypi.org/project/PyBioImageUtils/"
+}

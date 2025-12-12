@@ -1,0 +1,11 @@
+{
+  "name": "langchain-cratedb",
+  "version": "0.2.0",
+  "summary": "Use LangChain with CrateDB",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_cratedb-0.2.0.tar.gz",
+  "download_time": "2025-12-12T21:32:02.444971",
+  "package_url": "https://pypi.org/project/langchain-cratedb/"
+}

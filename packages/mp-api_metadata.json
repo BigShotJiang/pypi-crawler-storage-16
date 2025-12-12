@@ -1,11 +1,11 @@
 {
   "name": "mp-api",
-  "version": "0.45.14",
+  "version": "0.45.15",
   "summary": "API Client for the Materials Project",
   "author": null,
   "license": "modified BSD",
   "home_page": null,
-  "download_filename": "mp_api-0.45.14.tar.gz",
-  "download_time": "2025-12-12T20:16:05.567054",
+  "download_filename": "mp_api-0.45.15.tar.gz",
+  "download_time": "2025-12-12T21:31:53.733538",
   "package_url": "https://pypi.org/project/mp-api/"
 }

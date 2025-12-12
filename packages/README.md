@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-12T21:14:25.980946
-- **Total Packages**: 96
-- **Total Size**: 11.92 MB
+- **Download Time**: 2025-12-12T21:32:41.029646
+- **Total Packages**: 93
+- **Total Size**: 22.81 MB
 
 ## Packages List
+- easier
+- vim-eof-comment
+- katana-mcp-server
+- flowmason
+- velocity-python
+- hark-cli
+- saultcollege-csd110-25f-linewise
+- mp-api
+- physionet
+- lite-slurm
+- ayechat-dev
+- spellbot
+- genlist-butler
+- saudi-dialect-eou
+- empathy-framework
+- yaml-overlay
+- airbyte-ai-jira
+- azure-llm-toolkit
+- expandai
+- photonforge
+- botocore-stubs
+- langchain-cratedb
+- 2025_assignment2_expenses_manager
+- jfjoch-client
+- wisent
+- airbyte-ai-stripe
+- pyairahome
+- opendate
+- ducpy
+- napari-plugin-manager
+- dataclass-wizard
+- granite-common
+- cachetools
+- odoo-addon-account-payment-fr-lcr
+- relace-mcp-server
+- konokenj.cdk-api-mcp-server
+- simplyprint-duet3d
+- classy-sz
+- structurize
+- avrotize
+- devloop
+- PyBioImageUtils
+- ez-constructs
 - dyff-schema
 - statsig
 - pymomenta
@@ -13,7 +56,6 @@
 - seemps
 - nexaroa
 - timestep
-- 2025_assignment2_expenses_manager
 - ggplotly
 - typer-ui
 - sonicmesh
@@ -41,7 +83,6 @@
 - adaptive-router-core
 - vocabulous
 - hummingbot
-- dataclass-wizard
 - dataforge-sdk
 - dsl-spa
 - gcbrickwork
@@ -58,47 +99,3 @@
 - tshap
 - nsmbl-mcp
 - edge-tts
-- eisp
-- yaka-llm
-- seerpy
-- opengris-scaler
-- stanley-cbp
-- pulumi
-- wisent
-- agentready
-- kaqing
-- aws-cdk.region-info
-- aws-cdk.integ-tests-alpha
-- aws-cdk.cx-api
-- aws-cdk.aws-servicecatalogappregistry-alpha
-- aws-cdk.aws-sagemaker-alpha
-- aws-cdk.aws-s3tables-alpha
-- aws-cdk.aws-s3objectlambda-alpha
-- aws-cdk.aws-route53resolver-alpha
-- aws-cdk.aws-redshift-alpha
-- aws-cdk.aws-pipes-targets-alpha
-- aws-cdk.aws-pipes-sources-alpha
-- aws-cdk.aws-pipes-enrichments-alpha
-- aws-cdk.aws-pipes-alpha
-- aws-cdk.aws-neptune-alpha
-- aws-cdk.aws-msk-alpha
-- aws-cdk.aws-location-alpha
-- aws-cdk.aws-lambda-python-alpha
-- aws-cdk.aws-lambda-go-alpha
-- aws-cdk.aws-kinesisanalytics-flink-alpha
-- aws-cdk.aws-ivs-alpha
-- aws-cdk.aws-iotevents-alpha
-- aws-cdk.aws-iotevents-actions-alpha
-- aws-cdk.aws-iot-alpha
-- aws-cdk.aws-iot-actions-alpha
-- korpy
-- aws-cdk.aws-imagebuilder-alpha
-- aws-cdk.aws-glue-alpha
-- aws-cdk.aws-gamelift-alpha
-- aws-cdk.aws-elasticache-alpha
-- aws-cdk.aws-eks-v2-alpha
-- aws-cdk.aws-ec2-alpha
-- aws-cdk.aws-codestar-alpha
-- aws-cdk.aws-cloud9-alpha
-- aws-cdk.aws-bedrock-alpha
-- aws-cdk.aws-bedrock-agentcore-alpha

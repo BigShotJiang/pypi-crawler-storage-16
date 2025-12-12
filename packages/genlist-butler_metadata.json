@@ -1,0 +1,11 @@
+{
+  "name": "genlist-butler",
+  "version": "1.2.10",
+  "summary": "Generate HTML catalogs from music notation files with git-based version tracking",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "genlist_butler-1.2.10.tar.gz",
+  "download_time": "2025-12-12T21:31:56.430342",
+  "package_url": "https://pypi.org/project/genlist-butler/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ez-constructs",
-  "version": "0.0.63",
+  "version": "0.0.64",
   "summary": "A collection of high level patterns for creating standard resources in every project",
   "author": "Biju Joseph<biju.joseph@semanticbits.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/SavvyTools/ez-constructs.git",
-  "download_filename": "ez_constructs-0.0.63.tar.gz",
-  "download_time": "2025-12-10T21:51:17.732162",
+  "download_filename": "ez_constructs-0.0.64.tar.gz",
+  "download_time": "2025-12-12T21:32:13.956272",
   "package_url": "https://pypi.org/project/ez-constructs/"
 }

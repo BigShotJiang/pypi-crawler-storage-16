@@ -1,0 +1,11 @@
+{
+  "name": "classy-sz",
+  "version": "0.1.70.post40",
+  "summary": "The class_sz code from https://github.com/CLASS-SZ",
+  "author": "Boris Bolliet, Ola Kusiak, Fiona McCarthy, Alina Sabyr, Kristen Surrao",
+  "license": "MIT",
+  "home_page": "https://github.com/CLASS-SZ",
+  "download_filename": "classy_sz-0.1.70.post40.tar.gz",
+  "download_time": "2025-12-12T21:32:11.267991",
+  "package_url": "https://pypi.org/project/classy-sz/"
+}

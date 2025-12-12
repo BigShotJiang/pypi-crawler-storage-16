@@ -1,0 +1,11 @@
+{
+  "name": "photonforge",
+  "version": "1.2.2",
+  "summary": "PhotonForge is a design tool that integrates with foundry PDKs to speed up the design, simulation, and verification cycle for optical components and systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "photonforge-1.2.2-cp310-cp310-macosx_15_0_universal2.whl",
+  "download_time": "2025-12-12T21:32:00.300173",
+  "package_url": "https://pypi.org/project/photonforge/"
+}

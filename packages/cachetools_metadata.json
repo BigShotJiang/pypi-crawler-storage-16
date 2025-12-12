@@ -1,0 +1,11 @@
+{
+  "name": "cachetools",
+  "version": "6.2.3",
+  "summary": "Extensible memoizing collections and decorators",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cachetools-6.2.3.tar.gz",
+  "download_time": "2025-12-12T21:32:08.527927",
+  "package_url": "https://pypi.org/project/cachetools/"
+}

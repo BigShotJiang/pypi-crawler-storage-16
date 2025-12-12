@@ -1,11 +1,11 @@
 {
   "name": "azure-llm-toolkit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Azure OpenAI client wrapper with rate limiting, cost tracking, and retry logic",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "azure_llm_toolkit-0.1.1.tar.gz",
-  "download_time": "2025-12-09T13:49:06.843589",
+  "download_filename": "azure_llm_toolkit-0.1.2.tar.gz",
+  "download_time": "2025-12-12T20:16:22.405081",
   "package_url": "https://pypi.org/project/azure-llm-toolkit/"
 }

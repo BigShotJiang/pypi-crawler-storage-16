@@ -1,11 +1,11 @@
 {
   "name": "langsmith-fetch",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "LangSmith Fetch - Minimal CLI for fetching LangSmith threads and traces",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langsmith_fetch-0.2.0.tar.gz",
-  "download_time": "2025-12-11T05:55:49.537938",
+  "download_filename": "langsmith_fetch-0.3.1.tar.gz",
+  "download_time": "2025-12-12T20:16:45.689595",
   "package_url": "https://pypi.org/project/langsmith-fetch/"
 }

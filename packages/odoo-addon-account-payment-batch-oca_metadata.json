@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-payment-batch-oca",
+  "version": "19.0.1.0.0.3",
+  "summary": "Add payment orders and debit orders",
+  "author": "ACSONE SA/NV, Therp BV, Tecnativa, Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/bank-payment-alternative",
+  "download_filename": "odoo_addon_account_payment_batch_oca-19.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-12T20:16:18.761200",
+  "package_url": "https://pypi.org/project/odoo-addon-account-payment-batch-oca/"
+}

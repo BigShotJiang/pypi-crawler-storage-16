@@ -1,11 +1,11 @@
 {
   "name": "ignition-api-stubs",
-  "version": "8.3.2",
+  "version": "8.3.2.post1",
   "summary": "Ignition Scripting API Stubs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ignition_api_stubs-8.3.2.tar.gz",
-  "download_time": "2025-12-10T23:30:05.491030",
+  "download_filename": "ignition_api_stubs-8.3.2.post1.tar.gz",
+  "download_time": "2025-12-12T20:16:40.968616",
   "package_url": "https://pypi.org/project/ignition-api-stubs/"
 }

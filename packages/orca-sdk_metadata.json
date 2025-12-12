@@ -1,0 +1,11 @@
+{
+  "name": "orca-sdk",
+  "version": "0.1.6",
+  "summary": "SDK for interacting with Orca Services",
+  "author": "Orca DB Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orca_sdk-0.1.6.tar.gz",
+  "download_time": "2025-12-12T20:16:34.631711",
+  "package_url": "https://pypi.org/project/orca-sdk/"
+}

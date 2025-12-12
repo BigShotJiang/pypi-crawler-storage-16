@@ -1,0 +1,11 @@
+{
+  "name": "portforward",
+  "version": "0.7.5",
+  "summary": "Easy Kubernetes Port-Forward For Python",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "portforward-0.7.5.tar.gz",
+  "download_time": "2025-12-12T20:16:25.043630",
+  "package_url": "https://pypi.org/project/portforward/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fmc-txt-mcp",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "An MCP server exposing FMC text output via stdio",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "fmc_txt_mcp-0.1.1.tar.gz",
-  "download_time": "2025-12-12T19:41:04.657638",
+  "download_filename": "fmc_txt_mcp-0.1.4.tar.gz",
+  "download_time": "2025-12-12T20:16:19.804697",
   "package_url": "https://pypi.org/project/fmc-txt-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ccp-performance",
+  "version": "0.3.29",
+  "summary": "Centrifugal Compressor Performance calculation.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ccp_performance-0.3.29.tar.gz",
+  "download_time": "2025-12-12T20:16:37.829554",
+  "package_url": "https://pypi.org/project/ccp-performance/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-bgp-models",
+  "version": "3.0.0",
+  "summary": "Nautobot BGP Models App",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_bgp_models-3.0.0.tar.gz",
+  "download_time": "2025-12-12T20:16:46.233339",
+  "package_url": "https://pypi.org/project/nautobot-bgp-models/"
+}

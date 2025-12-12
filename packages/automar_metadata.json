@@ -1,11 +1,11 @@
 {
   "name": "automar",
-  "version": "25.12.8",
+  "version": "25.12.12",
   "summary": "Time series-based machine learning framework for stock market forecasting",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "automar-25.12.8.tar.gz",
-  "download_time": "2025-12-08T21:48:03.708531",
+  "download_filename": "automar-25.12.12.tar.gz",
+  "download_time": "2025-12-12T20:16:29.852203",
   "package_url": "https://pypi.org/project/automar/"
 }

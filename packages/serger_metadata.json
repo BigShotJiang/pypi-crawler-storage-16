@@ -1,0 +1,11 @@
+{
+  "name": "serger",
+  "version": "0.2.0",
+  "summary": "Stitch your module into a single file",
+  "author": "Apathetic Tools",
+  "license": null,
+  "home_page": null,
+  "download_filename": "serger-0.2.0.tar.gz",
+  "download_time": "2025-12-12T20:16:45.142900",
+  "package_url": "https://pypi.org/project/serger/"
+}

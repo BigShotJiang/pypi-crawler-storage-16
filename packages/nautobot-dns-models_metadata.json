@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-dns-models",
+  "version": "2.0.0",
+  "summary": "Nautobot DNS Models",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_dns_models-2.0.0.tar.gz",
+  "download_time": "2025-12-12T20:16:23.987754",
+  "package_url": "https://pypi.org/project/nautobot-dns-models/"
+}

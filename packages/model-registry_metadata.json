@@ -1,0 +1,11 @@
+{
+  "name": "model-registry",
+  "version": "0.3.4",
+  "summary": "Client for Kubeflow Model Registry",
+  "author": "Isabella Basso do Amaral",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "model_registry-0.3.4.tar.gz",
+  "download_time": "2025-12-12T20:16:16.128782",
+  "package_url": "https://pypi.org/project/model-registry/"
+}

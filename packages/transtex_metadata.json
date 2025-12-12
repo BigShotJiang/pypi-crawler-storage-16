@@ -1,0 +1,11 @@
+{
+  "name": "transtex",
+  "version": "1.0.2",
+  "summary": "This library supports bidirectional conversion between APA 6th, IEEE, and other paper reference formats and BibTeX.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transtex-1.0.2.tar.gz",
+  "download_time": "2025-12-12T20:16:25.564609",
+  "package_url": "https://pypi.org/project/transtex/"
+}

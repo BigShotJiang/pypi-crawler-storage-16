@@ -1,11 +1,11 @@
 {
   "name": "memorisdk",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "summary": "Memori Python SDK",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "memorisdk-3.1.0.tar.gz",
-  "download_time": "2025-12-09T20:48:51.372204",
+  "download_filename": "memorisdk-3.1.1.tar.gz",
+  "download_time": "2025-12-12T20:16:46.836703",
   "package_url": "https://pypi.org/project/memorisdk/"
 }

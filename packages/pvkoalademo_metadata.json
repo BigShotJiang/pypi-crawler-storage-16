@@ -1,0 +1,11 @@
+{
+  "name": "pvkoalademo",
+  "version": "3.0.0",
+  "summary": "Koala Noise Suppression Engine demos",
+  "author": "Picovoice",
+  "license": null,
+  "home_page": "https://github.com/Picovoice/koala",
+  "download_filename": "pvkoalademo-3.0.0.tar.gz",
+  "download_time": "2025-12-12T20:16:47.356291",
+  "package_url": "https://pypi.org/project/pvkoalademo/"
+}

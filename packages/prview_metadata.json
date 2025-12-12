@@ -1,11 +1,11 @@
 {
   "name": "prview",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Beautiful TUI and web dashboard for GitHub PRs and CI status",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prview-0.2.0.tar.gz",
-  "download_time": "2025-12-12T19:14:58.423022",
+  "download_filename": "prview-0.2.1.tar.gz",
+  "download_time": "2025-12-12T20:16:20.836253",
   "package_url": "https://pypi.org/project/prview/"
 }

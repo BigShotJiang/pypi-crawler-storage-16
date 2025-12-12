@@ -1,11 +1,11 @@
 {
   "name": "sap-datasphere-mcp",
-  "version": "2.0.0",
-  "summary": "SAP Datasphere MCP Server - 100% Working Production Version with Real API Integration",
-  "author": null,
+  "version": "1.0.1",
+  "summary": "Model Context Protocol server for SAP Datasphere integration with 41 tools and 98% real data coverage",
+  "author": "Mario DeFelipe",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "sap_datasphere_mcp-2.0.0.tar.gz",
-  "download_time": "2025-12-12T18:54:15.708737",
+  "home_page": "https://github.com/MarioDeFelipe/sap-datasphere-mcp",
+  "download_filename": "sap_datasphere_mcp-1.0.1.tar.gz",
+  "download_time": "2025-12-12T19:31:28.288434",
   "package_url": "https://pypi.org/project/sap-datasphere-mcp/"
 }

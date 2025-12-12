@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-fr-account-payment-intl-credit-transfer",
+  "version": "19.0.1.0.0.2",
+  "summary": "Regulatory reporting codes for ISO 20022 credit transfer files",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-france",
+  "download_filename": "odoo_addon_l10n_fr_account_payment_intl_credit_transfer-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-12T21:04:20.208324",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-fr-account-payment-intl-credit-transfer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aws-cdk.aws-location-alpha",
+  "version": "2.232.2a0",
+  "summary": "The CDK Construct Library for AWS::Location",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aws/aws-cdk",
+  "download_filename": "aws_cdk_aws_location_alpha-2.232.2a0.tar.gz",
+  "download_time": "2025-12-12T21:04:50.387768",
+  "package_url": "https://pypi.org/project/aws-cdk.aws-location-alpha/"
+}

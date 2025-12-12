@@ -1,0 +1,11 @@
+{
+  "name": "aws-cdk.app-staging-synthesizer-alpha",
+  "version": "2.232.2a0",
+  "summary": "Cdk synthesizer for with app-scoped staging stack",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aws/aws-cdk",
+  "download_filename": "aws_cdk_app_staging_synthesizer_alpha-2.232.2a0.tar.gz",
+  "download_time": "2025-12-12T21:05:02.254637",
+  "package_url": "https://pypi.org/project/aws-cdk.app-staging-synthesizer-alpha/"
+}

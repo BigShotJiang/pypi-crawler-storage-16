@@ -1,0 +1,11 @@
+{
+  "name": "aws-cdk.region-info",
+  "version": "2.232.2",
+  "summary": "AWS region information, such as service principal names",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aws/aws-cdk",
+  "download_filename": "aws_cdk_region_info-2.232.2.tar.gz",
+  "download_time": "2025-12-12T21:04:41.401455",
+  "package_url": "https://pypi.org/project/aws-cdk.region-info/"
+}

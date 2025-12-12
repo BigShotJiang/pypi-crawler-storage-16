@@ -1,0 +1,11 @@
+{
+  "name": "beam-corset",
+  "version": "0.1.0",
+  "summary": "Beam Corset is a Gaussian optics mode matching tool made for use in Jupyter notebooks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beam_corset-0.1.0.tar.gz",
+  "download_time": "2025-12-12T21:04:28.390622",
+  "package_url": "https://pypi.org/project/beam-corset/"
+}

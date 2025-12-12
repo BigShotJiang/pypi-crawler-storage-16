@@ -1,0 +1,11 @@
+{
+  "name": "tshap",
+  "version": "0.0.1",
+  "summary": "Fast and Exact SHAP for Explaining Time Series Classification and Regression",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tshap-0.0.1.tar.gz",
+  "download_time": "2025-12-12T21:04:34.996992",
+  "package_url": "https://pypi.org/project/tshap/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "recurly",
-  "version": "4.67.0",
+  "version": "4.68.0",
   "summary": "Recurly v4",
   "author": "Developer Experience",
   "license": null,
   "home_page": "https://github.com/recurly/recurly-client-python",
-  "download_filename": "recurly-4.67.0.tar.gz",
-  "download_time": "2025-12-11T19:16:20.357144",
+  "download_filename": "recurly-4.68.0.tar.gz",
+  "download_time": "2025-12-12T21:04:16.743881",
   "package_url": "https://pypi.org/project/recurly/"
 }

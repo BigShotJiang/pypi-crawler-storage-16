@@ -1,0 +1,11 @@
+{
+  "name": "braindecode",
+  "version": "1.2.0",
+  "summary": "Deep learning software to decode EEG, ECG or MEG signals",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "braindecode-1.2.0.tar.gz",
+  "download_time": "2025-12-12T21:04:19.156375",
+  "package_url": "https://pypi.org/project/braindecode/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ihm",
+  "version": "2.8",
+  "summary": "Package for handling IHM mmCIF and BinaryCIF files",
+  "author": "Ben Webb",
+  "license": "MIT",
+  "home_page": "https://github.com/ihmwg/python-ihm",
+  "download_filename": "ihm-2.8.tar.gz",
+  "download_time": "2025-12-12T19:49:43.431078",
+  "package_url": "https://pypi.org/project/ihm/"
+}

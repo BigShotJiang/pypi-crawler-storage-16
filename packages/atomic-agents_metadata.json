@@ -1,11 +1,11 @@
 {
   "name": "atomic-agents",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "summary": "A versatile framework for creating and managing intelligent agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "atomic_agents-2.4.0.tar.gz",
-  "download_time": "2025-12-12T16:17:12.910676",
+  "download_filename": "atomic_agents-2.4.1.tar.gz",
+  "download_time": "2025-12-12T19:15:01.543677",
   "package_url": "https://pypi.org/project/atomic-agents/"
 }

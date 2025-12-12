@@ -1,11 +1,11 @@
 {
   "name": "jnkn",
-  "version": "0.0.0rc2",
+  "version": "0.0.0rc5",
   "summary": "The Pre-Flight Impact Analysis Engine for Engineering Teams.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jnkn-0.0.0rc2.tar.gz",
-  "download_time": "2025-12-10T16:20:19.135408",
+  "download_filename": "jnkn-0.0.0rc5.tar.gz",
+  "download_time": "2025-12-12T19:14:18.829335",
   "package_url": "https://pypi.org/project/jnkn/"
 }

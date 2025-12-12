@@ -1,0 +1,11 @@
+{
+  "name": "composabl-core",
+  "version": "0.18.1",
+  "summary": "the Composabl core functionality required to apply the Machine Teaching paradigm",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "composabl_core-0.18.1-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-12-12T19:14:44.379995",
+  "package_url": "https://pypi.org/project/composabl-core/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ntn",
-  "version": "0.2.1",
-  "summary": "Minimal AI coding agent powered by Claude",
+  "version": "0.3.0",
+  "summary": "Minimal AI coding agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ntn-0.2.1.tar.gz",
-  "download_time": "2025-12-11T23:32:15.815368",
+  "download_filename": "ntn-0.3.0.tar.gz",
+  "download_time": "2025-12-12T07:19:28.792934",
   "package_url": "https://pypi.org/project/ntn/"
 }

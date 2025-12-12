@@ -1,0 +1,11 @@
+{
+  "name": "zippathlib",
+  "version": "0.1.0",
+  "summary": "A Pathlib.PurePosixPath-like object for accessing the contents of ZIP archives",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zippathlib-0.1.0.tar.gz",
+  "download_time": "2025-12-12T07:19:43.472653",
+  "package_url": "https://pypi.org/project/zippathlib/"
+}

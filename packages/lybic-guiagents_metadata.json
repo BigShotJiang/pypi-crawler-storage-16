@@ -1,0 +1,11 @@
+{
+  "name": "lybic-guiagents",
+  "version": "0.7.6",
+  "summary": "An open-source agentic framework that enables AI to use computers like humans and can provide a multi-agent runtime environment as an infrastructure capability",
+  "author": "Lybic Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lybic_guiagents-0.7.6.tar.gz",
+  "download_time": "2025-12-12T07:20:00.147024",
+  "package_url": "https://pypi.org/project/lybic-guiagents/"
+}

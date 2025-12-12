@@ -1,0 +1,11 @@
+{
+  "name": "awsso",
+  "version": "0.6.0",
+  "summary": "aws command line tool",
+  "author": "linhan",
+  "license": null,
+  "home_page": "https://github.com/Hireteammate/tools.git",
+  "download_filename": "awsso-0.6.0.tar.gz",
+  "download_time": "2025-12-12T07:19:51.160308",
+  "package_url": "https://pypi.org/project/awsso/"
+}

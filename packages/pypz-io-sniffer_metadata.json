@@ -1,11 +1,11 @@
 {
   "name": "pypz-io-sniffer",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "summary": "A small tool that is capable to sniff and visualize the control messages between Operators.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pypz_io_sniffer-0.9.4.tar.gz",
-  "download_time": "2025-12-11T10:17:53.030294",
+  "download_filename": "pypz_io_sniffer-0.9.5.tar.gz",
+  "download_time": "2025-12-12T07:19:31.639960",
   "package_url": "https://pypi.org/project/pypz-io-sniffer/"
 }

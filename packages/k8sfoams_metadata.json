@@ -1,11 +1,11 @@
 {
   "name": "k8sfoams",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "summary": "K8s pod foamtree visualizer",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "k8sfoams-1.1.5.tar.gz",
-  "download_time": "2025-12-11T11:14:34.347896",
+  "download_filename": "k8sfoams-1.2.0.tar.gz",
+  "download_time": "2025-12-12T07:19:39.977976",
   "package_url": "https://pypi.org/project/k8sfoams/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "datamodel-code-generator",
-  "version": "0.43.0",
+  "version": "0.43.1",
   "summary": "Datamodel Code Generator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datamodel_code_generator-0.43.0.tar.gz",
-  "download_time": "2025-12-10T20:15:50.535451",
+  "download_filename": "datamodel_code_generator-0.43.1.tar.gz",
+  "download_time": "2025-12-12T07:19:46.412940",
   "package_url": "https://pypi.org/project/datamodel-code-generator/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pyxelator",
-  "version": "0.2.1",
-  "summary": "Image-based web automation for Selenium & Playwright - locate elements by screenshots",
+  "version": "0.3.1",
+  "summary": "Image-based automation for Selenium, Playwright & Appium - locate elements by screenshots",
   "author": "Aria Uno Suseno",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/idejongkok/pyxelator",
-  "download_filename": "pyxelator-0.2.1.tar.gz",
-  "download_time": "2025-12-10T13:50:12.365183",
+  "download_filename": "pyxelator-0.3.1.tar.gz",
+  "download_time": "2025-12-12T07:19:34.465568",
   "package_url": "https://pypi.org/project/pyxelator/"
 }

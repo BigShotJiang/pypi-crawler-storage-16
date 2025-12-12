@@ -1,0 +1,11 @@
+{
+  "name": "testit-adapter-pytest",
+  "version": "3.10.8",
+  "summary": "Pytest adapter for Test IT",
+  "author": "Integration team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/testit-tms/adapters-python/",
+  "download_filename": "testit_adapter_pytest-3.10.8.tar.gz",
+  "download_time": "2025-12-12T07:19:53.821243",
+  "package_url": "https://pypi.org/project/testit-adapter-pytest/"
+}

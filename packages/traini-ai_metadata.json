@@ -1,0 +1,11 @@
+{
+  "name": "traini-ai",
+  "version": "1.0.0",
+  "summary": "Traini AI SDK - Dog emotion analysis and human-dog communication platform",
+  "author": "Traini AI Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Traini-Inc/traini-sdk",
+  "download_filename": "traini_ai-1.0.0.tar.gz",
+  "download_time": "2025-12-12T07:19:50.009251",
+  "package_url": "https://pypi.org/project/traini-ai/"
+}

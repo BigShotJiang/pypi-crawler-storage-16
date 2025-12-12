@@ -1,0 +1,11 @@
+{
+  "name": "tacoreader",
+  "version": "0.6.5",
+  "summary": "A reader for Cloud-Optimized Datasets",
+  "author": "Cesar Aybar",
+  "license": null,
+  "home_page": "https://github.com/tacofoundation/tacoreader",
+  "download_filename": "tacoreader-0.6.5.tar.gz",
+  "download_time": "2025-12-12T16:17:13.421825",
+  "package_url": "https://pypi.org/project/tacoreader/"
+}

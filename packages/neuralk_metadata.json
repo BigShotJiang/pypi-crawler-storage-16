@@ -1,0 +1,11 @@
+{
+  "name": "neuralk",
+  "version": "0.0.11",
+  "summary": "Neuralk SDK for Python",
+  "author": "Neuralk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "neuralk-0.0.11.tar.gz",
+  "download_time": "2025-12-12T16:17:24.302925",
+  "package_url": "https://pypi.org/project/neuralk/"
+}

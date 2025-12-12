@@ -1,0 +1,11 @@
+{
+  "name": "bsb-hdf5",
+  "version": "7.0.2",
+  "summary": "HDF5 storage engine for the BSB framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bsb_hdf5-7.0.2.tar.gz",
+  "download_time": "2025-12-12T16:17:06.206819",
+  "package_url": "https://pypi.org/project/bsb-hdf5/"
+}

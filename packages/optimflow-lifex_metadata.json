@@ -1,11 +1,11 @@
 {
   "name": "optimflow-lifex",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "optimflow_lifex-0.1.4.tar.gz",
-  "download_time": "2025-12-12T11:15:09.917654",
+  "download_filename": "optimflow_lifex-0.1.6.tar.gz",
+  "download_time": "2025-12-12T16:16:55.943935",
   "package_url": "https://pypi.org/project/optimflow-lifex/"
 }

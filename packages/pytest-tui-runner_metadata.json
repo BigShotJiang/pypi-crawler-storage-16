@@ -1,11 +1,11 @@
 {
   "name": "pytest-tui-runner",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "summary": "Textual-based terminal UI for running pytest tests",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_tui_runner-1.0.12.tar.gz",
-  "download_time": "2025-12-11T14:18:18.822725",
+  "download_filename": "pytest_tui_runner-1.0.13.tar.gz",
+  "download_time": "2025-12-12T16:17:27.384830",
   "package_url": "https://pypi.org/project/pytest-tui-runner/"
 }

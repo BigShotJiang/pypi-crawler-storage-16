@@ -1,11 +1,11 @@
 {
   "name": "adafruit-circuitpython-display-text",
-  "version": "3.4.1",
+  "version": "3.4.3",
   "summary": "Displays text using CircuitPython's displayio.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "adafruit_circuitpython_display_text-3.4.1.tar.gz",
-  "download_time": "2025-12-09T19:10:39.564691",
+  "download_filename": "adafruit_circuitpython_display_text-3.4.3.tar.gz",
+  "download_time": "2025-12-12T16:17:33.550526",
   "package_url": "https://pypi.org/project/adafruit-circuitpython-display-text/"
 }

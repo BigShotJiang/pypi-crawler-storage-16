@@ -1,11 +1,11 @@
 {
   "name": "nexuscosmos",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "A powerful, dataset-agnostic Python library for astronomical data acquisition with built-in caching, rate limiting, async support, and progress tracking",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "nexuscosmos-0.3.0.tar.gz",
-  "download_time": "2025-12-11T16:20:19.415231",
+  "download_filename": "nexuscosmos-0.3.2.tar.gz",
+  "download_time": "2025-12-12T16:16:50.796780",
   "package_url": "https://pypi.org/project/nexuscosmos/"
 }

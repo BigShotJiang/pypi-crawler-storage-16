@@ -1,11 +1,11 @@
 {
   "name": "lib-cli-exit-tools",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "summary": "CLI exit handling helpers: clean signals, exit codes, and error printing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lib_cli_exit_tools-2.2.1.tar.gz",
-  "download_time": "2025-12-11T13:14:37.969454",
+  "download_filename": "lib_cli_exit_tools-2.2.2.tar.gz",
+  "download_time": "2025-12-12T16:17:25.848667",
   "package_url": "https://pypi.org/project/lib-cli-exit-tools/"
 }

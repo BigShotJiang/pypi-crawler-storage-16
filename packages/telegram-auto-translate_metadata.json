@@ -1,11 +1,11 @@
 {
   "name": "telegram-auto-translate",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "Telegram userbot that automatically translates outgoing messages using Claude and GPT",
   "author": "ai.moda",
   "license": null,
   "home_page": null,
-  "download_filename": "telegram_auto_translate-0.1.5.tar.gz",
-  "download_time": "2025-12-12T14:52:00.156974",
+  "download_filename": "telegram_auto_translate-0.1.8.tar.gz",
+  "download_time": "2025-12-12T16:17:28.415550",
   "package_url": "https://pypi.org/project/telegram-auto-translate/"
 }

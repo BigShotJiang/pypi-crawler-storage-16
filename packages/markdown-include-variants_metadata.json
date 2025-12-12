@@ -1,0 +1,11 @@
+{
+  "name": "markdown-include-variants",
+  "version": "0.0.8",
+  "summary": "Markdown extension to expand directives to include source example files to also include their variants. Only useful to tiangolo's projets. Don't use it. 😅",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "markdown_include_variants-0.0.8.tar.gz",
+  "download_time": "2025-12-12T16:17:02.115032",
+  "package_url": "https://pypi.org/project/markdown-include-variants/"
+}

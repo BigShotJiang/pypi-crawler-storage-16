@@ -1,0 +1,11 @@
+{
+  "name": "redis-retrieval-optimizer",
+  "version": "0.4.3",
+  "summary": "A tool to help optimize information retrieval with the Redis Query Engine.",
+  "author": "Robert Shelton",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "redis_retrieval_optimizer-0.4.3.tar.gz",
+  "download_time": "2025-12-12T16:17:02.627501",
+  "package_url": "https://pypi.org/project/redis-retrieval-optimizer/"
+}

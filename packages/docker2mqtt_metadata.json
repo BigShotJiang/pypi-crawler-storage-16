@@ -1,0 +1,11 @@
+{
+  "name": "docker2mqtt",
+  "version": "2.3.0",
+  "summary": "Send your docker stats and and events to mqtt and discovery them in home assistant.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "docker2mqtt-2.3.0.tar.gz",
+  "download_time": "2025-12-12T16:16:50.284770",
+  "package_url": "https://pypi.org/project/docker2mqtt/"
+}

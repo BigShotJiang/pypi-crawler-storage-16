@@ -1,0 +1,11 @@
+{
+  "name": "bsb-arbor",
+  "version": "7.0.2",
+  "summary": "Arbor simulation adapter for the BSB framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bsb_arbor-7.0.2.tar.gz",
+  "download_time": "2025-12-12T16:17:07.230449",
+  "package_url": "https://pypi.org/project/bsb-arbor/"
+}

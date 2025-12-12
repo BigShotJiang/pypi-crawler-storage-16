@@ -1,0 +1,11 @@
+{
+  "name": "langswarm",
+  "version": "0.0.51",
+  "summary": "A multi-agent ecosystem for large language models (LLMs) and autonomous systems.",
+  "author": "Alexander Ekdahl",
+  "license": "MIT",
+  "home_page": "https://github.com/aekdahl/langswarm",
+  "download_filename": "langswarm-0.0.51.tar.gz",
+  "download_time": "2025-12-12T16:17:11.330294",
+  "package_url": "https://pypi.org/project/langswarm/"
+}

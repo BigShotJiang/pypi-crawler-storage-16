@@ -1,0 +1,11 @@
+{
+  "name": "bsb-test",
+  "version": "7.0.2",
+  "summary": "Helpers for better and more complete tests for component developers of the BSB framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bsb_test-7.0.2.tar.gz",
+  "download_time": "2025-12-12T16:17:08.258421",
+  "package_url": "https://pypi.org/project/bsb-test/"
+}

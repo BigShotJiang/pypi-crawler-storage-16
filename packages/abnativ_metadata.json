@@ -1,0 +1,11 @@
+{
+  "name": "abnativ",
+  "version": "2.0.4",
+  "summary": "AbNatiV: a VQ-VAE-based assessment of the nativeness of antibodies.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "abnativ-2.0.4.tar.gz",
+  "download_time": "2025-12-12T16:17:32.529664",
+  "package_url": "https://pypi.org/project/abnativ/"
+}

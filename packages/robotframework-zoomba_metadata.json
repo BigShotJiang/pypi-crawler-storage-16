@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-zoomba",
+  "version": "4.5.0",
+  "summary": "Robot Framework mini-framework.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/Accruent/zoomba",
+  "download_filename": "robotframework_zoomba-4.5.0.tar.gz",
+  "download_time": "2025-12-12T16:17:17.058118",
+  "package_url": "https://pypi.org/project/robotframework-zoomba/"
+}

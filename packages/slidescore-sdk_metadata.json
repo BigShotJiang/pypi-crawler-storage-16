@@ -1,0 +1,11 @@
+{
+  "name": "slidescore-sdk",
+  "version": "1.5.0",
+  "summary": "SDK for using the API of Slide Score",
+  "author": "Slide Score B.V.",
+  "license": null,
+  "home_page": "https://github.com/SlideScore/SlideScore-python-sdk",
+  "download_filename": "slidescore_sdk-1.5.0.tar.gz",
+  "download_time": "2025-12-12T16:17:14.958832",
+  "package_url": "https://pypi.org/project/slidescore-sdk/"
+}

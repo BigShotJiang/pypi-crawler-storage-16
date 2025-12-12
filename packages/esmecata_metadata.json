@@ -1,0 +1,11 @@
+{
+  "name": "esmecata",
+  "version": "0.6.9",
+  "summary": "EsMeCaTa: Estimating Metabolic Capabilties from Taxonomy",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "esmecata-0.6.9.tar.gz",
+  "download_time": "2025-12-12T15:38:10.992932",
+  "package_url": "https://pypi.org/project/esmecata/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "devtools-unit",
+  "version": "1.0.0",
+  "summary": "Unit converter",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/unit-converter",
+  "download_filename": "devtools_unit-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T15:38:06.347365",
+  "package_url": "https://pypi.org/project/devtools-unit/"
+}

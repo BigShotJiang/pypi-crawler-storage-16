@@ -1,0 +1,11 @@
+{
+  "name": "devtools-slug",
+  "version": "1.0.0",
+  "summary": "URL slug generator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/slug-generator",
+  "download_filename": "devtools_slug-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T15:38:42.804343",
+  "package_url": "https://pypi.org/project/devtools-slug/"
+}

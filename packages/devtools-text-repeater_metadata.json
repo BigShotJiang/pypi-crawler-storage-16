@@ -1,0 +1,11 @@
+{
+  "name": "devtools-text-repeater",
+  "version": "1.0.0",
+  "summary": "Text repeater",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/text-repeater",
+  "download_filename": "devtools_text_repeater-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T15:38:32.534887",
+  "package_url": "https://pypi.org/project/devtools-text-repeater/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "langchain-quercle",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "LangChain tools for Quercle web search and URL fetching",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_quercle-0.1.1.tar.gz",
-  "download_time": "2025-12-12T11:14:43.107090",
+  "download_filename": "langchain_quercle-0.1.2.tar.gz",
+  "download_time": "2025-12-12T15:38:09.421235",
   "package_url": "https://pypi.org/project/langchain-quercle/"
 }

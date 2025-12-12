@@ -1,0 +1,11 @@
+{
+  "name": "mcp-stata",
+  "version": "1.0.0",
+  "summary": "Model Context Protocol (MCP) server for Stata",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_stata-1.0.0.tar.gz",
+  "download_time": "2025-12-12T15:38:31.504993",
+  "package_url": "https://pypi.org/project/mcp-stata/"
+}

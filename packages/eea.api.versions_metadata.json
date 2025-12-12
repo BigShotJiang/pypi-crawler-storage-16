@@ -1,0 +1,11 @@
+{
+  "name": "eea.api.versions",
+  "version": "1.2",
+  "summary": "Versions based on publication_groups",
+  "author": "European Environment Agency: IDM2 A-Team",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/eea/eea.api.versions",
+  "download_filename": "eea_api_versions-1.2.tar.gz",
+  "download_time": "2025-12-12T15:38:50.196425",
+  "package_url": "https://pypi.org/project/eea.api.versions/"
+}

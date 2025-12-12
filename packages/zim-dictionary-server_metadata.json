@@ -1,0 +1,11 @@
+{
+  "name": "zim-dictionary-server",
+  "version": "1.0.1",
+  "summary": "Serves contents of ZIM archives in a way optimized for convenient dictionary lookup.",
+  "author": "Tomasz Buczyński",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zim_dictionary_server-1.0.1.tar.gz",
+  "download_time": "2025-12-12T15:38:49.169336",
+  "package_url": "https://pypi.org/project/zim-dictionary-server/"
+}

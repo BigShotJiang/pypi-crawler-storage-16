@@ -1,11 +1,11 @@
 {
   "name": "confkit",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "Lightweight and Easy to use configuration manager for Python projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "confkit-0.8.0.tar.gz",
-  "download_time": "2025-12-09T03:47:02.811496",
+  "download_filename": "confkit-0.9.0.tar.gz",
+  "download_time": "2025-12-12T15:38:49.685789",
   "package_url": "https://pypi.org/project/confkit/"
 }

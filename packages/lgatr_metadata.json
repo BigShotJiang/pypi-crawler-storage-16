@@ -1,0 +1,11 @@
+{
+  "name": "lgatr",
+  "version": "1.4.0",
+  "summary": "Lorentz-Equivariant Geometric Algebra Transformer for High-Energy Physics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lgatr-1.4.0.tar.gz",
+  "download_time": "2025-12-12T15:38:34.098659",
+  "package_url": "https://pypi.org/project/lgatr/"
+}

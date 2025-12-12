@@ -1,0 +1,11 @@
+{
+  "name": "acceso-x402",
+  "version": "1.0.0",
+  "summary": "Python SDK for x402 HTTP payment protocol on Solana",
+  "author": "Acceso",
+  "license": "MIT",
+  "home_page": "https://github.com/acceso-dev/acceso-x402-python",
+  "download_filename": "acceso_x402-1.0.0.tar.gz",
+  "download_time": "2025-12-12T15:38:15.611038",
+  "package_url": "https://pypi.org/project/acceso-x402/"
+}

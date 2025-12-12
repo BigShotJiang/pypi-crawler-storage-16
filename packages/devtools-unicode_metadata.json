@@ -1,0 +1,11 @@
+{
+  "name": "devtools-unicode",
+  "version": "1.0.0",
+  "summary": "Unicode converter",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/unicode-converter",
+  "download_filename": "devtools_unicode-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T15:38:08.397702",
+  "package_url": "https://pypi.org/project/devtools-unicode/"
+}

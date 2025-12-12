@@ -1,0 +1,11 @@
+{
+  "name": "devtools-text-diff",
+  "version": "1.0.0",
+  "summary": "Text diff tool",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/text-diff",
+  "download_filename": "devtools_text_diff-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T15:38:35.640176",
+  "package_url": "https://pypi.org/project/devtools-text-diff/"
+}

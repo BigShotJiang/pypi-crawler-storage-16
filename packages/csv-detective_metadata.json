@@ -1,0 +1,11 @@
+{
+  "name": "csv-detective",
+  "version": "0.10.0",
+  "summary": "Detect tabular files column content",
+  "author": "data.gouv.fr",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "csv_detective-0.10.0-py3-none-any.whl",
+  "download_time": "2025-12-12T08:52:39.022330",
+  "package_url": "https://pypi.org/project/csv-detective/"
+}

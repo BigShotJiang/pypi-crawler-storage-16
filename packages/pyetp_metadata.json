@@ -1,11 +1,11 @@
 {
   "name": "pyetp",
-  "version": "0.0.44",
+  "version": "0.0.45",
   "summary": "Interface with OSDU RDDMS using ETP protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyetp-0.0.44.tar.gz",
-  "download_time": "2025-12-10T13:12:03.522680",
+  "download_filename": "pyetp-0.0.45.tar.gz",
+  "download_time": "2025-12-12T08:52:11.176114",
   "package_url": "https://pypi.org/project/pyetp/"
 }

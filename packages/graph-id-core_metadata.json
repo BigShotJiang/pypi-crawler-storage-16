@@ -1,11 +1,11 @@
 {
   "name": "graph-id-core",
-  "version": "0.1.15",
+  "version": "0.1.17",
   "summary": null,
   "author": "Koki Muraoka",
   "license": null,
   "home_page": null,
-  "download_filename": "graph_id_core-0.1.15.tar.gz",
-  "download_time": "2025-12-12T04:32:04.625531",
+  "download_filename": "graph_id_core-0.1.17.tar.gz",
+  "download_time": "2025-12-12T08:52:13.288340",
   "package_url": "https://pypi.org/project/graph-id-core/"
 }

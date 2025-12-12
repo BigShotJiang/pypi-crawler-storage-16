@@ -1,0 +1,11 @@
+{
+  "name": "cave-agent",
+  "version": "0.6.1",
+  "summary": "CaveAgent is a tool-augmented agent framework that enables function-calling through LLM code generation and provides runtime state management. Unlike traditional JSON-schema approaches, it natively handles complex Python objects like DataFrames and ndarrays within a persistent runtime, enabling lossless data flow across multi-turn interactions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cave_agent-0.6.1.tar.gz",
+  "download_time": "2025-12-12T08:52:27.236712",
+  "package_url": "https://pypi.org/project/cave-agent/"
+}

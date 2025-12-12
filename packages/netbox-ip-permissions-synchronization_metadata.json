@@ -1,11 +1,11 @@
 {
   "name": "netbox-ip-permissions-synchronization",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Syncing permissions on IP Addresses with those from their corresponding Prefix in NetBox",
   "author": "Loris Henrion",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "netbox_ip_permissions_synchronization-0.0.3.tar.gz",
-  "download_time": "2025-12-12T08:20:16.941746",
+  "download_filename": "netbox_ip_permissions_synchronization-0.0.5.tar.gz",
+  "download_time": "2025-12-12T08:52:11.689214",
   "package_url": "https://pypi.org/project/netbox-ip-permissions-synchronization/"
 }

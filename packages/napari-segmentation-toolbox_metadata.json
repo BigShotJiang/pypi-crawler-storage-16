@@ -1,0 +1,11 @@
+{
+  "name": "napari-segmentation-toolbox",
+  "version": "0.0.1",
+  "summary": "A plugin for manually correcting cell segmentation in 3D (z, y, x) or 4D (t, z, y, x) (virtual) arrays.",
+  "author": "Anniek Stokkermans",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/AnniekStok/napari-segmentation-toolbox",
+  "download_filename": "napari_segmentation_toolbox-0.0.1.tar.gz",
+  "download_time": "2025-12-12T08:52:56.547467",
+  "package_url": "https://pypi.org/project/napari-segmentation-toolbox/"
+}

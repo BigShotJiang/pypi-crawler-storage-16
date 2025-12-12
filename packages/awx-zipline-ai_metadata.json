@@ -1,0 +1,11 @@
+{
+  "name": "awx-zipline-ai",
+  "version": "0.4.2",
+  "summary": "CLI tool for the Zipline AI platform",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "awx_zipline_ai-0.4.2.tar.gz",
+  "download_time": "2025-12-12T08:52:36.434483",
+  "package_url": "https://pypi.org/project/awx-zipline-ai/"
+}

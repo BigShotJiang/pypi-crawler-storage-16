@@ -1,0 +1,11 @@
+{
+  "name": "HOS-GREED",
+  "version": "3.0.1",
+  "summary": "轻量化AI安全赋能平台，适合中小型企业",
+  "author": "HOS Team",
+  "license": null,
+  "home_page": "http://localhost:50000",
+  "download_filename": "hos_greed-3.0.1.tar.gz",
+  "download_time": "2025-12-12T08:52:20.045731",
+  "package_url": "https://pypi.org/project/HOS-GREED/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cyberwave",
-  "version": "0.2.10",
+  "version": "0.2.12",
   "summary": "Python SDK for Cyberwave",
   "author": "Simone Di Somma",
   "license": null,
   "home_page": null,
-  "download_filename": "cyberwave-0.2.10.tar.gz",
-  "download_time": "2025-12-11T11:54:34.555491",
+  "download_filename": "cyberwave-0.2.12.tar.gz",
+  "download_time": "2025-12-12T08:52:42.626593",
   "package_url": "https://pypi.org/project/cyberwave/"
 }

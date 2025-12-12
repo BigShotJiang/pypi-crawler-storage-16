@@ -1,11 +1,11 @@
 {
   "name": "matrice-compute",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "summary": "Common server utilities for Matrice.ai services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "matrice_compute-0.1.30.tar.gz",
-  "download_time": "2025-12-11T16:19:54.678383",
+  "download_filename": "matrice_compute-0.1.31.tar.gz",
+  "download_time": "2025-12-12T08:52:45.237282",
   "package_url": "https://pypi.org/project/matrice-compute/"
 }

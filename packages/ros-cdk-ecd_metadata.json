@@ -1,0 +1,11 @@
+{
+  "name": "ros-cdk-ecd",
+  "version": "1.11.0",
+  "summary": "Aliyun SDK Copyright (C) Alibaba Cloud Computing All rights reserved. http://www.aliyun.com",
+  "author": "ROS Development Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aliyun/Resource-Orchestration-Service-Cloud-Development-Kit.git",
+  "download_filename": "ros_cdk_ecd-1.11.0-py3-none-any.whl",
+  "download_time": "2025-12-12T08:52:52.445268",
+  "package_url": "https://pypi.org/project/ros-cdk-ecd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-harmonized-system-stock",
+  "version": "19.0.1.0.0.2",
+  "summary": "Adds a menu entry for H.S. codes",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/intrastat-extrastat",
+  "download_filename": "odoo_addon_product_harmonized_system_stock-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-12T08:52:27.747136",
+  "package_url": "https://pypi.org/project/odoo-addon-product-harmonized-system-stock/"
+}

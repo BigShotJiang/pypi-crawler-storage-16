@@ -1,0 +1,11 @@
+{
+  "name": "spirems",
+  "version": "0.7.5",
+  "summary": "Spire message system, a lightweight message publishing and subscription software package similar to ROS.",
+  "author": "jario",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "spirems-0.7.5-py3-none-any.whl",
+  "download_time": "2025-12-12T08:52:55.014691",
+  "package_url": "https://pypi.org/project/spirems/"
+}

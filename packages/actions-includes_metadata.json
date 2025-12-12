@@ -1,11 +1,11 @@
 {
   "name": "actions-includes",
-  "version": "0.0.post141",
+  "version": "0.0.post147",
   "summary": "Tool for flattening include statements in GitHub actions workflow.yml files.",
   "author": "Tim 'mithro' Ansell",
   "license": "Apache 2.0",
   "home_page": "https://github.com/mithro/actions-includes",
-  "download_filename": "actions_includes-0.0.post141.tar.gz",
-  "download_time": "2025-12-12T05:16:19.154316",
+  "download_filename": "actions_includes-0.0.post147.tar.gz",
+  "download_time": "2025-12-12T05:40:04.928820",
   "package_url": "https://pypi.org/project/actions-includes/"
 }

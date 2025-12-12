@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-docker-build",
+  "version": "0.0.15",
+  "summary": "A Pulumi provider for building modern Docker images with buildx and BuildKit.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_docker_build-0.0.15.tar.gz",
+  "download_time": "2025-12-12T05:40:11.697188",
+  "package_url": "https://pypi.org/project/pulumi-docker-build/"
+}

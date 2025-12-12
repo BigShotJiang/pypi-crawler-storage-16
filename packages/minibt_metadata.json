@@ -1,11 +1,11 @@
 {
   "name": "minibt",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "一站式量化交易策略开发库，简化从策略搭建到实盘交易的全流程",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "minibt-1.1.5-py3-none-any.whl",
-  "download_time": "2025-12-10T07:41:53.271762",
+  "download_filename": "minibt-1.1.6-py3-none-any.whl",
+  "download_time": "2025-12-12T05:40:27.910599",
   "package_url": "https://pypi.org/project/minibt/"
 }

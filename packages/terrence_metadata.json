@@ -1,0 +1,11 @@
+{
+  "name": "terrence",
+  "version": "0.1.0",
+  "summary": "Terrence is a Python package that makes it easy to scan and analyze GitHub repositories. It simplifies the GitHub API and processes the repo contents into a simple flat dictionary that can be accessed by file path.",
+  "author": "GarfieldFluffJr",
+  "license": null,
+  "home_page": "https://github.com/GarfieldFluffJr/Terrence",
+  "download_filename": "terrence-0.1.0.tar.gz",
+  "download_time": "2025-12-12T05:40:23.722119",
+  "package_url": "https://pypi.org/project/terrence/"
+}

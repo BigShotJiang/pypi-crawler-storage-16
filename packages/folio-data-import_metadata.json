@@ -1,0 +1,11 @@
+{
+  "name": "folio-data-import",
+  "version": "0.4.2",
+  "summary": "A python module to perform bulk import of data into a FOLIO environment. Currently supports MARC and user data import.",
+  "author": "Brooks Travis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "folio_data_import-0.4.2.tar.gz",
+  "download_time": "2025-12-12T05:40:21.429920",
+  "package_url": "https://pypi.org/project/folio-data-import/"
+}

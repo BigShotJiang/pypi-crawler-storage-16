@@ -1,11 +1,11 @@
 {
   "name": "ext4",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Library for read only interactions with an ext4 filesystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ext4-1.2.1.tar.gz",
-  "download_time": "2025-12-11T23:14:21.951144",
+  "download_filename": "ext4-1.2.2.tar.gz",
+  "download_time": "2025-12-12T05:40:29.487758",
   "package_url": "https://pypi.org/project/ext4/"
 }

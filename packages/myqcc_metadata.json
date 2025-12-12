@@ -1,0 +1,11 @@
+{
+  "name": "myqcc",
+  "version": "0.0.1",
+  "summary": "A Qiskit package containing basic quantum circuits and gate implementations",
+  "author": "QuantumDev",
+  "license": null,
+  "home_page": "https://github.com/yourusername/myqcc",
+  "download_filename": "myqcc-0.0.1.tar.gz",
+  "download_time": "2025-12-12T19:41:36.814880",
+  "package_url": "https://pypi.org/project/myqcc/"
+}

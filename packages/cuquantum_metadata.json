@@ -1,0 +1,11 @@
+{
+  "name": "cuquantum",
+  "version": "25.11.1",
+  "summary": "NVIDIA cuQuantum SDK",
+  "author": "NVIDIA Corporation",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": "https://developer.nvidia.com/cuquantum-sdk",
+  "download_filename": "cuquantum-25.11.1.tar.gz",
+  "download_time": "2025-12-12T19:41:09.032219",
+  "package_url": "https://pypi.org/project/cuquantum/"
+}

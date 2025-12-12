@@ -1,0 +1,11 @@
+{
+  "name": "AdDownloader",
+  "version": "0.2.12",
+  "summary": "A cmd tool for downloading ads and their media content from the Meta Ad Library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "addownloader-0.2.12.tar.gz",
+  "download_time": "2025-12-12T19:41:19.622166",
+  "package_url": "https://pypi.org/project/AdDownloader/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rdst-staging",
-  "version": "0.1.102",
+  "version": "0.1.109",
   "summary": "ReadySet Diagnostics & SQL Tuning - CLI tool for database diagnostics and query optimization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rdst_staging-0.1.102.tar.gz",
-  "download_time": "2025-12-10T19:13:18.860138",
+  "download_filename": "rdst_staging-0.1.109.tar.gz",
+  "download_time": "2025-12-12T19:41:05.191888",
   "package_url": "https://pypi.org/project/rdst-staging/"
 }

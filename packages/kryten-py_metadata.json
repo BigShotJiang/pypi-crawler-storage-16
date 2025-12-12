@@ -1,11 +1,11 @@
 {
   "name": "kryten-py",
-  "version": "0.8.1",
+  "version": "0.9.0",
   "summary": "Python library for building CyTube microservices via Kryten bridge and NATS",
   "author": "Development Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kryten_py-0.8.1.tar.gz",
-  "download_time": "2025-12-12T08:52:10.653467",
+  "download_filename": "kryten_py-0.9.0.tar.gz",
+  "download_time": "2025-12-12T19:41:25.839667",
   "package_url": "https://pypi.org/project/kryten-py/"
 }

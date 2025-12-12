@@ -1,11 +1,11 @@
 {
   "name": "arifos",
-  "version": "37.1.0",
-  "summary": "Constitutional Governance Kernel for AI - 9 Floors, GENIUS LAW Judiciary, zkPC + Phoenix-72, PHOENIX SOVEREIGNTY, v37 Unified LAW+SPEC+CODE Runtime",
+  "version": "38.0.0",
+  "summary": "Constitutional Governance Kernel for AI - 9 Floors, GENIUS LAW Judiciary, Memory Write Policy Engine (EUREKA), 6 Memory Bands, zkPC + Phoenix-72, v38 Unified LAW+SPEC+CODE+MEMORY Runtime",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "arifos-37.1.0.tar.gz",
-  "download_time": "2025-12-12T17:15:24.801883",
+  "download_filename": "arifos-38.0.0.tar.gz",
+  "download_time": "2025-12-12T19:41:34.167893",
   "package_url": "https://pypi.org/project/arifos/"
 }

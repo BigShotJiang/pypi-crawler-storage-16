@@ -1,0 +1,11 @@
+{
+  "name": "physiokit",
+  "version": "0.10.1",
+  "summary": "PhysioKit, process raw ambulatory bio-signals.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "physiokit-0.10.1.tar.gz",
+  "download_time": "2025-12-12T19:41:00.455300",
+  "package_url": "https://pypi.org/project/physiokit/"
+}

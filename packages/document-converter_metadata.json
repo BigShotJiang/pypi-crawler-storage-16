@@ -1,0 +1,11 @@
+{
+  "name": "document-converter",
+  "version": "1.1.0",
+  "summary": "Comprehensive document conversion library with batch processing, caching, and template rendering",
+  "author": "Document Converter Team",
+  "license": null,
+  "home_page": "https://github.com/MikeAMSDev/document-converter",
+  "download_filename": "document_converter-1.1.0-py3-none-any.whl",
+  "download_time": "2025-12-12T19:41:02.033422",
+  "package_url": "https://pypi.org/project/document-converter/"
+}

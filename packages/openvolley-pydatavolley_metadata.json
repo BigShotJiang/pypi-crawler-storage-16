@@ -1,0 +1,11 @@
+{
+  "name": "openvolley-pydatavolley",
+  "version": "0.3.0",
+  "summary": "Extract data from DataVolley .dvw files and VolleyStation .vsm files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openvolley_pydatavolley-0.3.0.tar.gz",
+  "download_time": "2025-12-12T19:41:32.089125",
+  "package_url": "https://pypi.org/project/openvolley-pydatavolley/"
+}

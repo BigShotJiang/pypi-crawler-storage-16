@@ -1,11 +1,11 @@
 {
   "name": "internet-computer-wallet",
-  "version": "0.1.5",
-  "summary": "CLI for ICRC-1 tokens (ckBTC, ckETH, ICP) on the Internet Computer",
+  "version": "0.2.1",
+  "summary": "CLI for ICRC-1 tokens (ckBTC, ckETH, ICP, ckUSDC, ckUSDT) on the Internet Computer",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "internet_computer_wallet-0.1.5.tar.gz",
-  "download_time": "2025-12-09T06:53:17.885389",
+  "download_filename": "internet_computer_wallet-0.2.1.tar.gz",
+  "download_time": "2025-12-12T19:41:03.084188",
   "package_url": "https://pypi.org/project/internet-computer-wallet/"
 }

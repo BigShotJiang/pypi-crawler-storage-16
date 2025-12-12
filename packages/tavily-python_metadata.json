@@ -1,0 +1,11 @@
+{
+  "name": "tavily-python",
+  "version": "0.7.15",
+  "summary": "Python wrapper for the Tavily API",
+  "author": "Tavily AI",
+  "license": null,
+  "home_page": "https://github.com/tavily-ai/tavily-python",
+  "download_filename": "tavily_python-0.7.15.tar.gz",
+  "download_time": "2025-12-12T21:49:41.544601",
+  "package_url": "https://pypi.org/project/tavily-python/"
+}

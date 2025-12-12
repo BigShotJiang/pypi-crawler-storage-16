@@ -1,0 +1,11 @@
+{
+  "name": "dataclass-args",
+  "version": "1.4.1",
+  "summary": "Zero-boilerplate CLI generation from Python dataclasses with advanced type support and file loading",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dataclass_args-1.4.1.tar.gz",
+  "download_time": "2025-12-12T21:49:43.627692",
+  "package_url": "https://pypi.org/project/dataclass-args/"
+}

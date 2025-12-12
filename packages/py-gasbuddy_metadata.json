@@ -1,0 +1,11 @@
+{
+  "name": "py-gasbuddy",
+  "version": "0.4.2",
+  "summary": "Python wrapper for GasBuddy GraphQL API",
+  "author": "firstof9",
+  "license": null,
+  "home_page": "https://github.com/firstof9/py-gasbuddy",
+  "download_filename": "py_gasbuddy-0.4.2.tar.gz",
+  "download_time": "2025-12-12T21:49:50.924937",
+  "package_url": "https://pypi.org/project/py-gasbuddy/"
+}

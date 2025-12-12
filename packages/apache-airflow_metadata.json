@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow",
-  "version": "3.1.4",
+  "version": "3.1.5",
   "summary": "Programmatically author, schedule and monitor data pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow-3.1.4.tar.gz",
-  "download_time": "2025-12-10T07:42:06.386983",
+  "download_filename": "apache_airflow-3.1.5.tar.gz",
+  "download_time": "2025-12-12T21:49:46.777289",
   "package_url": "https://pypi.org/project/apache-airflow/"
 }

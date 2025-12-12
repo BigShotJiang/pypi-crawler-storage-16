@@ -1,11 +1,11 @@
 {
   "name": "torch-wavelet-kan",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Kolmogorov-Arnold Networks using Learnable Wavelets (Morlet)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "torch_wavelet_kan-0.0.1.tar.gz",
-  "download_time": "2025-12-12T05:40:10.649859",
+  "download_filename": "torch_wavelet_kan-0.0.2.tar.gz",
+  "download_time": "2025-12-12T05:53:55.292421",
   "package_url": "https://pypi.org/project/torch-wavelet-kan/"
 }

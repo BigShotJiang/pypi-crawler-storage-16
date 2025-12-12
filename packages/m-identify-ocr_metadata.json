@@ -1,11 +1,11 @@
 {
   "name": "m-identify-ocr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A robust Python library for extracting information from passports using OCR (Tesseract) and MRZ parsing.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "m_identify_ocr-1.0.0.tar.gz",
-  "download_time": "2025-12-12T05:40:25.808302",
+  "download_filename": "m_identify_ocr-1.0.1.tar.gz",
+  "download_time": "2025-12-12T05:53:52.173763",
   "package_url": "https://pypi.org/project/m-identify-ocr/"
 }

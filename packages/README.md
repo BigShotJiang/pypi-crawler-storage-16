@@ -1,20 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-12T05:40:47.045543
-- **Total Packages**: 83
-- **Total Size**: 20.08 MB
+- **Download Time**: 2025-12-12T05:54:22.013020
+- **Total Packages**: 79
+- **Total Size**: 3.6 MB
 
 ## Packages List
-- pyrig
+- setdoc
+- py-chanjet-utils
+- scriptx
+- wisent
+- boxlite-mcp
+- yta-video-ffmpeg
 - polarion-mcp
+- chalkpy
+- doubao-douyin-analysis-parse-mcp
+- pyeasyphd
+- lidb
+- soren
+- maleo-mcu
+- pulumi-f5bigip
+- colablinter
+- pulumi-external
+- mypy-raise
+- hyperspell
+- azure-sfi-agent
+- vim-eof-comment
+- winipyside
+- texttospeech-sundar
+- machineid-io
+- m-identify-ocr
+- cascadelab-cli
+- zynk
+- moldflow
+- pulumi-dnsimple
+- um80
+- torch-wavelet-kan
+- mypy-pure
+- acdc_aws_etl_pipeline
+- sycommon-python-lib
+- pyrig
 - pydmtools
 - terence
 - pacli-tool
 - actions-includes
 - glucosedao-client
 - autonomous-coding
-- lidb
 - pulumi-cloudngfwaws
 - aldsim
 - ros-cdk-rocketmq5
@@ -22,7 +53,6 @@
 - autoglm-gui
 - sayou-refinery
 - signal-fabric-client
-- torch-wavelet-kan
 - pulumi-cloudinit
 - pulumi-docker-build
 - openmetadata-managed-apis
@@ -36,9 +66,7 @@
 - dodecahedron
 - intentkit
 - veriskgo
-- azure-sfi-agent
 - ciffy
-- wisent
 - gpufl
 - cursus
 - folio-data-import
@@ -49,7 +77,6 @@
 - winidjango
 - pulumi-artifactory
 - eden-grasp-gen
-- m-identify-ocr
 - SnakeScan
 - xhshow
 - fast-generic-api
@@ -58,34 +85,3 @@
 - pygame-dps-core
 - ext4
 - ipyslides
-- abstract-webtools
-- rappel
-- ofsc
-- ali-ops
-- langchain-siliconflow
-- glurpc
-- artificer-workflows
-- ligo.skymap
-- feedback-mcp
-- winiutils
-- pulumi-kubernetes
-- identity-ocr
-- datasage-mds
-- apache-otava
-- algokit
-- ical
-- arize-phoenix
-- fastapi-injectable
-- autopxd2
-- agentrun-inner-test
-- python-manta
-- ghstack
-- galago-tools
-- dsm-django-socialauth
-- reveal-cli
-- gen3_validator
-- zipline-cli
-- conversational-sop-framework
-- onnxruntime-genai
-- onnxruntime-genai-winml
-- mat3ra-utils

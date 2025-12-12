@@ -1,11 +1,11 @@
 {
   "name": "lidb",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Light database for quantor",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lidb-1.2.0.tar.gz",
-  "download_time": "2025-12-12T05:40:06.497950",
+  "download_filename": "lidb-1.2.1.tar.gz",
+  "download_time": "2025-12-12T05:53:44.906328",
   "package_url": "https://pypi.org/project/lidb/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "doubao-douyin-analysis-parse-mcp",
+  "version": "1.0.1",
+  "summary": "MCP 服务器用于解析抖音视频链接并使用豆包模型进行视频内容分析",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "doubao_douyin_analysis_parse_mcp-1.0.1.tar.gz",
+  "download_time": "2025-12-12T05:53:43.861271",
+  "package_url": "https://pypi.org/project/doubao-douyin-analysis-parse-mcp/"
+}

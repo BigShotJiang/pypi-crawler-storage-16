@@ -1,0 +1,11 @@
+{
+  "name": "documentdataextraction",
+  "version": "0.0.159",
+  "summary": "If packing returns as NA in extraction then checked quantity and has set packing accordingly defined in new table UNIT_DETER_METHOD and in item master against column UNIT_DETER_METHOD.",
+  "author": "Proteus Technology PVT. LTD.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "documentdataextraction-0.0.159-py3-none-any.whl",
+  "download_time": "2025-12-12T06:55:26.550862",
+  "package_url": "https://pypi.org/project/documentdataextraction/"
+}

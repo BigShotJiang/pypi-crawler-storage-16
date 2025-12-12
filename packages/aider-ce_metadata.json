@@ -1,11 +1,11 @@
 {
   "name": "aider-ce",
-  "version": "0.89.5",
+  "version": "0.89.6",
   "summary": "Aider is AI pair programming in your terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aider_ce-0.89.5.tar.gz",
-  "download_time": "2025-12-11T05:18:04.944987",
+  "download_filename": "aider_ce-0.89.6.tar.gz",
+  "download_time": "2025-12-12T06:55:27.067170",
   "package_url": "https://pypi.org/project/aider-ce/"
 }

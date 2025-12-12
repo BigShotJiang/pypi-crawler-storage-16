@@ -1,11 +1,11 @@
 {
   "name": "bayescoin",
-  "version": "0.1.0rc2",
+  "version": "0.1.0rc3",
   "summary": null,
   "author": "oyghen",
   "license": null,
   "home_page": null,
-  "download_filename": "bayescoin-0.1.0rc2.tar.gz",
-  "download_time": "2025-12-09T06:52:57.324207",
+  "download_filename": "bayescoin-0.1.0rc3.tar.gz",
+  "download_time": "2025-12-12T06:55:11.185842",
   "package_url": "https://pypi.org/project/bayescoin/"
 }

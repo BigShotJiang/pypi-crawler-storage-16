@@ -1,0 +1,11 @@
+{
+  "name": "easypqp",
+  "version": "0.1.54",
+  "summary": "EasyPQP: Simple library generation for OpenSWATH",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "easypqp-0.1.54.tar.gz",
+  "download_time": "2025-12-12T06:55:22.540437",
+  "package_url": "https://pypi.org/project/easypqp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gurux-dlms",
+  "version": "1.0.195",
+  "summary": "Gurux DLMS library for Python.",
+  "author": "Gurux Ltd",
+  "license": "GPLv2",
+  "home_page": "https://github.com/gurux/gurux.dlms.python",
+  "download_filename": "gurux_dlms-1.0.195.tar.gz",
+  "download_time": "2025-12-12T06:55:17.848425",
+  "package_url": "https://pypi.org/project/gurux-dlms/"
+}

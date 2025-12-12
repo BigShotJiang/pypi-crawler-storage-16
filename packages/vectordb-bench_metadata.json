@@ -1,0 +1,11 @@
+{
+  "name": "vectordb-bench",
+  "version": "1.0.16",
+  "summary": "VectorDBBench is not just an offering of benchmark results for mainstream vector databases and cloud services, it's your go-to tool for the ultimate performance and cost-effectiveness comparison. Designed with ease-of-use in mind, VectorDBBench is devised to help users, even non-professionals, reproduce results or test new systems, making the hunt for the optimal choice amongst a plethora of cloud services and open-source vector databases a breeze.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vectordb_bench-1.0.16.tar.gz",
+  "download_time": "2025-12-12T06:55:45.629287",
+  "package_url": "https://pypi.org/project/vectordb-bench/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "xjh-gems",
-  "version": "4.1",
+  "version": "4.3",
   "summary": "FlagGems is a function library written in Triton.",
   "author": null,
   "license": "Apache Software License",
   "home_page": null,
-  "download_filename": "xjh_gems-4.1-cp310-cp310-manylinux_2_38_x86_64.whl",
-  "download_time": "2025-12-12T03:59:13.467798",
+  "download_filename": "xjh_gems-4.3-py3-none-any.whl",
+  "download_time": "2025-12-12T06:55:01.672758",
   "package_url": "https://pypi.org/project/xjh-gems/"
 }

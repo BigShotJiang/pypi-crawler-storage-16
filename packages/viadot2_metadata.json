@@ -1,11 +1,11 @@
 {
   "name": "viadot2",
-  "version": "2.2.18",
+  "version": "2.2.19",
   "summary": "A simple data ingestion library to guide data flows from some places to other places.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "viadot2-2.2.18.tar.gz",
-  "download_time": "2025-12-09T09:17:08.969963",
+  "download_filename": "viadot2-2.2.19.tar.gz",
+  "download_time": "2025-12-12T16:58:20.219204",
   "package_url": "https://pypi.org/project/viadot2/"
 }

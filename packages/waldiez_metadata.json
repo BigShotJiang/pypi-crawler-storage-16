@@ -1,11 +1,11 @@
 {
   "name": "waldiez",
-  "version": "0.6.10",
+  "version": "0.6.11",
   "summary": "Make AG2 Agents Collaborate: Drag, Drop, and Orchestrate with Waldiez.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "waldiez-0.6.10.tar.gz",
-  "download_time": "2025-12-11T18:56:37.451953",
+  "download_filename": "waldiez-0.6.11.tar.gz",
+  "download_time": "2025-12-12T16:58:30.185824",
   "package_url": "https://pypi.org/project/waldiez/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "multigait",
+  "version": "0.2.0",
+  "summary": "MultiGait: Real-World Gait Pipeline for Wrist-Worn Devices",
+  "author": "DMegaritis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "multigait-0.2.0.tar.gz",
+  "download_time": "2025-12-12T16:58:23.415430",
+  "package_url": "https://pypi.org/project/multigait/"
+}

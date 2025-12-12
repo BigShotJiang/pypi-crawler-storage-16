@@ -1,0 +1,11 @@
+{
+  "name": "pyeufysecurity",
+  "version": "0.4.0",
+  "summary": "A Python library for Eufy Security cameras and devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyeufysecurity-0.4.0.tar.gz",
+  "download_time": "2025-12-12T16:58:30.695646",
+  "package_url": "https://pypi.org/project/pyeufysecurity/"
+}

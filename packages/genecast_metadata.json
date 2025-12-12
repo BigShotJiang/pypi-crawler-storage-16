@@ -1,0 +1,11 @@
+{
+  "name": "genecast",
+  "version": "0.1.0",
+  "summary": "A comprehensive CLI tool for genomic similarity network fusion and analysis.",
+  "author": "Genecast Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "genecast-0.1.0.tar.gz",
+  "download_time": "2025-12-12T01:02:33.912236",
+  "package_url": "https://pypi.org/project/genecast/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "open-space-toolkit-physics",
-  "version": "13.2.1",
+  "version": "13.2.2",
   "summary": "Physical units, time, reference frames, environment modeling.",
   "author": "Open Space Collective",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "open_space_toolkit_physics-13.2.1-py310-none-manylinux2014_aarch64.whl",
-  "download_time": "2025-12-11T11:32:36.970432",
+  "download_filename": "open_space_toolkit_physics-13.2.2-py310-none-manylinux2014_aarch64.whl",
+  "download_time": "2025-12-12T01:02:44.287848",
   "package_url": "https://pypi.org/project/open-space-toolkit-physics/"
 }

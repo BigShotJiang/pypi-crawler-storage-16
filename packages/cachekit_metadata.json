@@ -1,0 +1,11 @@
+{
+  "name": "cachekit",
+  "version": "0.1.0",
+  "summary": "Production-ready Redis caching for Python with intelligent reliability features",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/cachekit-io/cachekit-py",
+  "download_filename": "cachekit-0.1.0.tar.gz",
+  "download_time": "2025-12-12T01:03:00.221095",
+  "package_url": "https://pypi.org/project/cachekit/"
+}

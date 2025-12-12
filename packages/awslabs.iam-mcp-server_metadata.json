@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.iam-mcp-server",
+  "version": "1.0.9",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for managing AWS IAM resources including users, roles, policies, and permissions",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_iam_mcp_server-1.0.9.tar.gz",
+  "download_time": "2025-12-12T01:03:11.791208",
+  "package_url": "https://pypi.org/project/awslabs.iam-mcp-server/"
+}

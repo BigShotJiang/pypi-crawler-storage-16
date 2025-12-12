@@ -1,11 +1,11 @@
 {
   "name": "easyttuimenus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Write simple UI for your code in seconds in a unified way using Easy TTUI Menus",
   "author": "sarcasticDweller",
   "license": null,
   "home_page": null,
-  "download_filename": "easyttuimenus-1.0.1.tar.gz",
-  "download_time": "2025-12-11T22:40:35.606193",
+  "download_filename": "easyttuimenus-1.0.2.tar.gz",
+  "download_time": "2025-12-12T01:02:43.746884",
   "package_url": "https://pypi.org/project/easyttuimenus/"
 }

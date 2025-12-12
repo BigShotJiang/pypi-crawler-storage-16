@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.redshift-mcp-server",
+  "version": "0.0.13",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for Redshift",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_redshift_mcp_server-0.0.13.tar.gz",
+  "download_time": "2025-12-12T01:02:55.816380",
+  "package_url": "https://pypi.org/project/awslabs.redshift-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "basejump-llama-index-llms-openai",
+  "version": "0.3.39.post1",
+  "summary": "llama-index llms openai integration",
+  "author": "llama-index",
+  "license": null,
+  "home_page": null,
+  "download_filename": "basejump_llama_index_llms_openai-0.3.39.post1.tar.gz",
+  "download_time": "2025-12-12T01:03:06.853049",
+  "package_url": "https://pypi.org/project/basejump-llama-index-llms-openai/"
+}

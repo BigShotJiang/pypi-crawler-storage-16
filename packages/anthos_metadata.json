@@ -1,11 +1,11 @@
 {
   "name": "anthos",
-  "version": "1.0.1",
-  "summary": "Make waveform widgets beautifully",
+  "version": "1.0.4",
+  "summary": "Make waveform widgets beautifully.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anthos-1.0.1.tar.gz",
-  "download_time": "2025-12-11T21:15:45.813446",
+  "download_filename": "anthos-1.0.4.tar.gz",
+  "download_time": "2025-12-12T01:02:43.208715",
   "package_url": "https://pypi.org/project/anthos/"
 }

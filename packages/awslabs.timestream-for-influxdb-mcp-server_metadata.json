@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.timestream-for-influxdb-mcp-server",
+  "version": "0.0.8",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for Timestream for InfluxDB",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_timestream_for_influxdb_mcp_server-0.0.8.tar.gz",
+  "download_time": "2025-12-12T01:02:54.713343",
+  "package_url": "https://pypi.org/project/awslabs.timestream-for-influxdb-mcp-server/"
+}

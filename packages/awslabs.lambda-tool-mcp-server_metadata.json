@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.lambda-tool-mcp-server",
+  "version": "2.0.11",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for AWS Lambda Tools",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_lambda_tool_mcp_server-2.0.11.tar.gz",
+  "download_time": "2025-12-12T01:03:13.442706",
+  "package_url": "https://pypi.org/project/awslabs.lambda-tool-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.terraform-mcp-server",
+  "version": "1.0.10",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for terraform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "awslabs_terraform_mcp_server-1.0.10.tar.gz",
+  "download_time": "2025-12-12T01:02:55.264327",
+  "package_url": "https://pypi.org/project/awslabs.terraform-mcp-server/"
+}

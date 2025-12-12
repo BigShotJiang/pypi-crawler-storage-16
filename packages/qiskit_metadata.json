@@ -1,0 +1,11 @@
+{
+  "name": "qiskit",
+  "version": "2.2.3",
+  "summary": "An open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "qiskit-2.2.3.tar.gz",
+  "download_time": "2025-12-12T01:03:01.315994",
+  "package_url": "https://pypi.org/project/qiskit/"
+}

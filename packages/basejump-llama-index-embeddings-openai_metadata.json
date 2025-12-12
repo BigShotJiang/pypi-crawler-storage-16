@@ -1,0 +1,11 @@
+{
+  "name": "basejump-llama-index-embeddings-openai",
+  "version": "0.3.1.post1",
+  "summary": "llama-index embeddings openai integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "basejump_llama_index_embeddings_openai-0.3.1.post1.tar.gz",
+  "download_time": "2025-12-12T01:03:05.764307",
+  "package_url": "https://pypi.org/project/basejump-llama-index-embeddings-openai/"
+}

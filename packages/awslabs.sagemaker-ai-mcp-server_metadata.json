@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.sagemaker-ai-mcp-server",
+  "version": "1.0.2",
+  "summary": "MCP server for AWS SageMaker AI",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_sagemaker_ai_mcp_server-1.0.2.tar.gz",
+  "download_time": "2025-12-12T01:02:56.928542",
+  "package_url": "https://pypi.org/project/awslabs.sagemaker-ai-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.well-architected-security-mcp-server",
+  "version": "0.1.3",
+  "summary": "AWS Well-Architected Security Assessment Tool MCP Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "awslabs_well_architected_security_mcp_server-0.1.3.tar.gz",
+  "download_time": "2025-12-12T01:02:50.716302",
+  "package_url": "https://pypi.org/project/awslabs.well-architected-security-mcp-server/"
+}

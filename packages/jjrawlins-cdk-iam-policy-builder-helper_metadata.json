@@ -1,11 +1,11 @@
 {
   "name": "jjrawlins-cdk-iam-policy-builder-helper",
-  "version": "0.0.104",
+  "version": "0.0.105",
   "summary": "A CDK construct that helps build IAM policies using the AWS IAM Policy Builder dump. Normally it is better to use cdk-iam-floyd, However, I found that cdk-iam-floyd currently is not jsii compliant so I wasn't able to use it in my jsii compliant projects in languages that are not typescript or python.",
   "author": "Jayson Rawlins<JaysonJ.Rawlins@gmail.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/JaysonRawlins/cdk-iam-policy-builder-helper.git",
-  "download_filename": "jjrawlins_cdk_iam_policy_builder_helper-0.0.104.tar.gz",
-  "download_time": "2025-12-11T06:56:24.184201",
+  "download_filename": "jjrawlins_cdk_iam_policy_builder_helper-0.0.105.tar.gz",
+  "download_time": "2025-12-12T01:03:02.499288",
   "package_url": "https://pypi.org/project/jjrawlins-cdk-iam-policy-builder-helper/"
 }

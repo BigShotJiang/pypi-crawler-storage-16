@@ -1,0 +1,11 @@
+{
+  "name": "basejump-llama-index-core",
+  "version": "0.12.35.post1",
+  "summary": "Interface between LLMs and your data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "basejump_llama_index_core-0.12.35.post1.tar.gz",
+  "download_time": "2025-12-12T01:02:53.579742",
+  "package_url": "https://pypi.org/project/basejump-llama-index-core/"
+}

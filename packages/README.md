@@ -1,21 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-12T10:04:49.159949
-- **Total Packages**: 89
-- **Total Size**: 24.87 MB
+- **Download Time**: 2025-12-12T10:17:20.964660
+- **Total Packages**: 88
+- **Total Size**: 20.39 MB
 
 ## Packages List
+- satnogs-decoders
+- cocalc-api
+- pydpm_xl
+- acex
+- GPTQModel
+- ai-edge-torch-nightly
+- carlib
+- attractor-tools
+- tmutils
+- ansys-pyensight-core
+- ph-shorts
+- ansys-api-discovery
+- mcpcn-image-hd-zoom
+- exchange-data-downloader
+- httpx-aiohttp
+- netbox-ip-permissions-synchronization
+- other-agents-mcp
+- dataiku-scoring
+- vec-cluster
+- cribl-control-plane
+- evidence-seeker
+- timesat
+- gllm-inference-binary
+- gentccode
+- mstrio-py
+- jupyterlab-doc-reader-extension
+- sssom_pydantic
+- phrase-api
+- dcone-nacos-client
+- arte
+- lexsi-sdk
+- addtwo-Monu
+- caep
+- django-bulk-hooks
+- fcat
+- root-mcp
+- aging
+- feectools
+- odoo-addon-stock-demand-estimate
+- netcdf2region
 - deeplightrag
 - mirnaprotpred
 - iatoolkit
 - torchax
-- netbox-ip-permissions-synchronization
 - streamlit-html-components
 - ssb-nudb-config
 - moleculekit
 - aipyapp
-- vec-cluster
 - datasourcelib
 - power-grid-model
 - LLM-Bridge
@@ -45,53 +83,14 @@
 - qdrant-loader-core
 - fin-agent
 - ratio1
-- mcpcn-image-HD-zoom
 - jndataset-up
 - geogravL3
 - sqla-fancy-core
 - openmetadata-managed-apis
 - metal-stack-api
-- dcone-nacos-client
-- gentccode
 - convolutional-autoencoder-pytorch
 - pythonfmu
 - ecodev-core
 - stac-fastapi-api
 - stac-fastapi-extensions
 - stac-fastapi-types
-- Geode-Background
-- paid-python
-- apyds
-- agentcube-sdk
-- datateam-moss
-- pg0-embedded
-- perfact-zodbsync
-- tfp-nightly
-- lexsi-sdk
-- xenoverse
-- mostlyai
-- gldb
-- dashio
-- audmetric
-- shotgun-sh
-- HowdenLLM
-- orcakit-sdk
-- rassumfrassum
-- iterative-ensemble-smoother
-- steamcom
-- abstract-utilities
-- HowdenPipeline
-- openjiuwen
-- kimi-cli
-- nucliadb-utils
-- apyds-bnf
-- nucliadb-telemetry
-- nucliadb-sdk
-- nucliadb-protos
-- nucliadb-models
-- nucliadb-dataset
-- nucliadb
-- nidx-protos
-- aiosubgram
-- fractal-server
-- pydivsufsort

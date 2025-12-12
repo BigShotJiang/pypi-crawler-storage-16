@@ -1,0 +1,11 @@
+{
+  "name": "caep",
+  "version": "1.6.0",
+  "summary": "Config Argument Env Parser (CAEP)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "caep-1.6.0-py3-none-any.whl",
+  "download_time": "2025-12-12T10:16:50.713080",
+  "package_url": "https://pypi.org/project/caep/"
+}

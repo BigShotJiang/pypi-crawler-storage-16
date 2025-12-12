@@ -1,0 +1,11 @@
+{
+  "name": "phrase-api",
+  "version": "3.14.0",
+  "summary": "Phrase Strings API Reference",
+  "author": "Phrase Support",
+  "license": "MIT",
+  "home_page": "https://github.com/phrase/phrase-python",
+  "download_filename": "phrase_api-3.14.0.tar.gz",
+  "download_time": "2025-12-12T10:16:48.027162",
+  "package_url": "https://pypi.org/project/phrase-api/"
+}

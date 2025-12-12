@@ -1,0 +1,11 @@
+{
+  "name": "dataiku-scoring",
+  "version": "14.3.0",
+  "summary": "Dataiku ML Scoring Python library",
+  "author": "Dataiku",
+  "license": "Apache Software License",
+  "home_page": "https://www.dataiku.com",
+  "download_filename": "dataiku_scoring-14.3.0.tar.gz",
+  "download_time": "2025-12-12T10:16:41.970968",
+  "package_url": "https://pypi.org/project/dataiku-scoring/"
+}

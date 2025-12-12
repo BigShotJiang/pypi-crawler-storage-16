@@ -1,0 +1,11 @@
+{
+  "name": "attractor-tools",
+  "version": "0.2.1",
+  "summary": "An API to animate the Simon fractal",
+  "author": "Silas Schimpeler",
+  "license": "MIT",
+  "home_page": "https://github.com/beasty79/attractor_api",
+  "download_filename": "attractor_tools-0.2.1.tar.gz",
+  "download_time": "2025-12-12T10:16:36.537926",
+  "package_url": "https://pypi.org/project/attractor-tools/"
+}

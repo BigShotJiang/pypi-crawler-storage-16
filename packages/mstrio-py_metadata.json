@@ -1,0 +1,11 @@
+{
+  "name": "mstrio-py",
+  "version": "11.5.12.101",
+  "summary": "Python interface for the Strategy One REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mstrio_py-11.5.12.101.tar.gz",
+  "download_time": "2025-12-12T10:16:46.369914",
+  "package_url": "https://pypi.org/project/mstrio-py/"
+}

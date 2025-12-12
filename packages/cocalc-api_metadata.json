@@ -1,0 +1,11 @@
+{
+  "name": "cocalc-api",
+  "version": "0.5.0",
+  "summary": "Python client for the CoCalc API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cocalc_api-0.5.0.tar.gz",
+  "download_time": "2025-12-12T10:16:33.281219",
+  "package_url": "https://pypi.org/project/cocalc-api/"
+}

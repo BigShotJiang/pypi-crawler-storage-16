@@ -1,0 +1,11 @@
+{
+  "name": "animate-netcdf",
+  "version": "1.7.0",
+  "summary": "A comprehensive tool for creating animations from NetCDF data files",
+  "author": "Florian Cochard",
+  "license": null,
+  "home_page": "https://github.com/floriancochard/animate-netcdf",
+  "download_filename": "animate_netcdf-1.7.0.tar.gz",
+  "download_time": "2025-12-12T18:54:24.417096",
+  "package_url": "https://pypi.org/project/animate-netcdf/"
+}

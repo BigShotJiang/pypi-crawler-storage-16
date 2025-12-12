@@ -1,0 +1,11 @@
+{
+  "name": "p2f-HydrateCalcLib",
+  "version": "0.1.0.9",
+  "summary": "A package providing functionality for the simulation of equilibrium and inhibition of gas hydrates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "p2f_hydratecalclib-0.1.0.9.tar.gz",
+  "download_time": "2025-12-12T18:53:50.199142",
+  "package_url": "https://pypi.org/project/p2f-HydrateCalcLib/"
+}

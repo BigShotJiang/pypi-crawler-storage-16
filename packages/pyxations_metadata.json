@@ -1,0 +1,11 @@
+{
+  "name": "pyxations",
+  "version": "0.2.10",
+  "summary": "Pyxations: a Python-based toolbox to organize, parse, and analyse eye-movement data",
+  "author": "NeuroLIAA",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyxations-0.2.10.tar.gz",
+  "download_time": "2025-12-12T18:54:30.677526",
+  "package_url": "https://pypi.org/project/pyxations/"
+}

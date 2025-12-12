@@ -1,11 +1,11 @@
 {
   "name": "asynctasq",
-  "version": "0.9.13",
+  "version": "0.9.15",
   "summary": "AsyncTasQ: A modern, async-first, type-safe task queue Python package inspired by Laravel. Native FastAPI integration. Switch between multiple queue backends (Redis, PostgreSQL, MySQL, RabbitMQ, AWS SQS) with one config line. Automatic, smart ORM serialization (SQLAlchemy, Django, Tortoise) using msgpack reduces payloads by 90%+.",
   "author": "Adam Refaey",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "asynctasq-0.9.13.tar.gz",
-  "download_time": "2025-12-10T15:17:18.505786",
+  "download_filename": "asynctasq-0.9.15.tar.gz",
+  "download_time": "2025-12-12T18:54:23.898244",
   "package_url": "https://pypi.org/project/asynctasq/"
 }

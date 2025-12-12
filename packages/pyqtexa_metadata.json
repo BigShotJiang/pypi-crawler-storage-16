@@ -1,11 +1,11 @@
 {
   "name": "pyqtexa",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Extensions for PyQt",
   "author": "zapiy",
   "license": null,
   "home_page": null,
-  "download_filename": "pyqtexa-0.1.1.tar.gz",
-  "download_time": "2025-12-12T17:52:52.858372",
+  "download_filename": "pyqtexa-0.1.2.tar.gz",
+  "download_time": "2025-12-12T18:54:27.545474",
   "package_url": "https://pypi.org/project/pyqtexa/"
 }

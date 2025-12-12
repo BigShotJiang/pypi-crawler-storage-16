@@ -1,0 +1,11 @@
+{
+  "name": "prqlc",
+  "version": "0.13.8",
+  "summary": "Python bindings for prqlc, the PRQL compiler",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prqlc-0.13.8.tar.gz",
+  "download_time": "2025-12-12T18:53:52.275140",
+  "package_url": "https://pypi.org/project/prqlc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sourcefolio",
+  "version": "1.0.10",
+  "summary": "A CLI tool to automate research by fetching data from multiple sources and exporting to PDF/CSV.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sourcefolio-1.0.10.tar.gz",
+  "download_time": "2025-12-12T18:54:23.377382",
+  "package_url": "https://pypi.org/project/sourcefolio/"
+}

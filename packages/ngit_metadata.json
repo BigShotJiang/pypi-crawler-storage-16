@@ -1,11 +1,11 @@
 {
   "name": "ngit",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Custom Git wrapper CLI",
-  "author": "Your Name",
+  "author": "ja1codes",
   "license": null,
   "home_page": null,
-  "download_filename": "ngit-0.1.1.tar.gz",
-  "download_time": "2025-12-12T17:52:29.653555",
+  "download_filename": "ngit-0.1.3.tar.gz",
+  "download_time": "2025-12-12T18:54:16.247752",
   "package_url": "https://pypi.org/project/ngit/"
 }

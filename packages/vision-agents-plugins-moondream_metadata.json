@@ -1,0 +1,11 @@
+{
+  "name": "vision-agents-plugins-moondream",
+  "version": "0.2.5",
+  "summary": "Moondream 3 vision processor plugin for Vision Agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vision_agents_plugins_moondream-0.2.5.tar.gz",
+  "download_time": "2025-12-12T18:54:05.312456",
+  "package_url": "https://pypi.org/project/vision-agents-plugins-moondream/"
+}

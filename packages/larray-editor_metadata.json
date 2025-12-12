@@ -1,0 +1,11 @@
+{
+  "name": "larray-editor",
+  "version": "0.35",
+  "summary": "Graphical User Interface for LArray library",
+  "author": "Gaetan de Menten, Geert Bryon, Johan Duyck, Alix Damman",
+  "license": "GPLv3",
+  "home_page": "https://github.com/larray-project/larray-editor",
+  "download_filename": "larray_editor-0.35.tar.gz",
+  "download_time": "2025-12-12T18:54:19.534625",
+  "package_url": "https://pypi.org/project/larray-editor/"
+}

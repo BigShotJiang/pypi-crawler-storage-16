@@ -1,0 +1,11 @@
+{
+  "name": "lltune",
+  "version": "0.1.1",
+  "summary": "Low-Latency System Tuner CLI and library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lltune-0.1.1.tar.gz",
+  "download_time": "2025-12-12T18:53:46.571572",
+  "package_url": "https://pypi.org/project/lltune/"
+}

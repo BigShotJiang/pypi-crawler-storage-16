@@ -1,0 +1,11 @@
+{
+  "name": "lux-dex",
+  "version": "1.2.1",
+  "summary": "Python SDK for LX",
+  "author": "Lux Network",
+  "license": null,
+  "home_page": "https://github.com/luxfi/dex",
+  "download_filename": "lux_dex-1.2.1.tar.gz",
+  "download_time": "2025-12-12T18:53:56.446208",
+  "package_url": "https://pypi.org/project/lux-dex/"
+}

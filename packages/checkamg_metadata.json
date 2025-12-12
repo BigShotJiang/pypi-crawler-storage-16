@@ -1,11 +1,11 @@
 {
   "name": "checkamg",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "Automated identification and curation of Auxiliary Metabolic Genes (AMGs), Auxiliary Regulatory Genes (AReGs), and Auxiliary Physiology Genes (APGs) in viral genomes.",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "checkamg-0.6.1.tar.gz",
-  "download_time": "2025-12-10T19:02:36.145196",
+  "download_filename": "checkamg-0.6.2.tar.gz",
+  "download_time": "2025-12-12T03:59:18.036793",
   "package_url": "https://pypi.org/project/checkamg/"
 }

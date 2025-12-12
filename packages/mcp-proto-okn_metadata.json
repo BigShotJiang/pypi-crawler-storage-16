@@ -1,0 +1,11 @@
+{
+  "name": "mcp-proto-okn",
+  "version": "0.3.0",
+  "summary": "MCP server for querying FRINK SPARKQL endpoints, a project by the NSF Prototype Open Knowledge Network (Proto-OKN) program.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "mcp_proto_okn-0.3.0.tar.gz",
+  "download_time": "2025-12-12T03:58:37.720473",
+  "package_url": "https://pypi.org/project/mcp-proto-okn/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gmail-archiver",
+  "version": "0.0.5",
+  "summary": "Locally archive Gmail emails.",
+  "author": "Andrew Udvare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gmail_archiver-0.0.5.tar.gz",
+  "download_time": "2025-12-12T03:59:09.674584",
+  "package_url": "https://pypi.org/project/gmail-archiver/"
+}

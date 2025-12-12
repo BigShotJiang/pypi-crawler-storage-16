@@ -1,0 +1,11 @@
+{
+  "name": "napari-plugin-manager",
+  "version": "0.1.8",
+  "summary": "Install plugins for napari, in napari.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "napari_plugin_manager-0.1.8.tar.gz",
+  "download_time": "2025-12-12T03:58:46.145151",
+  "package_url": "https://pypi.org/project/napari-plugin-manager/"
+}

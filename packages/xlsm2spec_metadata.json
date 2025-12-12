@@ -1,0 +1,11 @@
+{
+  "name": "xlsm2spec",
+  "version": "0.1.0",
+  "summary": "Excel VBAを解析し仕様書を生成するCLIツール",
+  "author": "XLSM2Spec Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xlsm2spec-0.1.0.tar.gz",
+  "download_time": "2025-12-12T03:59:12.390396",
+  "package_url": "https://pypi.org/project/xlsm2spec/"
+}

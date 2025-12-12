@@ -1,11 +1,11 @@
 {
   "name": "recce",
-  "version": "1.28.0",
+  "version": "1.28.1",
   "summary": "Environment diff tool for dbt",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "recce-1.28.0.tar.gz",
-  "download_time": "2025-12-10T09:22:55.139610",
+  "download_filename": "recce-1.28.1.tar.gz",
+  "download_time": "2025-12-12T03:58:58.888767",
   "package_url": "https://pypi.org/project/recce/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "PySLOBS",
+  "version": "2.1.0",
+  "summary": "Python wrapper to StreamLabs Desktop API",
+  "author": "Julian-O",
+  "license": null,
+  "home_page": "https://github.com/Julian-O/pyslobs",
+  "download_filename": "pyslobs-2.1.0.tar.gz",
+  "download_time": "2025-12-12T03:59:11.828283",
+  "package_url": "https://pypi.org/project/PySLOBS/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "instagram-archiver",
+  "version": "0.3.4",
+  "summary": "Save Instagram content you have access to.",
+  "author": "Andrew Udvare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "instagram_archiver-0.3.4.tar.gz",
+  "download_time": "2025-12-12T03:59:00.509919",
+  "package_url": "https://pypi.org/project/instagram-archiver/"
+}

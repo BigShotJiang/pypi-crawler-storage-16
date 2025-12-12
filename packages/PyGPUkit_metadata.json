@@ -1,11 +1,11 @@
 {
   "name": "PyGPUkit",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A lightweight GPU runtime for Python with NVRTC JIT compilation and NumPy-like API",
   "author": "m96-chan",
   "license": null,
   "home_page": null,
-  "download_filename": "pygpukit-0.1.1.tar.gz",
-  "download_time": "2025-12-12T03:00:42.801023",
+  "download_filename": "pygpukit-0.1.3.tar.gz",
+  "download_time": "2025-12-12T03:58:47.245020",
   "package_url": "https://pypi.org/project/PyGPUkit/"
 }

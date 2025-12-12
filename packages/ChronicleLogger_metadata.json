@@ -1,0 +1,11 @@
+{
+  "name": "ChronicleLogger",
+  "version": "0.1.1",
+  "summary": "Privilege-aware, auto-rotating daily logger for Linux daemons & CLI tools (Cython-optimized)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chroniclelogger-0.1.1.tar.gz",
+  "download_time": "2025-12-12T03:58:38.832277",
+  "package_url": "https://pypi.org/project/ChronicleLogger/"
+}

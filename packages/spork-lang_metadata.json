@@ -1,11 +1,11 @@
 {
   "name": "spork-lang",
-  "version": "0.1.8",
+  "version": "0.2.1",
   "summary": "A Lisp to Python transpiler with persistent data structures",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spork_lang-0.1.8.tar.gz",
-  "download_time": "2025-12-11T04:48:33.605210",
+  "download_filename": "spork_lang-0.2.1-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-12-12T03:58:42.653695",
   "package_url": "https://pypi.org/project/spork-lang/"
 }

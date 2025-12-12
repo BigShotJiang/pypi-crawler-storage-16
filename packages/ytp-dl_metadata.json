@@ -1,0 +1,11 @@
+{
+  "name": "ytp-dl",
+  "version": "0.4.4",
+  "summary": "YouTube video downloader with Mullvad VPN integration and Flask API",
+  "author": "dumgum82",
+  "license": null,
+  "home_page": "https://github.com/yourusername/ytp-dl",
+  "download_filename": "ytp_dl-0.4.4.tar.gz",
+  "download_time": "2025-12-12T03:58:39.915864",
+  "package_url": "https://pypi.org/project/ytp-dl/"
+}

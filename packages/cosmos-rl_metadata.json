@@ -1,11 +1,11 @@
 {
   "name": "cosmos-rl",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "Cosmos-RL is a flexible and scalable Reinforcement Learning framework specialized for Physical AI applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cosmos_rl-0.3.7.tar.gz",
-  "download_time": "2025-12-09T07:41:04.011768",
+  "download_filename": "cosmos_rl-0.3.8.tar.gz",
+  "download_time": "2025-12-12T07:52:04.331774",
   "package_url": "https://pypi.org/project/cosmos-rl/"
 }

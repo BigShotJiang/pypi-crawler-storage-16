@@ -1,11 +1,11 @@
 {
   "name": "query-patterns",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Lightweight query access-pattern declaration for ORMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "query_patterns-0.1.5.tar.gz",
-  "download_time": "2025-12-11T08:20:46.687445",
+  "download_filename": "query_patterns-0.1.6.tar.gz",
+  "download_time": "2025-12-12T07:52:09.059655",
   "package_url": "https://pypi.org/project/query-patterns/"
 }

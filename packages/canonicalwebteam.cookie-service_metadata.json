@@ -1,11 +1,11 @@
 {
   "name": "canonicalwebteam.cookie-service",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Flask extension to integrate with shared cookie service.",
   "author": "Canonical webteam",
   "license": "LGPL-2.1",
   "home_page": "https://github.com/canonical/canonicalwebteam.cookie-service",
-  "download_filename": "canonicalwebteam_cookie_service-1.0.1.tar.gz",
-  "download_time": "2025-12-11T08:51:25.641148",
+  "download_filename": "canonicalwebteam_cookie_service-1.0.2.tar.gz",
+  "download_time": "2025-12-12T07:52:02.233408",
   "package_url": "https://pypi.org/project/canonicalwebteam.cookie-service/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gllm-core-binary",
-  "version": "0.4.4",
+  "version": "0.4.4.post1",
   "summary": "A library containing core components for Gen AI applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gllm_core_binary-0.4.4-py3-none-manylinux_2_31_x86_64.whl",
-  "download_time": "2025-12-11T10:17:23.601135",
+  "download_filename": "gllm_core_binary-0.4.4.post1-cp311-cp311-macosx_13_0_arm64.whl",
+  "download_time": "2025-12-12T07:51:57.710281",
   "package_url": "https://pypi.org/project/gllm-core-binary/"
 }

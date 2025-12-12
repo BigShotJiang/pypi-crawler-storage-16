@@ -1,0 +1,11 @@
+{
+  "name": "hprmat",
+  "version": "1.0.0",
+  "summary": "High-Performance R-Matrix Solver for Nuclear Physics",
+  "author": "Jin Lei",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hprmat-1.0.0.tar.gz",
+  "download_time": "2025-12-12T07:51:45.699294",
+  "package_url": "https://pypi.org/project/hprmat/"
+}

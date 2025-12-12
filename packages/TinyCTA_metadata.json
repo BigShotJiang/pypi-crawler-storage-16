@@ -1,11 +1,11 @@
 {
   "name": "TinyCTA",
-  "version": "0.8.2",
+  "version": "0.8.4",
   "summary": "...",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tinycta-0.8.2.tar.gz",
-  "download_time": "2025-12-12T06:54:59.022123",
+  "download_filename": "tinycta-0.8.4.tar.gz",
+  "download_time": "2025-12-12T07:51:58.792960",
   "package_url": "https://pypi.org/project/TinyCTA/"
 }

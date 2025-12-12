@@ -1,11 +1,11 @@
 {
   "name": "swarmkit",
-  "version": "0.1.28",
+  "version": "0.1.29",
   "summary": "Pythonic wrapper around the TypeScript SwarmKit SDK for multi-agent orchestration in E2B sandboxes",
   "author": null,
   "license": "Proprietary Beta Evaluation License - See LICENSE file",
   "home_page": null,
-  "download_filename": "swarmkit-0.1.28.tar.gz",
-  "download_time": "2025-12-10T06:54:10.150036",
+  "download_filename": "swarmkit-0.1.29.tar.gz",
+  "download_time": "2025-12-12T07:52:15.366156",
   "package_url": "https://pypi.org/project/swarmkit/"
 }

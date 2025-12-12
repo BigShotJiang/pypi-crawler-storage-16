@@ -1,0 +1,11 @@
+{
+  "name": "django-json-schema-editor",
+  "version": "0.12.1",
+  "summary": "Django widget for using @json-editor/json-editor in the admin",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_json_schema_editor-0.12.1.tar.gz",
+  "download_time": "2025-12-12T07:51:51.397759",
+  "package_url": "https://pypi.org/project/django-json-schema-editor/"
+}

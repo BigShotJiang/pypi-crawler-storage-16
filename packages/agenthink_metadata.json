@@ -1,0 +1,11 @@
+{
+  "name": "agenthink",
+  "version": "0.1.2",
+  "summary": "A unified agent framework for connecting workflows, databases, and agents",
+  "author": "Ritobroto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agenthink-0.1.2.tar.gz",
+  "download_time": "2025-12-12T07:52:24.832151",
+  "package_url": "https://pypi.org/project/agenthink/"
+}

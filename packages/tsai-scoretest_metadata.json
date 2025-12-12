@@ -1,0 +1,11 @@
+{
+  "name": "tsai-scoretest",
+  "version": "1.0.0",
+  "summary": "Score Test for First-Order Autoregressive Model with Heteroscedasticity (Tsai 1986)",
+  "author": "Dr Merwan Roudane",
+  "license": "MIT",
+  "home_page": "https://github.com/merwanroudane/scoretest",
+  "download_filename": "tsai_scoretest-1.0.0.tar.gz",
+  "download_time": "2025-12-12T07:52:27.467889",
+  "package_url": "https://pypi.org/project/tsai-scoretest/"
+}

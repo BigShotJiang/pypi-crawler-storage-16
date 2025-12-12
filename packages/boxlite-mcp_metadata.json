@@ -1,11 +1,11 @@
 {
   "name": "boxlite-mcp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "MCP server providing computer use capabilities through an isolated sandbox environment",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boxlite_mcp-0.1.4.tar.gz",
-  "download_time": "2025-12-12T05:53:41.731032",
+  "download_filename": "boxlite_mcp-0.1.5.tar.gz",
+  "download_time": "2025-12-12T07:52:17.470579",
   "package_url": "https://pypi.org/project/boxlite-mcp/"
 }

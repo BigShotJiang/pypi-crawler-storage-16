@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-save-discard-button",
+  "version": "18.0.1.0.1",
+  "summary": "Save & Discard Buttons",
+  "author": "Synconics Technologies Pvt. Ltd., Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_save_discard_button-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-12-12T07:51:53.961678",
+  "package_url": "https://pypi.org/project/odoo-addon-web-save-discard-button/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cdpkits",
+  "version": "1.2.16",
+  "summary": "Chrome DevTools Protocol Toolkit in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cdpkits-1.2.16.tar.gz",
+  "download_time": "2025-12-12T07:52:01.197851",
+  "package_url": "https://pypi.org/project/cdpkits/"
+}

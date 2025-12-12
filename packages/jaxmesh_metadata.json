@@ -1,0 +1,11 @@
+{
+  "name": "jaxmesh",
+  "version": "0.2.0",
+  "summary": "JAX-based mesh primitives and isosurface extraction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaxmesh-0.2.0.tar.gz",
+  "download_time": "2025-12-12T11:33:58.455644",
+  "package_url": "https://pypi.org/project/jaxmesh/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "codeflare-sdk",
+  "version": "0.33.0",
+  "summary": "Python SDK for codeflare client",
+  "author": "Michael Clifford",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/project-codeflare/codeflare-sdk",
+  "download_filename": "codeflare_sdk-0.33.0.tar.gz",
+  "download_time": "2025-12-12T11:33:42.742521",
+  "package_url": "https://pypi.org/project/codeflare-sdk/"
+}

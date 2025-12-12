@@ -1,11 +1,11 @@
 {
   "name": "sqlshell",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "A powerful SQL shell with GUI interface for data analysis",
   "author": "SQLShell Team",
   "license": null,
   "home_page": null,
-  "download_filename": "sqlshell-0.3.7.tar.gz",
-  "download_time": "2025-12-09T16:20:24.936490",
+  "download_filename": "sqlshell-0.3.8.tar.gz",
+  "download_time": "2025-12-12T11:33:36.168447",
   "package_url": "https://pypi.org/project/sqlshell/"
 }

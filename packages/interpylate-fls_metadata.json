@@ -1,0 +1,11 @@
+{
+  "name": "interpylate-fls",
+  "version": "0.0.0",
+  "summary": "A Python package for training neural networks on 5-dimensional datasets for interpolation tasks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "interpylate_fls-0.0.0.tar.gz",
+  "download_time": "2025-12-12T11:33:38.361990",
+  "package_url": "https://pypi.org/project/interpylate-fls/"
+}

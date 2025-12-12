@@ -1,11 +1,11 @@
 {
   "name": "pytrip98gui",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "summary": "PyTRiP GUI - Graphical user interface for the TRiP98 planning system",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "pytrip98gui-1.6.1.tar.gz",
-  "download_time": "2025-12-11T21:49:53.573005",
+  "download_filename": "pytrip98gui-1.6.2.tar.gz",
+  "download_time": "2025-12-12T11:33:48.488414",
   "package_url": "https://pypi.org/project/pytrip98gui/"
 }

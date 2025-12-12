@@ -1,11 +1,11 @@
 {
   "name": "observabilipy",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "summary": "Framework-agnostic metrics and structured log collection with hexagonal architecture",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "observabilipy-0.11.0.tar.gz",
-  "download_time": "2025-12-12T11:02:39.471659",
+  "download_filename": "observabilipy-0.12.0.tar.gz",
+  "download_time": "2025-12-12T11:33:45.852947",
   "package_url": "https://pypi.org/project/observabilipy/"
 }

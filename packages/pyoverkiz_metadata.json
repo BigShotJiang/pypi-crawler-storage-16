@@ -1,0 +1,11 @@
+{
+  "name": "pyoverkiz",
+  "version": "1.19.1",
+  "summary": "Async Python client to interact with internal OverKiz API (e.g. used by Somfy TaHoma).",
+  "author": "Vincent Le Bourlot, Thibaut Etienne",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyoverkiz-1.19.1.tar.gz",
+  "download_time": "2025-12-12T11:33:51.565699",
+  "package_url": "https://pypi.org/project/pyoverkiz/"
+}

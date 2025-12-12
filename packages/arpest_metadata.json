@@ -1,0 +1,11 @@
+{
+  "name": "arpest",
+  "version": "1.0.2",
+  "summary": "ARPES data analysis and visualization tool",
+  "author": "Ola Kenjiforslund",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arpest-1.0.2.tar.gz",
+  "download_time": "2025-12-12T11:33:57.944953",
+  "package_url": "https://pypi.org/project/arpest/"
+}

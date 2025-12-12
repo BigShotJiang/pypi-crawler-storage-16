@@ -1,0 +1,11 @@
+{
+  "name": "python-semantic-splitter",
+  "version": "0.1.0",
+  "summary": "Semantic Python code splitter for AI/RAG pipelines",
+  "author": "Sarabjot Singh",
+  "license": "MIT",
+  "home_page": "https://github.com/ricky-aufvaa/python-semantic-splitter",
+  "download_filename": "python_semantic_splitter-0.1.0.tar.gz",
+  "download_time": "2025-12-12T11:33:54.167200",
+  "package_url": "https://pypi.org/project/python-semantic-splitter/"
+}

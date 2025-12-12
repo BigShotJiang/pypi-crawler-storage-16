@@ -1,11 +1,11 @@
 {
   "name": "jsmon",
-  "version": "1.0.10",
+  "version": "1.0.12",
   "summary": "Advanced JavaScript monitoring for bug bounty hunters",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jsmon-1.0.10.tar.gz",
-  "download_time": "2025-12-12T08:20:56.108206",
+  "download_filename": "jsmon-1.0.12.tar.gz",
+  "download_time": "2025-12-12T11:33:50.537799",
   "package_url": "https://pypi.org/project/jsmon/"
 }

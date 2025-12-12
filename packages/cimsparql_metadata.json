@@ -1,0 +1,11 @@
+{
+  "name": "cimsparql",
+  "version": "9.11.2",
+  "summary": "CIM query utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cimsparql-9.11.2.tar.gz",
+  "download_time": "2025-12-12T11:33:51.053780",
+  "package_url": "https://pypi.org/project/cimsparql/"
+}

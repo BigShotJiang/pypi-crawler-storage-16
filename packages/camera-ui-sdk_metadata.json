@@ -1,11 +1,11 @@
 {
   "name": "camera-ui-sdk",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "summary": "camera.ui sdk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "camera_ui_sdk-1.0.21.tar.gz",
-  "download_time": "2025-12-12T01:02:27.423388",
+  "download_filename": "camera_ui_sdk-1.0.22.tar.gz",
+  "download_time": "2025-12-12T03:00:51.646861",
   "package_url": "https://pypi.org/project/camera-ui-sdk/"
 }

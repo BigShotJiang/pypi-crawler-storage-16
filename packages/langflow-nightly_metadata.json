@@ -1,11 +1,11 @@
 {
   "name": "langflow-nightly",
-  "version": "1.7.0.dev41",
+  "version": "1.7.0.dev43",
   "summary": "A Python package with a built-in web application",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langflow_nightly-1.7.0.dev41-py3-none-any.whl",
-  "download_time": "2025-12-10T21:51:39.044179",
+  "download_filename": "langflow_nightly-1.7.0.dev43-py3-none-any.whl",
+  "download_time": "2025-12-12T03:01:16.302472",
   "package_url": "https://pypi.org/project/langflow-nightly/"
 }

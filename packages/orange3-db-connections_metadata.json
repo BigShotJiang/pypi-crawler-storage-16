@@ -1,11 +1,11 @@
 {
   "name": "orange3-db-connections",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "DB Connections – Add-on Orange untuk membuat koneksi database (PostgreSQL, MySQL, SQL Server, SQLite, ClickHouse).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "orange3_db_connections-0.1.0.tar.gz",
-  "download_time": "2025-12-11T17:20:52.091878",
+  "download_filename": "orange3_db_connections-0.1.2.tar.gz",
+  "download_time": "2025-12-12T03:00:51.120885",
   "package_url": "https://pypi.org/project/orange3-db-connections/"
 }

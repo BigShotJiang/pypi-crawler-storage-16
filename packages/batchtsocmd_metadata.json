@@ -1,11 +1,11 @@
 {
   "name": "batchtsocmd",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Run TSO commands via IKJEFT1B",
   "author": "Mike Fulton",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "batchtsocmd-0.1.4.tar.gz",
-  "download_time": "2025-12-11T23:51:05.155789",
+  "download_filename": "batchtsocmd-0.1.5.tar.gz",
+  "download_time": "2025-12-12T03:01:08.207858",
   "package_url": "https://pypi.org/project/batchtsocmd/"
 }

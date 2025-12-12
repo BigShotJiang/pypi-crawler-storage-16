@@ -1,0 +1,11 @@
+{
+  "name": "qwix",
+  "version": "0.1.5",
+  "summary": "Qwix is a Jax quantization library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qwix-0.1.5.tar.gz",
+  "download_time": "2025-12-12T03:01:05.810684",
+  "package_url": "https://pypi.org/project/qwix/"
+}

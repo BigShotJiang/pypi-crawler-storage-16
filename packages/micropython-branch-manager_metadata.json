@@ -1,0 +1,11 @@
+{
+  "name": "micropython-branch-manager",
+  "version": "1.0.0",
+  "summary": "Tool for managing MicroPython fork integration branches",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "micropython_branch_manager-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-12T03:00:52.760645",
+  "package_url": "https://pypi.org/project/micropython-branch-manager/"
+}

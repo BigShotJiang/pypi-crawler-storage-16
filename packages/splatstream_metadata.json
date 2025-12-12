@@ -1,11 +1,11 @@
 {
   "name": "splatstream",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Streamlined 3dgs rendering",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "splatstream-0.1.1-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-12-09T12:27:01.712904",
+  "download_filename": "splatstream-0.1.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-12T03:01:07.608350",
   "package_url": "https://pypi.org/project/splatstream/"
 }

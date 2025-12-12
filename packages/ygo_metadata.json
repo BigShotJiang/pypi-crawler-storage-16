@@ -1,11 +1,11 @@
 {
   "name": "ygo",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "summary": "一个轻量级 Python 工具包，支持 并发执行（带进度条）、延迟调用、链式绑定参数、函数信息获取、模块/函数动态加载。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ygo-1.2.8.tar.gz",
-  "download_time": "2025-12-10T05:40:07.817876",
+  "download_filename": "ygo-1.2.9.tar.gz",
+  "download_time": "2025-12-12T08:20:47.757204",
   "package_url": "https://pypi.org/project/ygo/"
 }

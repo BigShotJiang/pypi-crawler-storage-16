@@ -1,11 +1,11 @@
 {
   "name": "tbot223-core",
-  "version": "2.0.4",
+  "version": "2.0.6",
   "summary": "A core utility package for tbot223 projects.",
   "author": "tbot223",
   "license": null,
   "home_page": "https://github.com/Tbot223/Core",
-  "download_filename": "tbot223_core-2.0.4.tar.gz",
-  "download_time": "2025-12-11T09:19:23.038511",
+  "download_filename": "tbot223_core-2.0.6.tar.gz",
+  "download_time": "2025-12-12T08:20:19.691313",
   "package_url": "https://pypi.org/project/tbot223-core/"
 }

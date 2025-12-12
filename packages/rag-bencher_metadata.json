@@ -1,0 +1,11 @@
+{
+  "name": "rag-bencher",
+  "version": "0.0.3",
+  "summary": "Reproducible RAG baselines and evaluations with LangChain",
+  "author": "Mikael Twengström",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rag_bencher-0.0.3.tar.gz",
+  "download_time": "2025-12-12T08:20:40.981558",
+  "package_url": "https://pypi.org/project/rag-bencher/"
+}

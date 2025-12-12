@@ -1,11 +1,11 @@
 {
   "name": "agentbill-py-langchain",
-  "version": "7.0.5",
+  "version": "7.1.0",
   "summary": "LangChain callback handler for automatic usage tracking and billing with AgentBill",
   "author": "AgentBill",
   "license": null,
   "home_page": "https://github.com/Agent-Bill/langchain",
-  "download_filename": "agentbill_py_langchain-7.0.5.tar.gz",
-  "download_time": "2025-12-11T11:54:54.476716",
+  "download_filename": "agentbill_py_langchain-7.1.0.tar.gz",
+  "download_time": "2025-12-12T08:20:21.372152",
   "package_url": "https://pypi.org/project/agentbill-py-langchain/"
 }

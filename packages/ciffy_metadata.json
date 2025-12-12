@@ -1,11 +1,11 @@
 {
   "name": "ciffy",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "Fast mmCIF parser for structural biology",
   "author": "Hamish M. Blair",
   "license": null,
   "home_page": null,
-  "download_filename": "ciffy-0.8.3.tar.gz",
-  "download_time": "2025-12-12T05:40:19.326677",
+  "download_filename": "ciffy-0.8.4.tar.gz",
+  "download_time": "2025-12-12T08:20:46.607621",
   "package_url": "https://pypi.org/project/ciffy/"
 }

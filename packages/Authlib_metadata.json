@@ -1,0 +1,11 @@
+{
+  "name": "Authlib",
+  "version": "1.6.6",
+  "summary": "The ultimate Python library in building OAuth and OpenID Connect servers and clients.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "authlib-1.6.6.tar.gz",
+  "download_time": "2025-12-12T08:20:49.386241",
+  "package_url": "https://pypi.org/project/Authlib/"
+}

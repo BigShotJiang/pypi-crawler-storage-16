@@ -1,0 +1,11 @@
+{
+  "name": "darabonba-core",
+  "version": "1.0.5",
+  "summary": "The darabonba module of alibabaCloud Python SDK.",
+  "author": "Alibaba Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/tea-python",
+  "download_filename": "darabonba_core-1.0.5-py3-none-any.whl",
+  "download_time": "2025-12-12T08:20:58.864918",
+  "package_url": "https://pypi.org/project/darabonba-core/"
+}

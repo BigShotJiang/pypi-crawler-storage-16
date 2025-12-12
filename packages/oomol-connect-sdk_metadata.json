@@ -1,11 +1,11 @@
 {
   "name": "oomol-connect-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Oomol Connect SDK for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oomol_connect_sdk-1.0.2.tar.gz",
-  "download_time": "2025-12-09T15:42:56.818862",
+  "download_filename": "oomol_connect_sdk-1.0.3.tar.gz",
+  "download_time": "2025-12-12T08:20:33.593748",
   "package_url": "https://pypi.org/project/oomol-connect-sdk/"
 }

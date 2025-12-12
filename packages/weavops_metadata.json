@@ -1,0 +1,11 @@
+{
+  "name": "weavops",
+  "version": "0.0.2",
+  "summary": "WeavOps bridges GitOps with MCP-powered AI agents, automatically weaving your Git source of truth into autonomous, context-aware operations",
+  "author": "Yan-Ke Guo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weavops-0.0.2.tar.gz",
+  "download_time": "2025-12-12T08:20:31.917574",
+  "package_url": "https://pypi.org/project/weavops/"
+}

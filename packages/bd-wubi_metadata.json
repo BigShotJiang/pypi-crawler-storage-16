@@ -1,0 +1,11 @@
+{
+  "name": "bd-wubi",
+  "version": "0.1.0",
+  "summary": "bd-wubi 数据集的 Python SDK，提供五笔查询与猜码能力。",
+  "author": "bd-wubi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bd_wubi-0.1.0.tar.gz",
+  "download_time": "2025-12-12T08:20:55.564299",
+  "package_url": "https://pypi.org/project/bd-wubi/"
+}

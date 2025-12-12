@@ -1,0 +1,11 @@
+{
+  "name": "ngraph",
+  "version": "0.12.3",
+  "summary": "A tool and a library for network modeling and analysis.",
+  "author": "Andrey Golovanov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ngraph-0.12.3.tar.gz",
+  "download_time": "2025-12-12T08:20:41.526749",
+  "package_url": "https://pypi.org/project/ngraph/"
+}

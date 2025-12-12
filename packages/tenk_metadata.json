@@ -1,11 +1,11 @@
 {
   "name": "tenk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Talk to SEC filings with AI",
   "author": null,
-  "license": "GPL-3.0",
+  "license": "Personal Use License",
   "home_page": null,
-  "download_filename": "tenk-0.1.1.tar.gz",
-  "download_time": "2025-12-12T07:19:50.584322",
+  "download_filename": "tenk-0.1.2.tar.gz",
+  "download_time": "2025-12-12T08:20:58.321390",
   "package_url": "https://pypi.org/project/tenk/"
 }

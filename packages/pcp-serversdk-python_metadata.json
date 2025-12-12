@@ -1,0 +1,11 @@
+{
+  "name": "pcp-serversdk-python",
+  "version": "1.5.0",
+  "summary": null,
+  "author": "PAYONE-GmbH",
+  "license": null,
+  "home_page": "https://github.com/PAYONE-GmbH/PCP-ServerSDK-python",
+  "download_filename": "pcp_serversdk_python-1.5.0.tar.gz",
+  "download_time": "2025-12-12T08:20:28.667345",
+  "package_url": "https://pypi.org/project/pcp-serversdk-python/"
+}

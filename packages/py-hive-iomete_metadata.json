@@ -1,0 +1,11 @@
+{
+  "name": "py-hive-iomete",
+  "version": "2.1.5",
+  "summary": "Python interface to iomete (Hive)",
+  "author": "Vusal Dadalov",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/iomete/py-hive-iomete",
+  "download_filename": "py_hive_iomete-2.1.5.tar.gz",
+  "download_time": "2025-12-12T08:20:43.747029",
+  "package_url": "https://pypi.org/project/py-hive-iomete/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "genie-dca",
+  "version": "2.0.0",
+  "summary": "GPU-Accelerated MCMC Sampling for Protein Sequences with Codon-Level Mutations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genie_dca-2.0.0.tar.gz",
+  "download_time": "2025-12-12T10:04:16.168789",
+  "package_url": "https://pypi.org/project/genie-dca/"
+}

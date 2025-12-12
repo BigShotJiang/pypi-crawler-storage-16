@@ -1,0 +1,11 @@
+{
+  "name": "fiddler-strands",
+  "version": "0.4.0",
+  "summary": "Fiddler SDK for Strands Agent instrumentation with OpenTelemetry",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fiddler_strands-0.4.0.tar.gz",
+  "download_time": "2025-12-12T10:04:14.069110",
+  "package_url": "https://pypi.org/project/fiddler-strands/"
+}

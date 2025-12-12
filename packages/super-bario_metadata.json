@@ -1,11 +1,11 @@
 {
   "name": "super-bario",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Super Bario: A powerful multi-layout, multi-bar terminal progress system.",
   "author": "Igor Iatsenko",
   "license": null,
   "home_page": null,
-  "download_filename": "super_bario-0.2.0.tar.gz",
-  "download_time": "2025-12-11T22:15:11.305071",
+  "download_filename": "super_bario-0.2.1.tar.gz",
+  "download_time": "2025-12-12T10:04:09.269539",
   "package_url": "https://pypi.org/project/super-bario/"
 }

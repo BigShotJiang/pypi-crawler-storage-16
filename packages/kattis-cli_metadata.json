@@ -1,11 +1,11 @@
 {
   "name": "kattis-cli",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "A command-line tool for Kattis",
   "author": "Ram Basnet",
   "license": null,
   "home_page": "https://github.com/rambasnet/kattis-cli",
-  "download_filename": "kattis_cli-1.2.3.tar.gz",
-  "download_time": "2025-12-12T03:58:37.121886",
+  "download_filename": "kattis_cli-1.2.4.tar.gz",
+  "download_time": "2025-12-12T04:31:56.649565",
   "package_url": "https://pypi.org/project/kattis-cli/"
 }

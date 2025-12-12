@@ -1,0 +1,11 @@
+{
+  "name": "hcom",
+  "version": "0.6.8",
+  "summary": "Launch multiple Claude Code instances (terminal, headless, or subagents) that communicate together in real time via hooks.",
+  "author": "aannoo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hcom-0.6.8.tar.gz",
+  "download_time": "2025-12-12T04:31:38.216738",
+  "package_url": "https://pypi.org/project/hcom/"
+}

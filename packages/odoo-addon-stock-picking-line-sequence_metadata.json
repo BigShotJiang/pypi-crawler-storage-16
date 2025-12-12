@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-picking-line-sequence",
+  "version": "18.0.1.0.1.1",
+  "summary": "Manages the order of stock moves by displaying its sequence",
+  "author": "Camptocamp, ForgeFlow, Serpent CS, Odoo Community Association (OCA), ArcheTI",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_picking_line_sequence-18.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2025-12-12T04:31:54.437847",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-picking-line-sequence/"
+}

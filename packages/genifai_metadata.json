@@ -1,0 +1,11 @@
+{
+  "name": "genifai",
+  "version": "0.1.0",
+  "summary": "AI-powered test case generator for C projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "genifai-0.1.0.tar.gz",
+  "download_time": "2025-12-12T04:31:33.006468",
+  "package_url": "https://pypi.org/project/genifai/"
+}

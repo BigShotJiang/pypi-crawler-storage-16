@@ -1,0 +1,11 @@
+{
+  "name": "pysleigh",
+  "version": "0.1.9a1",
+  "summary": "Modular CLI helpers for Advent of Code workflows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysleigh-0.1.9a1.tar.gz",
+  "download_time": "2025-12-12T04:31:55.005194",
+  "package_url": "https://pypi.org/project/pysleigh/"
+}

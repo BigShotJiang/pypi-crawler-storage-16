@@ -1,11 +1,11 @@
 {
   "name": "djsmartcache",
-  "version": "0.2.0",
+  "version": "0.13.1",
   "summary": "Distributed cache consistency layer for Django using Redis",
   "author": "Kuntal Roy",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "djsmartcache-0.2.0.tar.gz",
-  "download_time": "2025-12-12T03:58:43.206436",
+  "download_filename": "djsmartcache-0.13.1-py3-none-any.whl",
+  "download_time": "2025-12-12T04:31:34.190773",
   "package_url": "https://pypi.org/project/djsmartcache/"
 }

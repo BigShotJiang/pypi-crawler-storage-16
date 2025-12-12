@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-stock-release-channel",
-  "version": "18.0.1.4.0.3",
+  "version": "18.0.1.5.2.1",
   "summary": "Manage workload in WMS with release channels",
   "author": "Camptocamp, BCIM, ACSONE SA/NV, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/stock-logistics-release-channel",
-  "download_filename": "odoo_addon_stock_release_channel-18.0.1.4.0.3-py3-none-any.whl",
-  "download_time": "2025-12-10T09:55:22.485244",
+  "download_filename": "odoo_addon_stock_release_channel-18.0.1.5.2.1-py3-none-any.whl",
+  "download_time": "2025-12-12T04:32:01.770126",
   "package_url": "https://pypi.org/project/odoo-addon-stock-release-channel/"
 }

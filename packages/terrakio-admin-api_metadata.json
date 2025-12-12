@@ -1,0 +1,11 @@
+{
+  "name": "terrakio-admin-api",
+  "version": "0.5.15",
+  "summary": "Admin version of the terrakio-python-api",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "terrakio_admin_api-0.5.15.tar.gz",
+  "download_time": "2025-12-12T04:31:33.588771",
+  "package_url": "https://pypi.org/project/terrakio-admin-api/"
+}

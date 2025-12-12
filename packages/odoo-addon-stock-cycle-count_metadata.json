@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-cycle-count",
+  "version": "18.0.1.0.1.1",
+  "summary": "Adds the capability to schedule cycle counts in a warehouse through different rules defined by the user.",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-warehouse",
+  "download_filename": "odoo_addon_stock_cycle_count-18.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2025-12-12T04:31:57.869363",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-cycle-count/"
+}

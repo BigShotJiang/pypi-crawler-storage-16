@@ -1,0 +1,11 @@
+{
+  "name": "langsmith-tool-server",
+  "version": "0.2.7",
+  "summary": "LangSmith Tool Server (Python)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langsmith_tool_server-0.2.7.tar.gz",
+  "download_time": "2025-12-12T04:31:32.420096",
+  "package_url": "https://pypi.org/project/langsmith-tool-server/"
+}

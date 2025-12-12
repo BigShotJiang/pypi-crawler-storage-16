@@ -1,0 +1,11 @@
+{
+  "name": "maestro-reporter",
+  "version": "0.2.0",
+  "summary": "Customized tool to run Maestro tests, parse Maestro report file, and push reports to Lark.",
+  "author": "Ryan Febriansyah",
+  "license": null,
+  "home_page": null,
+  "download_filename": "maestro_reporter-0.2.0.tar.gz",
+  "download_time": "2025-12-12T04:32:08.611884",
+  "package_url": "https://pypi.org/project/maestro-reporter/"
+}

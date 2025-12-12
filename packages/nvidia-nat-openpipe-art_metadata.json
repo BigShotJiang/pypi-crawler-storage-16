@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-nat-openpipe-art",
+  "version": "1.4.0a20251212",
+  "summary": "Subpackage for OpenPipe ART integration in NeMo Agent toolkit",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nvidia_nat_openpipe_art-1.4.0a20251212-py3-none-any.whl",
+  "download_time": "2025-12-12T11:02:42.884875",
+  "package_url": "https://pypi.org/project/nvidia-nat-openpipe-art/"
+}

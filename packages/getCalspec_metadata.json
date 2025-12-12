@@ -1,0 +1,11 @@
+{
+  "name": "getCalspec",
+  "version": "2.2.3",
+  "summary": "Python package to download Calspec spectra",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "getcalspec-2.2.3-py3-none-any.whl",
+  "download_time": "2025-12-12T11:02:44.588183",
+  "package_url": "https://pypi.org/project/getCalspec/"
+}

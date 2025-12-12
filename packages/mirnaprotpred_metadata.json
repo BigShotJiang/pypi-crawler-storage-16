@@ -1,11 +1,11 @@
 {
   "name": "mirnaprotpred",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "A package for miRNA protein prediction with SeqFinder and validator modules",
   "author": "Sudipta Sardar",
   "license": "MIT",
   "home_page": "https://github.com/somenath-combio/mirnaprotpred",
-  "download_filename": "mirnaprotpred-0.1.2.tar.gz",
-  "download_time": "2025-12-12T10:04:00.630754",
+  "download_filename": "mirnaprotpred-0.1.5.tar.gz",
+  "download_time": "2025-12-12T11:03:02.056026",
   "package_url": "https://pypi.org/project/mirnaprotpred/"
 }

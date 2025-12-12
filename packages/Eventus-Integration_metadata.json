@@ -1,0 +1,11 @@
+{
+  "name": "Eventus-Integration",
+  "version": "0.1.0",
+  "summary": "A Python library for Eventus integrations: ESDL TCP sender, MongoDB logging, Teams notifications, retry logic, and multi-tenant ingestion.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eventus_integration-0.1.0.tar.gz",
+  "download_time": "2025-12-12T11:02:34.169409",
+  "package_url": "https://pypi.org/project/Eventus-Integration/"
+}

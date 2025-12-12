@@ -1,11 +1,11 @@
 {
   "name": "quas-docs",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "A powerful, reusable package for generating comprehensive OpenAPI documentation with Flask-Pydantic-Spec",
   "author": "Emmanuel Olowu",
   "license": "MIT",
-  "home_page": "https://github.com/zeddyemy/flask-openapi-docs",
-  "download_filename": "quas_docs-0.0.6.tar.gz",
-  "download_time": "2025-12-11T01:02:58.017203",
+  "home_page": "https://github.com/zeddyemy/quas-docs",
+  "download_filename": "quas_docs-0.0.7.tar.gz",
+  "download_time": "2025-12-12T11:02:52.014552",
   "package_url": "https://pypi.org/project/quas-docs/"
 }

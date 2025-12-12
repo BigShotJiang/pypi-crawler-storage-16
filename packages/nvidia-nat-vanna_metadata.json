@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-vanna",
-  "version": "1.4.0a20251211",
+  "version": "1.4.0a20251212",
   "summary": "Vanna-based Text-to-SQL integration for NeMo Agent Toolkit with Databricks support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nvidia_nat_vanna-1.4.0a20251211-py3-none-any.whl",
-  "download_time": "2025-12-11T11:32:43.554445",
+  "download_filename": "nvidia_nat_vanna-1.4.0a20251212-py3-none-any.whl",
+  "download_time": "2025-12-12T11:03:06.450639",
   "package_url": "https://pypi.org/project/nvidia-nat-vanna/"
 }

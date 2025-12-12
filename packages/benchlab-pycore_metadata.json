@@ -1,0 +1,11 @@
+{
+  "name": "benchlab-pycore",
+  "version": "0.1.1",
+  "summary": "BENCHLAB PyCore - Python Interface for BENCHLAB",
+  "author": "Pieter Plaisier",
+  "license": "MIT",
+  "home_page": "https://github.com/BenchLab-io/benchlab-pycore",
+  "download_filename": "benchlab_pycore-0.1.1.tar.gz",
+  "download_time": "2025-12-12T09:52:19.182598",
+  "package_url": "https://pypi.org/project/benchlab-pycore/"
+}

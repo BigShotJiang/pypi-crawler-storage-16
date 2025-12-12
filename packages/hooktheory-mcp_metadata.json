@@ -1,11 +1,11 @@
 {
   "name": "hooktheory-mcp",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Model Context Protocol server for Hooktheory API integration - enables agents to query chord progressions and music theory data",
   "author": "Gabriel Guerin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hooktheory_mcp-0.2.1.tar.gz",
-  "download_time": "2025-12-11T17:21:25.165717",
+  "download_filename": "hooktheory_mcp-0.2.2.tar.gz",
+  "download_time": "2025-12-12T09:53:08.693375",
   "package_url": "https://pypi.org/project/hooktheory-mcp/"
 }

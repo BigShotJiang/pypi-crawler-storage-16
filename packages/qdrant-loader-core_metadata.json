@@ -1,0 +1,11 @@
+{
+  "name": "qdrant-loader-core",
+  "version": "0.7.4",
+  "summary": "Shared core for provider-agnostic LLM support and configuration mapping for qdrant-loader ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qdrant_loader_core-0.7.4.tar.gz",
+  "download_time": "2025-12-12T09:52:19.835107",
+  "package_url": "https://pypi.org/project/qdrant-loader-core/"
+}

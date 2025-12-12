@@ -1,0 +1,11 @@
+{
+  "name": "sotoki",
+  "version": "3.0.0",
+  "summary": "Turn StackExchange dumps into ZIM files for offline usage",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "sotoki-3.0.0.tar.gz",
+  "download_time": "2025-12-12T09:53:02.866760",
+  "package_url": "https://pypi.org/project/sotoki/"
+}

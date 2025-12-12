@@ -1,11 +1,11 @@
 {
   "name": "apyds-bnf",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "BNF parser and unparsers for DS - conversion between lisp-like and traditional syntax",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apyds_bnf-0.0.5-py3-none-any.whl",
-  "download_time": "2025-12-10T19:02:57.748905",
+  "download_filename": "apyds_bnf-0.0.7-py3-none-any.whl",
+  "download_time": "2025-12-12T09:52:45.943888",
   "package_url": "https://pypi.org/project/apyds-bnf/"
 }

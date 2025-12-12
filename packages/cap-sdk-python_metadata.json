@@ -1,11 +1,11 @@
 {
   "name": "cap-sdk-python",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "summary": "CAP (Cortex Agent Protocol) Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cap_sdk_python-1.0.5.tar.gz",
-  "download_time": "2025-12-11T14:44:33.180863",
+  "download_filename": "cap_sdk_python-2.0.0.tar.gz",
+  "download_time": "2025-12-12T09:53:03.376798",
   "package_url": "https://pypi.org/project/cap-sdk-python/"
 }

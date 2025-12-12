@@ -1,0 +1,11 @@
+{
+  "name": "xenoverse",
+  "version": "0.1.10.0",
+  "summary": "Collection of xeno-world environments for meta-training of general-purpose learning agents (GLAs)",
+  "author": "WorldEditors",
+  "license": "Apache",
+  "home_page": "https://github.com/FutureAGI/xenoverse",
+  "download_filename": "xenoverse-0.1.10.0.tar.gz",
+  "download_time": "2025-12-12T09:52:36.338232",
+  "package_url": "https://pypi.org/project/xenoverse/"
+}

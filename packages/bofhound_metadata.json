@@ -1,0 +1,11 @@
+{
+  "name": "bofhound",
+  "version": "0.4.19",
+  "summary": "Parse output from common sources and transform it into BloodHound-ingestible data",
+  "author": "Adam Brown",
+  "license": null,
+  "home_page": "https://github.com/coffeegist/bofhound",
+  "download_filename": "bofhound-0.4.19.tar.gz",
+  "download_time": "2025-12-12T13:47:37.157791",
+  "package_url": "https://pypi.org/project/bofhound/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "assemblyline-ui",
+  "version": "4.6.0.23",
+  "summary": "Assemblyline 4 - API and Socket IO server",
+  "author": "CCCS Assemblyline development team",
+  "license": "MIT",
+  "home_page": "https://github.com/CybercentreCanada/assemblyline-ui/",
+  "download_filename": "assemblyline_ui-4.6.0.23-py3-none-any.whl",
+  "download_time": "2025-12-12T13:47:52.978537",
+  "package_url": "https://pypi.org/project/assemblyline-ui/"
+}

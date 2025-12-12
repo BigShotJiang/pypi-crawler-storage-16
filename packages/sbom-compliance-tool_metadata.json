@@ -1,0 +1,11 @@
+{
+  "name": "sbom-compliance-tool",
+  "version": "0.0.8",
+  "summary": "Tool to check license compliance for an SBOM.",
+  "author": "Henrik Sanklef",
+  "license": null,
+  "home_page": "https://github.com/hesa/sbom-compliance-tool",
+  "download_filename": "sbom_compliance_tool-0.0.8.tar.gz",
+  "download_time": "2025-12-12T13:47:22.541631",
+  "package_url": "https://pypi.org/project/sbom-compliance-tool/"
+}

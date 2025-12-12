@@ -1,11 +1,11 @@
 {
   "name": "sortition-algorithms",
-  "version": "0.10.20",
+  "version": "0.10.21",
   "summary": "A package containing algorithms for sortition - democratic lotteries.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sortition_algorithms-0.10.20.tar.gz",
-  "download_time": "2025-12-10T13:50:08.733432",
+  "download_filename": "sortition_algorithms-0.10.21.tar.gz",
+  "download_time": "2025-12-12T13:47:45.539242",
   "package_url": "https://pypi.org/project/sortition-algorithms/"
 }

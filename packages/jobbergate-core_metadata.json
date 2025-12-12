@@ -1,0 +1,11 @@
+{
+  "name": "jobbergate-core",
+  "version": "5.8.0",
+  "summary": "Jobbergate Core",
+  "author": "Omnivector Solutions",
+  "license": "MIT",
+  "home_page": "https://github.com/omnivector-solutions/jobbergate",
+  "download_filename": "jobbergate_core-5.8.0.tar.gz",
+  "download_time": "2025-12-12T13:47:24.105080",
+  "package_url": "https://pypi.org/project/jobbergate-core/"
+}

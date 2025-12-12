@@ -1,11 +1,11 @@
 {
   "name": "trytoncommunity-edocument-es-facturae",
-  "version": "7.6.4",
+  "version": "7.6.5",
   "summary": "Tryton module for electronic document Facturae (Spanish)",
   "author": "KOPEN SOFTWARE",
   "license": "GPL-3",
   "home_page": "https://www.kopen.es/",
-  "download_filename": "trytoncommunity_edocument_es_facturae-7.6.4.tar.gz",
-  "download_time": "2025-12-09T12:26:57.031573",
+  "download_filename": "trytoncommunity_edocument_es_facturae-7.6.5.tar.gz",
+  "download_time": "2025-12-12T13:47:41.894197",
   "package_url": "https://pypi.org/project/trytoncommunity-edocument-es-facturae/"
 }

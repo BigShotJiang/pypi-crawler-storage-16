@@ -1,0 +1,11 @@
+{
+  "name": "ir_amplitude_detuning",
+  "version": "1.0.0",
+  "summary": "Python tools to correct amplitude detuning in the insertion regions of a particle accelerator.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ir_amplitude_detuning-1.0.0.tar.gz",
+  "download_time": "2025-12-12T13:47:40.337362",
+  "package_url": "https://pypi.org/project/ir_amplitude_detuning/"
+}

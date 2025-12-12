@@ -1,11 +1,11 @@
 {
   "name": "procvision-algorithm-sdk",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "ProcVision algorithm SDK",
   "author": "ProcVision Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "procvision_algorithm_sdk-0.0.4.tar.gz",
-  "download_time": "2025-12-12T03:59:07.511489",
+  "download_filename": "procvision_algorithm_sdk-0.0.5.tar.gz",
+  "download_time": "2025-12-12T13:47:44.486769",
   "package_url": "https://pypi.org/project/procvision-algorithm-sdk/"
 }

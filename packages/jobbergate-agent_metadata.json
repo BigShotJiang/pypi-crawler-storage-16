@@ -1,0 +1,11 @@
+{
+  "name": "jobbergate-agent",
+  "version": "5.8.0",
+  "summary": "Jobbergate Agent",
+  "author": "Omnivector Solutions",
+  "license": "MIT",
+  "home_page": "https://github.com/omnivector-solutions/jobbergate",
+  "download_filename": "jobbergate_agent-5.8.0.tar.gz",
+  "download_time": "2025-12-12T13:47:26.197660",
+  "package_url": "https://pypi.org/project/jobbergate-agent/"
+}

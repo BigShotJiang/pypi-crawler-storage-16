@@ -1,0 +1,11 @@
+{
+  "name": "pygambit",
+  "version": "16.4.0",
+  "summary": "The package for computation in game theory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygambit-16.4.0.tar.gz",
+  "download_time": "2025-12-12T13:47:36.637518",
+  "package_url": "https://pypi.org/project/pygambit/"
+}

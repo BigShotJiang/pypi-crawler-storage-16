@@ -1,0 +1,11 @@
+{
+  "name": "assemblyline-service-server",
+  "version": "4.6.0.23",
+  "summary": "Assemblyline 4 - Service Server",
+  "author": "CCCS Assemblyline development team",
+  "license": "MIT",
+  "home_page": "https://github.com/CybercentreCanada/assemblyline-service-server/",
+  "download_filename": "assemblyline_service_server-4.6.0.23-py3-none-any.whl",
+  "download_time": "2025-12-12T13:47:53.515115",
+  "package_url": "https://pypi.org/project/assemblyline-service-server/"
+}

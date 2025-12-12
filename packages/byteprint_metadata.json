@@ -1,11 +1,11 @@
 {
   "name": "byteprint",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "summary": "字节跳动风格延迟逐元素打印库，支持字符串/容器，毫秒/秒模式切换 | ByteDance-style delayed element-wise printing library",
   "author": "nousername",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "byteprint-1.2.5.tar.gz",
-  "download_time": "2025-12-10T13:50:10.813754",
+  "download_filename": "byteprint-1.2.6.tar.gz",
+  "download_time": "2025-12-12T13:47:34.019180",
   "package_url": "https://pypi.org/project/byteprint/"
 }

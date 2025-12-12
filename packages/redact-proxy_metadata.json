@@ -1,11 +1,11 @@
 {
   "name": "redact-proxy",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "The ngrok for PHI. HIPAA-compliant wrappers for LLM APIs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "redact_proxy-0.1.2.tar.gz",
-  "download_time": "2025-12-12T03:58:43.755099",
+  "download_filename": "redact_proxy-0.1.4.tar.gz",
+  "download_time": "2025-12-12T13:47:48.150672",
   "package_url": "https://pypi.org/project/redact-proxy/"
 }

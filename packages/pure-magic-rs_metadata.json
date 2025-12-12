@@ -1,0 +1,11 @@
+{
+  "name": "pure-magic-rs",
+  "version": "0.2.3",
+  "summary": "Python bindings for pure-magic crate, a pure Rust re-implementation of libmagic",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pure_magic_rs-0.2.3.tar.gz",
+  "download_time": "2025-12-12T13:47:55.619783",
+  "package_url": "https://pypi.org/project/pure-magic-rs/"
+}

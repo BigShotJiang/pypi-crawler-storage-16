@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-zitadel-auth",
+  "version": "0.3.0",
+  "summary": "Zitadel authentication for FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_zitadel_auth-0.3.0.tar.gz",
+  "download_time": "2025-12-12T13:47:50.844228",
+  "package_url": "https://pypi.org/project/fastapi-zitadel-auth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hmd-graphql-client",
+  "version": "0.1.169",
+  "summary": "A client for the graphql servers.",
+  "author": "Jim Majure",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "hmd_graphql_client-0.1.169-py3-none-any.whl",
+  "download_time": "2025-12-12T22:14:28.270222",
+  "package_url": "https://pypi.org/project/hmd-graphql-client/"
+}

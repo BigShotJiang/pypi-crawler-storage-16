@@ -1,11 +1,11 @@
 {
   "name": "inference-cpu",
-  "version": "0.62.4",
+  "version": "0.62.5",
   "summary": "With no prior knowledge of machine learning or device-specific deployment, you can deploy a computer vision model to a range of devices and environments using Roboflow Inference.",
   "author": "Roboflow",
   "license": null,
   "home_page": "https://github.com/roboflow/inference",
-  "download_filename": "inference_cpu-0.62.4-py3-none-any.whl",
-  "download_time": "2025-12-10T07:53:17.458381",
+  "download_filename": "inference_cpu-0.62.5-py3-none-any.whl",
+  "download_time": "2025-12-12T22:14:57.423511",
   "package_url": "https://pypi.org/project/inference-cpu/"
 }

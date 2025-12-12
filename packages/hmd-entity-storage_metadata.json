@@ -1,0 +1,11 @@
+{
+  "name": "hmd-entity-storage",
+  "version": "0.2.315",
+  "summary": "basic storage library for entities and entity definitions",
+  "author": "Alex Burgoon",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "hmd_entity_storage-0.2.315-py3-none-any.whl",
+  "download_time": "2025-12-12T22:14:29.983813",
+  "package_url": "https://pypi.org/project/hmd-entity-storage/"
+}

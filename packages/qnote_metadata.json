@@ -1,11 +1,11 @@
 {
   "name": "qnote",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A terminal-based, local-first, note-taking app powered by Textual",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qnote-0.1.4.tar.gz",
-  "download_time": "2025-12-10T23:12:33.689173",
+  "download_filename": "qnote-0.1.5.tar.gz",
+  "download_time": "2025-12-12T22:15:05.570054",
   "package_url": "https://pypi.org/project/qnote/"
 }

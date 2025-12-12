@@ -1,0 +1,11 @@
+{
+  "name": "tachyon-engine",
+  "version": "0.1.0",
+  "summary": "High-performance ASGI framework - Rust-powered alternative to Starlette",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tachyon_engine-0.1.0.tar.gz",
+  "download_time": "2025-12-12T22:14:33.923990",
+  "package_url": "https://pypi.org/project/tachyon-engine/"
+}

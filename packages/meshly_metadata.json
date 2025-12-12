@@ -1,0 +1,11 @@
+{
+  "name": "meshly",
+  "version": "1.0.9",
+  "summary": "High-level abstractions and utilities for working with meshoptimizer",
+  "author": "Open Orion",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "meshly-1.0.9.tar.gz",
+  "download_time": "2025-12-12T22:14:38.393996",
+  "package_url": "https://pypi.org/project/meshly/"
+}

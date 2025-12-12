@@ -1,11 +1,11 @@
 {
   "name": "scrapbox-client",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Scrapbox (Helpfeel Cosense) API Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scrapbox_client-0.0.2.tar.gz",
-  "download_time": "2025-12-12T19:41:35.206567",
+  "download_filename": "scrapbox_client-0.0.3.tar.gz",
+  "download_time": "2025-12-12T22:15:01.746713",
   "package_url": "https://pypi.org/project/scrapbox-client/"
 }

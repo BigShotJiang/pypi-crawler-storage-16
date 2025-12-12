@@ -1,0 +1,11 @@
+{
+  "name": "luxtelligence-lnoi400-forge",
+  "version": "1.4.0",
+  "summary": "Luxtelligence LNOI400 PDK implementation for PhotonForge",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "luxtelligence_lnoi400_forge-1.4.0.tar.gz",
+  "download_time": "2025-12-12T22:14:50.913766",
+  "package_url": "https://pypi.org/project/luxtelligence-lnoi400-forge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jcm",
+  "version": "1.0.0",
+  "summary": "JAX-based General Circulation Model",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "jcm-1.0.0.tar.gz",
+  "download_time": "2025-12-12T22:14:52.012351",
+  "package_url": "https://pypi.org/project/jcm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ry",
+  "version": "0.0.73",
+  "summary": "ry = rust + python",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/jessekrubin/ry",
+  "download_filename": "ry-0.0.73.tar.gz",
+  "download_time": "2025-12-12T22:14:28.859666",
+  "package_url": "https://pypi.org/project/ry/"
+}

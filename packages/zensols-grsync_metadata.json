@@ -1,0 +1,11 @@
+{
+  "name": "zensols-grsync",
+  "version": "1.0.1",
+  "summary": "This program captures your home directory and synchronize it with another host using Git repo metadata, symbolic links and persisted files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zensols_grsync-1.0.1-py3-none-any.whl",
+  "download_time": "2025-12-12T22:14:32.729735",
+  "package_url": "https://pypi.org/project/zensols-grsync/"
+}

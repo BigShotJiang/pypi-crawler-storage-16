@@ -1,0 +1,11 @@
+{
+  "name": "mlOpus",
+  "version": "1.6.0",
+  "summary": "MLOps tools for research and development.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mlopus-1.6.0.tar.gz",
+  "download_time": "2025-12-12T22:14:48.700219",
+  "package_url": "https://pypi.org/project/mlOpus/"
+}

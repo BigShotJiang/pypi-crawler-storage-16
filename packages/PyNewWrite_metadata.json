@@ -1,11 +1,11 @@
 {
   "name": "PyNewWrite",
-  "version": "0.1.3a0",
+  "version": "0.2.0",
   "summary": "Новый спопоб вывода кода в Python",
   "author": "Sigard_Vinter",
   "license": null,
   "home_page": "https://github.com/EvgenEvkal",
-  "download_filename": "pynewwrite-0.1.3a0.tar.gz",
-  "download_time": "2025-12-12T21:49:42.055882",
+  "download_filename": "pynewwrite-0.2.0-py3-none-any.whl",
+  "download_time": "2025-12-12T22:14:18.760123",
   "package_url": "https://pypi.org/project/PyNewWrite/"
 }

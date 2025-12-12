@@ -1,11 +1,11 @@
 {
   "name": "pyoe2-craftpath",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A tool for Path of Exile 2 to find the best craftpaths based on the categories: *most likely, most efficient and cheapest*, between a starting item and a target item.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyoe2_craftpath-0.5.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-  "download_time": "2025-12-12T21:49:25.990458",
+  "download_filename": "pyoe2_craftpath-0.5.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-12-12T22:14:22.271290",
   "package_url": "https://pypi.org/project/pyoe2-craftpath/"
 }

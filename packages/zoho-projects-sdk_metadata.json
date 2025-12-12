@@ -1,11 +1,11 @@
 {
   "name": "zoho-projects-sdk",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A modern, asynchronous, and type-safe Python SDK for the Zoho Projects API V3.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zoho_projects_sdk-0.1.8.tar.gz",
-  "download_time": "2025-12-10T20:42:20.450810",
+  "download_filename": "zoho_projects_sdk-0.1.9.tar.gz",
+  "download_time": "2025-12-12T22:14:30.531832",
   "package_url": "https://pypi.org/project/zoho-projects-sdk/"
 }

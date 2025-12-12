@@ -1,11 +1,11 @@
 {
   "name": "PubChmAPI",
-  "version": "0.0.45",
+  "version": "0.0.47",
   "summary": "Simplifies interaction with the PubChem database via PUG-REST API.",
   "author": "Ahmed Alhilal",
   "license": "MIT",
   "home_page": "https://github.com/ahmed1212212/PubChmAPI",
-  "download_filename": "pubchmapi-0.0.45.tar.gz",
-  "download_time": "2025-12-12T21:49:32.557725",
+  "download_filename": "pubchmapi-0.0.47.tar.gz",
+  "download_time": "2025-12-12T22:14:37.297928",
   "package_url": "https://pypi.org/project/PubChmAPI/"
 }

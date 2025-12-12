@@ -1,11 +1,11 @@
 {
   "name": "pyfrontkit",
-  "version": "1.0.82",
+  "version": "1.0.84",
   "summary": "A Python tool to generate HTML and CSS with programmale syntax.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyfrontkit-1.0.82.tar.gz",
-  "download_time": "2025-12-12T21:49:45.729368",
+  "download_filename": "pyfrontkit-1.0.84.tar.gz",
+  "download_time": "2025-12-12T22:14:25.503519",
   "package_url": "https://pypi.org/project/pyfrontkit/"
 }

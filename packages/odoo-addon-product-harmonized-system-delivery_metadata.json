@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-harmonized-system-delivery",
+  "version": "19.0.1.0.0.3",
+  "summary": "Hide native hs_code field provided by the delivery module",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/intrastat-extrastat",
+  "download_filename": "odoo_addon_product_harmonized_system_delivery-19.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-12T10:43:40.118761",
+  "package_url": "https://pypi.org/project/odoo-addon-product-harmonized-system-delivery/"
+}

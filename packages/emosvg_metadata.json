@@ -1,11 +1,11 @@
 {
   "name": "emosvg",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": null,
   "author": "fllesser",
   "license": null,
   "home_page": null,
-  "download_filename": "emosvg-0.1.3.tar.gz",
-  "download_time": "2025-12-10T18:21:36.086093",
+  "download_filename": "emosvg-0.1.4.tar.gz",
+  "download_time": "2025-12-12T10:44:07.012885",
   "package_url": "https://pypi.org/project/emosvg/"
 }

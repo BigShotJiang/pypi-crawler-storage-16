@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-cancel-restrict",
+  "version": "19.0.1.0.0.2",
+  "summary": "Sale Cancel Restrict",
+  "author": "ForgeFlow,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_cancel_restrict-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-12T10:44:05.959342",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-cancel-restrict/"
+}

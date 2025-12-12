@@ -1,0 +1,11 @@
+{
+  "name": "zelll",
+  "version": "0.3.0rc0",
+  "summary": "Python bindings for zelll.",
+  "author": "Vincent Messow <vincent.messow@uni-jena.de>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zelll-0.3.0rc0.tar.gz",
+  "download_time": "2025-12-12T10:43:54.514810",
+  "package_url": "https://pypi.org/project/zelll/"
+}

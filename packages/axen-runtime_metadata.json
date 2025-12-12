@@ -1,11 +1,11 @@
 {
   "name": "axen-runtime",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Universal runtime for AI agents - Deploy any agent with one line of code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "axen_runtime-0.2.4.tar.gz",
-  "download_time": "2025-12-12T03:58:35.481021",
+  "download_filename": "axen_runtime-0.2.5.tar.gz",
+  "download_time": "2025-12-12T10:43:36.349813",
   "package_url": "https://pypi.org/project/axen-runtime/"
 }

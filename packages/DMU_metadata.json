@@ -1,0 +1,11 @@
+{
+  "name": "DMU",
+  "version": "0.4.0",
+  "summary": "This package is used to store commonly used functions on pip for the sake of easy pulling for other code. Features utilities for IV characterisation, lumerical data analysis and geometry instanciation, SEM stitching and other tools.",
+  "author": "Atli Vidar Már FLodgren",
+  "license": null,
+  "home_page": "https://github.com/DeltaMod/DMU",
+  "download_filename": "dmu-0.4.0.tar.gz",
+  "download_time": "2025-12-12T10:44:00.225266",
+  "package_url": "https://pypi.org/project/DMU/"
+}

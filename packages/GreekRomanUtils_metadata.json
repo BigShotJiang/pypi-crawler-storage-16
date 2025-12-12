@@ -1,0 +1,11 @@
+{
+  "name": "GreekRomanUtils",
+  "version": "1.0.4",
+  "summary": "The module converts Arabic numerals to Greek and Roman numbers",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "greekromanutils-1.0.4.tar.gz",
+  "download_time": "2025-12-12T10:43:31.049246",
+  "package_url": "https://pypi.org/project/GreekRomanUtils/"
+}

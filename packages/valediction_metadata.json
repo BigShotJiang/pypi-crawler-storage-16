@@ -1,0 +1,11 @@
+{
+  "name": "valediction",
+  "version": "1.1.0",
+  "summary": "Valediction is a convenience data validation package that allows generation, import, and constraint enforcement of user-defined data dictionaries against datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "valediction-1.1.0.tar.gz",
+  "download_time": "2025-12-12T10:43:58.144474",
+  "package_url": "https://pypi.org/project/valediction/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dnsstamps",
+  "version": "1.4.1",
+  "summary": "Create and parse DNS stamps with ease.",
+  "author": "Christian Hofer",
+  "license": null,
+  "home_page": "https://github.com/chrisss404/python-dnsstamps",
+  "download_filename": "dnsstamps-1.4.1.tar.gz",
+  "download_time": "2025-12-12T10:44:16.489091",
+  "package_url": "https://pypi.org/project/dnsstamps/"
+}

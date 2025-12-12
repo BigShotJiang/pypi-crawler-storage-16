@@ -1,11 +1,11 @@
 {
   "name": "artifact-experiment",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Artifact-ML experiment orchestration: declarative builder toolkit for reusable validation workflows with integrated tracking.",
   "author": "Vasileios Ektor Papoulias",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "artifact_experiment-0.1.8.tar.gz",
-  "download_time": "2025-12-11T23:14:20.389725",
+  "download_filename": "artifact_experiment-0.1.9.tar.gz",
+  "download_time": "2025-12-12T10:43:44.794605",
   "package_url": "https://pypi.org/project/artifact-experiment/"
 }

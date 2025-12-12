@@ -1,0 +1,11 @@
+{
+  "name": "selcraft",
+  "version": "0.1.0",
+  "summary": "Python tool for generating selinux-policy packages to enable cross-environment communication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "selcraft-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-12T10:44:07.533537",
+  "package_url": "https://pypi.org/project/selcraft/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyckster",
+  "version": "25.12.1",
+  "summary": "A PyQt5-based GUI for picking seismic traveltimes",
+  "author": "Sylvain Pasquet",
+  "license": "GPLv3",
+  "home_page": "https://gitlab.in2p3.fr/metis-geophysics/pyckster",
+  "download_filename": "pyckster-25.12.1.tar.gz",
+  "download_time": "2025-12-12T15:16:29.166777",
+  "package_url": "https://pypi.org/project/pyckster/"
+}

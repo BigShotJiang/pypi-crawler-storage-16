@@ -1,0 +1,11 @@
+{
+  "name": "fias-public-api",
+  "version": "1.0.2",
+  "summary": "Python client for FIAS Public API - Russian address database",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fias_public_api-1.0.2.tar.gz",
+  "download_time": "2025-12-12T15:17:01.270161",
+  "package_url": "https://pypi.org/project/fias-public-api/"
+}

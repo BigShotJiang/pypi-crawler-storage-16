@@ -1,0 +1,11 @@
+{
+  "name": "eledubby",
+  "version": "1.0.5",
+  "summary": "Voice dubbing tool using ElevenLabs API for speech-to-speech conversion",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eledubby-1.0.5.tar.gz",
+  "download_time": "2025-12-12T15:16:30.205691",
+  "package_url": "https://pypi.org/project/eledubby/"
+}

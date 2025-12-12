@@ -1,0 +1,11 @@
+{
+  "name": "solarchive",
+  "version": "0.0.1",
+  "summary": "Python SDK for accessing Solana blockchain data from solarchive.org - free Parquet datasets of transactions, accounts, and tokens",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "solarchive-0.0.1.tar.gz",
+  "download_time": "2025-12-12T15:16:42.851924",
+  "package_url": "https://pypi.org/project/solarchive/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pisek",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Tool for developing tasks for programming competitions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pisek-2.2.0.tar.gz",
-  "download_time": "2025-12-10T19:42:30.807278",
+  "download_filename": "pisek-2.2.1.tar.gz",
+  "download_time": "2025-12-12T15:16:41.239773",
   "package_url": "https://pypi.org/project/pisek/"
 }

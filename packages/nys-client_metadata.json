@@ -1,0 +1,11 @@
+{
+  "name": "nys-client",
+  "version": "0.2.0",
+  "summary": "Python client library for the Noyes API",
+  "author": "Noyes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nys_client-0.2.0.tar.gz",
+  "download_time": "2025-12-12T15:16:53.935540",
+  "package_url": "https://pypi.org/project/nys-client/"
+}

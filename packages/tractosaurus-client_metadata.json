@@ -1,11 +1,11 @@
 {
   "name": "tractosaurus-client",
-  "version": "0.13.36.post20251212133804",
+  "version": "0.13.36.post20251212151508",
   "summary": "Python client for TractoAI.",
   "author": "TractoAI team",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "tractosaurus_client-0.13.36.post20251212133804-py2.py3-none-any.whl",
-  "download_time": "2025-12-12T13:47:39.770434",
+  "download_filename": "tractosaurus_client-0.13.36.post20251212151508-py2.py3-none-any.whl",
+  "download_time": "2025-12-12T15:16:11.681780",
   "package_url": "https://pypi.org/project/tractosaurus-client/"
 }

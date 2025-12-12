@@ -1,0 +1,11 @@
+{
+  "name": "sortinghat-eclipse-foundation",
+  "version": "0.2.2",
+  "summary": "SortingHat backend to import identities from the Eclipse Foundation",
+  "author": "Bitergia Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sortinghat_eclipse_foundation-0.2.2.tar.gz",
+  "download_time": "2025-12-12T15:16:15.393687",
+  "package_url": "https://pypi.org/project/sortinghat-eclipse-foundation/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sortinghat-openinfra",
+  "version": "0.3.5",
+  "summary": "SortingHat backend to import identities from OpenInfraID",
+  "author": "Bitergia Developers",
+  "license": "GPL-3.0+",
+  "home_page": "https://chaoss.github.io/grimoirelab/",
+  "download_filename": "sortinghat_openinfra-0.3.5.tar.gz",
+  "download_time": "2025-12-12T15:16:23.408101",
+  "package_url": "https://pypi.org/project/sortinghat-openinfra/"
+}

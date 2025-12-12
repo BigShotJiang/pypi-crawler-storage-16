@@ -1,11 +1,11 @@
 {
   "name": "prowler",
-  "version": "5.15.0",
+  "version": "5.15.1",
   "summary": "Prowler is an Open Source security tool to perform AWS, GCP and Azure security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, NIST 800, NIST CSF, CISA, RBI, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, AWS Well-Architected Framework Security Pillar, AWS Foundational Technical Review (FTR), ENS (Spanish National Security Scheme) and your custom security frameworks.",
   "author": "Toni de la Fuente",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "prowler-5.15.0.tar.gz",
-  "download_time": "2025-12-11T14:44:45.318930",
+  "download_filename": "prowler-5.15.1.tar.gz",
+  "download_time": "2025-12-12T15:16:22.366088",
   "package_url": "https://pypi.org/project/prowler/"
 }

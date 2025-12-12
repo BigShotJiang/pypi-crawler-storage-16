@@ -1,0 +1,11 @@
+{
+  "name": "pyscn-mcp",
+  "version": "1.5.1",
+  "summary": "MCP (Model Context Protocol) server for pyscn Python code analyzer",
+  "author": "DaisukeYoda",
+  "license": "MIT",
+  "home_page": "https://github.com/ludo-technologies/pyscn",
+  "download_filename": "pyscn_mcp-1.5.1-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-12T15:16:34.958364",
+  "package_url": "https://pypi.org/project/pyscn-mcp/"
+}

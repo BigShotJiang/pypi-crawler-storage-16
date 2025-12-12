@@ -1,0 +1,11 @@
+{
+  "name": "openadapt-privacy",
+  "version": "0.1.0",
+  "summary": "Privacy scrubbing for GUI automation data - PII/PHI detection and redaction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openadapt_privacy-0.1.0.tar.gz",
+  "download_time": "2025-12-12T15:16:49.739471",
+  "package_url": "https://pypi.org/project/openadapt-privacy/"
+}

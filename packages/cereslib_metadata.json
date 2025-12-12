@@ -1,11 +1,11 @@
 {
   "name": "cereslib",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "GrimoireLab: Unify, eventize and enrich information from Perceval",
   "author": "GrimoireLab Developers",
   "license": "GPL-3.0+",
   "home_page": "https://chaoss.github.io/grimoirelab/",
-  "download_filename": "cereslib-1.1.4.tar.gz",
-  "download_time": "2025-12-09T10:47:13.101177",
+  "download_filename": "cereslib-1.1.5.tar.gz",
+  "download_time": "2025-12-12T11:50:58.145585",
   "package_url": "https://pypi.org/project/cereslib/"
 }

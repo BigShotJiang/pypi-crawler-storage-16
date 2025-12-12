@@ -1,11 +1,11 @@
 {
   "name": "kidash",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "GrimoireLab script to manage Kibana dashboards from the command line",
   "author": "GrimoireLab Developers",
   "license": "GPL-3.0+",
   "home_page": "https://chaoss.github.io/grimoirelab/",
-  "download_filename": "kidash-1.1.4.tar.gz",
-  "download_time": "2025-12-12T11:02:36.474147",
+  "download_filename": "kidash-1.1.5.tar.gz",
+  "download_time": "2025-12-12T11:51:06.558472",
   "package_url": "https://pypi.org/project/kidash/"
 }

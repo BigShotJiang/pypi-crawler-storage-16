@@ -1,0 +1,11 @@
+{
+  "name": "fastdigest",
+  "version": "0.9.2",
+  "summary": "A fast t-digest library for Python built on Rust.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastdigest-0.9.2.tar.gz",
+  "download_time": "2025-12-12T11:50:58.729043",
+  "package_url": "https://pypi.org/project/fastdigest/"
+}

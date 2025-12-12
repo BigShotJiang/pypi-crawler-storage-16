@@ -1,0 +1,11 @@
+{
+  "name": "sequifier",
+  "version": "1.0.0.4",
+  "summary": "Train a transformer model with the command line",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "sequifier-1.0.0.4.tar.gz",
+  "download_time": "2025-12-12T11:50:59.765662",
+  "package_url": "https://pypi.org/project/sequifier/"
+}

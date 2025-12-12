@@ -1,0 +1,11 @@
+{
+  "name": "llmtrace-lite",
+  "version": "0.0.1",
+  "summary": "Zero-config decorator for tracing LLM calls",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmtrace_lite-0.0.1.tar.gz",
+  "download_time": "2025-12-12T11:50:43.371290",
+  "package_url": "https://pypi.org/project/llmtrace-lite/"
+}

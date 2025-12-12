@@ -1,11 +1,11 @@
 {
   "name": "viasckde",
-  "version": "0.1.7",
+  "version": "1.0.0",
   "summary": "VIASCKDE: internal cluster validity index (KDE-weighted compactness & separation)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "viasckde-0.1.7.tar.gz",
-  "download_time": "2025-12-12T11:34:06.899944",
+  "download_filename": "viasckde-1.0.0.tar.gz",
+  "download_time": "2025-12-12T11:50:41.705015",
   "package_url": "https://pypi.org/project/viasckde/"
 }

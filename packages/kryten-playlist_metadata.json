@@ -1,0 +1,11 @@
+{
+  "name": "kryten-playlist",
+  "version": "0.1.1",
+  "summary": "Kryten playlist management service - handles video queue and playlist operations",
+  "author": "Kryten Robot Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kryten_playlist-0.1.1.tar.gz",
+  "download_time": "2025-12-12T11:50:38.639030",
+  "package_url": "https://pypi.org/project/kryten-playlist/"
+}

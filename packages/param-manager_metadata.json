@@ -1,0 +1,11 @@
+{
+  "name": "param-manager",
+  "version": "0.3.0",
+  "summary": "Biblioteca para gerenciamento de parâmetros com padrão Singleton,cache e armazenamento local usando TinyDB.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "param_manager-0.3.0.tar.gz",
+  "download_time": "2025-12-12T11:51:02.366465",
+  "package_url": "https://pypi.org/project/param-manager/"
+}

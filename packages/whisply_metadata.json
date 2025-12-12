@@ -1,0 +1,11 @@
+{
+  "name": "whisply",
+  "version": "0.13.0",
+  "summary": "\"Transcribe, translate, annotate and subtitle audio and video files with OpenAI's Whisper ... fast!\"",
+  "author": "Thomas Schmidt, Renat Shigapov",
+  "license": "MIT",
+  "home_page": "https://github.com/tsmdt/whisply",
+  "download_filename": "whisply-0.13.0.tar.gz",
+  "download_time": "2025-12-12T11:50:49.097229",
+  "package_url": "https://pypi.org/project/whisply/"
+}

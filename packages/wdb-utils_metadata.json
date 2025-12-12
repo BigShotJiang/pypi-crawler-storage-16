@@ -1,11 +1,11 @@
 {
   "name": "wdb-utils",
-  "version": "3.7.1",
+  "version": "3.7.3",
   "summary": "Utilities for querying and loading data into an Oracle, Snowflake, or Postgres database.",
   "author": "Courtney Wade",
   "license": null,
   "home_page": null,
-  "download_filename": "wdb_utils-3.7.1.tar.gz",
-  "download_time": "2025-12-11T22:15:09.570370",
+  "download_filename": "wdb_utils-3.7.3.tar.gz",
+  "download_time": "2025-12-12T11:50:37.617533",
   "package_url": "https://pypi.org/project/wdb-utils/"
 }

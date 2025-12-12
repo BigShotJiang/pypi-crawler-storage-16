@@ -1,11 +1,11 @@
 {
   "name": "bvhTools",
-  "version": "1.4.1",
+  "version": "1.4.3",
   "summary": "Easy to use package to work with BVH (BioVision Hierarchy) files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bvhtools-1.4.1-py3-none-any.whl",
-  "download_time": "2025-12-11T15:47:11.945170",
+  "download_filename": "bvhtools-1.4.3-py3-none-any.whl",
+  "download_time": "2025-12-12T11:50:56.093796",
   "package_url": "https://pypi.org/project/bvhTools/"
 }

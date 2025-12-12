@@ -1,11 +1,11 @@
 {
   "name": "tala",
-  "version": "29.4.2",
+  "version": "29.5.0",
   "summary": "Design dialogue domain descriptions (DDDs) for TDM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tala-29.4.2.tar.gz",
-  "download_time": "2025-12-09T12:26:35.920465",
+  "download_filename": "tala-29.5.0.tar.gz",
+  "download_time": "2025-12-12T11:14:51.621873",
   "package_url": "https://pypi.org/project/tala/"
 }

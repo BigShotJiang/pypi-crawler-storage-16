@@ -1,11 +1,11 @@
 {
   "name": "robotframework",
-  "version": "7.3.2",
+  "version": "7.4",
   "summary": "Generic automation framework for acceptance testing and robotic process automation (RPA)",
   "author": "Pekka Klärck",
   "license": "Apache License 2.0",
   "home_page": "https://robotframework.org",
-  "download_filename": "robotframework-7.3.2.tar.gz",
-  "download_time": "2025-12-09T20:33:07.089428",
+  "download_filename": "robotframework-7.4.tar.gz",
+  "download_time": "2025-12-12T11:14:50.595555",
   "package_url": "https://pypi.org/project/robotframework/"
 }

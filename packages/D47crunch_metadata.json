@@ -1,0 +1,11 @@
+{
+  "name": "D47crunch",
+  "version": "2.4.5",
+  "summary": "Standardization and analytical error propagation of Δ47 and Δ48 clumped-isotope measurements",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "d47crunch-2.4.5.tar.gz",
+  "download_time": "2025-12-12T11:14:52.666023",
+  "package_url": "https://pypi.org/project/D47crunch/"
+}

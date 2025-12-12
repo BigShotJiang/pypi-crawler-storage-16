@@ -1,0 +1,11 @@
+{
+  "name": "oxygent",
+  "version": "1.0.9",
+  "summary": "Multi-Agent Collaboration Framework",
+  "author": "jd-oxygen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oxygent-1.0.9.tar.gz",
+  "download_time": "2025-12-12T11:15:07.337117",
+  "package_url": "https://pypi.org/project/oxygent/"
+}

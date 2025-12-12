@@ -1,11 +1,11 @@
 {
   "name": "load_market_data",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "load_market_data-0.3.5-cp312-cp312-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-12-12T11:03:05.908789",
+  "download_filename": "load_market_data-0.3.6-cp312-cp312-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-12-12T11:14:53.724697",
   "package_url": "https://pypi.org/project/load_market_data/"
 }

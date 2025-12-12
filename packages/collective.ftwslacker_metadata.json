@@ -1,0 +1,11 @@
+{
+  "name": "collective.ftwslacker",
+  "version": "2.0.0a1",
+  "summary": "Uses webhooks to post messages into a slack channel.",
+  "author": "4teamwork AG",
+  "license": "GPL2",
+  "home_page": "https://github.com/collective/collective.ftwslacker",
+  "download_filename": "collective_ftwslacker-2.0.0a1.tar.gz",
+  "download_time": "2025-12-12T11:14:57.426358",
+  "package_url": "https://pypi.org/project/collective.ftwslacker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dt-sbom-scanner",
+  "version": "1.8.0",
+  "summary": "Dependency Track SBOM Scanner",
+  "author": "Pierre Smeyers",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/to-be-continuous/tools/dt-sbom-scanner",
+  "download_filename": "dt_sbom_scanner-1.8.0.tar.gz",
+  "download_time": "2025-12-12T11:14:53.177430",
+  "package_url": "https://pypi.org/project/dt-sbom-scanner/"
+}

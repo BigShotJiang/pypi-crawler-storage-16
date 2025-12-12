@@ -1,11 +1,11 @@
 {
   "name": "github-backup",
-  "version": "0.56.0",
+  "version": "0.57.0",
   "summary": "backup a github user or organization",
   "author": "Jose Diaz-Gonzalez",
   "license": "MIT",
   "home_page": "http://github.com/josegonzalez/python-github-backup",
-  "download_filename": "github_backup-0.56.0.tar.gz",
-  "download_time": "2025-12-11T17:21:30.396325",
+  "download_filename": "github_backup-0.57.0.tar.gz",
+  "download_time": "2025-12-12T11:14:55.815148",
   "package_url": "https://pypi.org/project/github-backup/"
 }

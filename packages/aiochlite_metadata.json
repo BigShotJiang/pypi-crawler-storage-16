@@ -1,11 +1,11 @@
 {
   "name": "aiochlite",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "Lightweight asynchronous ClickHouse client for Python built on asyncio.",
   "author": "darkstussy",
   "license": null,
   "home_page": null,
-  "download_filename": "aiochlite-0.0.1.tar.gz",
-  "download_time": "2025-12-11T17:53:30.794654",
+  "download_filename": "aiochlite-0.1.0.tar.gz",
+  "download_time": "2025-12-12T22:52:26.502100",
   "package_url": "https://pypi.org/project/aiochlite/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mcli-framework",
-  "version": "7.19.16",
-  "summary": "Universal script runner with intelligent tab completion. Run any Python/Shell/Jupyter script directly with mcli run ./script.py, or register as versioned workflows for scheduling and sharing.",
+  "version": "7.20.0",
+  "summary": "Portable workflow framework - transform any script into a versioned, schedulable command. Store in ~/.mcli/workflows/, version with lockfile, run as daemon or cron job.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcli_framework-7.19.16.tar.gz",
-  "download_time": "2025-12-10T10:45:19.880453",
+  "download_filename": "mcli_framework-7.20.0.tar.gz",
+  "download_time": "2025-12-12T22:52:22.277164",
   "package_url": "https://pypi.org/project/mcli-framework/"
 }

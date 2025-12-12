@@ -1,11 +1,11 @@
 {
   "name": "vim-eof-comment",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Adds Vim EOF comments for given filetypes in given directories",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vim_eof_comment-0.1.11.tar.gz",
-  "download_time": "2025-12-12T22:14:55.261116",
+  "download_filename": "vim_eof_comment-0.1.12.tar.gz",
+  "download_time": "2025-12-12T22:52:28.588586",
   "package_url": "https://pypi.org/project/vim-eof-comment/"
 }

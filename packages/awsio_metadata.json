@@ -1,0 +1,11 @@
+{
+  "name": "awsio",
+  "version": "0.2.0",
+  "summary": "Utilities library for read/write operations and general data cleaning routines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "awsio-0.2.0.tar.gz",
+  "download_time": "2025-12-12T17:52:25.024869",
+  "package_url": "https://pypi.org/project/awsio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qcodes",
+  "version": "0.54.4",
+  "summary": "Python-based data acquisition framework developed by the Copenhagen / Delft / Sydney / Microsoft quantum computing consortium",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qcodes-0.54.4.tar.gz",
+  "download_time": "2025-12-12T17:52:51.273313",
+  "package_url": "https://pypi.org/project/qcodes/"
+}

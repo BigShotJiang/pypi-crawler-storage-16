@@ -1,0 +1,11 @@
+{
+  "name": "vector-lake",
+  "version": "0.0.5",
+  "summary": "S3 vector database for bigdata",
+  "author": "Alexander Miasoiedov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vector_lake-0.0.5.tar.gz",
+  "download_time": "2025-12-12T17:52:55.642824",
+  "package_url": "https://pypi.org/project/vector-lake/"
+}

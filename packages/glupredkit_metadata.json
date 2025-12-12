@@ -1,0 +1,11 @@
+{
+  "name": "glupredkit",
+  "version": "1.0.25",
+  "summary": "GluPredKit aims to make blood glucose model training and prediction more accessible.",
+  "author": "Miriam K. Wolff",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "glupredkit-1.0.25.tar.gz",
+  "download_time": "2025-12-12T17:52:50.213516",
+  "package_url": "https://pypi.org/project/glupredkit/"
+}

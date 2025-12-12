@@ -1,0 +1,11 @@
+{
+  "name": "awsiotsdk",
+  "version": "1.27.0",
+  "summary": "AWS IoT SDK based on the AWS Common Runtime",
+  "author": "AWS SDK Common Runtime Team",
+  "license": "License :: OSI Approved :: Apache Software License",
+  "home_page": "https://github.com/aws/aws-iot-device-sdk-python-v2",
+  "download_filename": "awsiotsdk-1.27.0.tar.gz",
+  "download_time": "2025-12-12T17:52:49.124431",
+  "package_url": "https://pypi.org/project/awsiotsdk/"
+}

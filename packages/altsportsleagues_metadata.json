@@ -1,0 +1,11 @@
+{
+  "name": "altsportsleagues",
+  "version": "1.0.0",
+  "summary": "Python SDK for AltSportsLeagues platform - enabling league owners to get compliant and onboarded with sportsbooks",
+  "author": "AltSportsLeagues.ai",
+  "license": "MIT",
+  "home_page": "https://github.com/altsportsleagues/altsportsleagues-python",
+  "download_filename": "altsportsleagues-1.0.0.tar.gz",
+  "download_time": "2025-12-12T17:53:01.002848",
+  "package_url": "https://pypi.org/project/altsportsleagues/"
+}

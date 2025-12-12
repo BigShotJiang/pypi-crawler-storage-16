@@ -1,0 +1,11 @@
+{
+  "name": "shakepy",
+  "version": "0.1.0",
+  "summary": "A Shakepay API Interface for Python ",
+  "author": "quizque",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shakepy-0.1.0.tar.gz",
+  "download_time": "2025-12-12T17:52:23.187679",
+  "package_url": "https://pypi.org/project/shakepy/"
+}

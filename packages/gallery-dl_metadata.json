@@ -1,0 +1,11 @@
+{
+  "name": "gallery-dl",
+  "version": "1.31.0",
+  "summary": "Command-line program to download image galleries and collections from several image hosting sites",
+  "author": "Mike Fährmann",
+  "license": "GPL-2.0-only",
+  "home_page": "https://github.com/mikf/gallery-dl",
+  "download_filename": "gallery_dl-1.31.0.tar.gz",
+  "download_time": "2025-12-12T17:52:49.658412",
+  "package_url": "https://pypi.org/project/gallery-dl/"
+}

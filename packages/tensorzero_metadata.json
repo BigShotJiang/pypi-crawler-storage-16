@@ -1,11 +1,11 @@
 {
   "name": "tensorzero",
-  "version": "2025.12.0",
+  "version": "2025.12.1",
   "summary": "The Python client for TensorZero",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tensorzero-2025.12.0.tar.gz",
-  "download_time": "2025-12-11T20:17:29.184317",
+  "download_filename": "tensorzero-2025.12.1.tar.gz",
+  "download_time": "2025-12-12T17:52:17.659307",
   "package_url": "https://pypi.org/project/tensorzero/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hansken",
+  "version": "2025.12.12",
+  "summary": "Python API to the Hansken REST endpoint",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hansken-2025.12.12-py3-none-any.whl",
+  "download_time": "2025-12-12T17:36:57.636395",
+  "package_url": "https://pypi.org/project/hansken/"
+}

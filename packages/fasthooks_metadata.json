@@ -1,0 +1,11 @@
+{
+  "name": "fasthooks",
+  "version": "0.1.2",
+  "summary": "Delightful Claude Code hooks - FastAPI-like DX for building hooks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fasthooks-0.1.2.tar.gz",
+  "download_time": "2025-12-12T17:36:51.750505",
+  "package_url": "https://pypi.org/project/fasthooks/"
+}

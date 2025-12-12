@@ -1,11 +1,11 @@
 {
   "name": "conscious-bridge-reloaded",
-  "version": "2.0.2",
-  "summary": "Mobile AI Consciousness System for Android/Termux",
+  "version": "2.1.0",
+  "summary": "Mobile AI Consciousness System for Android/Termux - Evolution Ready v2.1.0",
   "author": "Rite of Renaissance",
   "license": null,
   "home_page": "https://github.com/riteofrenaissance/conscious-bridge-reloaded",
-  "download_filename": "conscious_bridge_reloaded-2.0.2.tar.gz",
-  "download_time": "2025-12-11T13:52:11.994012",
+  "download_filename": "conscious_bridge_reloaded-2.1.0.tar.gz",
+  "download_time": "2025-12-12T17:36:52.799830",
   "package_url": "https://pypi.org/project/conscious-bridge-reloaded/"
 }

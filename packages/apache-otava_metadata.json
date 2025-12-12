@@ -1,0 +1,11 @@
+{
+  "name": "apache-otava",
+  "version": "0.7.0",
+  "summary": "Apache Otava (Incubating): Change Detection for Continuous Performance Engineering",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "apache_otava-0.7.0.tar.gz",
+  "download_time": "2025-12-12T05:16:12.673801",
+  "package_url": "https://pypi.org/project/apache-otava/"
+}

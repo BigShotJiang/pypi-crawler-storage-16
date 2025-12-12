@@ -1,0 +1,11 @@
+{
+  "name": "galago-tools",
+  "version": "0.18.0",
+  "summary": "Open Source Lab Automation GRPC Library",
+  "author": "Science Corporation",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/sciencecorp/galago-tools",
+  "download_filename": "galago_tools-0.18.0.tar.gz",
+  "download_time": "2025-12-12T05:16:17.591526",
+  "package_url": "https://pypi.org/project/galago-tools/"
+}

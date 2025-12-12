@@ -1,0 +1,11 @@
+{
+  "name": "ical",
+  "version": "12.1.1",
+  "summary": "Python iCalendar implementation (rfc 2445)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ical-12.1.1.tar.gz",
+  "download_time": "2025-12-12T05:16:13.726796",
+  "package_url": "https://pypi.org/project/ical/"
+}

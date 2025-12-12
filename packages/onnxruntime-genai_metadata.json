@@ -1,11 +1,11 @@
 {
   "name": "onnxruntime-genai",
-  "version": "0.11.3",
+  "version": "0.11.4",
   "summary": "ONNX Runtime GenAI",
   "author": "Microsoft Corporation",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "onnxruntime_genai-0.11.3-cp310-cp310-macosx_12_0_arm64.whl",
-  "download_time": "2025-12-08T20:53:06.197240",
+  "download_filename": "onnxruntime_genai-0.11.4-cp310-cp310-macosx_12_0_arm64.whl",
+  "download_time": "2025-12-12T05:16:21.669098",
   "package_url": "https://pypi.org/project/onnxruntime-genai/"
 }

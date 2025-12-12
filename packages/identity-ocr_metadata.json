@@ -1,11 +1,11 @@
 {
   "name": "identity-ocr",
-  "version": "0.1.9",
+  "version": "0.1.14",
   "summary": "A robust Python library for extracting information from passports using OCR (Tesseract) and MRZ parsing.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "identity_ocr-0.1.9.tar.gz",
-  "download_time": "2025-12-12T04:56:07.678257",
+  "download_filename": "identity_ocr-0.1.14.tar.gz",
+  "download_time": "2025-12-12T05:16:11.079566",
   "package_url": "https://pypi.org/project/identity-ocr/"
 }

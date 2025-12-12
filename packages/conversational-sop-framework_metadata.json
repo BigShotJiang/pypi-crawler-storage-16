@@ -1,11 +1,11 @@
 {
   "name": "conversational-sop-framework",
-  "version": "0.1.90",
+  "version": "0.1.91",
   "summary": "YAML-driven workflow engine with AI agent integration for building conversational SOPs",
   "author": "Arvind Thangamani",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "conversational_sop_framework-0.1.90-py3-none-any.whl",
-  "download_time": "2025-12-11T13:14:01.306403",
+  "download_filename": "conversational_sop_framework-0.1.91-py3-none-any.whl",
+  "download_time": "2025-12-12T05:16:20.717116",
   "package_url": "https://pypi.org/project/conversational-sop-framework/"
 }

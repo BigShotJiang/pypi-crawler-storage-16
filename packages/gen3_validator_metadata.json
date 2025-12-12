@@ -1,0 +1,11 @@
+{
+  "name": "gen3_validator",
+  "version": "2.0.0",
+  "summary": "Comprehensive toolkit for resolving Gen3 JSON schemas, validating JSON metadata against schemas, and verifying linkage integrity between data nodes. Includes utilities for parsing Excel metadata templates, generating linkage configuration maps, orchestrating schema validation, and producing detailed validation reports and statistics",
+  "author": "JoshuaHarris391",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "gen3_validator-2.0.0.tar.gz",
+  "download_time": "2025-12-12T05:16:19.677048",
+  "package_url": "https://pypi.org/project/gen3_validator/"
+}

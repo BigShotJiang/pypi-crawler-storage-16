@@ -1,0 +1,11 @@
+{
+  "name": "algokit",
+  "version": "2.10.0",
+  "summary": "Algorand development kit command-line interface",
+  "author": "Algorand Foundation",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "algokit-2.10.0-py3-none-any.whl",
+  "download_time": "2025-12-12T05:16:13.199978",
+  "package_url": "https://pypi.org/project/algokit/"
+}

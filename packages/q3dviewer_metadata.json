@@ -1,0 +1,11 @@
+{
+  "name": "q3dviewer",
+  "version": "1.2.3",
+  "summary": "A library designed for quickly deploying a 3D viewer.",
+  "author": "Liu Yang",
+  "license": null,
+  "home_page": "https://github.com/scomup/q3dviewer",
+  "download_filename": "q3dviewer-1.2.3.tar.gz",
+  "download_time": "2025-12-12T05:16:26.145943",
+  "package_url": "https://pypi.org/project/q3dviewer/"
+}

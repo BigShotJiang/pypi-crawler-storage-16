@@ -1,24 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-12T23:32:41.950579
-- **Total Packages**: 85
-- **Total Size**: 27.1 MB
+- **Download Time**: 2025-12-12T23:45:35.357169
+- **Total Packages**: 86
+- **Total Size**: 17.73 MB
 
 ## Packages List
+- specify-extend
+- methodnetworkscan
+- browser-use
+- garak
+- pulumi-ec
+- sqlshell
+- kaqing
+- aioscraper
+- pulumi-aws-apigateway
+- rapids-singlecell
+- pulumi-docker
+- symscan
+- otoolbox
+- pulumi-github
+- pulumi-digitalocean
+- safeexecute
+- policyengine-us
+- convax
+- eventsource-py
+- qlat-utils
+- qlat-grid
+- qlat-cps
+- qlat
+- pulumi-fastly
+- pulumi-datadog
+- sauce-api-mcp
+- judo-framework
+- zeebgram
+- django-celery-email-reboot
+- pypomes-sob
+- nv-ingest
+- nv-ingest-client
+- pulumi-f5bigip
+- yt-dlp
+- nv-ingest-api
+- langchain-tavily
+- nexaroa
+- murmurai
+- pvcobra
+- pulumi-external
+- tailpyscss
+- eanalizer
 - runez
 - arcade-serve
 - clerrit
 - taupy-framework
 - windowjack
-- nexaroa
 - pulumi-databricks
 - pulumi-dnsimple
 - pulumi-dbtcloud
 - arcade-google-drive
 - django-ragamuffin
 - observabilipy
-- pulumi-aws-apigateway
 - pulumi-consul
 - pulumi-alicloud
 - vogel-video-analyzer
@@ -31,7 +71,6 @@
 - aoe2rec-py
 - modal
 - deep-rl-box
-- murmurai
 - pulumi-confluentcloud
 - code-scalpel
 - pretix-payment-fees
@@ -53,41 +92,3 @@
 - minijinja
 - beaker-gantry
 - biblemategui
-- safeexecute
-- streaming-sql-engine
-- zeebgram
-- pyfrontkit
-- kaqing
-- clserve
-- aoc-tiles
-- tauro
-- pulumi-auth0
-- flwr-nightly
-- katana-openapi-client
-- pulumi-artifactory
-- onnx-diagnostic
-- aenet-gpr
-- langgraph
-- docex
-- pulumi-kubernetes
-- pdnd-python-client
-- grew-tse
-- fenix-mcp
-- pulumi-archive
-- ivoryos
-- fastapi-ronin
-- volviz
-- ommlds-rs
-- omdev-cli
-- omextra-cext
-- omdev-rs
-- ominfra
-- omdev-cext
-- omextra
-- ommlds
-- arcgispro_ai
-- omlish-cext
-- omlish
-- omdev
-- omserv
-- nominal-api-protos

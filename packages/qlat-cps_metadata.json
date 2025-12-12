@@ -1,0 +1,11 @@
+{
+  "name": "qlat-cps",
+  "version": "0.84",
+  "summary": "Qlattice interface of some functions from CPS",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "qlat_cps-0.84.tar.gz",
+  "download_time": "2025-12-12T23:45:00.230398",
+  "package_url": "https://pypi.org/project/qlat-cps/"
+}

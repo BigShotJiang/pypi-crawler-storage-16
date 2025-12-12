@@ -1,11 +1,11 @@
 {
   "name": "aioscraper",
-  "version": "0.10.3",
+  "version": "0.10.4",
   "summary": "High-performance asynchronous Python framework for orchestrating API data collection with clean, modular components.",
   "author": "darkstussy",
   "license": null,
   "home_page": null,
-  "download_filename": "aioscraper-0.10.3.tar.gz",
-  "download_time": "2025-12-12T17:36:51.101374",
+  "download_filename": "aioscraper-0.10.4.tar.gz",
+  "download_time": "2025-12-12T23:44:51.774911",
   "package_url": "https://pypi.org/project/aioscraper/"
 }

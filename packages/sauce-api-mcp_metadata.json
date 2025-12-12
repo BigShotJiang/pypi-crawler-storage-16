@@ -1,0 +1,11 @@
+{
+  "name": "sauce-api-mcp",
+  "version": "1.1.0",
+  "summary": "MCP servers for Sauce Labs APIs (Core & RDC OpenAPI)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sauce_api_mcp-1.1.0.tar.gz",
+  "download_time": "2025-12-12T23:45:02.482025",
+  "package_url": "https://pypi.org/project/sauce-api-mcp/"
+}

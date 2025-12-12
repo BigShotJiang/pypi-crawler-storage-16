@@ -1,0 +1,11 @@
+{
+  "name": "garak",
+  "version": "0.13.3",
+  "summary": "LLM vulnerability scanner",
+  "author": "nv052193, Mads Kongsbak, Tianhao Li, Phyllis Poh, Razvan Dinu, Zander Mackie, Greg Stephens, Ahsan Ayub, Jonathan Liberman, Gustav Fredrikson, Oh Tien Cheng, Brain John, Naman Mishra, Soumili Nandi, Arjun Krishna, Mihailo Milenkovic, Kai Greshake, Martin Borup-Larsen, Emmanuel Ferdman, Eric Therond, Zoe Nolan, Harsh Raj, Shine-afk, Rafael Sandroni, Eric Hacker, Blessed Uyo, Ikko Eltociear Ashimine, iamnotcj, Dwight Temple, Shane Rosse, Masaya Ogushi, Viktor T. Zetterberg, Erwan Roussel, Matthew Rowe, Aishwarya Padmakumar, Marco Rosa, Ian Chu, Mike McKiernan, Divya Chitimalla, Katherine Luna, Dave Baker, Jack Kelly, Amrit Prakash, Cássia Sampaio, Nakul Rajpal, Noah Oeksuez, Dhruv Malik, Patricia Pampanelli, Joseph Davis Chamdani, Rob Geada, Ashish RajAnand, Paulina Kalicka, Gal Moshkovitz, Jack Smith, Paul A. Parkanzky, Leif Hancox-Li, Fabrizio Rocco, Sai Chandra Pandraju, Harish Kolla",
+  "license": null,
+  "home_page": null,
+  "download_filename": "garak-0.13.3.tar.gz",
+  "download_time": "2025-12-12T23:44:49.587108",
+  "package_url": "https://pypi.org/project/garak/"
+}

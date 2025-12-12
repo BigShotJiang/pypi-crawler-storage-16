@@ -1,11 +1,11 @@
 {
   "name": "zeebgram",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Custom Pyrogram for your userbot",
   "author": "ZeebFly",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zeebgram-0.1.5.tar.gz",
-  "download_time": "2025-12-12T23:14:34.643142",
+  "download_filename": "zeebgram-0.1.7.tar.gz",
+  "download_time": "2025-12-12T23:45:03.652584",
   "package_url": "https://pypi.org/project/zeebgram/"
 }

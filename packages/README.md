@@ -1,23 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-12T08:52:57.048337
-- **Total Packages**: 89
-- **Total Size**: 51.16 MB
+- **Download Time**: 2025-12-12T09:19:37.441348
+- **Total Packages**: 88
+- **Total Size**: 5.33 MB
 
 ## Packages List
-- kryten-py
-- pyetp
-- netbox-ip-permissions-synchronization
-- moxqtradar
-- python-matter-server
-- graph-id-core
-- neuromeka-vfm
-- haiku.rag
-- moxtools
-- Whispey
-- cdk-opinionated-constructs
-- haiku.rag-slim
 - maleo-mcu
 - pymittagleffler
 - fastwoe
@@ -38,6 +26,7 @@
 - snx-simulator
 - tencent-wedata-auto-ml-dev
 - spark-dist-fit
+- netbox-ip-permissions-synchronization
 - cave-agent
 - odoo-addon-product-harmonized-system-stock
 - ros-cdk-directmail
@@ -45,6 +34,7 @@
 - IservETLLib
 - a2a-agentspeak
 - pytest-ampel-core
+- kryten-py
 - pydmtools
 - a2a-acl
 - zipfile-deflate64-macos
@@ -64,6 +54,7 @@
 - csv-detective
 - simpleautocad
 - taktile-auth
+- moxtools
 - lazyclaude
 - datasourcelib
 - chatterbox-tts
@@ -83,6 +74,7 @@
 - volbatch
 - tradedangerous
 - imas-python
+- moxqtradar
 - endee-llamaindex
 - tinybird
 - lifx-async
@@ -95,3 +87,10 @@
 - layercode-gym
 - apex-saas-framework
 - napari-segmentation-toolbox
+- ivoryos
+- valohai-yaml
+- bluer-algo
+- openjiuwen
+- mcp-replay-dota2
+- dbt-bouncer
+- remarkable-update-image

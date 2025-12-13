@@ -1,11 +1,11 @@
 {
   "name": "sqlaltery",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "A migration library for SQLAlchemy",
   "author": "valtron",
   "license": null,
   "home_page": null,
-  "download_filename": "sqlaltery-0.5.2-py3-none-any.whl",
-  "download_time": "2025-12-13T06:59:33.245438",
+  "download_filename": "sqlaltery-0.5.3-py3-none-any.whl",
+  "download_time": "2025-12-13T19:11:28.575434",
   "package_url": "https://pypi.org/project/sqlaltery/"
 }

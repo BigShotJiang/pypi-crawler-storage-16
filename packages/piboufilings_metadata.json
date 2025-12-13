@@ -1,0 +1,11 @@
+{
+  "name": "piboufilings",
+  "version": "0.3.0",
+  "summary": "A Python library for downloading and parsing SEC EDGAR filings",
+  "author": "Pierre Bouquet",
+  "license": null,
+  "home_page": "https://github.com/pibou/piboufilings",
+  "download_filename": "piboufilings-0.3.0.tar.gz",
+  "download_time": "2025-12-13T19:11:30.630612",
+  "package_url": "https://pypi.org/project/piboufilings/"
+}

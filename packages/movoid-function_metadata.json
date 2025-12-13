@@ -1,11 +1,11 @@
 {
   "name": "movoid-function",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "summary": null,
   "author": "movoid",
   "license": null,
   "home_page": null,
-  "download_filename": "movoid_function-1.8.2.tar.gz",
-  "download_time": "2025-12-13T17:31:32.479368",
+  "download_filename": "movoid_function-1.8.3.tar.gz",
+  "download_time": "2025-12-13T19:11:39.430193",
   "package_url": "https://pypi.org/project/movoid-function/"
 }

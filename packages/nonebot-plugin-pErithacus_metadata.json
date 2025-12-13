@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-pErithacus",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "pErithacus 是一个基于 NoneBot2 框架的聊天插件，可以根据用户设定的关键词自动回复相关内容。该插件提供了完整的词条管理功能，让用户能够轻松创建、编辑和管理自定义回复内容",
   "author": "SnowMoonSS",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_perithacus-1.1.5.tar.gz",
-  "download_time": "2025-12-11T13:13:59.835955",
+  "download_filename": "nonebot_plugin_perithacus-1.1.6.tar.gz",
+  "download_time": "2025-12-13T19:11:35.301830",
   "package_url": "https://pypi.org/project/nonebot-plugin-pErithacus/"
 }

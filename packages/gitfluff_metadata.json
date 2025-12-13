@@ -1,11 +1,11 @@
 {
   "name": "gitfluff",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Commit message linter and formatter",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gitfluff-0.6.0.tar.gz",
-  "download_time": "2025-12-13T18:19:05.852904",
+  "download_filename": "gitfluff-0.6.1.tar.gz",
+  "download_time": "2025-12-13T19:11:47.643715",
   "package_url": "https://pypi.org/project/gitfluff/"
 }

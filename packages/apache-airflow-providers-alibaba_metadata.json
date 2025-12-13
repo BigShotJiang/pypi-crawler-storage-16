@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-alibaba",
+  "version": "3.3.1",
+  "summary": "Provider package apache-airflow-providers-alibaba for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_alibaba-3.3.1.tar.gz",
+  "download_time": "2025-12-13T15:14:25.334358",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-alibaba/"
+}

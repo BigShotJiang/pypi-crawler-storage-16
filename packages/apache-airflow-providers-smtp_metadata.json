@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-smtp",
+  "version": "2.4.1",
+  "summary": "Provider package apache-airflow-providers-smtp for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_smtp-2.4.1.tar.gz",
+  "download_time": "2025-12-13T15:13:56.596657",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-smtp/"
+}

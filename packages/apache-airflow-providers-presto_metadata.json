@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-presto",
+  "version": "5.10.1",
+  "summary": "Provider package apache-airflow-providers-presto for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_presto-5.10.1.tar.gz",
+  "download_time": "2025-12-13T15:14:00.758978",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-presto/"
+}

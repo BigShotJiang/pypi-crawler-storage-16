@@ -1,11 +1,11 @@
 {
   "name": "distributed-state-network",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "A tool to distribute the state of a network device to other devices on the network",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "distributed_state_network-0.5.3.tar.gz",
-  "download_time": "2025-12-11T03:02:02.692103",
+  "download_filename": "distributed_state_network-0.5.4.tar.gz",
+  "download_time": "2025-12-13T15:14:30.613792",
   "package_url": "https://pypi.org/project/distributed-state-network/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-samba",
+  "version": "4.12.1",
+  "summary": "Provider package apache-airflow-providers-samba for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_samba-4.12.1.tar.gz",
+  "download_time": "2025-12-13T15:13:59.197376",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-samba/"
+}

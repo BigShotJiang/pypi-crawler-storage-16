@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-docker",
+  "version": "4.5.1",
+  "summary": "Provider package apache-airflow-providers-docker for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_docker-4.5.1.tar.gz",
+  "download_time": "2025-12-13T15:14:12.803660",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-docker/"
+}

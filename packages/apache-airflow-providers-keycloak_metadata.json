@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-keycloak",
+  "version": "0.4.0",
+  "summary": "Provider package apache-airflow-providers-keycloak for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_keycloak-0.4.0.tar.gz",
+  "download_time": "2025-12-13T15:14:06.500129",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-keycloak/"
+}

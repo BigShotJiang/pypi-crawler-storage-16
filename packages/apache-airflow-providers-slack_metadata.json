@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-slack",
+  "version": "9.6.1",
+  "summary": "Provider package apache-airflow-providers-slack for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_slack-9.6.1.tar.gz",
+  "download_time": "2025-12-13T15:13:57.117204",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-slack/"
+}

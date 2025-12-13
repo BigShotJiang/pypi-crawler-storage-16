@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-salesforce",
+  "version": "5.12.1",
+  "summary": "Provider package apache-airflow-providers-salesforce for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_salesforce-5.12.1.tar.gz",
+  "download_time": "2025-12-13T15:13:59.717986",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-salesforce/"
+}

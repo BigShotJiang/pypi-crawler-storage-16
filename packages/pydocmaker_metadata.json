@@ -1,0 +1,11 @@
+{
+  "name": "pydocmaker",
+  "version": "2.3.4",
+  "summary": "a minimal document maker to make docx, markdown, html, textile, redmine, and tex documents from python. Written in pure python.",
+  "author": "Tobias Glaubach",
+  "license": null,
+  "home_page": "https://github.com/TobiasGlaubach/pydocmaker",
+  "download_filename": "pydocmaker-2.3.4.tar.gz",
+  "download_time": "2025-12-13T15:14:26.895955",
+  "package_url": "https://pypi.org/project/pydocmaker/"
+}

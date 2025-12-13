@@ -1,11 +1,11 @@
 {
   "name": "ceylonai-next",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Ceylon: A Rust-based agent mesh framework for building local and distributed AI agent systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ceylonai_next-0.3.0.tar.gz",
-  "download_time": "2025-12-13T03:51:50.640483",
+  "download_filename": "ceylonai_next-0.3.1.tar.gz",
+  "download_time": "2025-12-13T15:14:27.953708",
   "package_url": "https://pypi.org/project/ceylonai-next/"
 }

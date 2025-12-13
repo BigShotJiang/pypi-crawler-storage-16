@@ -1,11 +1,11 @@
 {
   "name": "openmv",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "OpenMV Camera Protocol V2 - Python library and CLI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openmv-1.0.4.tar.gz",
-  "download_time": "2025-12-13T14:13:52.052581",
+  "download_filename": "openmv-1.0.5.tar.gz",
+  "download_time": "2025-12-13T15:14:29.519998",
   "package_url": "https://pypi.org/project/openmv/"
 }

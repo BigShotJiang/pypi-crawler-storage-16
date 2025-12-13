@@ -1,11 +1,11 @@
 {
   "name": "degirum-tools",
-  "version": "0.24.0",
+  "version": "0.24.1",
   "summary": "Tools for PySDK",
   "author": "DeGirum",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "degirum_tools-0.24.0-py3-none-any.whl",
-  "download_time": "2025-12-13T02:44:39.752185",
+  "download_filename": "degirum_tools-0.24.1-py3-none-any.whl",
+  "download_time": "2025-12-13T05:48:28.246323",
   "package_url": "https://pypi.org/project/degirum-tools/"
 }

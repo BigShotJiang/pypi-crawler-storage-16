@@ -1,0 +1,11 @@
+{
+  "name": "keibascraper",
+  "version": "3.1.4",
+  "summary": "keibascraper is a simple scraping library for netkeiba.com",
+  "author": "new-village",
+  "license": null,
+  "home_page": "https://github.com/new-village/KeibaScraper",
+  "download_filename": "keibascraper-3.1.4.tar.gz",
+  "download_time": "2025-12-13T05:48:33.255347",
+  "package_url": "https://pypi.org/project/keibascraper/"
+}

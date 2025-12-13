@@ -1,11 +1,11 @@
 {
   "name": "mcpkmn-showdown",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "summary": "Pokemon Showdown MCP Server - Pokemon data lookup tools for LLMs via Model Context Protocol",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcpkmn_showdown-1.0.0.tar.gz",
-  "download_time": "2025-12-13T05:15:47.782333",
+  "download_filename": "mcpkmn_showdown-1.0.6.tar.gz",
+  "download_time": "2025-12-13T05:48:32.667659",
   "package_url": "https://pypi.org/project/mcpkmn-showdown/"
 }

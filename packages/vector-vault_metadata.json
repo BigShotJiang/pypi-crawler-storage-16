@@ -1,11 +1,11 @@
 {
   "name": "vector-vault",
-  "version": "7.4.9.4",
+  "version": "7.4.9.5",
   "summary": "Quickly create RAG apps, Agents, and Unleash the full power of AI with Vector Vault",
   "author": "VectorVault.io",
   "license": null,
   "home_page": "https://github.com/John-Rood/VectorVault",
-  "download_filename": "vector_vault-7.4.9.4.tar.gz",
-  "download_time": "2025-12-13T04:54:45.871939",
+  "download_filename": "vector_vault-7.4.9.5.tar.gz",
+  "download_time": "2025-12-13T06:20:59.249686",
   "package_url": "https://pypi.org/project/vector-vault/"
 }

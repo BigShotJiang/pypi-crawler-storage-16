@@ -1,0 +1,11 @@
+{
+  "name": "minchin.django.excel",
+  "version": "1.0.0",
+  "summary": "Load Excel files into your Django database.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minchin_django_excel-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-13T06:20:58.636187",
+  "package_url": "https://pypi.org/project/minchin.django.excel/"
+}

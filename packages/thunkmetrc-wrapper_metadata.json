@@ -1,11 +1,11 @@
 {
   "name": "thunkmetrc-wrapper",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Type-safe wrapper for ThunkMetrc Python client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thunkmetrc_wrapper-0.2.0.tar.gz",
-  "download_time": "2025-12-13T05:48:37.953006",
+  "download_filename": "thunkmetrc_wrapper-0.2.2.tar.gz",
+  "download_time": "2025-12-13T06:20:59.832739",
   "package_url": "https://pypi.org/project/thunkmetrc-wrapper/"
 }

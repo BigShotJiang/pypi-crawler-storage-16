@@ -1,11 +1,11 @@
 {
   "name": "monkai-trace",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Official Python SDK for MonkAI - Track and analyze your AI agent conversations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "monkai_trace-0.2.4.tar.gz",
-  "download_time": "2025-12-13T22:14:24.877436",
+  "download_filename": "monkai_trace-0.2.5.tar.gz",
+  "download_time": "2025-12-13T22:50:46.945099",
   "package_url": "https://pypi.org/project/monkai-trace/"
 }

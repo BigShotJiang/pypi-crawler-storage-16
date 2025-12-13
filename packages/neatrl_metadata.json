@@ -1,11 +1,11 @@
 {
   "name": "neatrl",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "A Python library for reinforcement learning algorithms",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neatrl-0.1.3.tar.gz",
-  "download_time": "2025-12-13T11:29:04.240992",
+  "download_filename": "neatrl-0.1.5.tar.gz",
+  "download_time": "2025-12-13T22:50:45.922736",
   "package_url": "https://pypi.org/project/neatrl/"
 }

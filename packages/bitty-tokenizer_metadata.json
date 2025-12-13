@@ -1,11 +1,11 @@
 {
   "name": "bitty-tokenizer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A bitty BPE tokenizer library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bitty_tokenizer-0.1.1.tar.gz",
-  "download_time": "2025-12-12T15:16:29.685538",
+  "download_filename": "bitty_tokenizer-0.1.2.tar.gz",
+  "download_time": "2025-12-13T14:51:48.460913",
   "package_url": "https://pypi.org/project/bitty-tokenizer/"
 }

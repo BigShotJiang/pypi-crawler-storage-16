@@ -1,0 +1,11 @@
+{
+  "name": "mcp-research-assistant",
+  "version": "0.1.1",
+  "summary": "MCP Server for Research Assistant with Vector Database Management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_research_assistant-0.1.1.tar.gz",
+  "download_time": "2025-12-13T14:51:29.684255",
+  "package_url": "https://pypi.org/project/mcp-research-assistant/"
+}

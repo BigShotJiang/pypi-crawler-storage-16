@@ -1,0 +1,11 @@
+{
+  "name": "value-python",
+  "version": "0.1.3",
+  "summary": "Python SDK to track AI agents with Value actions and auto-instrument LLM calls (Gemini, LangChain)",
+  "author": "srinivas",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "value_python-0.1.3.tar.gz",
+  "download_time": "2025-12-13T14:51:50.061184",
+  "package_url": "https://pypi.org/project/value-python/"
+}

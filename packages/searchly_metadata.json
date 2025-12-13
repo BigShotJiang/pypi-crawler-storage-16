@@ -1,0 +1,11 @@
+{
+  "name": "searchly",
+  "version": "2.0.3",
+  "summary": "Search tools for agents",
+  "author": "Philipp Temminghoff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "searchly-2.0.3.tar.gz",
+  "download_time": "2025-12-13T14:51:36.925233",
+  "package_url": "https://pypi.org/project/searchly/"
+}

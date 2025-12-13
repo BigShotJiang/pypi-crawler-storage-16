@@ -1,11 +1,11 @@
 {
   "name": "hygrep",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "summary": "Hybrid file search — semantic + keyword matching",
   "author": "nijaru",
   "license": null,
   "home_page": null,
-  "download_filename": "hygrep-0.0.15-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2025-12-13T14:13:47.090272",
+  "download_filename": "hygrep-0.0.16-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-13T14:51:18.901430",
   "package_url": "https://pypi.org/project/hygrep/"
 }

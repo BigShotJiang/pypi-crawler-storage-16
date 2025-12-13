@@ -1,0 +1,11 @@
+{
+  "name": "django-pydantic-field",
+  "version": "0.4.1",
+  "summary": "Django JSONField with Pydantic models as a Schema",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_pydantic_field-0.4.1.tar.gz",
+  "download_time": "2025-12-13T14:51:45.299849",
+  "package_url": "https://pypi.org/project/django-pydantic-field/"
+}

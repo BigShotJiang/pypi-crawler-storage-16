@@ -1,0 +1,11 @@
+{
+  "name": "envplusai",
+  "version": "0.0.4",
+  "summary": "A lightweight Python package for managing environment variables with advanced features.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "envplusai-0.0.4.tar.gz",
+  "download_time": "2025-12-13T14:51:41.589138",
+  "package_url": "https://pypi.org/project/envplusai/"
+}

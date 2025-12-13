@@ -1,11 +1,11 @@
 {
   "name": "treesak",
-  "version": "1.53.3",
+  "version": "1.53.4",
   "summary": "BioSAK",
   "author": "Weizhi Song",
   "license": "GPL3+",
   "home_page": "https://github.com/songweizhi/TreeSAK",
-  "download_filename": "treesak-1.53.3.tar.gz",
-  "download_time": "2025-12-13T14:13:39.415782",
+  "download_filename": "treesak-1.53.4.tar.gz",
+  "download_time": "2025-12-13T14:51:51.609918",
   "package_url": "https://pypi.org/project/treesak/"
 }

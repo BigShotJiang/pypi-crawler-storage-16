@@ -1,11 +1,11 @@
 {
   "name": "mathesis",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Formal logic library in Python for humans",
   "author": "Kentaro Ozeki",
   "license": null,
   "home_page": "https://digitalformallogic.github.io/mathesis/",
-  "download_filename": "mathesis-0.7.0.tar.gz",
-  "download_time": "2025-12-11T21:35:08.779258",
+  "download_filename": "mathesis-0.7.1.tar.gz",
+  "download_time": "2025-12-13T14:51:20.971823",
   "package_url": "https://pypi.org/project/mathesis/"
 }

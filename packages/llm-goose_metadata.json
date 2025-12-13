@@ -1,11 +1,11 @@
 {
   "name": "llm-goose",
-  "version": "0.1.25",
+  "version": "0.1.27",
   "summary": "LLM testing framework for validating agent behavior and tool usage",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_goose-0.1.25.tar.gz",
-  "download_time": "2025-12-13T14:13:48.180349",
+  "download_filename": "llm_goose-0.1.27.tar.gz",
+  "download_time": "2025-12-13T14:51:28.131213",
   "package_url": "https://pypi.org/project/llm-goose/"
 }

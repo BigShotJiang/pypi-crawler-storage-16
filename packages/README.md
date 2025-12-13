@@ -1,13 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T19:27:27.389854
-- **Total Packages**: 76
-- **Total Size**: 6.76 MB
+- **Download Time**: 2025-12-13T19:37:29.843385
+- **Total Packages**: 75
+- **Total Size**: 1.33 MB
 
 ## Packages List
-- fast-decision
-- article-scrapper
 - graphbench-lib
 - pdf2md-ocr
 - matematik-klib
@@ -82,3 +80,4 @@
 - vogel-model-trainer
 - tree-sitter-zsh
 - jeremydimond.pygamesim
+- bitty-tokenizer

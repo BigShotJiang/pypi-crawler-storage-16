@@ -1,10 +1,8 @@
 {
-  "download_time": "2025-12-13T19:27:27.389854",
-  "total_packages_downloaded": 76,
-  "total_size_mb": 6.76,
+  "download_time": "2025-12-13T19:37:29.843385",
+  "total_packages_downloaded": 75,
+  "total_size_mb": 1.33,
   "packages": [
-    "fast-decision",
-    "article-scrapper",
     "graphbench-lib",
     "pdf2md-ocr",
     "matematik-klib",
@@ -78,6 +76,7 @@
     "uncomment",
     "vogel-model-trainer",
     "tree-sitter-zsh",
-    "jeremydimond.pygamesim"
+    "jeremydimond.pygamesim",
+    "bitty-tokenizer"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fxplan",
+  "version": "0.1.0",
+  "summary": "A comprehensive Python library for forex trading calculations, including position sizing, risk/reward analysis, stop loss and take profit calculations, and commission handling.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fxplan-0.1.0.tar.gz",
+  "download_time": "2025-12-13T14:34:25.064874",
+  "package_url": "https://pypi.org/project/fxplan/"
+}

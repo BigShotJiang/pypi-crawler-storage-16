@@ -1,0 +1,11 @@
+{
+  "name": "pushikoo-adapter-testpusher",
+  "version": "0.1.0",
+  "summary": "TestPusher for pushikoo-adapter development as a template.",
+  "author": "Pushikoo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pushikoo_adapter_testpusher-0.1.0.tar.gz",
+  "download_time": "2025-12-13T16:55:23.378306",
+  "package_url": "https://pypi.org/project/pushikoo-adapter-testpusher/"
+}

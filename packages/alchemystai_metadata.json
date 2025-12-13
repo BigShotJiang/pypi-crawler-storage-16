@@ -1,0 +1,11 @@
+{
+  "name": "alchemystai",
+  "version": "0.8.0",
+  "summary": "The official Python library for the alchemyst_ai API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "alchemystai-0.8.0.tar.gz",
+  "download_time": "2025-12-13T16:55:26.509496",
+  "package_url": "https://pypi.org/project/alchemystai/"
+}

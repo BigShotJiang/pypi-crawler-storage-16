@@ -1,11 +1,11 @@
 {
   "name": "fastmcp-template",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "FastMCP server template with mcp-refcache and Langfuse tracing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastmcp_template-0.0.2.tar.gz",
-  "download_time": "2025-12-13T22:50:52.647996",
+  "download_filename": "fastmcp_template-0.0.3.tar.gz",
+  "download_time": "2025-12-13T23:15:08.632533",
   "package_url": "https://pypi.org/project/fastmcp-template/"
 }

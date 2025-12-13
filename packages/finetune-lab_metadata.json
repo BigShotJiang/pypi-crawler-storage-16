@@ -1,0 +1,11 @@
+{
+  "name": "finetune-lab",
+  "version": "0.2.0",
+  "summary": "FineTune Lab SDK - Training, inference, batch testing, and analytics for LLMs",
+  "author": "FineTune Lab Team",
+  "license": null,
+  "home_page": "https://github.com/finetune-lab/python-sdk",
+  "download_filename": "finetune_lab-0.2.0.tar.gz",
+  "download_time": "2025-12-13T23:15:05.390383",
+  "package_url": "https://pypi.org/project/finetune-lab/"
+}

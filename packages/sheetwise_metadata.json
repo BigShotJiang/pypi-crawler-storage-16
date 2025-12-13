@@ -1,11 +1,11 @@
 {
   "name": "sheetwise",
-  "version": "2.5.1",
+  "version": "2.6.1",
   "summary": "A Python package for encoding spreadsheets for Large Language Models, implementing the SpreadsheetLLM research framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sheetwise-2.5.1.tar.gz",
-  "download_time": "2025-12-13T22:34:58.616782",
+  "download_filename": "sheetwise-2.6.1.tar.gz",
+  "download_time": "2025-12-13T23:15:00.329594",
   "package_url": "https://pypi.org/project/sheetwise/"
 }

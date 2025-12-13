@@ -1,0 +1,11 @@
+{
+  "name": "victor86c-parser",
+  "version": "1.0.0",
+  "summary": "Biblioteca Python para decodificar o protocolo de comunicação serial do multímetro VICTOR 86C/86D.",
+  "author": "Amaur Baptista Moreira de Deus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "victor86c_parser-1.0.0.tar.gz",
+  "download_time": "2025-12-13T23:14:56.551218",
+  "package_url": "https://pypi.org/project/victor86c-parser/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "honest-chain",
-  "version": "2.10.1",
-  "summary": "HONEST CHAIN SDK - Make AI Honest to God. The logical foundation for AI transparency.",
-  "author": "Stellanium Ltd",
+  "version": "2.11.0",
+  "summary": "Quantum-Ready AI Decision Audit Trail - Tamper-evident logging for AI systems",
+  "author": null,
   "license": "BSL-1.1",
-  "home_page": "https://github.com/Stellanium/aoai-genesis",
-  "download_filename": "honest_chain-2.10.1.tar.gz",
-  "download_time": "2025-12-13T17:31:43.425767",
+  "home_page": null,
+  "download_filename": "honest_chain-2.11.0.tar.gz",
+  "download_time": "2025-12-13T23:15:04.108170",
   "package_url": "https://pypi.org/project/honest-chain/"
 }

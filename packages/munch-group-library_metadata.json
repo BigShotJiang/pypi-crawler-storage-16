@@ -1,11 +1,11 @@
 {
   "name": "munch-group-library",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "Project description",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "munch_group_library-0.1.13.tar.gz",
-  "download_time": "2025-12-13T22:35:04.251222",
+  "download_filename": "munch_group_library-0.1.14.tar.gz",
+  "download_time": "2025-12-13T23:15:06.039393",
   "package_url": "https://pypi.org/project/munch-group-library/"
 }

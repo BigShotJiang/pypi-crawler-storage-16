@@ -1,0 +1,11 @@
+{
+  "name": "composio-langgraph",
+  "version": "0.9.4",
+  "summary": "Use Composio to get array of tools with LangGraph Agent Workflows.",
+  "author": "composio",
+  "license": null,
+  "home_page": "https://github.com/ComposioHQ/composio",
+  "download_filename": "composio_langgraph-0.9.4.tar.gz",
+  "download_time": "2025-12-13T07:49:45.108735",
+  "package_url": "https://pypi.org/project/composio-langgraph/"
+}

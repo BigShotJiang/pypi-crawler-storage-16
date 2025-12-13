@@ -1,0 +1,11 @@
+{
+  "name": "composio-crewai",
+  "version": "0.9.4",
+  "summary": "Use Composio to get an array of tools with your CrewAI agent.",
+  "author": "Composio",
+  "license": null,
+  "home_page": "https://github.com/ComposioHQ/composio",
+  "download_filename": "composio_crewai-0.9.4.tar.gz",
+  "download_time": "2025-12-13T07:49:47.675391",
+  "package_url": "https://pypi.org/project/composio-crewai/"
+}

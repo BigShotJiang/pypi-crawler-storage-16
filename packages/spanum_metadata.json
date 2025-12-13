@@ -1,0 +1,11 @@
+{
+  "name": "spanum",
+  "version": "0.0.2",
+  "summary": "Python module that converts numbers to Spanish numerals and vice versa.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spanum-0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-13T20:50:38.449886",
+  "package_url": "https://pypi.org/project/spanum/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "auptitcafe",
+  "version": "0.2.0",
+  "summary": "SDK pour interagir avec http://auptitcafe.nc/menu/",
+  "author": "Adrien SALES",
+  "license": null,
+  "home_page": null,
+  "download_filename": "auptitcafe-0.2.0.tar.gz",
+  "download_time": "2025-12-13T20:50:44.099914",
+  "package_url": "https://pypi.org/project/auptitcafe/"
+}

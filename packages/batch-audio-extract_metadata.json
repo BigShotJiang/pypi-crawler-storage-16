@@ -1,11 +1,11 @@
 {
   "name": "batch-audio-extract",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "summary": "A mass treatment script for extracting part of audio files using FFMPEG",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "batch_audio_extract-0.5.1.tar.gz",
-  "download_time": "2025-12-13T20:35:17.271646",
+  "download_filename": "batch_audio_extract-0.5.3.tar.gz",
+  "download_time": "2025-12-13T20:50:46.149280",
   "package_url": "https://pypi.org/project/batch-audio-extract/"
 }

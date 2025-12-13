@@ -1,0 +1,11 @@
+{
+  "name": "eml-cli",
+  "version": "0.0.0",
+  "summary": "Migrate emails between IMAP mailboxes with flexible filtering",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eml_cli-0.0.0.tar.gz",
+  "download_time": "2025-12-13T20:50:45.637464",
+  "package_url": "https://pypi.org/project/eml-cli/"
+}

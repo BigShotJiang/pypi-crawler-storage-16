@@ -1,11 +1,11 @@
 {
   "name": "yeo",
-  "version": "0.2.0a1",
+  "version": "0.3.0a1",
   "summary": "A declarative dotfiles snapshot tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yeo-0.2.0a1.tar.gz",
-  "download_time": "2025-12-11T15:47:01.058707",
+  "download_filename": "yeo-0.3.0a1.tar.gz",
+  "download_time": "2025-12-13T13:50:48.537009",
   "package_url": "https://pypi.org/project/yeo/"
 }

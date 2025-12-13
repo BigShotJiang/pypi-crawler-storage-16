@@ -1,0 +1,11 @@
+{
+  "name": "mattress",
+  "version": "0.4.0",
+  "summary": "All your matrix representations belong here!",
+  "author": "\"Jayaram Kancherla, Aaron Lun\"",
+  "license": "MIT",
+  "home_page": "https://github.com/tatami-inc/mattress",
+  "download_filename": "mattress-0.4.0.tar.gz",
+  "download_time": "2025-12-13T13:50:44.838833",
+  "package_url": "https://pypi.org/project/mattress/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-crowdfunding-public-pledge",
+  "version": "14.0.1.0.1.dev2",
+  "summary": "Allow users to mark their pledges as public",
+  "author": "Hunki Enterprises BV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/crowdfunding",
+  "download_filename": "odoo14_addon_crowdfunding_public_pledge-14.0.1.0.1.dev2-py3-none-any.whl",
+  "download_time": "2025-12-13T13:50:49.576145",
+  "package_url": "https://pypi.org/project/odoo14-addon-crowdfunding-public-pledge/"
+}

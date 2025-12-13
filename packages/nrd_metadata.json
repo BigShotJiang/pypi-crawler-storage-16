@@ -1,11 +1,11 @@
 {
   "name": "nrd",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "summary": "run vite dev server in background",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nrd-0.0.8.tar.gz",
-  "download_time": "2025-12-12T17:15:00.629860",
+  "download_filename": "nrd-0.0.10.tar.gz",
+  "download_time": "2025-12-13T09:37:08.567521",
   "package_url": "https://pypi.org/project/nrd/"
 }

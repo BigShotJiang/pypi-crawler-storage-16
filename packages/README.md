@@ -1,15 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T09:15:25.995398
-- **Total Packages**: 82
-- **Total Size**: 9.69 MB
+- **Download Time**: 2025-12-13T09:37:42.906048
+- **Total Packages**: 80
+- **Total Size**: 4.97 MB
 
 ## Packages List
+- chemsmart
+- nvfuser-cu128
+- web-scraper-toolkit
+- nvfuser-cu126
+- nvfuser-cu130
+- z4d-certified-devices
+- langswarm
+- structurize
+- avrotize
+- sympy-plot-backends
+- ondil
+- ros-cdk-hbase
+- KyInter
+- autoglm-gui
+- rendercv
+- postgresdb3
+- nrd
+- lifx-async
+- azure-sfi-agent
+- suficloud
+- kimina-ast-server
+- token2audio
+- scientiflow-cli
+- income-predict-d100-d400
+- python-dbusmock
+- mdparser-html
+- membrowse
+- untext
+- cv2box
+- ampel-catalogmatch
+- alphavec
+- redknot
+- openjiuwen
+- zenith-ai
+- komitto
 - kitetdx
 - ptprepl-aero
 - pyi-autobundle
-- suficloud
 - lingq
 - misato
 - uv-bump
@@ -33,11 +67,9 @@
 - yellowdog-python-examples
 - operon-ai
 - searxng-mcp
-- token2audio
 - aionowplaying
 - sysom-hang-analyzer
 - Blacksmith
-- mdparser-html
 - eventry
 - quorum-cli
 - wnm
@@ -46,45 +78,11 @@
 - magipy
 - mobiu-q
 - kryten-robot
-- z4d-certified-devices
 - protograf
 - pqsdk
 - sync-roles
 - auralis-worker
 - pyscript-programming-language
 - nanasqlite
-- redknot
 - stata-mcp
 - odoo-addon-account-reconcile-oca
-- feeluown-bilibili
-- genai-pygame
-- remotion-lambda
-- sap-datasphere-mcp
-- wisent
-- selenium-teleport
-- gldb
-- funpaybotengine
-- rnow
-- tina4-python
-- robo-infra
-- carthooks
-- pytoda
-- stella-logger
-- taku-cli
-- flagright
-- devtools-lorem-ipsum
-- devtools-list-to-json
-- devtools-line-sorter
-- devtools-keyboard-shortcuts
-- devtools-jwt
-- devtools-json-viewer
-- devtools-json-to-ts
-- devtools-json-schema
-- devtools-json-path
-- devtools-json-minifier
-- devtools-json-formatter
-- devtools-json-escape
-- devtools-js-minifier
-- devtools-ip-lookup
-- devtools-ip-generator
-- devtools-image-base64

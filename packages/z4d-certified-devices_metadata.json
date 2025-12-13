@@ -1,11 +1,11 @@
 {
   "name": "z4d-certified-devices",
-  "version": "7.501",
+  "version": "7.503",
   "summary": "\"Certified devices for Zigbee for Domoticz plugin\"",
   "author": "\"Patrick Pichon\"",
   "license": "\"GPL-3.0\"",
   "home_page": "https://github.com/zigbeefordomoticz/z4d-certified-devices",
-  "download_filename": "z4d_certified_devices-7.501.tar.gz",
-  "download_time": "2025-12-13T09:15:02.719876",
+  "download_filename": "z4d_certified_devices-7.503.tar.gz",
+  "download_time": "2025-12-13T09:37:02.759916",
   "package_url": "https://pypi.org/project/z4d-certified-devices/"
 }

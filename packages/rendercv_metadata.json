@@ -1,11 +1,11 @@
 {
   "name": "rendercv",
-  "version": "2.4",
+  "version": "2.5",
   "summary": "Typst-based CV/resume generator",
   "author": "Sina Atalay",
   "license": null,
   "home_page": null,
-  "download_filename": "rendercv-2.4.tar.gz",
-  "download_time": "2025-12-10T13:12:05.105424",
+  "download_filename": "rendercv-2.5.tar.gz",
+  "download_time": "2025-12-13T09:37:07.547826",
   "package_url": "https://pypi.org/project/rendercv/"
 }

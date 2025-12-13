@@ -1,11 +1,11 @@
 {
   "name": "suficloud",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "Secure Cloud Storage Service",
   "author": "Sufiyan",
   "license": null,
   "home_page": null,
-  "download_filename": "suficloud-1.0.0.tar.gz",
-  "download_time": "2025-12-13T09:14:41.761608",
+  "download_filename": "suficloud-2.0.0.tar.gz",
+  "download_time": "2025-12-13T09:37:10.100991",
   "package_url": "https://pypi.org/project/suficloud/"
 }

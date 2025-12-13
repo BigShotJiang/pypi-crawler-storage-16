@@ -1,11 +1,11 @@
 {
   "name": "django-typed-models",
-  "version": "0.15.0",
+  "version": "0.15.1",
   "summary": "Sane single table model inheritance for Django",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_typed_models-0.15.0.tar.gz",
-  "download_time": "2025-12-13T09:50:00.147486",
+  "download_filename": "django_typed_models-0.15.1.tar.gz",
+  "download_time": "2025-12-13T10:15:08.396749",
   "package_url": "https://pypi.org/project/django-typed-models/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "postgresdb3",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "Python uchun oddiy PostgreSQL wrapper",
   "author": "Abdulbosit Alijonov",
   "license": null,
   "home_page": "https://github.com/AlijonovUz/PostgresDB",
-  "download_filename": "postgresdb3-0.2.0.tar.gz",
-  "download_time": "2025-12-13T09:37:08.057777",
+  "download_filename": "postgresdb3-0.2.3.tar.gz",
+  "download_time": "2025-12-13T10:15:03.159110",
   "package_url": "https://pypi.org/project/postgresdb3/"
 }

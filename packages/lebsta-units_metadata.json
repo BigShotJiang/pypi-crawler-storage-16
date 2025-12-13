@@ -1,0 +1,11 @@
+{
+  "name": "lebsta-units",
+  "version": "1.1.2",
+  "summary": "A Python library for unit definitions and conversions in engineering applications",
+  "author": "LEBSTA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lebsta_units-1.1.2.tar.gz",
+  "download_time": "2025-12-13T10:15:12.278920",
+  "package_url": "https://pypi.org/project/lebsta-units/"
+}

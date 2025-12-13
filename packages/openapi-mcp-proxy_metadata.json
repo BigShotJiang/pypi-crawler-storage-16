@@ -1,11 +1,11 @@
 {
   "name": "openapi-mcp-proxy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "OpenAPI to Model Context Protocol (MCP) proxy server - dynamically translates OpenAPI specs into MCP tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openapi_mcp_proxy-1.0.1.tar.gz",
-  "download_time": "2025-12-13T23:31:27.289358",
+  "download_filename": "openapi_mcp_proxy-1.0.2.tar.gz",
+  "download_time": "2025-12-13T23:50:11.031169",
   "package_url": "https://pypi.org/project/openapi-mcp-proxy/"
 }

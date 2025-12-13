@@ -1,0 +1,11 @@
+{
+  "name": "pyspng",
+  "version": "0.1.4",
+  "summary": "Fast libspng-based PNG decoder",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyspng-0.1.4.tar.gz",
+  "download_time": "2025-12-13T17:31:26.657362",
+  "package_url": "https://pypi.org/project/pyspng/"
+}

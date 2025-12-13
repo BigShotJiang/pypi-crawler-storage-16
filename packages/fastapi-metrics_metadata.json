@@ -1,11 +1,11 @@
 {
   "name": "fastapi-metrics",
-  "version": "0.3.2",
+  "version": "0.3.8",
   "summary": "Zero-config metrics for FastAPI apps - perfect for solo devs and MVPs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_metrics-0.3.2.tar.gz",
-  "download_time": "2025-12-12T17:36:52.274563",
+  "download_filename": "fastapi_metrics-0.3.8.tar.gz",
+  "download_time": "2025-12-13T17:31:38.214852",
   "package_url": "https://pypi.org/project/fastapi-metrics/"
 }

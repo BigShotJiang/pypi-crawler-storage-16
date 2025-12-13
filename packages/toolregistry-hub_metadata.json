@@ -1,0 +1,11 @@
+{
+  "name": "toolregistry-hub",
+  "version": "0.5.3",
+  "summary": "ToolRegistry Hub: A Python library providing various utility tools for mathematical calculations, date/time operations, file management, web search, unit conversions, and more - designed to support common tasks in LLM function calling and general development",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "toolregistry_hub-0.5.3.tar.gz",
+  "download_time": "2025-12-13T17:31:40.291736",
+  "package_url": "https://pypi.org/project/toolregistry-hub/"
+}

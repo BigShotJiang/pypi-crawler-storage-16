@@ -1,29 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T17:13:57.861766
-- **Total Packages**: 75
-- **Total Size**: 19.1 MB
+- **Download Time**: 2025-12-13T17:32:05.990134
+- **Total Packages**: 79
+- **Total Size**: 8.78 MB
 
 ## Packages List
+- seqscore
+- curllm
+- pcassie
+- code-puppy
+- munch-group-library
+- pyspng
+- sniffcell
+- danielutils
+- mcp-browser
+- py_gen_server
+- gitlab-api
+- pybraendstofpriser
+- media-downloader
+- searxng-mcp
+- container-manager-mcp
+- sabr-kit
+- movoid-function
+- colcon-runner
+- quickpub
+- discrete-continuous-embed-readout
+- warpdata
+- itinerizer
+- hanoi-viz
+- JHFDRONE
+- calyxos
+- python-playwright-helper
+- kubesdk
+- fastapi-metrics
+- kube-models
+- gitfluff
+- sigmoda
+- toolregistry-hub
+- litestar-vite
+- fetch-url-package
+- thebundle
+- py4swiss
+- kubesdk-cli
+- honest-chain
+- kdenlive-mcp
+- kdenlive-api
 - mpy-cross
 - whitesmith
 - vantage-security
 - Mopidy-Pibox
 - protolink
 - anyt
-- python-playwright-helper
 - maa-mcp
 - pygeodesy
 - zenith-ai
-- discrete-continuous-embed-readout
-- calyxos
 - pyxcp
 - export_to_obsidian
 - dhisana
-- honest-chain
 - pymeshfix
-- mcp-browser
 - easy-tornado
 - f9columnar
 - behave-dock
@@ -41,7 +76,6 @@
 - chainsaws
 - firelens-monitor
 - terra_ui_components
-- hanoi-viz
 - fenix-mcp
 - pushikoo-adapter-testpusher
 - iatoolkit
@@ -51,33 +85,3 @@
 - alchemystai
 - gammarers.aws-cdk-errors
 - spotoptim
-- lobster-ai
-- sentinelseed
-- memmachine-server
-- nbxmpp-client
-- memmachine-client
-- ccontext-mcp
-- lattifai-core
-- upathtools
-- omnicon-genericddsengine-py
-- spark-dist-fit
-- lu-python
-- ancientlinesoftheworld
-- wordslab-notebooks-lib
-- mcp-research-assistant
-- nuxbt
-- telegram-retriever
-- crunch-cli
-- vsax
-- nbxmpp
-- ipckit
-- latency-audit
-- mccoygroup-psience
-- dars-framework
-- mccoygroup-mcutils
-- mlipts
-- segment-geospatial
-- local-qwen3b-meta
-- azure-sfi-agent
-- lib-layered-config
-- pushikoo-adapter-testgetter

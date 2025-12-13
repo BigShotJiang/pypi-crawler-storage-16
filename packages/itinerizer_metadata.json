@@ -1,0 +1,11 @@
+{
+  "name": "itinerizer",
+  "version": "0.5.3",
+  "summary": "A comprehensive travel itinerary management system with JSON storage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "itinerizer-0.5.3.tar.gz",
+  "download_time": "2025-12-13T17:31:35.098920",
+  "package_url": "https://pypi.org/project/itinerizer/"
+}

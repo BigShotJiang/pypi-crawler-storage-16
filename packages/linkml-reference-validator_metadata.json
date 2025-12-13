@@ -1,11 +1,11 @@
 {
   "name": "linkml-reference-validator",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Validation of supporting text from references and publications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "linkml_reference_validator-0.1.2.tar.gz",
-  "download_time": "2025-12-11T01:02:31.832305",
+  "download_filename": "linkml_reference_validator-0.1.3.tar.gz",
+  "download_time": "2025-12-13T02:44:34.001164",
   "package_url": "https://pypi.org/project/linkml-reference-validator/"
 }

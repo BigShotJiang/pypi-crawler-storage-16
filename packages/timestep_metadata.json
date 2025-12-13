@@ -1,11 +1,11 @@
 {
   "name": "timestep",
-  "version": "2026.0.45",
+  "version": "2026.0.49",
   "summary": "Timestep AI - Durable agent execution framework with DBOS workflows, cross-language state persistence, and multi-model support for OpenAI Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "timestep-2026.0.45.tar.gz",
-  "download_time": "2025-12-12T22:14:23.358330",
+  "download_filename": "timestep-2026.0.49.tar.gz",
+  "download_time": "2025-12-13T02:45:07.415370",
   "package_url": "https://pypi.org/project/timestep/"
 }

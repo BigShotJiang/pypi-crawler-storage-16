@@ -1,0 +1,11 @@
+{
+  "name": "pynstal",
+  "version": "0.1.1",
+  "summary": "CLI utility to manage Python virtual environments with auto-detection",
+  "author": "sho96",
+  "license": null,
+  "home_page": "https://github.com/sho96/PythonProjectManager",
+  "download_filename": "pynstal-0.1.1-py3-none-any.whl",
+  "download_time": "2025-12-13T02:44:46.551582",
+  "package_url": "https://pypi.org/project/pynstal/"
+}

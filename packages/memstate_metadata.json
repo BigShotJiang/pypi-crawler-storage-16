@@ -1,0 +1,11 @@
+{
+  "name": "memstate",
+  "version": "0.3.3",
+  "summary": "Transactional Memory for AI Agents - Keep SQL and Vector DBs in sync with ACID-like guarantees",
+  "author": "Slava Kurachevsky",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "memstate-0.3.3.tar.gz",
+  "download_time": "2025-12-13T02:45:00.143658",
+  "package_url": "https://pypi.org/project/memstate/"
+}

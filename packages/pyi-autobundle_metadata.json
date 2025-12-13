@@ -1,0 +1,11 @@
+{
+  "name": "pyi-autobundle",
+  "version": "0.1.0",
+  "summary": "Automatic hook and data file bundler for PyInstaller.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyi_autobundle-0.1.0.tar.gz",
+  "download_time": "2025-12-13T02:44:53.338096",
+  "package_url": "https://pypi.org/project/pyi-autobundle/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "thalosforge",
+  "version": "1.0.1",
+  "summary": "Enterprise optimization API client - CPLEX/Gurobi alternative",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "thalosforge-1.0.1.tar.gz",
+  "download_time": "2025-12-13T02:45:04.278965",
+  "package_url": "https://pypi.org/project/thalosforge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scallpy",
+  "version": "0.1.1",
+  "summary": "A command-line tool to scaffold FastAPI projects, inspired by vitejs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scallpy-0.1.1.tar.gz",
+  "download_time": "2025-12-13T02:44:30.319102",
+  "package_url": "https://pypi.org/project/scallpy/"
+}

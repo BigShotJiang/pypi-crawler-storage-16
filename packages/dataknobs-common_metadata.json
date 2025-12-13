@@ -1,0 +1,11 @@
+{
+  "name": "dataknobs-common",
+  "version": "1.1.2",
+  "summary": "Common utilities and base classes for dataknobs packages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataknobs_common-1.1.2.tar.gz",
+  "download_time": "2025-12-13T23:41:58.660632",
+  "package_url": "https://pypi.org/project/dataknobs-common/"
+}

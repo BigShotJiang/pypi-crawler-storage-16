@@ -1,0 +1,11 @@
+{
+  "name": "dataknobs-fsm",
+  "version": "0.1.4",
+  "summary": "Finite State Machine framework with data modes, resource management, and streaming support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataknobs_fsm-0.1.4.tar.gz",
+  "download_time": "2025-12-13T23:41:55.494383",
+  "package_url": "https://pypi.org/project/dataknobs-fsm/"
+}

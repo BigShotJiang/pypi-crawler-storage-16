@@ -1,0 +1,11 @@
+{
+  "name": "dataknobs-config",
+  "version": "0.3.1",
+  "summary": "Modular configuration system with composable settings and environment variable overrides",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dataknobs_config-0.3.1.tar.gz",
+  "download_time": "2025-12-13T23:41:58.140804",
+  "package_url": "https://pypi.org/project/dataknobs-config/"
+}

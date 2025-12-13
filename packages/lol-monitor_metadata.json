@@ -1,0 +1,11 @@
+{
+  "name": "lol-monitor",
+  "version": "1.8",
+  "summary": "Tool implementing real-time tracking of LoL (League of Legends) players activities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lol_monitor-1.8.tar.gz",
+  "download_time": "2025-12-13T23:41:59.182660",
+  "package_url": "https://pypi.org/project/lol-monitor/"
+}

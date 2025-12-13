@@ -1,0 +1,11 @@
+{
+  "name": "python-ninethreesix",
+  "version": "0.3.0",
+  "summary": "A password generator based on xkcd.com/936",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_ninethreesix-0.3.0.tar.gz",
+  "download_time": "2025-12-13T23:42:00.225429",
+  "package_url": "https://pypi.org/project/python-ninethreesix/"
+}

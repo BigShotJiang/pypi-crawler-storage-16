@@ -1,0 +1,11 @@
+{
+  "name": "twnet-parser",
+  "version": "0.15.1",
+  "summary": "A teeworlds network protocol library, designed according to sans I/O (http://sans-io.readthedocs.io/) principles",
+  "author": "ChillerDragon",
+  "license": "BSD-2.0",
+  "home_page": "https://gitlab.com/teeworlds-network/twnet_parser",
+  "download_filename": "twnet_parser-0.15.1.tar.gz",
+  "download_time": "2025-12-13T09:49:54.418677",
+  "package_url": "https://pypi.org/project/twnet-parser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "breiman-cart",
+  "version": "0.1.1",
+  "summary": "Implementation of Breiman's CART (Classification and Regression Trees) algorithm",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "breiman_cart-0.1.1.tar.gz",
+  "download_time": "2025-12-13T09:49:55.978117",
+  "package_url": "https://pypi.org/project/breiman-cart/"
+}

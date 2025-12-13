@@ -1,0 +1,11 @@
+{
+  "name": "msh-cli",
+  "version": "0.1.1",
+  "summary": "The Command Line Interface for the msh atomic data platform.",
+  "author": null,
+  "license": "Business Source License 1.1 (BSL 1.1)",
+  "home_page": null,
+  "download_filename": "msh_cli-0.1.1.tar.gz",
+  "download_time": "2025-12-13T09:49:56.496022",
+  "package_url": "https://pypi.org/project/msh-cli/"
+}

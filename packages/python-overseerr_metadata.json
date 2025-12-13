@@ -1,0 +1,11 @@
+{
+  "name": "python-overseerr",
+  "version": "0.8.0",
+  "summary": "Asynchronous Python client for Overseerr.",
+  "author": "Joost Lekkerkerker",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_overseerr-0.8.0.tar.gz",
+  "download_time": "2025-12-13T09:49:50.648098",
+  "package_url": "https://pypi.org/project/python-overseerr/"
+}

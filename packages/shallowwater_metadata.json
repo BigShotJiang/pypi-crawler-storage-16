@@ -1,0 +1,11 @@
+{
+  "name": "shallowwater",
+  "version": "0.1.1",
+  "summary": "Shallow-water model on a C-grid over a beta-plane (educational)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shallowwater-0.1.1.tar.gz",
+  "download_time": "2025-12-13T15:50:15.377169",
+  "package_url": "https://pypi.org/project/shallowwater/"
+}

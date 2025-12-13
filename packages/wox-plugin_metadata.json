@@ -1,11 +1,11 @@
 {
   "name": "wox-plugin",
-  "version": "0.0.58",
+  "version": "0.0.60",
   "summary": "Python plugin SDK for Wox launcher",
   "author": "Wox Team",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "wox_plugin-0.0.58.tar.gz",
-  "download_time": "2025-12-13T15:13:45.478145",
+  "download_filename": "wox_plugin-0.0.60.tar.gz",
+  "download_time": "2025-12-13T15:49:42.840579",
   "package_url": "https://pypi.org/project/wox-plugin/"
 }

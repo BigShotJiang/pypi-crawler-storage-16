@@ -1,0 +1,11 @@
+{
+  "name": "dt-foundation",
+  "version": "0.1.21",
+  "summary": "[DAmicoTech] Base modules (logging, os,..) for dt-* packages",
+  "author": "Al DAmico",
+  "license": "MIT",
+  "home_page": "https://github.com/JavaWiz1/dt-foundation",
+  "download_filename": "dt_foundation-0.1.21.tar.gz",
+  "download_time": "2025-12-13T15:49:48.460297",
+  "package_url": "https://pypi.org/project/dt-foundation/"
+}

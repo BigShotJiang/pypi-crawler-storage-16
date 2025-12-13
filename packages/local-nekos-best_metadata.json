@@ -1,0 +1,11 @@
+{
+  "name": "local-nekos-best",
+  "version": "1.0.0",
+  "summary": "Lightning fast access to nekos.best anime gifs and images. Zero API calls, no rate limits, instant responses.",
+  "author": "blackrider6066",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "local_nekos_best-1.0.0.tar.gz",
+  "download_time": "2025-12-13T15:49:45.404713",
+  "package_url": "https://pypi.org/project/local-nekos-best/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "latency-audit",
+  "version": "0.1.0",
+  "summary": "HFT-grade Linux infrastructure validator.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "latency_audit-0.1.0.tar.gz",
+  "download_time": "2025-12-13T15:49:33.582733",
+  "package_url": "https://pypi.org/project/latency-audit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "passagemath-pari-nflistdata",
-  "version": "10.6.41",
+  "version": "10.6.42",
   "summary": "passagemath: Computational Number Theory with PARI/GP: nflist data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_pari_nflistdata-10.6.41-py3-none-any.whl",
-  "download_time": "2025-12-11T19:50:26.214448",
+  "download_filename": "passagemath_pari_nflistdata-10.6.42-py3-none-any.whl",
+  "download_time": "2025-12-13T15:49:55.245239",
   "package_url": "https://pypi.org/project/passagemath-pari-nflistdata/"
 }

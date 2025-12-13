@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-nomad",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Provider package for Nomad (executor, operators, etc.) for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_nomad-0.0.5.tar.gz",
-  "download_time": "2025-12-08T18:47:13.897343",
+  "download_filename": "apache_airflow_providers_nomad-0.0.6.tar.gz",
+  "download_time": "2025-12-13T16:17:02.115776",
   "package_url": "https://pypi.org/project/apache-airflow-providers-nomad/"
 }

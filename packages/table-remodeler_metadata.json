@@ -1,0 +1,11 @@
+{
+  "name": "table-remodeler",
+  "version": "0.1.0",
+  "summary": "Tabular file remodeling and reorganizing tools for event files and datasets.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "table_remodeler-0.1.0.tar.gz",
+  "download_time": "2025-12-13T16:17:11.965748",
+  "package_url": "https://pypi.org/project/table-remodeler/"
+}

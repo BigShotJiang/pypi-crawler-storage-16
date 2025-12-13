@@ -1,11 +1,11 @@
 {
   "name": "rebdhuhn",
-  "version": "0.18.1",
+  "version": "0.18.5",
   "summary": "Converts (already scraped) Entscheidungsbaumdiagramm tables to real graphs",
   "author": null,
   "license": "GPL",
   "home_page": null,
-  "download_filename": "rebdhuhn-0.18.1.tar.gz",
-  "download_time": "2025-12-11T22:14:53.751743",
+  "download_filename": "rebdhuhn-0.18.5.tar.gz",
+  "download_time": "2025-12-13T16:17:24.448542",
   "package_url": "https://pypi.org/project/rebdhuhn/"
 }

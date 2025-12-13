@@ -1,0 +1,11 @@
+{
+  "name": "pycupra",
+  "version": "0.2.5",
+  "summary": "A library to read and send vehicle data via Cupra/Seat portal using the same API calls as the MyCupra/MySeat mobile app.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycupra-0.2.5.tar.gz",
+  "download_time": "2025-12-13T16:17:18.724645",
+  "package_url": "https://pypi.org/project/pycupra/"
+}

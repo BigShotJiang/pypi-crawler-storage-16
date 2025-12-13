@@ -1,11 +1,11 @@
 {
   "name": "visionprint",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "A small Python utility library offering conditional & expressive styles for CLI output.",
   "author": "melih senlen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "visionprint-0.2.2.tar.gz",
-  "download_time": "2025-12-13T15:49:35.120673",
+  "download_filename": "visionprint-0.2.4.tar.gz",
+  "download_time": "2025-12-13T16:17:30.677918",
   "package_url": "https://pypi.org/project/visionprint/"
 }

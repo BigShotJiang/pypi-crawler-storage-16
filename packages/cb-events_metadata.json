@@ -1,0 +1,11 @@
+{
+  "name": "cb-events",
+  "version": "5.8.0",
+  "summary": "Async Python client for the Chaturbate Events API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cb_events-5.8.0.tar.gz",
+  "download_time": "2025-12-13T16:17:33.282419",
+  "package_url": "https://pypi.org/project/cb-events/"
+}

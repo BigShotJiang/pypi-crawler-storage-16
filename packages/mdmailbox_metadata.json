@@ -1,11 +1,11 @@
 {
   "name": "mdmailbox",
-  "version": "0.1.10",
+  "version": "0.1.13",
   "summary": "Email as plain text files with YAML frontmatter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mdmailbox-0.1.10.tar.gz",
-  "download_time": "2025-12-12T10:04:14.580459",
+  "download_filename": "mdmailbox-0.1.13.tar.gz",
+  "download_time": "2025-12-13T16:17:12.487349",
   "package_url": "https://pypi.org/project/mdmailbox/"
 }

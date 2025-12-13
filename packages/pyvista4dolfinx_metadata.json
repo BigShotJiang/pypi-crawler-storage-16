@@ -1,0 +1,11 @@
+{
+  "name": "pyvista4dolfinx",
+  "version": "0.10.2",
+  "summary": "Re-introduction of a simple plot function for Dolfinx.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvista4dolfinx-0.10.2.tar.gz",
+  "download_time": "2025-12-13T11:50:19.171756",
+  "package_url": "https://pypi.org/project/pyvista4dolfinx/"
+}

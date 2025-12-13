@@ -1,11 +1,11 @@
 {
   "name": "npac_calibration",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Detector Calibration Package for NPAC",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "npac_calibration-0.2.3.tar.gz",
-  "download_time": "2025-12-12T20:38:15.224643",
+  "download_filename": "npac_calibration-0.2.4.tar.gz",
+  "download_time": "2025-12-13T11:50:06.666250",
   "package_url": "https://pypi.org/project/npac_calibration/"
 }

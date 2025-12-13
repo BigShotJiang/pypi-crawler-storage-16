@@ -1,0 +1,11 @@
+{
+  "name": "safenax",
+  "version": "0.3.0",
+  "summary": "Constrained environments with a gymnax interface",
+  "author": "0xprofessooor",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "safenax-0.3.0.tar.gz",
+  "download_time": "2025-12-13T11:49:57.420493",
+  "package_url": "https://pypi.org/project/safenax/"
+}

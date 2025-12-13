@@ -1,0 +1,11 @@
+{
+  "name": "python-sts-payone",
+  "version": "0.1.2",
+  "summary": "A package that provides utility functions to send payment requests to STS PayOne and interpret the responses",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_sts_payone-0.1.2.tar.gz",
+  "download_time": "2025-12-13T11:49:58.488085",
+  "package_url": "https://pypi.org/project/python-sts-payone/"
+}

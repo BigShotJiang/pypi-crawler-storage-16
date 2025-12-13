@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-ai3d",
+  "version": "3.1.12",
+  "summary": "Tencent Cloud Ai3d SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_ai3d-3.1.12.tar.gz",
+  "download_time": "2025-12-13T11:50:18.616804",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-ai3d/"
+}

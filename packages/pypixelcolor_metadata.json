@@ -1,0 +1,11 @@
+{
+  "name": "pypixelcolor",
+  "version": "0.4.0",
+  "summary": "A Python library to control iPixel Color devices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypixelcolor-0.4.0.tar.gz",
+  "download_time": "2025-12-13T11:50:02.294958",
+  "package_url": "https://pypi.org/project/pypixelcolor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nexaroa",
-  "version": "0.2.22",
+  "version": "0.2.23",
   "summary": "Decentralized AI Network",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nexaroa-0.2.22.tar.gz",
-  "download_time": "2025-12-13T14:13:46.544928",
+  "download_filename": "nexaroa-0.2.23.tar.gz",
+  "download_time": "2025-12-13T21:50:31.557926",
   "package_url": "https://pypi.org/project/nexaroa/"
 }

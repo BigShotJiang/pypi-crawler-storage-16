@@ -1,0 +1,11 @@
+{
+  "name": "aether-support",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Aether Support - AI-powered customer support platform",
+  "author": "Aether Support",
+  "license": null,
+  "home_page": "https://github.com/aether-support/python-sdk",
+  "download_filename": "aether_support-1.0.0.tar.gz",
+  "download_time": "2025-12-13T21:50:12.970921",
+  "package_url": "https://pypi.org/project/aether-support/"
+}

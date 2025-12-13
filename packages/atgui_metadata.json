@@ -1,11 +1,11 @@
 {
   "name": "atgui",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "ATGUI - Advanced Terminal GUI, Makes making Terminal GUI's easier and better!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "atgui-1.0.0.tar.gz",
-  "download_time": "2025-12-10T20:56:04.435834",
+  "download_filename": "atgui-1.0.2.tar.gz",
+  "download_time": "2025-12-13T21:50:15.310029",
   "package_url": "https://pypi.org/project/atgui/"
 }

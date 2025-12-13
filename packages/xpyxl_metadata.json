@@ -1,11 +1,11 @@
 {
   "name": "xpyxl",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "Create styled excel reports with declarative python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xpyxl-0.6.1.tar.gz",
-  "download_time": "2025-12-12T19:41:41.032014",
+  "download_filename": "xpyxl-0.6.2.tar.gz",
+  "download_time": "2025-12-13T21:50:19.294873",
   "package_url": "https://pypi.org/project/xpyxl/"
 }

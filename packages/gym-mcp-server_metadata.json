@@ -1,0 +1,11 @@
+{
+  "name": "gym-mcp-server",
+  "version": "0.2.0",
+  "summary": "Expose any Gymnasium environment as an MCP server",
+  "author": "Haggai Shachar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gym_mcp_server-0.2.0.tar.gz",
+  "download_time": "2025-12-13T21:50:11.311177",
+  "package_url": "https://pypi.org/project/gym-mcp-server/"
+}

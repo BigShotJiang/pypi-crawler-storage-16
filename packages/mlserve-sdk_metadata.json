@@ -1,0 +1,11 @@
+{
+  "name": "mlserve-sdk",
+  "version": "0.3.5",
+  "summary": "Python SDK for access to MLServe.com services",
+  "author": "Nick Gavriil",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/nikosga/mlserve-sdk/tree/main",
+  "download_filename": "mlserve_sdk-0.3.5.tar.gz",
+  "download_time": "2025-12-13T21:50:17.208702",
+  "package_url": "https://pypi.org/project/mlserve-sdk/"
+}

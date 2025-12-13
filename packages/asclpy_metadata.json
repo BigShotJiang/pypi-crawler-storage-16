@@ -1,0 +1,11 @@
+{
+  "name": "asclpy",
+  "version": "0.1.0",
+  "summary": "Parser for .ascl (Ableton Scala) tuning files with bundled tuning library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asclpy-0.1.0.tar.gz",
+  "download_time": "2025-12-13T21:50:28.496939",
+  "package_url": "https://pypi.org/project/asclpy/"
+}

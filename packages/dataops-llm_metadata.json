@@ -1,0 +1,11 @@
+{
+  "name": "dataops-llm",
+  "version": "0.1.0",
+  "summary": "LLM-powered data operations engine for Excel/CSV files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dataops_llm-0.1.0.tar.gz",
+  "download_time": "2025-12-13T21:50:14.146530",
+  "package_url": "https://pypi.org/project/dataops-llm/"
+}

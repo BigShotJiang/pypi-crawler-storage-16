@@ -1,0 +1,11 @@
+{
+  "name": "egeometry",
+  "version": "0.17.2",
+  "summary": "Python geometry library.",
+  "author": "Erik Soma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "egeometry-0.17.2.tar.gz",
+  "download_time": "2025-12-13T04:05:00.020633",
+  "package_url": "https://pypi.org/project/egeometry/"
+}

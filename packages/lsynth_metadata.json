@@ -1,11 +1,11 @@
 {
   "name": "lsynth",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "Evaluation of how good a synthetic dataset is compared to the original with presuppossing structural constraints",
   "author": "Ishanu Chattopadhyay",
   "license": "LICENSE",
   "home_page": "https://github.com/zeroknowledgediscovery/lsynth",
-  "download_filename": "lsynth-0.1.18.tar.gz",
-  "download_time": "2025-12-13T03:52:04.594964",
+  "download_filename": "lsynth-0.1.19.tar.gz",
+  "download_time": "2025-12-13T04:05:02.826652",
   "package_url": "https://pypi.org/project/lsynth/"
 }

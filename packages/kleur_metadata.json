@@ -1,11 +1,11 @@
 {
   "name": "kleur",
-  "version": "1.2.10",
+  "version": "1.2.11",
   "summary": "Color shades generator",
   "author": "Huib Piguillet",
   "license": null,
   "home_page": null,
-  "download_filename": "kleur-1.2.10.tar.gz",
-  "download_time": "2025-12-12T08:52:21.082817",
+  "download_filename": "kleur-1.2.11.tar.gz",
+  "download_time": "2025-12-13T04:04:57.071596",
   "package_url": "https://pypi.org/project/kleur/"
 }

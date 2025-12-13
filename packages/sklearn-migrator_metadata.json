@@ -1,0 +1,11 @@
+{
+  "name": "sklearn-migrator",
+  "version": "0.21.1",
+  "summary": "A utility to migrate scikit-learn models between versions.",
+  "author": "Alberto Valdés",
+  "license": null,
+  "home_page": "https://github.com/anvaldes/sklearn-migrator",
+  "download_filename": "sklearn_migrator-0.21.1.tar.gz",
+  "download_time": "2025-12-13T04:05:01.585024",
+  "package_url": "https://pypi.org/project/sklearn-migrator/"
+}

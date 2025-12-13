@@ -1,0 +1,11 @@
+{
+  "name": "ai-lls-lib",
+  "version": "3.0.0",
+  "summary": "Landline Scrubber core library - phone verification and DNC checking",
+  "author": "LandlineScrubber Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_lls_lib-3.0.0.tar.gz",
+  "download_time": "2025-12-13T04:05:24.510726",
+  "package_url": "https://pypi.org/project/ai-lls-lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vipermoon",
+  "version": "0.5.0",
+  "summary": "A Lua interpreter implemented in Python",
+  "author": "George Munyoro",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vipermoon-0.5.0.tar.gz",
+  "download_time": "2025-12-13T04:05:22.117091",
+  "package_url": "https://pypi.org/project/vipermoon/"
+}

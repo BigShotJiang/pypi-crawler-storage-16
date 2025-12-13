@@ -1,0 +1,11 @@
+{
+  "name": "vivarium-testing-utils",
+  "version": "0.3.0",
+  "summary": "Project to store testing utilities for Vivarium software.",
+  "author": "The vivarium developers",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/ihmeuw/vivarium_testing_utils",
+  "download_filename": "vivarium_testing_utils-0.3.0.tar.gz",
+  "download_time": "2025-12-13T04:05:22.772156",
+  "package_url": "https://pypi.org/project/vivarium-testing-utils/"
+}

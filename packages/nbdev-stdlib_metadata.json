@@ -1,11 +1,11 @@
 {
   "name": "nbdev-stdlib",
-  "version": "0.0.2291",
+  "version": "0.0.2292",
   "summary": "nbdev docs lookup for the python standard library",
   "author": "Jeremy Howard",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/fastai/nbdev-index/tree/master/",
-  "download_filename": "nbdev_stdlib-0.0.2291.tar.gz",
-  "download_time": "2025-12-12T14:34:59.707437",
+  "download_filename": "nbdev_stdlib-0.0.2292.tar.gz",
+  "download_time": "2025-12-13T04:04:51.715123",
   "package_url": "https://pypi.org/project/nbdev-stdlib/"
 }

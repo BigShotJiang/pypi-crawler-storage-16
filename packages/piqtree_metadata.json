@@ -1,0 +1,11 @@
+{
+  "name": "piqtree",
+  "version": "0.8.0",
+  "summary": "Python bindings for IQTree",
+  "author": "Gavin Huttley, Robert McArthur, Bui Quang Minh , Richard Morris, Thomas Wong",
+  "license": null,
+  "home_page": null,
+  "download_filename": "piqtree-0.8.0-cp312-cp312-macosx_15_0_arm64.whl",
+  "download_time": "2025-12-13T04:05:04.512835",
+  "package_url": "https://pypi.org/project/piqtree/"
+}

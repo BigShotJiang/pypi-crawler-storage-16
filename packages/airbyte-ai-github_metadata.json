@@ -1,11 +1,11 @@
 {
   "name": "airbyte-ai-github",
-  "version": "0.18.9",
+  "version": "0.18.10",
   "summary": "Airbyte Github Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_ai_github-0.18.9.tar.gz",
-  "download_time": "2025-12-12T17:15:38.191357",
+  "download_filename": "airbyte_ai_github-0.18.10.tar.gz",
+  "download_time": "2025-12-13T04:05:13.561787",
   "package_url": "https://pypi.org/project/airbyte-ai-github/"
 }

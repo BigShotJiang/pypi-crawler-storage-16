@@ -1,0 +1,11 @@
+{
+  "name": "hytils",
+  "version": "0.2.0",
+  "summary": "Shared utilities: paths, formatting, and helpers",
+  "author": "Jep Etau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hytils-0.2.0.tar.gz",
+  "download_time": "2025-12-13T15:33:35.345434",
+  "package_url": "https://pypi.org/project/hytils/"
+}

@@ -1,16 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T15:14:37.362441
+- **Download Time**: 2025-12-13T15:33:36.894831
 - **Total Packages**: 97
-- **Total Size**: 45.72 MB
+- **Total Size**: 8.2 MB
 
 ## Packages List
-- wox-plugin
-- munch-group-library
-- BOS-HA
-- fivedreg-tf
-- sentinelseed
 - arthur-common
 - pylinkage
 - sqlalchemy-diff
@@ -43,6 +38,7 @@
 - apache-airflow-providers-openfaas
 - apache-airflow-providers-openai
 - apache-airflow-providers-neo4j
+- fivedreg-tf
 - apache-airflow-providers-microsoft-winrm
 - apache-airflow-providers-microsoft-psrp
 - apache-airflow-providers-microsoft-azure
@@ -103,3 +99,7 @@
 - cerespp
 - freestylo
 - lava-lyra
+- auroraview
+- hytils
+- firelens-monitor
+- notmuch2

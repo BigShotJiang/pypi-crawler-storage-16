@@ -1,13 +1,8 @@
 {
-  "download_time": "2025-12-13T15:14:37.362441",
+  "download_time": "2025-12-13T15:33:36.894831",
   "total_packages_downloaded": 97,
-  "total_size_mb": 45.72,
+  "total_size_mb": 8.2,
   "packages": [
-    "wox-plugin",
-    "munch-group-library",
-    "BOS-HA",
-    "fivedreg-tf",
-    "sentinelseed",
     "arthur-common",
     "pylinkage",
     "sqlalchemy-diff",
@@ -40,6 +35,7 @@
     "apache-airflow-providers-openfaas",
     "apache-airflow-providers-openai",
     "apache-airflow-providers-neo4j",
+    "fivedreg-tf",
     "apache-airflow-providers-microsoft-winrm",
     "apache-airflow-providers-microsoft-psrp",
     "apache-airflow-providers-microsoft-azure",
@@ -99,6 +95,10 @@
     "cheshirecat-python-sdk",
     "cerespp",
     "freestylo",
-    "lava-lyra"
+    "lava-lyra",
+    "auroraview",
+    "hytils",
+    "firelens-monitor",
+    "notmuch2"
   ]
 }

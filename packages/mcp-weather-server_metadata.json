@@ -1,0 +1,11 @@
+{
+  "name": "mcp-weather-server",
+  "version": "0.6.1",
+  "summary": "An MCP server for weather information",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_weather_server-0.6.1.tar.gz",
+  "download_time": "2025-12-13T13:38:28.649752",
+  "package_url": "https://pypi.org/project/mcp-weather-server/"
+}

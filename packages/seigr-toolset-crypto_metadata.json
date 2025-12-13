@@ -1,0 +1,11 @@
+{
+  "name": "seigr-toolset-crypto",
+  "version": "0.4.3",
+  "summary": "Post-classical cryptographic engine with automated security profiles and high-performance streaming",
+  "author": "Sergi Saldaña-Massó - Seigr Lab",
+  "license": null,
+  "home_page": "https://github.com/Seigr-lab/SeigrToolsetCrypto",
+  "download_filename": "seigr_toolset_crypto-0.4.3.tar.gz",
+  "download_time": "2025-12-13T13:38:46.215531",
+  "package_url": "https://pypi.org/project/seigr-toolset-crypto/"
+}

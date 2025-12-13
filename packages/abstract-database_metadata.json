@@ -1,0 +1,11 @@
+{
+  "name": "abstract-database",
+  "version": "0.0.2.105",
+  "summary": "A lightweight' , 'env-driven toolkit for Postgres connections' , 'table helpers' , 'and Pandas exports.",
+  "author": "putkoff",
+  "license": null,
+  "home_page": "https://github.com/AbstractEndeavors/abstract_database",
+  "download_filename": "abstract_database-0.0.2.105.tar.gz",
+  "download_time": "2025-12-13T13:38:27.069069",
+  "package_url": "https://pypi.org/project/abstract-database/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ngdb",
+  "version": "1.2.0",
+  "summary": "Norton Guide database reading library",
+  "author": "Dave Pearson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ngdb-1.2.0.tar.gz",
+  "download_time": "2025-12-13T13:38:24.461475",
+  "package_url": "https://pypi.org/project/ngdb/"
+}

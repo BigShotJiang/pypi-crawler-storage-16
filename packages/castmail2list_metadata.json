@@ -1,0 +1,11 @@
+{
+  "name": "castmail2list",
+  "version": "0.4.1",
+  "summary": "Simple mailing list software with IMAP mailbox backend, web interface, and multiple list modes.",
+  "author": "Max Mehl",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/mxmehl/castmail2list",
+  "download_filename": "castmail2list-0.4.1.tar.gz",
+  "download_time": "2025-12-13T13:38:28.126919",
+  "package_url": "https://pypi.org/project/castmail2list/"
+}

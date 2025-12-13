@@ -1,11 +1,11 @@
 {
   "name": "nbdev-pandas",
-  "version": "0.0.2277",
+  "version": "0.0.2278",
   "summary": "nbdev docs lookup for pandas",
   "author": "Jeremy Howard",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/fastai/nbdev-index/tree/master/",
-  "download_filename": "nbdev_pandas-0.0.2277.tar.gz",
-  "download_time": "2025-12-13T04:04:50.484446",
+  "download_filename": "nbdev_pandas-0.0.2278.tar.gz",
+  "download_time": "2025-12-13T13:38:36.752161",
   "package_url": "https://pypi.org/project/nbdev-pandas/"
 }

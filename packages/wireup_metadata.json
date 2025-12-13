@@ -1,11 +1,11 @@
 {
   "name": "wireup",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Python Dependency Injection Library",
   "author": "Aldo Mateli",
   "license": "MIT",
   "home_page": "https://github.com/maldoinc/wireup",
-  "download_filename": "wireup-2.2.0.tar.gz",
-  "download_time": "2025-12-11T22:40:57.125178",
+  "download_filename": "wireup-2.2.1.tar.gz",
+  "download_time": "2025-12-13T13:38:45.695918",
   "package_url": "https://pypi.org/project/wireup/"
 }

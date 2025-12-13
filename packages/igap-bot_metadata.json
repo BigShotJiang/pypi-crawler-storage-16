@@ -1,11 +1,11 @@
 {
   "name": "igap-bot",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Unofficial iGap Bot API client for Python",
   "author": "Ehsan",
   "license": "MIT",
   "home_page": "https://github.com/sinyor-ehsan/igap-bot",
-  "download_filename": "igap_bot-0.1.4.tar.gz",
-  "download_time": "2025-12-12T14:51:37.624400",
+  "download_filename": "igap_bot-0.1.5.tar.gz",
+  "download_time": "2025-12-13T21:39:22.322895",
   "package_url": "https://pypi.org/project/igap-bot/"
 }

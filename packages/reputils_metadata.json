@@ -1,11 +1,11 @@
 {
   "name": "reputils",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "REPUTILS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reputils-0.0.14.tar.gz",
-  "download_time": "2025-12-13T11:50:08.818904",
+  "download_filename": "reputils-0.0.15.tar.gz",
+  "download_time": "2025-12-13T21:39:25.450313",
   "package_url": "https://pypi.org/project/reputils/"
 }

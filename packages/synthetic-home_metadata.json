@@ -1,0 +1,11 @@
+{
+  "name": "synthetic-home",
+  "version": "5.0.2",
+  "summary": "Library for managing synthetic home device registry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synthetic_home-5.0.2.tar.gz",
+  "download_time": "2025-12-13T21:39:18.638011",
+  "package_url": "https://pypi.org/project/synthetic-home/"
+}

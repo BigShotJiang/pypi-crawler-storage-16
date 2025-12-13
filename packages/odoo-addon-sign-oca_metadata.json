@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-sign-oca",
-  "version": "18.0.1.4.1.1",
+  "version": "18.0.1.4.1.2",
   "summary": "Allow to sign documents inside Odoo CE",
   "author": "Dixmit,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/sign",
-  "download_filename": "odoo_addon_sign_oca-18.0.1.4.1.1-py3-none-any.whl",
-  "download_time": "2025-12-11T04:48:59.316503",
+  "download_filename": "odoo_addon_sign_oca-18.0.1.4.1.2-py3-none-any.whl",
+  "download_time": "2025-12-13T04:40:51.921336",
   "package_url": "https://pypi.org/project/odoo-addon-sign-oca/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "korea-investment-stock",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "summary": "Pure Python wrapper for Korea Investment Securities OpenAPI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "korea_investment_stock-0.13.0.tar.gz",
-  "download_time": "2025-12-13T03:51:43.846629",
+  "download_filename": "korea_investment_stock-0.13.1.tar.gz",
+  "download_time": "2025-12-13T04:40:51.315796",
   "package_url": "https://pypi.org/project/korea-investment-stock/"
 }

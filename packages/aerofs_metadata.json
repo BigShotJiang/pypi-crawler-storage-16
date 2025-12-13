@@ -1,0 +1,11 @@
+{
+  "name": "aerofs",
+  "version": "4.0.2",
+  "summary": "High-Performance Asynchronous File I/O for Python, powered by Rust",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aerofs-4.0.2.tar.gz",
+  "download_time": "2025-12-13T04:40:37.893813",
+  "package_url": "https://pypi.org/project/aerofs/"
+}

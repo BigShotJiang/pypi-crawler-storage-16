@@ -1,0 +1,11 @@
+{
+  "name": "morebs2",
+  "version": "0.1.44",
+  "summary": "A structure for data security and a cracking environment.",
+  "author": "Richard Pham",
+  "license": null,
+  "home_page": "https://github.com/Changissnz/morebs",
+  "download_filename": "morebs2-0.1.44.tar.gz",
+  "download_time": "2025-12-13T04:40:59.459961",
+  "package_url": "https://pypi.org/project/morebs2/"
+}

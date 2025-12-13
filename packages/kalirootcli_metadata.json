@@ -1,11 +1,11 @@
 {
   "name": "kalirootcli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Advanced Cybersecurity CLI Assistant for Termux & Kali Linux",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kalirootcli-1.0.0.tar.gz",
-  "download_time": "2025-12-13T03:51:53.722703",
+  "download_filename": "kalirootcli-1.1.0.tar.gz",
+  "download_time": "2025-12-13T04:40:50.734921",
   "package_url": "https://pypi.org/project/kalirootcli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "crowleyframe",
+  "version": "0.2.0",
+  "summary": "A Rust-powered, tidyverse-inspired DataFrame manipulation library for Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crowleyframe-0.2.0.tar.gz",
+  "download_time": "2025-12-13T04:41:02.328157",
+  "package_url": "https://pypi.org/project/crowleyframe/"
+}

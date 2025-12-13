@@ -1,11 +1,11 @@
 {
   "name": "fyodoros",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "The Experimental AI Microkernel OS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fyodoros-0.7.0.tar.gz",
-  "download_time": "2025-12-12T14:14:50.489256",
+  "download_filename": "fyodoros-0.7.1.tar.gz",
+  "download_time": "2025-12-13T04:40:40.863815",
   "package_url": "https://pypi.org/project/fyodoros/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nifti2bids",
+  "version": "0.5.0",
+  "summary": "Post-hoc BIDS conversion toolkit for unstructured NIfTI datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nifti2bids-0.5.0.tar.gz",
+  "download_time": "2025-12-13T04:40:38.470210",
+  "package_url": "https://pypi.org/project/nifti2bids/"
+}

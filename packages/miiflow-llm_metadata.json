@@ -1,0 +1,11 @@
+{
+  "name": "miiflow-llm",
+  "version": "0.3.0",
+  "summary": "A lightweight, unified interface for LLM providers with streaming, tool calling, and structured output support",
+  "author": "Yaozhong Kang",
+  "license": "MIT",
+  "home_page": "https://github.com/Miiflow/miiflow-llm",
+  "download_filename": "miiflow_llm-0.3.0.tar.gz",
+  "download_time": "2025-12-13T04:40:55.973558",
+  "package_url": "https://pypi.org/project/miiflow-llm/"
+}

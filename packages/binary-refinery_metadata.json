@@ -1,11 +1,11 @@
 {
   "name": "binary-refinery",
-  "version": "0.9.18",
+  "version": "0.9.19",
   "summary": "A toolkit to transform and refine (mostly) binary data.",
   "author": "Jesko Huettenhain",
   "license": null,
   "home_page": "https://github.com/binref/refinery/",
-  "download_filename": "binary_refinery-0.9.18.tar.gz",
-  "download_time": "2025-12-11T07:53:13.032626",
+  "download_filename": "binary_refinery-0.9.19.tar.gz",
+  "download_time": "2025-12-13T06:59:03.950730",
   "package_url": "https://pypi.org/project/binary-refinery/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "getconsult",
-  "version": "0.3.5",
+  "version": "0.6.1",
   "summary": "Multi-agent consensus system - LLM agents with different prompts analyze problems, critique each other, iterate to agreement",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "getconsult-0.3.5.tar.gz",
-  "download_time": "2025-12-12T01:02:39.861350",
+  "download_filename": "getconsult-0.6.1.tar.gz",
+  "download_time": "2025-12-13T06:59:03.402316",
   "package_url": "https://pypi.org/project/getconsult/"
 }

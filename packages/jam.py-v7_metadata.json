@@ -1,11 +1,11 @@
 {
   "name": "jam.py-v7",
-  "version": "7.0.79",
+  "version": "7.0.81",
   "summary": "Jam.py Application Builder is an event-driven framework         for the development of web database applications.",
   "author": "Andrew Yushev",
   "license": "BSD",
   "home_page": "https://github.com/jam-py-v5/jam-py",
-  "download_filename": "jam_py_v7-7.0.79-py3-none-any.whl",
-  "download_time": "2025-12-10T11:16:39.806917",
+  "download_filename": "jam_py_v7-7.0.81-py3-none-any.whl",
+  "download_time": "2025-12-13T06:59:11.572364",
   "package_url": "https://pypi.org/project/jam.py-v7/"
 }

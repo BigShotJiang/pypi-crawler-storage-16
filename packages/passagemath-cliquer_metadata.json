@@ -1,11 +1,11 @@
 {
   "name": "passagemath-cliquer",
-  "version": "10.6.41",
+  "version": "10.6.42",
   "summary": "passagemath: Finding cliques in graphs with cliquer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_cliquer-10.6.41-cp310-cp310-win_arm64.whl",
-  "download_time": "2025-12-11T04:48:32.013577",
+  "download_filename": "passagemath_cliquer-10.6.42-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-12-13T06:59:22.872201",
   "package_url": "https://pypi.org/project/passagemath-cliquer/"
 }

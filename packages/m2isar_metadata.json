@@ -1,11 +1,11 @@
 {
   "name": "m2isar",
-  "version": "0.0.5",
-  "summary": null,
-  "author": null,
+  "version": "0.0.6",
+  "summary": "CoreDSL2 Parser with backend to generate simulation code for the ETISS instruction set simulator",
+  "author": "Karsten Emrich",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "m2isar-0.0.5-py3-none-any.whl",
-  "download_time": "2025-12-12T22:14:36.134158",
+  "download_filename": "m2isar-0.0.6.tar.gz",
+  "download_time": "2025-12-13T06:58:59.913056",
   "package_url": "https://pypi.org/project/m2isar/"
 }

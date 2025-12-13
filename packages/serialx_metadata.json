@@ -1,0 +1,11 @@
+{
+  "name": "serialx",
+  "version": "0.5.0",
+  "summary": "Serial library with native async support for Windows and POSIX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "serialx-0.5.0.tar.gz",
+  "download_time": "2025-12-13T06:59:28.632769",
+  "package_url": "https://pypi.org/project/serialx/"
+}

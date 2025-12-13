@@ -1,11 +1,11 @@
 {
   "name": "boxjoin",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "summary": "Bounding box clustering: group overlapped box into a large box",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boxjoin-0.2.1.tar.gz",
-  "download_time": "2025-12-13T05:15:43.582646",
+  "download_filename": "boxjoin-0.3.1.tar.gz",
+  "download_time": "2025-12-13T06:59:01.647584",
   "package_url": "https://pypi.org/project/boxjoin/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "exaai-agent",
-  "version": "2.0.6",
-  "summary": "ExaaiAgnt - Advanced AI Security Agent for Comprehensive Penetration Testing",
-  "author": "ExaaiAgnt Team",
+  "version": "2.0.8",
+  "summary": "ExaAi - Advanced AI Security Agent for Comprehensive Penetration Testing",
+  "author": "ExaAi Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "exaai_agent-2.0.6.tar.gz",
-  "download_time": "2025-12-12T17:15:14.820217",
+  "download_filename": "exaai_agent-2.0.8.tar.gz",
+  "download_time": "2025-12-13T06:58:49.971193",
   "package_url": "https://pypi.org/project/exaai-agent/"
 }

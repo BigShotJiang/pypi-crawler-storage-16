@@ -1,0 +1,11 @@
+{
+  "name": "phase-slip-sampler",
+  "version": "1.0.0",
+  "summary": "An entropic perturbation sampler for LLMs using orthonormal vector rotation and logit anchoring.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "phase_slip_sampler-1.0.0.tar.gz",
+  "download_time": "2025-12-13T06:59:16.285088",
+  "package_url": "https://pypi.org/project/phase-slip-sampler/"
+}

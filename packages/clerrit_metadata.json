@@ -1,11 +1,11 @@
 {
   "name": "clerrit",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Supercharge your Gerrit workflow with LLM-powered code reviews and fixes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clerrit-0.3.0.tar.gz",
-  "download_time": "2025-12-13T00:59:45.695197",
+  "download_filename": "clerrit-0.4.0.tar.gz",
+  "download_time": "2025-12-13T06:59:02.793198",
   "package_url": "https://pypi.org/project/clerrit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "iotaa",
+  "version": "1.6.0",
+  "summary": "A simple workflow engine",
+  "author": "Paul Madden",
+  "license": null,
+  "home_page": "https://github.com/maddenp/iotaa",
+  "download_filename": "iotaa-1.6.0-py3-none-any.whl",
+  "download_time": "2025-12-13T06:59:30.926006",
+  "package_url": "https://pypi.org/project/iotaa/"
+}

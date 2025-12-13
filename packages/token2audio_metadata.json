@@ -1,11 +1,11 @@
 {
   "name": "token2audio",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Token2Audio Server Package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "token2audio-0.1.2.tar.gz",
-  "download_time": "2025-12-13T07:34:09.799941",
+  "download_filename": "token2audio-0.1.4.tar.gz",
+  "download_time": "2025-12-13T08:18:05.676108",
   "package_url": "https://pypi.org/project/token2audio/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "polargini",
+  "version": "1.0.0",
+  "summary": "Python implementation of the Polar Gini Curve",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polargini-1.0.0.tar.gz",
+  "download_time": "2025-12-13T08:18:13.005981",
+  "package_url": "https://pypi.org/project/polargini/"
+}

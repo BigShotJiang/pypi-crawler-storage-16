@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-rangefilter",
+  "version": "0.13.5",
+  "summary": "django-admin-rangefilter app, add the filter by a custom date range on the admin UI.",
+  "author": "Dmitriy Sokolov",
+  "license": "MIT",
+  "home_page": "https://github.com/silentsokolov/django-admin-rangefilter",
+  "download_filename": "django_admin_rangefilter-0.13.5.tar.gz",
+  "download_time": "2025-12-13T08:18:15.082614",
+  "package_url": "https://pypi.org/project/django-admin-rangefilter/"
+}

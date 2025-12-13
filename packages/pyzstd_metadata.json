@@ -1,0 +1,11 @@
+{
+  "name": "pyzstd",
+  "version": "0.19.1",
+  "summary": "Support for Zstandard (zstd) compression",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyzstd-0.19.1.tar.gz",
+  "download_time": "2025-12-13T08:18:00.970901",
+  "package_url": "https://pypi.org/project/pyzstd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "selenium-teleport",
+  "version": "2.0.0",
+  "summary": "Save and restore browser state (Cookies, LocalStorage, SessionStorage) to instantly skip login screens in Selenium automation.",
+  "author": "Dhiraj Das",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "selenium_teleport-2.0.0.tar.gz",
+  "download_time": "2025-12-13T08:18:02.010539",
+  "package_url": "https://pypi.org/project/selenium-teleport/"
+}

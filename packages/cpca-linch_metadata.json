@@ -1,11 +1,11 @@
 {
   "name": "cpca-linch",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "Chinese Province, City and Area Recognition Utilities (Updated 2025)",
   "author": "laofahai",
   "license": "MIT",
   "home_page": "https://github.com/laofahai/cpca-linch",
-  "download_filename": "cpca_linch-0.4.4.tar.gz",
-  "download_time": "2025-12-13T06:21:04.254332",
+  "download_filename": "cpca_linch-0.4.5.tar.gz",
+  "download_time": "2025-12-13T08:18:17.686468",
   "package_url": "https://pypi.org/project/cpca-linch/"
 }

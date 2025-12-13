@@ -1,11 +1,11 @@
 {
   "name": "inferflow",
-  "version": "0.1.1a2",
+  "version": "0.1.1a3",
   "summary": "Universal Inference Pipeline Framework for Computer Vision",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "inferflow-0.1.1a2.tar.gz",
-  "download_time": "2025-12-09T21:49:37.589724",
+  "download_filename": "inferflow-0.1.1a3.tar.gz",
+  "download_time": "2025-12-13T08:18:07.234220",
   "package_url": "https://pypi.org/project/inferflow/"
 }

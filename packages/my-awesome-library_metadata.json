@@ -1,0 +1,11 @@
+{
+  "name": "my-awesome-library",
+  "version": "0.0.1",
+  "summary": "A short description of my awesome Python library.",
+  "author": "Your Name",
+  "license": "MIT # اختر ترخيصك (MIT هو الشائع)",
+  "home_page": "https://github.com/yourusername/my_awesome_library # رابط مستودع الكود",
+  "download_filename": "my_awesome_library-0.0.1.tar.gz",
+  "download_time": "2025-12-13T08:18:21.847590",
+  "package_url": "https://pypi.org/project/my-awesome-library/"
+}

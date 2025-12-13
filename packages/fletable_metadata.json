@@ -1,0 +1,11 @@
+{
+  "name": "fletable",
+  "version": "0.0.1",
+  "summary": "Tables that take data from SQL database",
+  "author": "RichCake",
+  "license": null,
+  "home_page": "https://github.com/RichCake/fletable",
+  "download_filename": "fletable-0.0.1.tar.gz",
+  "download_time": "2025-12-13T08:18:16.119669",
+  "package_url": "https://pypi.org/project/fletable/"
+}

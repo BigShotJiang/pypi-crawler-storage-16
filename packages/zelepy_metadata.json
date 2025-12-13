@@ -1,0 +1,11 @@
+{
+  "name": "zelepy",
+  "version": "0.0.1",
+  "summary": "Zelesis Neo API Python Bindings",
+  "author": "MrCoolGuy640",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zelepy-0.0.1.tar.gz",
+  "download_time": "2025-12-13T07:34:08.240928",
+  "package_url": "https://pypi.org/project/zelepy/"
+}

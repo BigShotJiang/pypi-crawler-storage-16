@@ -1,11 +1,11 @@
 {
   "name": "assorthead",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Assorted C++ headers",
   "author": "Aaron Lun",
   "license": "MIT",
   "home_page": "https://github.com/BiocPy/assorthead/",
-  "download_filename": "assorthead-0.2.0.tar.gz",
-  "download_time": "2025-12-10T01:01:26.470403",
+  "download_filename": "assorthead-0.2.1.tar.gz",
+  "download_time": "2025-12-13T07:34:05.660562",
   "package_url": "https://pypi.org/project/assorthead/"
 }

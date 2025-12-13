@@ -1,11 +1,11 @@
 {
   "name": "advent-of-code-wim",
-  "version": "2025.10",
+  "version": "2025.12",
   "summary": "Wim's solutions for https://adventofcode.com/",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "advent_of_code_wim-2025.10.tar.gz",
-  "download_time": "2025-12-11T07:43:00.555826",
+  "download_filename": "advent_of_code_wim-2025.12.tar.gz",
+  "download_time": "2025-12-13T07:34:05.140934",
   "package_url": "https://pypi.org/project/advent-of-code-wim/"
 }

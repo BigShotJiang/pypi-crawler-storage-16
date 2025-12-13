@@ -1,0 +1,11 @@
+{
+  "name": "angelslim",
+  "version": "0.2.2",
+  "summary": "A toolkit for compress llm model.",
+  "author": "Tencent Author",
+  "license": "License for AngelSlim",
+  "home_page": "https://github.com/Tencent/AngelSlim",
+  "download_filename": "angelslim-0.2.2-py3-none-any.whl",
+  "download_time": "2025-12-13T07:34:06.173066",
+  "package_url": "https://pypi.org/project/angelslim/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytest-djangoapp",
+  "version": "1.7.0",
+  "summary": "Nice pytest plugin to help you with Django pluggable application testing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_djangoapp-1.7.0.tar.gz",
+  "download_time": "2025-12-13T07:34:07.192618",
+  "package_url": "https://pypi.org/project/pytest-djangoapp/"
+}

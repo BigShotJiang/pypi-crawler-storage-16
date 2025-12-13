@@ -1,0 +1,11 @@
+{
+  "name": "ultrarag",
+  "version": "1.0.0",
+  "summary": "Complete RAG with built-in Ollama + FastAPI + Swagger - Zero Config!",
+  "author": "Abhishek Kumar",
+  "license": null,
+  "home_page": "https://github.com/kumar123ips/ultrarag",
+  "download_filename": "ultrarag-1.0.0.tar.gz",
+  "download_time": "2025-12-13T07:34:13.933533",
+  "package_url": "https://pypi.org/project/ultrarag/"
+}

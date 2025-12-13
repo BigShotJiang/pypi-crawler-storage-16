@@ -1,11 +1,11 @@
 {
   "name": "fritter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Fritter, the Frame-Rate IndependenT TimEr tRee.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fritter-0.1.0.tar.gz",
-  "download_time": "2025-12-13T00:59:33.714712",
+  "download_filename": "fritter-0.1.1.tar.gz",
+  "download_time": "2025-12-13T07:34:11.866416",
   "package_url": "https://pypi.org/project/fritter/"
 }

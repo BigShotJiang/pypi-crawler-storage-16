@@ -1,8 +1,14 @@
 {
-  "download_time": "2025-12-13T05:49:07.675034",
-  "total_packages_downloaded": 79,
-  "total_size_mb": 16.42,
+  "download_time": "2025-12-13T05:53:13.162031",
+  "total_packages_downloaded": 80,
+  "total_size_mb": 5.73,
   "packages": [
+    "ggplotly",
+    "any2cos",
+    "sendbase-email",
+    "supernotelib",
+    "pyaniparser",
+    "synthohive",
     "fetcharoo",
     "AxeProfiler",
     "wisent",
@@ -33,7 +39,6 @@
     "gfetchert",
     "rmq-client",
     "ligo.skymap",
-    "synthohive",
     "vectorvein",
     "bioviz-kit",
     "boxjoin",
@@ -77,10 +82,6 @@
     "aisbom-cli",
     "ros-cdk-drds",
     "nhs-waiting-lists",
-    "code-scalpel",
-    "fastcrud",
-    "Socket-Singleton",
-    "artc",
-    "treeline-money"
+    "code-scalpel"
   ]
 }

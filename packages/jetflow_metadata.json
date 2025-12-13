@@ -1,11 +1,11 @@
 {
   "name": "jetflow",
-  "version": "1.0.67",
+  "version": "1.0.68",
   "summary": "Lightweight, production-ready framework for building agentic workflows with LLMs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jetflow-1.0.67.tar.gz",
-  "download_time": "2025-12-12T21:04:17.902296",
+  "download_filename": "jetflow-1.0.68.tar.gz",
+  "download_time": "2025-12-13T11:29:05.966285",
   "package_url": "https://pypi.org/project/jetflow/"
 }

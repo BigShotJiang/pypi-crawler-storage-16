@@ -1,0 +1,11 @@
+{
+  "name": "orm-database-sqlite",
+  "version": "0.0.5",
+  "summary": "This module is written to launch your programs with any database you want in the shortest time ",
+  "author": "SISRSIS",
+  "license": "MIT",
+  "home_page": "https://github.com/sisrsis/orm-database",
+  "download_filename": "orm_database_sqlite-0.0.5.tar.gz",
+  "download_time": "2025-12-13T11:29:05.389626",
+  "package_url": "https://pypi.org/project/orm-database-sqlite/"
+}

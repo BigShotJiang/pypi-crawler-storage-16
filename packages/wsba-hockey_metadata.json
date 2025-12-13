@@ -1,11 +1,11 @@
 {
   "name": "wsba-hockey",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "summary": "WeakSide Breakout's complete Python package of access to hockey data, primairly including the scraping of National Hockey League schedule, play-by-play, and shifts information.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wsba_hockey-1.2.8.tar.gz",
-  "download_time": "2025-12-12T21:04:33.085349",
+  "download_filename": "wsba_hockey-1.2.9.tar.gz",
+  "download_time": "2025-12-13T22:34:58.101917",
   "package_url": "https://pypi.org/project/wsba-hockey/"
 }

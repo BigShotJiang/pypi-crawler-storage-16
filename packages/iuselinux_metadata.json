@@ -1,11 +1,11 @@
 {
   "name": "iuselinux",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Remote iMessage gateway for macOS",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iuselinux-0.1.0.tar.gz",
-  "download_time": "2025-12-13T21:50:26.726331",
+  "download_filename": "iuselinux-0.1.1.tar.gz",
+  "download_time": "2025-12-13T22:34:54.521776",
   "package_url": "https://pypi.org/project/iuselinux/"
 }

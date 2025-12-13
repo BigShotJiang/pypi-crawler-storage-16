@@ -1,0 +1,11 @@
+{
+  "name": "nhandu",
+  "version": "0.3.1",
+  "summary": "A literate programming tool for Python that weaves code and documentation into scientific reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nhandu-0.3.1.tar.gz",
+  "download_time": "2025-12-13T22:35:03.221963",
+  "package_url": "https://pypi.org/project/nhandu/"
+}

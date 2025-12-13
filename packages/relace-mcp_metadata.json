@@ -1,11 +1,11 @@
 {
   "name": "relace-mcp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Unofficial Relace MCP Server - Fast code merging via Relace API",
   "author": "possible055",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "relace_mcp-0.1.4.tar.gz",
-  "download_time": "2025-12-11T16:19:57.499720",
+  "download_filename": "relace_mcp-0.1.5.tar.gz",
+  "download_time": "2025-12-13T22:35:00.664176",
   "package_url": "https://pypi.org/project/relace-mcp/"
 }

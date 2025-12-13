@@ -1,0 +1,11 @@
+{
+  "name": "jeke-understat-scrapper",
+  "version": "1.0.0",
+  "summary": "A Python API for scraping football data from understat.com",
+  "author": "jeke-deportivas",
+  "license": null,
+  "home_page": "https://github.com/jeke-deportivas/jeke-understat-scrapper",
+  "download_filename": "jeke_understat_scrapper-1.0.0.tar.gz",
+  "download_time": "2025-12-13T22:34:46.752770",
+  "package_url": "https://pypi.org/project/jeke-understat-scrapper/"
+}

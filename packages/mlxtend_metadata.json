@@ -1,0 +1,11 @@
+{
+  "name": "mlxtend",
+  "version": "0.24.0",
+  "summary": "Machine Learning Library Extensions",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "mlxtend-0.24.0.tar.gz",
+  "download_time": "2025-12-13T22:34:48.821841",
+  "package_url": "https://pypi.org/project/mlxtend/"
+}

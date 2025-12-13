@@ -1,11 +1,11 @@
 {
   "name": "mqttstuff",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "MQTTStuff",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mqttstuff-0.0.1.tar.gz",
-  "download_time": "2025-12-13T21:50:22.765552",
+  "download_filename": "mqttstuff-0.0.3.tar.gz",
+  "download_time": "2025-12-13T22:34:59.129301",
   "package_url": "https://pypi.org/project/mqttstuff/"
 }

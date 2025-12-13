@@ -1,0 +1,11 @@
+{
+  "name": "wrtkit",
+  "version": "0.1.0",
+  "summary": "A Python library for managing OpenWRT configuration over SSH",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wrtkit-0.1.0.tar.gz",
+  "download_time": "2025-12-13T22:34:46.219207",
+  "package_url": "https://pypi.org/project/wrtkit/"
+}

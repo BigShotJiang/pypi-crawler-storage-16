@@ -1,11 +1,11 @@
 {
   "name": "minesc",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Biblioteca pessoal pra facilitar minha vida",
   "author": "Decaptado",
   "license": null,
   "home_page": "https://github.com/aaaa560/Mine-Server-Manager-2",
-  "download_filename": "minesc-0.1.1.tar.gz",
-  "download_time": "2025-12-13T22:14:11.551576",
+  "download_filename": "minesc-0.1.5.tar.gz",
+  "download_time": "2025-12-13T22:34:52.978982",
   "package_url": "https://pypi.org/project/minesc/"
 }

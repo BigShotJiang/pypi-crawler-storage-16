@@ -1,0 +1,11 @@
+{
+  "name": "AlexaPy",
+  "version": "1.29.13",
+  "summary": "Python API to control Amazon Echo Devices Programmatically.",
+  "author": "Keaton Taylor",
+  "license": "Apache-2.0",
+  "home_page": "https://gitlab.com/keatontaylor/alexapy",
+  "download_filename": "alexapy-1.29.13.tar.gz",
+  "download_time": "2025-12-13T22:34:50.362745",
+  "package_url": "https://pypi.org/project/AlexaPy/"
+}

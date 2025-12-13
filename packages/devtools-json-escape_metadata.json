@@ -1,0 +1,11 @@
+{
+  "name": "devtools-json-escape",
+  "version": "1.0.0",
+  "summary": "JSON string escape/unescape",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/json-escape",
+  "download_filename": "devtools_json_escape-1.0.0.tar.gz",
+  "download_time": "2025-12-13T09:15:23.411798",
+  "package_url": "https://pypi.org/project/devtools-json-escape/"
+}

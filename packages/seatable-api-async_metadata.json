@@ -1,0 +1,11 @@
+{
+  "name": "seatable-api-async",
+  "version": "0.3.0",
+  "summary": "异步版本的 SeaTable API Python 客户端，基于 aiohttp 实现",
+  "author": "bo-john, aifunc",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "seatable_api_async-0.3.0.tar.gz",
+  "download_time": "2025-12-13T09:14:53.117487",
+  "package_url": "https://pypi.org/project/seatable-api-async/"
+}

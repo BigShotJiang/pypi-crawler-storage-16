@@ -1,0 +1,11 @@
+{
+  "name": "devtools-ip-generator",
+  "version": "1.0.0",
+  "summary": "Random IP address generator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/ip-generator",
+  "download_filename": "devtools_ip_generator-1.0.0.tar.gz",
+  "download_time": "2025-12-13T09:15:24.974287",
+  "package_url": "https://pypi.org/project/devtools-ip-generator/"
+}

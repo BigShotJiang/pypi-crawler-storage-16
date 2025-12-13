@@ -1,0 +1,11 @@
+{
+  "name": "devtools-lorem-ipsum",
+  "version": "1.0.0",
+  "summary": "Lorem ipsum generator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/lorem-ipsum",
+  "download_filename": "devtools_lorem_ipsum-1.0.0.tar.gz",
+  "download_time": "2025-12-13T09:15:17.678761",
+  "package_url": "https://pypi.org/project/devtools-lorem-ipsum/"
+}

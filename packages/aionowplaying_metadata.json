@@ -1,0 +1,11 @@
+{
+  "name": "aionowplaying",
+  "version": "0.10.1",
+  "summary": "A cross-platform Now Playing client",
+  "author": "Bruce Zhang",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/BruceZhang1993/aionowplaying",
+  "download_filename": "aionowplaying-0.10.1.tar.gz",
+  "download_time": "2025-12-13T09:14:56.346188",
+  "package_url": "https://pypi.org/project/aionowplaying/"
+}

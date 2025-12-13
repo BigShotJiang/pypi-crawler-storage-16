@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-scheduler",
+  "version": "0.3.0",
+  "summary": "Claude Code Scheduler - GUI application for scheduling Claude Code CLI sessions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_code_scheduler-0.3.0.tar.gz",
+  "download_time": "2025-12-13T09:14:45.582383",
+  "package_url": "https://pypi.org/project/claude-code-scheduler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mdparser-html",
+  "version": "0.1.1",
+  "summary": "A Markdown to HTML parser with CLI support",
+  "author": "Tarun",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdparser_html-0.1.1.tar.gz",
+  "download_time": "2025-12-13T09:14:57.897050",
+  "package_url": "https://pypi.org/project/mdparser-html/"
+}

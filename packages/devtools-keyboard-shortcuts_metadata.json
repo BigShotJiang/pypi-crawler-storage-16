@@ -1,0 +1,11 @@
+{
+  "name": "devtools-keyboard-shortcuts",
+  "version": "1.0.0",
+  "summary": "Keyboard shortcuts reference",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/keyboard-shortcuts",
+  "download_filename": "devtools_keyboard_shortcuts-1.0.0.tar.gz",
+  "download_time": "2025-12-13T09:15:19.240929",
+  "package_url": "https://pypi.org/project/devtools-keyboard-shortcuts/"
+}

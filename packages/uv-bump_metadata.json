@@ -1,0 +1,11 @@
+{
+  "name": "uv-bump",
+  "version": "0.4.0",
+  "summary": "Bump pyproject.toml dependency minimum versions to latest feasible versions.",
+  "author": "Jeroen van Zundert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uv_bump-0.4.0.tar.gz",
+  "download_time": "2025-12-13T09:14:43.382902",
+  "package_url": "https://pypi.org/project/uv-bump/"
+}

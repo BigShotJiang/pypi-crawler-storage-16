@@ -1,0 +1,11 @@
+{
+  "name": "carthooks",
+  "version": "0.2.4",
+  "summary": "Carthooks Python SDK with Watcher for real-time data monitoring",
+  "author": "Carthooks",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "carthooks-0.2.4.tar.gz",
+  "download_time": "2025-12-13T09:15:14.472090",
+  "package_url": "https://pypi.org/project/carthooks/"
+}

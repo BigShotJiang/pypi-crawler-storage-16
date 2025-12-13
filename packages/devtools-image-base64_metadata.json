@@ -1,0 +1,11 @@
+{
+  "name": "devtools-image-base64",
+  "version": "1.0.0",
+  "summary": "Image to Base64 converter",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/image-to-base64",
+  "download_filename": "devtools_image_base64-1.0.0.tar.gz",
+  "download_time": "2025-12-13T09:15:25.494513",
+  "package_url": "https://pypi.org/project/devtools-image-base64/"
+}

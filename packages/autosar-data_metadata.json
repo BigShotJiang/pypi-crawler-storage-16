@@ -1,0 +1,11 @@
+{
+  "name": "autosar-data",
+  "version": "0.15.0",
+  "summary": "read, write and modify Autosar arxml data using Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autosar_data-0.15.0.tar.gz",
+  "download_time": "2025-12-13T09:14:47.230029",
+  "package_url": "https://pypi.org/project/autosar-data/"
+}

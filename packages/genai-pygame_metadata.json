@@ -1,11 +1,11 @@
 {
   "name": "genai-pygame",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A helpful PyGame tool for intergrating Generative AI models into game projects.",
   "author": "Alex Khon",
   "license": null,
   "home_page": null,
-  "download_filename": "genai_pygame-0.1.1.tar.gz",
-  "download_time": "2025-12-13T08:18:07.751134",
+  "download_filename": "genai_pygame-0.1.2.tar.gz",
+  "download_time": "2025-12-13T09:15:09.104031",
   "package_url": "https://pypi.org/project/genai-pygame/"
 }

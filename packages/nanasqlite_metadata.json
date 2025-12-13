@@ -1,11 +1,11 @@
 {
   "name": "nanasqlite",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A dict-like SQLite wrapper with APSW for instant persistence and memory caching",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "nanasqlite-1.0.2.tar.gz",
-  "download_time": "2025-12-09T06:20:44.329796",
+  "download_filename": "nanasqlite-1.0.3.tar.gz",
+  "download_time": "2025-12-13T09:15:05.898675",
   "package_url": "https://pypi.org/project/nanasqlite/"
 }

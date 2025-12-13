@@ -1,11 +1,11 @@
 {
   "name": "vantage-security",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "summary": "CLI tool for scanning AI agent systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vantage_security-1.2.6.tar.gz",
-  "download_time": "2025-12-13T17:31:46.036073",
+  "download_filename": "vantage_security-1.2.7.tar.gz",
+  "download_time": "2025-12-13T18:18:34.301137",
   "package_url": "https://pypi.org/project/vantage-security/"
 }

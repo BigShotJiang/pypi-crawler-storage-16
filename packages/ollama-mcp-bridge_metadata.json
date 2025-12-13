@@ -1,0 +1,11 @@
+{
+  "name": "ollama-mcp-bridge",
+  "version": "0.8.1",
+  "summary": "Bridge API service connecting Ollama with Model Context Protocol (MCP) servers",
+  "author": "Jonathan Gastón Löwenstern",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ollama_mcp_bridge-0.8.1.tar.gz",
+  "download_time": "2025-12-13T18:18:29.153876",
+  "package_url": "https://pypi.org/project/ollama-mcp-bridge/"
+}

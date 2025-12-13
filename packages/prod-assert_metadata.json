@@ -1,0 +1,11 @@
+{
+  "name": "prod-assert",
+  "version": "0.1.1",
+  "summary": "Prod safe Python assert library",
+  "author": "Ivan Derdić",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prod_assert-0.1.1.tar.gz",
+  "download_time": "2025-12-13T18:18:32.225502",
+  "package_url": "https://pypi.org/project/prod-assert/"
+}

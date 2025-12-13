@@ -1,11 +1,14 @@
 {
-  "download_time": "2025-12-13T11:29:45.822870",
-  "total_packages_downloaded": 77,
-  "total_size_mb": 4.98,
+  "download_time": "2025-12-13T11:38:11.133800",
+  "total_packages_downloaded": 76,
+  "total_size_mb": 3.8,
   "packages": [
+    "nora-observability",
+    "polars-sim",
+    "sybil-extras",
+    "raw-player",
     "torchft-nightly",
     "iatoolkit",
-    "polars-sim",
     "workpls",
     "cytoscnpy",
     "solyanka",
@@ -53,7 +56,6 @@
     "fast-decision",
     "konduktor-nightly",
     "docsig",
-    "sybil-extras",
     "cn-hn-czutils",
     "pipreqsafe",
     "trainy-policy-nightly",
@@ -76,9 +78,6 @@
     "python-playwright-helper",
     "omendb",
     "seltz",
-    "wdnas-client",
-    "ai-edge-torch-nightly",
-    "taupy-framework",
-    "kryten-py"
+    "wdnas-client"
   ]
 }

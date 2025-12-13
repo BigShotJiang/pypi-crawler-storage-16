@@ -1,14 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T11:29:45.822870
-- **Total Packages**: 77
-- **Total Size**: 4.98 MB
+- **Download Time**: 2025-12-13T11:38:11.133800
+- **Total Packages**: 76
+- **Total Size**: 3.8 MB
 
 ## Packages List
+- nora-observability
+- polars-sim
+- sybil-extras
+- raw-player
 - torchft-nightly
 - iatoolkit
-- polars-sim
 - workpls
 - cytoscnpy
 - solyanka
@@ -56,7 +59,6 @@
 - fast-decision
 - konduktor-nightly
 - docsig
-- sybil-extras
 - cn-hn-czutils
 - pipreqsafe
 - trainy-policy-nightly
@@ -80,6 +82,3 @@
 - omendb
 - seltz
 - wdnas-client
-- ai-edge-torch-nightly
-- taupy-framework
-- kryten-py

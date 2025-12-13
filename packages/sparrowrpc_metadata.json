@@ -1,0 +1,11 @@
+{
+  "name": "sparrowrpc",
+  "version": "0.1.2",
+  "summary": "A Multi-Transport Peer-to-Peer bidirectional RPC System and Protocol Engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sparrowrpc-0.1.2.tar.gz",
+  "download_time": "2025-12-13T20:35:21.953336",
+  "package_url": "https://pypi.org/project/sparrowrpc/"
+}

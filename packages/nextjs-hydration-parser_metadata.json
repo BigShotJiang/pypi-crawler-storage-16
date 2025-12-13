@@ -1,0 +1,11 @@
+{
+  "name": "nextjs-hydration-parser",
+  "version": "0.4.0",
+  "summary": "A Python library for extracting and parsing Next.js hydration data from HTML content",
+  "author": "Kenny Aires",
+  "license": null,
+  "home_page": "https://github.com/kennyaires/nextjs-hydration-parser",
+  "download_filename": "nextjs_hydration_parser-0.4.0.tar.gz",
+  "download_time": "2025-12-13T20:35:30.649609",
+  "package_url": "https://pypi.org/project/nextjs-hydration-parser/"
+}

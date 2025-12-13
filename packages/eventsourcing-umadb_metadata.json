@@ -1,0 +1,11 @@
+{
+  "name": "eventsourcing-umadb",
+  "version": "0.2",
+  "summary": "Python package for eventsourcing with UmaDB",
+  "author": "John Bywater",
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "eventsourcing_umadb-0.2.tar.gz",
+  "download_time": "2025-12-13T20:35:34.807495",
+  "package_url": "https://pypi.org/project/eventsourcing-umadb/"
+}

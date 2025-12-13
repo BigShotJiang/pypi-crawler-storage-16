@@ -1,11 +1,11 @@
 {
   "name": "parameterizable",
-  "version": "0.104.3",
+  "version": "0.105.0",
   "summary": "Library for work with parameterizable classes.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "parameterizable-0.104.3.tar.gz",
-  "download_time": "2025-12-13T19:11:40.970496",
+  "download_filename": "parameterizable-0.105.0.tar.gz",
+  "download_time": "2025-12-13T20:35:24.002527",
   "package_url": "https://pypi.org/project/parameterizable/"
 }

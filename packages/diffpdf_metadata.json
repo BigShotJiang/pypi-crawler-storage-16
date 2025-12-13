@@ -1,0 +1,11 @@
+{
+  "name": "diffpdf",
+  "version": "0.1.2",
+  "summary": "A tool for comparing PDF files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diffpdf-0.1.2.tar.gz",
+  "download_time": "2025-12-13T20:35:32.755580",
+  "package_url": "https://pypi.org/project/diffpdf/"
+}

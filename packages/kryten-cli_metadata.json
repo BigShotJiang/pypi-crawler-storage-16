@@ -1,11 +1,11 @@
 {
   "name": "kryten-cli",
-  "version": "2.3.0",
+  "version": "2.3.2",
   "summary": "Command-line client for CyTube via kryten-py library",
   "author": "Kryten Robot Team",
   "license": "MIT",
   "home_page": "https://github.com/grobertson/kryten-cli",
-  "download_filename": "kryten_cli-2.3.0.tar.gz",
-  "download_time": "2025-12-09T20:33:02.640223",
+  "download_filename": "kryten_cli-2.3.2.tar.gz",
+  "download_time": "2025-12-13T20:35:24.522201",
   "package_url": "https://pypi.org/project/kryten-cli/"
 }

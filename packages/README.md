@@ -1,16 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T20:16:21.296525
-- **Total Packages**: 83
-- **Total Size**: 24.92 MB
+- **Download Time**: 2025-12-13T20:35:57.688782
+- **Total Packages**: 82
+- **Total Size**: 19.89 MB
 
 ## Packages List
+- akron
+- mobiu-q
+- gfs-file-prune
+- batch-audio-extract
+- gnuhealth-calendar
+- starco-dj-utils
+- svg-ultralight
+- catalystcoop.pudl
+- movoid-function
+- msfc-ccd
+- igor331
+- pymlt
+- sparrowrpc
+- figlinq
+- warpdata
+- toolslm
+- parameterizable
+- kryten-cli
+- myfy
+- myfy-frontend
+- persidict
+- myfy-data
+- myfy-cli
+- myfy-web
+- myfy-core
+- pythagoras
+- bmlab-toolkit
+- emthub
+- vqu
+- nextjs-hydration-parser
+- tree-sitter-pgn
+- kryten-robot
+- guiguts
+- diffpdf
+- streaming-sql-engine
+- memoryframes
+- hanoi-viz
+- eventsourcing-umadb
 - ros-cdk-sas
 - Monglo
-- warpdata
 - mcp-browser
-- igor331
 - silkworm-rs
 - QuickEcharts
 - webtex
@@ -18,7 +54,6 @@
 - distributex-cloud
 - inboard
 - quillmark
-- tree-sitter-pgn
 - stateset-agents
 - ingestify
 - pipenv-uv
@@ -29,22 +64,14 @@
 - organizze_api
 - language-pipes
 - abstractcore
-- memoryframes
 - pulka
-- vqu
 - petsc4py-stubs
 - math-mcp-learning-server
 - antsibull-nox
 - pyrig
 - sentinelseed
 - mkgmap-github-action
-- myfy
-- myfy-frontend
 - justhtml
-- myfy-data
-- myfy-cli
-- myfy-web
-- myfy-core
 - trivial-records
 - vim-eof-comment
 - swarmkit
@@ -59,33 +86,5 @@
 - proportions
 - py-cachify
 - optika
-- mobiu-q
 - pyratebay
 - happiness1
-- tangram-weather
-- tangram-system
-- tangram-ship162
-- py-wlcommands
-- tangram-jet1090
-- coralnet-toolbox
-- mcp-refcache
-- eisp
-- AbstractRuntime
-- ssl-sentinel
-- git-web-url
-- holoviz-mcp
-- ros-cdk-memcache
-- tangram-core
-- tangram-airports
-- migretti
-- hatyan
-- rpy-bridge
-- dojocommons
-- a2a-handler
-- cogitator
-- lusid-sdk
-- pygdtf
-- dmitritsiu-latex-lib
-- openweatherwrap
-- amp-memory
-- navidad

@@ -1,11 +1,11 @@
 {
   "name": "bmlab-toolkit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "CI/CD toolkit for flashing and testing embedded devices",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bmlab_toolkit-0.1.1.tar.gz",
-  "download_time": "2025-12-11T18:20:03.698188",
+  "download_filename": "bmlab_toolkit-0.1.2.tar.gz",
+  "download_time": "2025-12-13T20:35:29.106926",
   "package_url": "https://pypi.org/project/bmlab-toolkit/"
 }

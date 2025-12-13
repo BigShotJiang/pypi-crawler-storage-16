@@ -1,0 +1,11 @@
+{
+  "name": "pipreqsafe",
+  "version": "0.1.0",
+  "summary": "Safely generate requirements.txt from pip list-style output",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pipreqsafe-0.1.0.tar.gz",
+  "download_time": "2025-12-13T10:51:34.716874",
+  "package_url": "https://pypi.org/project/pipreqsafe/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "runtilities",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "summary": "running related scripts",
   "author": "Lou King",
   "license": null,
   "home_page": "http://github.com/louking/running",
-  "download_filename": "runtilities-2.2.1.tar.gz",
-  "download_time": "2025-12-09T15:42:28.936958",
+  "download_filename": "runtilities-2.3.0.tar.gz",
+  "download_time": "2025-12-13T13:05:02.348286",
   "package_url": "https://pypi.org/project/runtilities/"
 }

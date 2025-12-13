@@ -1,0 +1,11 @@
+{
+  "name": "lunary",
+  "version": "1.4.34",
+  "summary": "Python SDK for Lunary, the open-source platform where GenAI teams manage and improve LLM chatbots.",
+  "author": "lunary",
+  "license": null,
+  "home_page": "https://lunary.ai/docs/py",
+  "download_filename": "lunary-1.4.34.tar.gz",
+  "download_time": "2025-12-13T13:05:01.203378",
+  "package_url": "https://pypi.org/project/lunary/"
+}

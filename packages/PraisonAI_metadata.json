@@ -1,11 +1,11 @@
 {
   "name": "PraisonAI",
-  "version": "2.2.91",
+  "version": "2.2.93",
   "summary": "PraisonAI is an AI Agents Framework with Self Reflection. PraisonAI application combines PraisonAI Agents, AutoGen, and CrewAI into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.",
   "author": "Mervin Praison",
   "license": null,
   "home_page": null,
-  "download_filename": "praisonai-2.2.91.tar.gz",
-  "download_time": "2025-12-13T02:45:00.666174",
+  "download_filename": "praisonai-2.2.93.tar.gz",
+  "download_time": "2025-12-13T13:05:35.794173",
   "package_url": "https://pypi.org/project/PraisonAI/"
 }

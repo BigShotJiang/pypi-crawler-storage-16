@@ -1,11 +1,11 @@
 {
   "name": "asc-bin",
-  "version": "2025.12.10",
+  "version": "2025.12.13",
   "summary": "An automated C/C++ package manager, source code scanner, and builder that streamlines dependency management, enhances code analysis, and simplifies the build process.",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "asc_bin-2025.12.10.tar.gz",
-  "download_time": "2025-12-10T11:50:05.188403",
+  "download_filename": "asc_bin-2025.12.13.tar.gz",
+  "download_time": "2025-12-13T13:05:04.682244",
   "package_url": "https://pypi.org/project/asc-bin/"
 }

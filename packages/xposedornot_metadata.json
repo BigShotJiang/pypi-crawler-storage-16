@@ -1,0 +1,11 @@
+{
+  "name": "xposedornot",
+  "version": "0.1.1",
+  "summary": "Python client for the XposedOrNot API - Check for data breaches and exposed credentials",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xposedornot-0.1.1.tar.gz",
+  "download_time": "2025-12-13T13:05:01.777098",
+  "package_url": "https://pypi.org/project/xposedornot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rhea-sdk",
+  "version": "0.3.0",
+  "summary": "Asynchronous SDK for interacting with Rhea Finance DEX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rhea_sdk-0.3.0.tar.gz",
+  "download_time": "2025-12-13T13:05:13.853540",
+  "package_url": "https://pypi.org/project/rhea-sdk/"
+}

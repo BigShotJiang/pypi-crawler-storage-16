@@ -1,0 +1,11 @@
+{
+  "name": "scai-tool",
+  "version": "1.0.0",
+  "summary": "A developer tool that turns AI-generated directory tree text into actual files and folders.",
+  "author": "kaus-04",
+  "license": "MIT",
+  "home_page": "https://github.com/kaus-04/scai",
+  "download_filename": "scai_tool-1.0.0.tar.gz",
+  "download_time": "2025-12-13T13:05:03.499830",
+  "package_url": "https://pypi.org/project/scai-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zentaxa",
+  "version": "1.1.0",
+  "summary": "Framework-agnostic observability SDK for multi-agent workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zentaxa-1.1.0.tar.gz",
+  "download_time": "2025-12-13T13:05:22.572138",
+  "package_url": "https://pypi.org/project/zentaxa/"
+}

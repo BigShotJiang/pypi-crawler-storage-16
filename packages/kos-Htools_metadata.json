@@ -1,0 +1,11 @@
+{
+  "name": "kos-Htools",
+  "version": "0.1.6.4.post1",
+  "summary": "Библиотека для работы с Telegram, Redis, SQLAlchemy",
+  "author": "KociHH",
+  "license": null,
+  "home_page": "https://github.com/KociHH/Kos_Htools-lib",
+  "download_filename": "kos_htools-0.1.6.4.post1.tar.gz",
+  "download_time": "2025-12-13T13:05:32.935152",
+  "package_url": "https://pypi.org/project/kos-Htools/"
+}

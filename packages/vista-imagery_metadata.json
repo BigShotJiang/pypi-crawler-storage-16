@@ -1,0 +1,11 @@
+{
+  "name": "vista-imagery",
+  "version": "1.6.5",
+  "summary": "A PyQt6-based desktop application for viewing, analyzing, and managing multi-frame imagery datasets along with associated detection and track overlays",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vista_imagery-1.6.5.tar.gz",
+  "download_time": "2025-12-13T13:05:12.117328",
+  "package_url": "https://pypi.org/project/vista-imagery/"
+}

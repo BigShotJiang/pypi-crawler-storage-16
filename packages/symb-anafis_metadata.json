@@ -1,0 +1,11 @@
+{
+  "name": "symb-anafis",
+  "version": "0.3.0",
+  "summary": "Fast symbolic differentiation library - Rust-powered Python bindings",
+  "author": "CokieMiner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "symb_anafis-0.3.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-13T00:59:47.247268",
+  "package_url": "https://pypi.org/project/symb-anafis/"
+}

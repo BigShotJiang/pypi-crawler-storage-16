@@ -1,0 +1,11 @@
+{
+  "name": "textfsmgen",
+  "version": "0.2.1a1",
+  "summary": "TextFSM Generator simplifies template creation by converting plain English snippets into reusable parsing rules, standardizing workflows and enhancing collaboration across teams.",
+  "author": "Tuyen Mathew Duong",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Geeks-Trident-LLC/textfsmgen",
+  "download_filename": "textfsmgen-0.2.1a1.tar.gz",
+  "download_time": "2025-12-13T01:00:16.849328",
+  "package_url": "https://pypi.org/project/textfsmgen/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "assemblyai",
-  "version": "0.48.2",
+  "version": "0.48.3",
   "summary": "AssemblyAI Python SDK",
   "author": "AssemblyAI",
   "license": "MIT License",
   "home_page": "https://github.com/AssemblyAI/assemblyai-python-sdk",
-  "download_filename": "assemblyai-0.48.2.tar.gz",
-  "download_time": "2025-12-10T01:01:27.547162",
+  "download_filename": "assemblyai-0.48.3.tar.gz",
+  "download_time": "2025-12-13T01:00:13.216722",
   "package_url": "https://pypi.org/project/assemblyai/"
 }

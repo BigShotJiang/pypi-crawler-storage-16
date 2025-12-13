@@ -1,11 +1,11 @@
 {
   "name": "Geode-Background",
-  "version": "9.8.4",
+  "version": "9.8.5",
   "summary": "Geode-solutions OpenGeode module for building background meshes",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "geode_background-9.8.4-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-12-09T00:59:55.282919",
+  "download_filename": "geode_background-9.8.5-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-12-13T01:00:12.178413",
   "package_url": "https://pypi.org/project/Geode-Background/"
 }

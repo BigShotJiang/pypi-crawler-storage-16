@@ -1,0 +1,11 @@
+{
+  "name": "runware",
+  "version": "0.4.35",
+  "summary": "The Python Runware SDK is used to run image inference with the Runware API, powered by the Runware inference platform. It can be used to generate images with text-to-image and image-to-image. It also allows the use of an existing gallery of models or selecting any model or LoRA from the CivitAI gallery. The API also supports upscaling, background removal, inpainting and outpainting, and a series of other ControlNet models.",
+  "author": "Runware Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/runware/sdk-python",
+  "download_filename": "runware-0.4.35.tar.gz",
+  "download_time": "2025-12-13T00:59:40.459769",
+  "package_url": "https://pypi.org/project/runware/"
+}

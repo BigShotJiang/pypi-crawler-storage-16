@@ -1,11 +1,11 @@
 {
   "name": "aoe2rec-py",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aoe2rec_py-0.1.16.tar.gz",
-  "download_time": "2025-12-12T23:32:08.655926",
+  "download_filename": "aoe2rec_py-0.1.17.tar.gz",
+  "download_time": "2025-12-13T00:59:53.452893",
   "package_url": "https://pypi.org/project/aoe2rec-py/"
 }

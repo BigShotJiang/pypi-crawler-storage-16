@@ -1,0 +1,11 @@
+{
+  "name": "burstlink",
+  "version": "1.1.6",
+  "summary": "A user-friendly package for analyzing gene interactions and transcriptional bursting.",
+  "author": "LiyingZhou",
+  "license": "MIT",
+  "home_page": "https://github.com/LiyingZhou12/burstlink",
+  "download_filename": "burstlink-1.1.6.tar.gz",
+  "download_time": "2025-12-13T14:13:45.473242",
+  "package_url": "https://pypi.org/project/burstlink/"
+}

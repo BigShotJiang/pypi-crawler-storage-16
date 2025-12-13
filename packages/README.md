@@ -1,15 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T13:51:21.620162
-- **Total Packages**: 78
-- **Total Size**: 9.61 MB
+- **Download Time**: 2025-12-13T14:14:23.029775
+- **Total Packages**: 80
+- **Total Size**: 18.66 MB
 
 ## Packages List
-- glidergun
-- elf-size-analyze
-- whitesmith
+- treesak
+- microservice-chassis-grupo2
+- raztodo
+- upathtools
+- cython-extensions-sc2
+- promptsentry
+- wheezy.template
+- orgformat
+- vllm-ascend
+- edda-framework
+- finstock
+- burstlink
+- korean-law-mcp
+- nexaroa
+- hygrep
+- watchgha
+- llm-goose
+- scrapeMM
+- surveyeval
+- marqetive-lib
+- localrouter
+- qt-py-logs
+- polars-fastembed
 - openmv
+- gemini-webapi-extended
+- subnoto-api-client
+- python-playwright-helper
+- pythonslisp
+- django-bolt
+- ursus-ssg
+- elf-size-analyze
+- ngwidgets
+- cpan123
+- langchain-oceanbase
+- tensordict-nightly
+- task-context-mcp
+- D47crunch
+- pywikibot
+- lean-reinforcement
+- odoo-addon-mail-history-mark-unread
+- glidergun
+- whitesmith
 - fabricconnector
 - mcp-bocha-search
 - kaizo
@@ -19,7 +57,6 @@
 - stewai
 - fava
 - pgtuner-mcp
-- korean-law-mcp
 - yeo
 - analyst-klondike
 - odoo14-addon-crowdfunding-public-pledge
@@ -28,8 +65,6 @@
 - pyproj-dep-analyze
 - bi_etl
 - uc-manager
-- treesak
-- marqetive-lib
 - byteprint
 - ansible-doc-template-extractor
 - orka-reasoning
@@ -42,45 +77,12 @@
 - fivedreg-tf
 - interpy-bg
 - interpy-synth
-- gemini-webapi-extended
 - linedify
 - codeinspector
 - ngdb
 - systembridgeconnector
 - bluer-sbc
-- surveyeval
 - discrete-continuous-embed-readout
 - lattifai-core
 - castmail2list
 - mcp-weather-server
-- resilient-circuit
-- py-ai-workflows
-- logger-easy
-- ararpy
-- seo-website-analyzer
-- fabra-ai
-- feffery-antd-components
-- coqui-tts
-- nbdev-apl
-- nbdev-django
-- jetflow
-- nbdev-sphinx
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- edgartools
-- searchcode
-- reddit-market-research
-- klaude-code
-- mlwiz
-- tschm
-- PicoUnits
-- secator
-- mail-pigeon
-- fmtr.tools
-- yadopt
-- exprmat
-- surf-controller
-- prek

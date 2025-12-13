@@ -1,11 +1,11 @@
 {
   "name": "cpan123",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "123云盘的python接口文档(非官方)",
   "author": "zoushucai",
   "license": null,
   "home_page": null,
-  "download_filename": "cpan123-0.2.4.tar.gz",
-  "download_time": "2025-12-12T08:20:48.300228",
+  "download_filename": "cpan123-0.2.5.tar.gz",
+  "download_time": "2025-12-13T14:13:57.875501",
   "package_url": "https://pypi.org/project/cpan123/"
 }

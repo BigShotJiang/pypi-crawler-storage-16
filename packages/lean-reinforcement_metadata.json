@@ -1,11 +1,11 @@
 {
   "name": "lean-reinforcement",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Reinforcement learning for Lean theorem proving",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lean_reinforcement-0.1.3.tar.gz",
-  "download_time": "2025-12-10T11:32:45.831812",
+  "download_filename": "lean_reinforcement-0.1.4.tar.gz",
+  "download_time": "2025-12-13T14:14:01.286123",
   "package_url": "https://pypi.org/project/lean-reinforcement/"
 }

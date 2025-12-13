@@ -1,0 +1,11 @@
+{
+  "name": "qt-py-logs",
+  "version": "0.2.1",
+  "summary": "python client for https://github.com/ausward/QTLogs",
+  "author": "Austin",
+  "license": "CC NC SA",
+  "home_page": null,
+  "download_filename": "qt_py_logs-0.2.1.tar.gz",
+  "download_time": "2025-12-13T14:13:50.940698",
+  "package_url": "https://pypi.org/project/qt-py-logs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ursus-ssg",
+  "version": "1.4.3",
+  "summary": "Static site generator",
+  "author": "Nicolas Bouliane",
+  "license": "MIT",
+  "home_page": "http://github.com/all-about-berlin/ursus",
+  "download_filename": "ursus_ssg-1.4.3.tar.gz",
+  "download_time": "2025-12-13T14:13:56.181576",
+  "package_url": "https://pypi.org/project/ursus-ssg/"
+}

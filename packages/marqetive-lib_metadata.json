@@ -1,11 +1,11 @@
 {
   "name": "marqetive-lib",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "Modern Python utilities for web APIs",
   "author": null,
   "license": null,
   "home_page": "https://github.com/yourusername/marqetive-lib",
-  "download_filename": "marqetive_lib-0.1.12.tar.gz",
-  "download_time": "2025-12-13T13:50:53.258569",
+  "download_filename": "marqetive_lib-0.1.13.tar.gz",
+  "download_time": "2025-12-13T14:13:49.832798",
   "package_url": "https://pypi.org/project/marqetive-lib/"
 }

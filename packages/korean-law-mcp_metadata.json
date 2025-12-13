@@ -1,11 +1,11 @@
 {
   "name": "korean-law-mcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "MCP Server for Korean Law Open API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "korean_law_mcp-0.2.0.tar.gz",
-  "download_time": "2025-12-13T13:50:48.018538",
+  "download_filename": "korean_law_mcp-0.2.1.tar.gz",
+  "download_time": "2025-12-13T14:13:46.015008",
   "package_url": "https://pypi.org/project/korean-law-mcp/"
 }

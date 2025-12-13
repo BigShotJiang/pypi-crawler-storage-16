@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-history-mark-unread",
+  "version": "17.0.1.0.0.2",
+  "summary": "Add 'Mark as Unread' action to messages in History mailbox",
+  "author": "Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/social",
+  "download_filename": "odoo_addon_mail_history_mark_unread-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-13T14:14:01.812554",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-history-mark-unread/"
+}

@@ -1,21 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T17:32:05.990134
-- **Total Packages**: 79
-- **Total Size**: 8.78 MB
+- **Download Time**: 2025-12-13T17:42:34.227789
+- **Total Packages**: 75
+- **Total Size**: 1.64 MB
 
 ## Packages List
-- seqscore
-- curllm
-- pcassie
-- code-puppy
-- munch-group-library
-- pyspng
-- sniffcell
-- danielutils
-- mcp-browser
-- py_gen_server
 - gitlab-api
 - pybraendstofpriser
 - media-downloader
@@ -36,6 +26,7 @@
 - fastapi-metrics
 - kube-models
 - gitfluff
+- mcp-browser
 - sigmoda
 - toolregistry-hub
 - litestar-vite
@@ -85,3 +76,8 @@
 - alchemystai
 - gammarers.aws-cdk-errors
 - spotoptim
+- lobster-ai
+- sentinelseed
+- memmachine-server
+- nbxmpp-client
+- memmachine-client

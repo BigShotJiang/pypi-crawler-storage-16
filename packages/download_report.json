@@ -1,18 +1,8 @@
 {
-  "download_time": "2025-12-13T17:32:05.990134",
-  "total_packages_downloaded": 79,
-  "total_size_mb": 8.78,
+  "download_time": "2025-12-13T17:42:34.227789",
+  "total_packages_downloaded": 75,
+  "total_size_mb": 1.64,
   "packages": [
-    "seqscore",
-    "curllm",
-    "pcassie",
-    "code-puppy",
-    "munch-group-library",
-    "pyspng",
-    "sniffcell",
-    "danielutils",
-    "mcp-browser",
-    "py_gen_server",
     "gitlab-api",
     "pybraendstofpriser",
     "media-downloader",
@@ -33,6 +23,7 @@
     "fastapi-metrics",
     "kube-models",
     "gitfluff",
+    "mcp-browser",
     "sigmoda",
     "toolregistry-hub",
     "litestar-vite",
@@ -81,6 +72,11 @@
     "astreum",
     "alchemystai",
     "gammarers.aws-cdk-errors",
-    "spotoptim"
+    "spotoptim",
+    "lobster-ai",
+    "sentinelseed",
+    "memmachine-server",
+    "nbxmpp-client",
+    "memmachine-client"
   ]
 }

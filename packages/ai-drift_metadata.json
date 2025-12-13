@@ -1,11 +1,11 @@
 {
   "name": "ai-drift",
-  "version": "0.5.0",
-  "summary": "AI agent conversation drift analyzer - identifies gaps between what AI agents did and what users wanted",
+  "version": "0.7.0",
+  "summary": "TDD framework for AI workflows - define agent/skill/command standards in .drift.yaml and validate project structure programmatically",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_drift-0.5.0.tar.gz",
-  "download_time": "2025-12-09T05:13:32.694266",
+  "download_filename": "ai_drift-0.7.0.tar.gz",
+  "download_time": "2025-12-13T19:50:03.425471",
   "package_url": "https://pypi.org/project/ai-drift/"
 }

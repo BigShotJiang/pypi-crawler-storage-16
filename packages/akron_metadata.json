@@ -1,0 +1,11 @@
+{
+  "name": "akron",
+  "version": "0.2.6",
+  "summary": "Universal, framework-independent ORM for Python.",
+  "author": "Akash Nath",
+  "license": "MIT",
+  "home_page": "https://github.com/Akash-nath29/akron",
+  "download_filename": "akron-0.2.6.tar.gz",
+  "download_time": "2025-12-13T19:50:06.297265",
+  "package_url": "https://pypi.org/project/akron/"
+}

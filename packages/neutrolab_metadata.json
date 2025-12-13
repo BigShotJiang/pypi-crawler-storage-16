@@ -1,0 +1,11 @@
+{
+  "name": "neutrolab",
+  "version": "1.0.0",
+  "summary": "NeutroLab: A unified library for neutrosophic learning, configuration analysis, and logical machines.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neutrolab-1.0.0.tar.gz",
+  "download_time": "2025-12-13T04:54:50.079634",
+  "package_url": "https://pypi.org/project/neutrolab/"
+}

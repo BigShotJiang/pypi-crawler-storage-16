@@ -1,11 +1,11 @@
 {
   "name": "web-scraper-toolkit",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A powerful, standalone web scraping toolkit using Playwright and various parsers.",
   "author": "Roy Dawson IV",
   "license": null,
   "home_page": null,
-  "download_filename": "web_scraper_toolkit-0.1.2.tar.gz",
-  "download_time": "2025-12-11T23:14:13.565138",
+  "download_filename": "web_scraper_toolkit-0.1.3.tar.gz",
+  "download_time": "2025-12-13T04:54:42.882702",
   "package_url": "https://pypi.org/project/web-scraper-toolkit/"
 }

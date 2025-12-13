@@ -1,0 +1,11 @@
+{
+  "name": "awpr",
+  "version": "0.0.258",
+  "summary": "Library that helps an application report progress to Argo Workflows.",
+  "author": "Michael Mohamed",
+  "license": "MIT",
+  "home_page": "https://github.com/fsai-dev/fsai-cli-tools",
+  "download_filename": "awpr-0.0.258.tar.gz",
+  "download_time": "2025-12-13T04:55:05.352579",
+  "package_url": "https://pypi.org/project/awpr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "folioclient",
+  "version": "1.0.3",
+  "summary": "An API wrapper over the FOLIO LSP API Suite (Formerly OKAPI).",
+  "author": "Theodor Tolstoy, Brooks Travis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "folioclient-1.0.3.tar.gz",
+  "download_time": "2025-12-13T04:55:11.803280",
+  "package_url": "https://pypi.org/project/folioclient/"
+}

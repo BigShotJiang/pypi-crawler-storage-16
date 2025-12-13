@@ -1,0 +1,11 @@
+{
+  "name": "fastcrud",
+  "version": "0.20.0",
+  "summary": "FastCRUD is a Python package for FastAPI, offering robust async CRUD operations and flexible endpoint creation utilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastcrud-0.20.0.tar.gz",
+  "download_time": "2025-12-13T04:54:55.142872",
+  "package_url": "https://pypi.org/project/fastcrud/"
+}

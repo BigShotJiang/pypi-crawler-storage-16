@@ -1,0 +1,11 @@
+{
+  "name": "better-optimize",
+  "version": "0.2.0",
+  "summary": "A drop-in replacement for scipy optimize functions with quality of life improvements",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "better_optimize-0.2.0.tar.gz",
+  "download_time": "2025-12-13T04:54:58.353133",
+  "package_url": "https://pypi.org/project/better-optimize/"
+}

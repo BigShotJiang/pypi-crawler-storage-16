@@ -1,0 +1,11 @@
+{
+  "name": "supertape",
+  "version": "1.0.0.dev10",
+  "summary": "Audio player/recorder software for legacy computers as tape recorder replacement",
+  "author": "Yannick Kirschhoffer",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "supertape-1.0.0.dev10.tar.gz",
+  "download_time": "2025-12-13T19:26:58.730255",
+  "package_url": "https://pypi.org/project/supertape/"
+}

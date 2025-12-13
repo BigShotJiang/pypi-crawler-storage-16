@@ -1,11 +1,11 @@
 {
   "name": "openseries",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "Tools for analyzing financial timeseries.",
   "author": "Martin Karrin",
   "license": null,
   "home_page": "https://captorab.github.io/openseries/",
-  "download_filename": "openseries-2.1.1.tar.gz",
-  "download_time": "2025-12-08T21:48:08.439724",
+  "download_filename": "openseries-2.1.2.tar.gz",
+  "download_time": "2025-12-13T19:26:55.646128",
   "package_url": "https://pypi.org/project/openseries/"
 }

@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T19:12:06.415002
-- **Total Packages**: 77
-- **Total Size**: 8.69 MB
+- **Download Time**: 2025-12-13T19:27:27.389854
+- **Total Packages**: 76
+- **Total Size**: 6.76 MB
 
 ## Packages List
+- fast-decision
+- article-scrapper
+- graphbench-lib
+- pdf2md-ocr
+- matematik-klib
+- mccode-antlr
+- wisent
+- ssl-sentinel
+- my-love-calculator
+- bomcheckgui
+- alertiqo
+- py-wlcommands
+- methodtenable
+- vsax
+- bomcheck
+- keepassdiff
+- masgent
+- openseries
+- pcassie
+- samplepath
+- pisek
+- swarmkit
+- irgateway
+- supertape
+- dltype
+- memoryframes
+- devgen-cli
+- play-store-scraper-ng
+- inboard
+- gshock-api
+- hieropy
+- doccmd
 - midi-utils
 - llm-gemini-code-assist
 - git-web-url
@@ -21,9 +53,7 @@
 - local-deep-research
 - tabstar
 - python-gdsii
-- irgateway
 - web-scraper-toolkit
-- my-love-calculator
 - stateset-agents
 - mrglang
 - nonebot-plugin-pErithacus
@@ -31,7 +61,6 @@
 - jps-release-audit-utils
 - docinfer
 - django-cf
-- vsax
 - kinemotion
 - itinerizer
 - movoid-function
@@ -53,33 +82,3 @@
 - vogel-model-trainer
 - tree-sitter-zsh
 - jeremydimond.pygamesim
-- bitty-tokenizer
-- hhoppe-tools
-- specta
-- llm-prompt-refiner
-- voidpy
-- quantax
-- firelens-monitor
-- sybil-extras
-- ros-cdk-cddc
-- aiobmsble
-- cykit
-- chandra-parser
-- bare-script
-- mrowrpurr-pyscss
-- touying
-- python-rate-limiter
-- masgent
-- magnetron
-- NGTube
-- migretti
-- ros-cdk-nlb
-- silkworm-rs
-- latencyscope
-- scurrypy
-- nkv
-- hccinfhir
-- CryptoIoT-Python-fork-sixtwo
-- aiosqlite
-- koleo-cli
-- sekai-deck-recommend-cpp

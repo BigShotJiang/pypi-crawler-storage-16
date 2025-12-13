@@ -1,11 +1,11 @@
 {
   "name": "fast-decision",
-  "version": "0.1.2",
-  "summary": "High-performance rule engine with MongoDB-style query syntax",
+  "version": "0.1.3",
+  "summary": "High-performance rule engine",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": "https://github.com/almayce/fast-decision",
-  "download_filename": "fast_decision-0.1.2.tar.gz",
-  "download_time": "2025-12-13T18:18:32.738299",
+  "download_filename": "fast_decision-0.1.3-cp313-cp313-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-12-13T19:26:46.707207",
   "package_url": "https://pypi.org/project/fast-decision/"
 }

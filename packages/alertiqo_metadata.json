@@ -1,11 +1,11 @@
 {
   "name": "alertiqo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Alertiqo SDK for Python error tracking",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "alertiqo-1.0.2.tar.gz",
-  "download_time": "2025-12-12T19:14:29.698539",
+  "download_filename": "alertiqo-1.0.3.tar.gz",
+  "download_time": "2025-12-13T19:26:51.958725",
   "package_url": "https://pypi.org/project/alertiqo/"
 }

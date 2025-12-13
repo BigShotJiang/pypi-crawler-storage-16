@@ -1,0 +1,11 @@
+{
+  "name": "mccode-antlr",
+  "version": "0.16.0",
+  "summary": "ANTLR4 grammars for McStas and McXtrace",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "mccode_antlr-0.16.0.tar.gz",
+  "download_time": "2025-12-13T19:26:49.356677",
+  "package_url": "https://pypi.org/project/mccode-antlr/"
+}

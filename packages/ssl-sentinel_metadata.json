@@ -1,0 +1,11 @@
+{
+  "name": "ssl-sentinel",
+  "version": "1.1.1",
+  "summary": "A command-line tool for checking SSL/TLS certificate validity and expiration dates.",
+  "author": "Alejandro Antelo Abelenda",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ssl_sentinel-1.1.1.tar.gz",
+  "download_time": "2025-12-13T19:26:50.422864",
+  "package_url": "https://pypi.org/project/ssl-sentinel/"
+}

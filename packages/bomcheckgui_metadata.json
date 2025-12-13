@@ -1,0 +1,11 @@
+{
+  "name": "bomcheckgui",
+  "version": "2.4",
+  "summary": "gui for bomcheck",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "bomcheckgui-2.4.tar.gz",
+  "download_time": "2025-12-13T19:26:51.447243",
+  "package_url": "https://pypi.org/project/bomcheckgui/"
+}

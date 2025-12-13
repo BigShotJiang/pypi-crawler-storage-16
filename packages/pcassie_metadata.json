@@ -1,11 +1,11 @@
 {
   "name": "pcassie",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A Pincipal Component Pipeline based on Damiano et al. 2019",
   "author": "Kenny T. Phan",
   "license": null,
   "home_page": null,
-  "download_filename": "pcassie-0.1.6.tar.gz",
-  "download_time": "2025-12-13T17:31:25.009901",
+  "download_filename": "pcassie-0.1.7.tar.gz",
+  "download_time": "2025-12-13T19:26:56.159181",
   "package_url": "https://pypi.org/project/pcassie/"
 }

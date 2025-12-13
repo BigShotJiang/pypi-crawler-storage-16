@@ -1,28 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T10:52:13.952003
-- **Total Packages**: 82
-- **Total Size**: 10.85 MB
+- **Download Time**: 2025-12-13T11:12:54.652626
+- **Total Packages**: 77
+- **Total Size**: 12.98 MB
 
 ## Packages List
+- pyscreeps-arena
+- solyanka
+- amigo_sdk
+- mem-llm
+- txn-msg-parser
+- reputils
+- fiuai-s3
+- clickhouse-chorm
+- tccli-intl-en
+- pywinGUI
+- pyllmtest
+- navfitx
+- tmcp-client
+- sensingpy
+- md-spreadsheet-parser
+- modal
+- torchfx
+- dirval
+- en-dtypes
+- neuroindex
+- arsenic-tools
+- lifx-async
+- disco-tools
+- AstrBot
 - sysom-hang-analyzer
 - cmstp
-- pyllmtest
 - pbir-utils
-- mytoolbutbetter
 - edgeprot-client
 - fast-decision
 - konduktor-nightly
 - docsig
 - sybil-extras
 - cn-hn-czutils
-- tmcp-client
 - pipreqsafe
 - trainy-policy-nightly
 - trainy-mlop-nightly
-- pywinGUI
-- dirval
 - letta-nightly
 - impuls
 - mayan-edms
@@ -48,7 +67,6 @@
 - simuhw
 - fastapi-rc
 - openemr
-- pyscreeps-arena
 - django-crm-admin
 - kateryna
 - jtable
@@ -65,26 +83,3 @@
 - camera-ui-sdk
 - tenets
 - securezy-cli
-- adorable-cli
-- lebsta-units
-- torchax
-- django-content-studio
-- petsc4py-stubs
-- ohmly
-- nameco
-- suficloud
-- ros-cdk-arms
-- income-predict-d100-d400
-- llmling-agent
-- rds-proxy-password-rotation
-- tesla-fleet-api
-- imagekitio
-- openms-insight
-- todolist-angrypig555
-- kraken
-- nlbone
-- pyi-autobundle
-- python-overseerr
-- tiffwrite
-- aiomealie
-- tfp-nightly

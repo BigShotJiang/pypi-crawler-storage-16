@@ -1,11 +1,11 @@
 {
   "name": "pyllmtest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "The most comprehensive LLM testing framework for Python",
   "author": "Rahul Malik",
   "license": null,
   "home_page": "https://github.com/RahulMK22/llmtest",
-  "download_filename": "pyllmtest-1.0.0.tar.gz",
-  "download_time": "2025-12-13T10:51:28.042875",
+  "download_filename": "pyllmtest-1.0.1.tar.gz",
+  "download_time": "2025-12-13T11:12:19.057170",
   "package_url": "https://pypi.org/project/pyllmtest/"
 }

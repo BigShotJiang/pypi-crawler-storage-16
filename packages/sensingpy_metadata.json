@@ -1,0 +1,11 @@
+{
+  "name": "sensingpy",
+  "version": "3.0.0",
+  "summary": "A Python package for geospatial image processing and analysis.",
+  "author": "Sergio Heredia",
+  "license": null,
+  "home_page": "https://github.com/aouei/geopy",
+  "download_filename": "sensingpy-3.0.0.tar.gz",
+  "download_time": "2025-12-13T11:12:20.622057",
+  "package_url": "https://pypi.org/project/sensingpy/"
+}

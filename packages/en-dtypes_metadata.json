@@ -1,0 +1,11 @@
+{
+  "name": "en-dtypes",
+  "version": "0.0.4",
+  "summary": "Experimental numpy dtypes",
+  "author": "dengguojie",
+  "license": "Appache-2.0",
+  "home_page": null,
+  "download_filename": "en_dtypes-0.0.4.tar.gz",
+  "download_time": "2025-12-13T11:12:23.302708",
+  "package_url": "https://pypi.org/project/en-dtypes/"
+}

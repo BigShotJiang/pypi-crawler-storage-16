@@ -1,0 +1,11 @@
+{
+  "name": "txn-msg-parser",
+  "version": "0.1.1",
+  "summary": "A Python package for parsing transaction SMS messages into structured transaction dictionaries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "txn_msg_parser-0.1.1.tar.gz",
+  "download_time": "2025-12-13T11:12:15.724559",
+  "package_url": "https://pypi.org/project/txn-msg-parser/"
+}

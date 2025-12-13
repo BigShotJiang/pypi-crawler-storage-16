@@ -1,0 +1,11 @@
+{
+  "name": "mpy-cross",
+  "version": "1.27.0.post2",
+  "summary": "micropython mpy-cross distribution",
+  "author": "Damien George",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/alelec/mpy_cross",
+  "download_filename": "mpy_cross-1.27.0.post2-py2.py3-none-macosx_11_0_universal2.whl",
+  "download_time": "2025-12-13T17:13:16.827716",
+  "package_url": "https://pypi.org/project/mpy-cross/"
+}

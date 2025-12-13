@@ -1,0 +1,11 @@
+{
+  "name": "pymeshfix",
+  "version": "0.17.2",
+  "summary": "Repair triangular meshes using MeshFix",
+  "author": "PyVista Developers",
+  "license": "GPLv3",
+  "home_page": "https://github.com/pyvista/pymeshfix",
+  "download_filename": "pymeshfix-0.17.2.tar.gz",
+  "download_time": "2025-12-13T17:13:25.601634",
+  "package_url": "https://pypi.org/project/pymeshfix/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "zenith-ai",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "High-Performance Data Infrastructure for Machine Learning - Native Rust Performance",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "zenith_ai-0.3.1.tar.gz",
-  "download_time": "2025-12-13T14:51:30.706639",
+  "download_filename": "zenith_ai-0.3.2.tar.gz",
+  "download_time": "2025-12-13T17:13:21.837173",
   "package_url": "https://pypi.org/project/zenith-ai/"
 }

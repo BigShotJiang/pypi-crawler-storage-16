@@ -1,12 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T16:55:56.145868
-- **Total Packages**: 68
-- **Total Size**: 11.96 MB
+- **Download Time**: 2025-12-13T17:13:57.861766
+- **Total Packages**: 75
+- **Total Size**: 19.1 MB
 
 ## Packages List
+- mpy-cross
+- whitesmith
 - vantage-security
+- Mopidy-Pibox
+- protolink
+- anyt
+- python-playwright-helper
+- maa-mcp
+- pygeodesy
+- zenith-ai
+- discrete-continuous-embed-readout
+- calyxos
+- pyxcp
+- export_to_obsidian
+- dhisana
+- honest-chain
+- pymeshfix
+- mcp-browser
+- easy-tornado
+- f9columnar
+- behave-dock
+- jotsu-mcp
+- camera-ui-sdk
+- tactus
+- places_client
+- frago-cli
 - ras-commander
 - nemo-toolkit-asr
 - yargi-mcp
@@ -17,7 +42,6 @@
 - firelens-monitor
 - terra_ui_components
 - hanoi-viz
-- camera-ui-sdk
 - fenix-mcp
 - pushikoo-adapter-testpusher
 - iatoolkit
@@ -29,18 +53,15 @@
 - spotoptim
 - lobster-ai
 - sentinelseed
-- export_to_obsidian
 - memmachine-server
 - nbxmpp-client
 - memmachine-client
 - ccontext-mcp
 - lattifai-core
 - upathtools
-- easy-tornado
 - omnicon-genericddsengine-py
 - spark-dist-fit
 - lu-python
-- python-playwright-helper
 - ancientlinesoftheworld
 - wordslab-notebooks-lib
 - mcp-research-assistant
@@ -60,17 +81,3 @@
 - azure-sfi-agent
 - lib-layered-config
 - pushikoo-adapter-testgetter
-- ros-cdk-cs
-- schemez
-- autoglm-gui
-- justhtml
-- nexus-vpn
-- geoai-py
-- sofapy
-- vprikol
-- distributex-cloud
-- ros-cdk-ossassets
-- invenio-app-rdm
-- root-mcp
-- gentccode
-- invenio-requests

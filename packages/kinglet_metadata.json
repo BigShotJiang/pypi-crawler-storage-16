@@ -1,0 +1,11 @@
+{
+  "name": "kinglet",
+  "version": "1.8.2",
+  "summary": "A lightweight routing framework for Python Workers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kinglet-1.8.2.tar.gz",
+  "download_time": "2025-12-13T21:13:51.740961",
+  "package_url": "https://pypi.org/project/kinglet/"
+}

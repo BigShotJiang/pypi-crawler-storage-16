@@ -1,32 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T20:51:19.663433
-- **Total Packages**: 85
-- **Total Size**: 2.95 MB
+- **Download Time**: 2025-12-13T21:14:15.855471
+- **Total Packages**: 78
+- **Total Size**: 4.2 MB
 
 ## Packages List
+- lucidscan
+- stormwater-monitoring-datasheet-extraction
+- slepc4py-stubs
+- gptscript
+- xnlinkfinder
+- autoform-mcp
+- colossalhq
+- pve-cloud-schemas
+- r2x-plexos
+- tree-sitter-pgn
+- warpdata
+- funpayparsers
+- rtfd-mcp
+- sbdl
+- dark-matter
+- pypi-readme-img
+- janus-security
+- deepwave
+- matematik-klib
+- ghosttest
+- toolslm
+- workspace-mcp
+- girder-oidc
+- byteprint
+- qen
+- svg-ultralight
+- kseal
+- dialoghelper
+- inboard
+- kanchi-sdk
 - kaqing
+- cybrid-api-bank-python
+- ros-cdk-imm
+- cybrid-api-organization-python
+- pywiim
+- cybrid-api-id-python
+- kinglet
+- gtfobinsuid
+- inoopa_utils
+- ssl-sentinel
 - ros-cdk-cloudsiem
 - yardang
-- inoopa_utils
 - spanum
 - pygdtf
 - snail-core
 - figlinq
-- ghosttest
 - ai-lls-lib
-- slepc4py-stubs
 - aa-miningtaxes
-- svg-ultralight
 - rnow
 - autocmd-cli
 - auptitcafe
-- autoform-mcp
 - argo-proxy
 - eml-cli
 - batch-audio-extract
-- warpdata
 - masgent
 - llmgcalparse
 - selenium-chatbot-test
@@ -42,7 +75,6 @@
 - igor331
 - pymlt
 - sparrowrpc
-- toolslm
 - parameterizable
 - kryten-cli
 - myfy
@@ -52,42 +84,3 @@
 - myfy-cli
 - myfy-web
 - myfy-core
-- pythagoras
-- bmlab-toolkit
-- emthub
-- vqu
-- nextjs-hydration-parser
-- tree-sitter-pgn
-- kryten-robot
-- guiguts
-- diffpdf
-- streaming-sql-engine
-- memoryframes
-- hanoi-viz
-- eventsourcing-umadb
-- ros-cdk-sas
-- Monglo
-- mcp-browser
-- silkworm-rs
-- QuickEcharts
-- webtex
-- ai-drift
-- distributex-cloud
-- inboard
-- quillmark
-- stateset-agents
-- ingestify
-- pipenv-uv
-- quasarr-alt
-- django-core-micha
-- kryten-userstats
-- kryten-py
-- organizze_api
-- language-pipes
-- abstractcore
-- pulka
-- petsc4py-stubs
-- math-mcp-learning-server
-- antsibull-nox
-- pyrig
-- sentinelseed

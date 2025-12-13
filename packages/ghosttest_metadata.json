@@ -1,11 +1,11 @@
 {
   "name": "ghosttest",
-  "version": "0.2.0",
-  "summary": "👻 Ghost - AI-Powered Test Generation & Healing for Python",
-  "author": "Ghost Team",
+  "version": "0.2.0.1",
+  "summary": "Ghost - AI-Powered Test Generation & Healing for Python",
+  "author": "Swarnim Tripathi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ghosttest-0.2.0.tar.gz",
-  "download_time": "2025-12-13T20:50:40.496800",
+  "download_filename": "ghosttest-0.2.0.1.tar.gz",
+  "download_time": "2025-12-13T21:13:41.482940",
   "package_url": "https://pypi.org/project/ghosttest/"
 }

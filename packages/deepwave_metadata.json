@@ -1,0 +1,11 @@
+{
+  "name": "deepwave",
+  "version": "0.0.25",
+  "summary": "Wave propagation modules for PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepwave-0.0.25.tar.gz",
+  "download_time": "2025-12-13T21:13:39.692611",
+  "package_url": "https://pypi.org/project/deepwave/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kseal",
+  "version": "0.1.0",
+  "summary": "A kubeseal companion CLI - decrypt, export, and encrypt Kubernetes SealedSecrets with automatic binary management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kseal-0.1.0.tar.gz",
+  "download_time": "2025-12-13T21:13:45.580614",
+  "package_url": "https://pypi.org/project/kseal/"
+}

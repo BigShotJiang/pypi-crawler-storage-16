@@ -1,0 +1,11 @@
+{
+  "name": "janus-security",
+  "version": "0.1.0",
+  "summary": "Enterprise-grade BOLA and API Vulnerability Scanner",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "janus_security-0.1.0.tar.gz",
+  "download_time": "2025-12-13T21:13:39.049132",
+  "package_url": "https://pypi.org/project/janus-security/"
+}

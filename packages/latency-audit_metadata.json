@@ -1,11 +1,11 @@
 {
   "name": "latency-audit",
-  "version": "0.1.0",
-  "summary": "HFT-grade Linux infrastructure validator.",
+  "version": "0.1.3",
+  "summary": "HFT-grade Linux infrastructure validator. Audits kernel, CPU, network, and clock settings against trading latency best practices.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "latency_audit-0.1.0.tar.gz",
-  "download_time": "2025-12-13T15:49:33.582733",
+  "download_filename": "latency_audit-0.1.3.tar.gz",
+  "download_time": "2025-12-13T16:41:55.742293",
   "package_url": "https://pypi.org/project/latency-audit/"
 }

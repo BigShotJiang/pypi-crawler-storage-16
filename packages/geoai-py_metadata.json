@@ -1,11 +1,11 @@
 {
   "name": "geoai-py",
-  "version": "0.21.0",
+  "version": "0.22.0",
   "summary": "A Python package for using Artificial Intelligence (AI) with geospatial data",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "geoai_py-0.21.0.tar.gz",
-  "download_time": "2025-12-12T14:15:07.301959",
+  "download_filename": "geoai_py-0.22.0.tar.gz",
+  "download_time": "2025-12-13T16:42:05.537929",
   "package_url": "https://pypi.org/project/geoai-py/"
 }

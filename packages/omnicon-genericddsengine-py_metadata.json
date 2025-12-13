@@ -1,11 +1,11 @@
 {
   "name": "omnicon-genericddsengine-py",
-  "version": "4.7.1.post5",
+  "version": "4.7.1.post7",
   "summary": "Omnicon Generic DDS Engine Python API",
   "author": "Omnicon Distributed Systems LTD",
   "license": null,
   "home_page": "https://www.OmniconSystems.com",
-  "download_filename": "omnicon_genericddsengine_py-4.7.1.post5-cp310-none-win_amd64.whl",
-  "download_time": "2025-12-10T13:50:12.907465",
+  "download_filename": "omnicon_genericddsengine_py-4.7.1.post7-cp310-none-win_amd64.whl",
+  "download_time": "2025-12-13T16:41:49.020232",
   "package_url": "https://pypi.org/project/omnicon-genericddsengine-py/"
 }

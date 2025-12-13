@@ -1,14 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T16:17:43.015090
-- **Total Packages**: 72
-- **Total Size**: 12.59 MB
+- **Download Time**: 2025-12-13T16:42:22.773810
+- **Total Packages**: 66
+- **Total Size**: 23.15 MB
 
 ## Packages List
+- envkit
+- hanoi-viz
+- lobster-ai
+- sentinelseed
+- vantage-security
+- export_to_obsidian
+- memmachine-server
+- nbxmpp-client
+- memmachine-client
+- ccontext-mcp
+- lattifai-core
+- upathtools
+- easy-tornado
+- omnicon-genericddsengine-py
+- spark-dist-fit
+- lu-python
+- python-playwright-helper
+- ancientlinesoftheworld
+- wordslab-notebooks-lib
+- mcp-research-assistant
+- nuxbt
+- telegram-retriever
+- crunch-cli
+- vsax
+- nbxmpp
+- ipckit
+- latency-audit
+- mccoygroup-psience
+- dars-framework
+- firelens-monitor
+- mccoygroup-mcutils
+- mlipts
+- segment-geospatial
+- local-qwen3b-meta
+- azure-sfi-agent
+- lib-layered-config
+- pushikoo-adapter-testgetter
+- ros-cdk-cs
+- schemez
+- autoglm-gui
+- justhtml
+- nexus-vpn
+- geoai-py
+- sofapy
+- vprikol
+- distributex-cloud
+- ros-cdk-ossassets
+- invenio-app-rdm
 - root-mcp
 - gentccode
-- vantage-security
 - camera-ui-sdk
 - invenio-requests
 - treeline-money
@@ -23,58 +70,5 @@
 - yeo
 - compli-ai
 - neonlink-client
-- nuxbt
-- vsax
 - marqetive-lib
 - astrbotmcp
-- table-remodeler
-- mdmailbox
-- mcp-browser
-- token2audio
-- azure-sfi-agent
-- diligent-mcp-tools
-- nrgkick-api
-- stanley-cbp
-- flashdeconv
-- pycupra
-- mcp-research-assistant
-- skypilot-nightly
-- telegram-retriever
-- openplaning
-- lucidscan
-- durable-streams
-- nexus-vpn
-- rebdhuhn
-- zeed-guilib
-- iceberg-loader
-- ros-cdk-swas
-- http-content-parser
-- cnhkmcp
-- django-whatsapp-api-wrapper
-- pytest-collect-requirements
-- sharenotelib
-- neuro-api-tony
-- visionprint
-- chainsaws
-- deep-task-solver
-- q1simulator
-- gfetchert
-- cb-events
-- discrete-continuous-embed-readout
-- lunary
-- firelens-monitor
-- modernapp
-- promptsentry
-- pipowl
-- openhab-mcp-server
-- latency-audit
-- pythonslisp
-- akoya
-- firecrawl
-- firecrawl-py
-- q1pulse
-- atlas-browser-mcp
-- ironoc-pytest-conor-heffron
-- anyenv
-- dynamarq
-- migretti

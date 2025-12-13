@@ -1,0 +1,11 @@
+{
+  "name": "local-qwen3b-meta",
+  "version": "0.0.1",
+  "summary": "Meta package for qwen2.5-3b-instruct-q5_k_m.gguf",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "local_qwen3b_meta-0.0.1.tar.gz",
+  "download_time": "2025-12-13T16:41:59.358518",
+  "package_url": "https://pypi.org/project/local-qwen3b-meta/"
+}

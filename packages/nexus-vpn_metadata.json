@@ -1,11 +1,11 @@
 {
   "name": "nexus-vpn",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "一键部署 VLESS-Reality + IKEv2 VPN 的综合代理工具",
   "author": "Jerry",
   "license": null,
   "home_page": "https://github.com/alphajc/nexus-vpn",
-  "download_filename": "nexus_vpn-0.1.3.tar.gz",
-  "download_time": "2025-12-13T16:17:23.927908",
+  "download_filename": "nexus_vpn-0.1.4.tar.gz",
+  "download_time": "2025-12-13T16:42:05.002182",
   "package_url": "https://pypi.org/project/nexus-vpn/"
 }

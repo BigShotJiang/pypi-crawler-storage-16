@@ -1,11 +1,11 @@
 {
   "name": "lobster-ai",
-  "version": "0.3.4.3.1",
+  "version": "0.3.4.3.3",
   "summary": "Multi-Agent Bioinformatics Analysis System powered by LangGraph",
   "author": "Omics-OS",
   "license": null,
   "home_page": "https://github.com/the-omics-os/lobster-ai",
-  "download_filename": "lobster_ai-0.3.4.3.1.tar.gz",
-  "download_time": "2025-12-09T15:17:52.432532",
+  "download_filename": "lobster_ai-0.3.4.3.3.tar.gz",
+  "download_time": "2025-12-13T16:41:42.630588",
   "package_url": "https://pypi.org/project/lobster-ai/"
 }

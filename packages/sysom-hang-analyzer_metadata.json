@@ -1,11 +1,11 @@
 {
   "name": "sysom-hang-analyzer",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "Distributed stack collection and analysis tool",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "sysom_hang_analyzer-1.0.13.tar.gz",
-  "download_time": "2025-12-13T10:51:26.877737",
+  "download_filename": "sysom_hang_analyzer-1.0.14.tar.gz",
+  "download_time": "2025-12-13T12:25:16.484533",
   "package_url": "https://pypi.org/project/sysom-hang-analyzer/"
 }

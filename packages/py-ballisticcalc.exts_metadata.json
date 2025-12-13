@@ -1,11 +1,11 @@
 {
   "name": "py-ballisticcalc.exts",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "summary": "LGPL library for small arms ballistic calculations (Python 3)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_ballisticcalc_exts-2.2.5.tar.gz",
-  "download_time": "2025-12-11T15:47:18.720359",
+  "download_filename": "py_ballisticcalc_exts-2.2.6.tar.gz",
+  "download_time": "2025-12-13T22:14:21.149466",
   "package_url": "https://pypi.org/project/py-ballisticcalc.exts/"
 }

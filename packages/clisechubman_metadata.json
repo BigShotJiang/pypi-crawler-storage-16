@@ -1,11 +1,11 @@
 {
   "name": "clisechubman",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Development flow as Paleofuturistic Python",
   "author": "Paleofuturistic Python",
   "license": null,
   "home_page": null,
-  "download_filename": "clisechubman-0.4.1.tar.gz",
-  "download_time": "2025-12-11T09:58:46.630169",
+  "download_filename": "clisechubman-0.4.2.tar.gz",
+  "download_time": "2025-12-13T22:14:20.019253",
   "package_url": "https://pypi.org/project/clisechubman/"
 }

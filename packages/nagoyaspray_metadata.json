@@ -1,0 +1,11 @@
+{
+  "name": "nagoyaspray",
+  "version": "1.1.0",
+  "summary": "CTF-focused password spray wordlist generator for OSCP/PNPT/CPTS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nagoyaspray-1.1.0.tar.gz",
+  "download_time": "2025-12-13T22:14:15.634200",
+  "package_url": "https://pypi.org/project/nagoyaspray/"
+}

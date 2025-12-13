@@ -1,0 +1,11 @@
+{
+  "name": "torchguard",
+  "version": "1.0.0",
+  "summary": "Per-sample error tracking for torch.compile() models",
+  "author": "Malachy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "torchguard-1.0.0.tar.gz",
+  "download_time": "2025-12-13T22:14:14.449926",
+  "package_url": "https://pypi.org/project/torchguard/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "stateset-agents",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Production-ready RL framework for training multi-turn conversational AI agents using GRPO and GSPO",
   "author": "StateSet Team",
   "license": "Business Source License 1.1",
   "home_page": "https://github.com/stateset/stateset-agents",
-  "download_filename": "stateset_agents-0.7.0.tar.gz",
-  "download_time": "2025-12-13T20:15:43.086241",
+  "download_filename": "stateset_agents-0.7.1.tar.gz",
+  "download_time": "2025-12-13T22:14:30.753227",
   "package_url": "https://pypi.org/project/stateset-agents/"
 }

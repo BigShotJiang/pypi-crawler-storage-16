@@ -1,0 +1,11 @@
+{
+  "name": "starlette-admin",
+  "version": "0.16.0",
+  "summary": "Fast, beautiful and extensible administrative interface framework for Starlette/FastApi applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "starlette_admin-0.16.0.tar.gz",
+  "download_time": "2025-12-13T22:14:30.238676",
+  "package_url": "https://pypi.org/project/starlette-admin/"
+}

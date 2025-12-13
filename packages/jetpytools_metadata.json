@@ -1,0 +1,11 @@
+{
+  "name": "jetpytools",
+  "version": "2.2.2",
+  "summary": "Collection of stuff that's useful in general python programming",
+  "author": "Jaded Encoding Thaumaturgy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jetpytools-2.2.2.tar.gz",
+  "download_time": "2025-12-13T22:14:27.441266",
+  "package_url": "https://pypi.org/project/jetpytools/"
+}

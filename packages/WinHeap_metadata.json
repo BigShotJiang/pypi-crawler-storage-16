@@ -1,0 +1,11 @@
+{
+  "name": "WinHeap",
+  "version": "1.0.1",
+  "summary": "Exposes windows heap features like HeapCreate",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "winheap-1.0.1-cp314-cp314-win_amd64.whl",
+  "download_time": "2025-12-13T22:14:23.332754",
+  "package_url": "https://pypi.org/project/WinHeap/"
+}

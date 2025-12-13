@@ -1,0 +1,11 @@
+{
+  "name": "frida-server-manager",
+  "version": "0.5",
+  "summary": "A tool to manage frida-server on Android devices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frida_server_manager-0.5.tar.gz",
+  "download_time": "2025-12-13T17:49:32.451184",
+  "package_url": "https://pypi.org/project/frida-server-manager/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wbsurfer2",
+  "version": "0.2.4",
+  "summary": "CLI tool for making CIFTI-related movies",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "wbsurfer2-0.2.4-py3-none-any.whl",
+  "download_time": "2025-12-13T17:49:44.492746",
+  "package_url": "https://pypi.org/project/wbsurfer2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cccc-pair",
+  "version": "0.3.28",
+  "summary": "Autonomous dual-AI orchestration runtime delivering evidence-first, small-step software execution with tmux-managed peers, governed handoffs, and IM bridge integration",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cccc_pair-0.3.28.tar.gz",
+  "download_time": "2025-12-13T17:49:36.159040",
+  "package_url": "https://pypi.org/project/cccc-pair/"
+}

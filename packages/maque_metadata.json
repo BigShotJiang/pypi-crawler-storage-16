@@ -1,11 +1,11 @@
 {
   "name": "maque",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Python toolkit for ML, CV, NLP and multimodal AI development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "maque-0.1.4.tar.gz",
-  "download_time": "2025-12-09T17:15:34.840698",
+  "download_filename": "maque-0.1.5.tar.gz",
+  "download_time": "2025-12-13T17:49:35.108308",
   "package_url": "https://pypi.org/project/maque/"
 }

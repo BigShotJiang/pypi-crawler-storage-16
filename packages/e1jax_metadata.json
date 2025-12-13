@@ -1,0 +1,11 @@
+{
+  "name": "e1jax",
+  "version": "0.1.0.dev0",
+  "summary": "An implementation of the E1 protein language model family with Jax/Equinox.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "e1jax-0.1.0.dev0.tar.gz",
+  "download_time": "2025-12-13T17:49:42.420759",
+  "package_url": "https://pypi.org/project/e1jax/"
+}

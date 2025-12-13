@@ -1,0 +1,11 @@
+{
+  "name": "maplibre",
+  "version": "0.3.6",
+  "summary": "Python bindings for MapLibre GL JS",
+  "author": "Stefan Kuethe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maplibre-0.3.6.tar.gz",
+  "download_time": "2025-12-13T17:49:34.040856",
+  "package_url": "https://pypi.org/project/maplibre/"
+}

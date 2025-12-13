@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T04:55:30.054029
-- **Total Packages**: 79
-- **Total Size**: 11.73 MB
+- **Download Time**: 2025-12-13T05:16:25.090228
+- **Total Packages**: 78
+- **Total Size**: 22.12 MB
 
 ## Packages List
+- boxjoin
+- srcly
+- lighting_paperwork
+- pyi-autobundle
+- clippy-code
+- radboy
+- mcpkmn-showdown
+- ros-cdk-dcdn
+- creality-wifi-box-client
+- llm-prompt-refiner
+- langchain-litellm
+- zrb
+- pymc-extras
+- csd110-textstats
+- DensityFlow
+- autoglm-gui
+- nifti2bids
+- mcp-audit
+- kleur
+- zc-madlibs
+- kinemotion
+- vsax
+- policyengine-us
+- xtn-tools-pro
+- cjm-fasthtml-interactions
 - sysom-hang-analyzer
 - shancx
 - auralis-worker
@@ -15,8 +40,6 @@
 - pywebtask
 - medmodels
 - vector-vault
-- xtn-tools-pro
-- kleur
 - doc-store
 - mcp-browser
 - neutrolab
@@ -26,11 +49,9 @@
 - ros-cdk-drds
 - nhs-waiting-lists
 - code-scalpel
-- boxjoin
 - fastcrud
 - Socket-Singleton
 - artc
-- langchain-litellm
 - treeline-money
 - better-optimize
 - robloxmemoryapi
@@ -45,7 +66,6 @@
 - json-file-split
 - awpr
 - geopix
-- vsax
 - fetcharoo
 - keras-nlp-nightly
 - keras-hub-nightly
@@ -58,30 +78,9 @@
 - a2anet-mcp
 - pythagoras
 - aerofs
-- nifti2bids
 - odoo-addon-hotel
 - fastcore
 - zango
 - fyodoros
 - featrixsphere
 - snowflake-connector-python-nightly
-- persidict
-- segment-geospatial
-- lacrei-models
-- context
-- cased-kit
-- odoo-addons-oca-stock-logistics-shopfloor
-- sageintacctrestsdk
-- wfuzzserver
-- odoo-addons-oca-stock-logistics-orderpoint
-- exn-report-sdk
-- CASSIA
-- kalirootcli
-- korea-investment-stock
-- odoo-addon-sign-oca
-- odoo-addon-project-task-sign-oca
-- otlmow-model
-- odoo-addons-oca-server-tools
-- broccoli-tool-creator
-- scallpy
-- miiflow-llm

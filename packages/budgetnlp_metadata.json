@@ -1,11 +1,11 @@
 {
   "name": "budgetnlp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "NLP on a budget",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "budgetnlp-0.0.1.tar.gz",
-  "download_time": "2025-12-13T23:14:58.570026",
+  "download_filename": "budgetnlp-0.0.2.tar.gz",
+  "download_time": "2025-12-13T23:31:30.528155",
   "package_url": "https://pypi.org/project/budgetnlp/"
 }

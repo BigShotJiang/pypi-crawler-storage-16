@@ -1,11 +1,11 @@
 {
   "name": "beacon-dl",
-  "version": "0.4.5",
+  "version": "0.5.0",
   "summary": "Beacon TV Downloader - Direct HTTP downloads, no yt-dlp required",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "beacon_dl-0.4.5.tar.gz",
-  "download_time": "2025-12-12T22:36:25.890761",
+  "download_filename": "beacon_dl-0.5.0.tar.gz",
+  "download_time": "2025-12-13T23:31:35.924648",
   "package_url": "https://pypi.org/project/beacon-dl/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "eanalizer",
-  "version": "0.1.6",
+  "version": "0.3.2",
   "summary": "Aplikacja do analizy zużycia energii elektrycznej z danych od operatorów (Enea, Tauron).",
   "author": "TheUndefined",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "eanalizer-0.1.6.tar.gz",
-  "download_time": "2025-12-12T23:45:12.120818",
+  "download_filename": "eanalizer-0.3.2.tar.gz",
+  "download_time": "2025-12-13T23:31:29.451962",
   "package_url": "https://pypi.org/project/eanalizer/"
 }

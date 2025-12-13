@@ -1,11 +1,11 @@
 {
   "name": "datamule",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "summary": "Work with SEC submissions at scale.",
   "author": "John Friedman",
   "license": null,
   "home_page": "https://github.com/john-friedman/datamule-python",
-  "download_filename": "datamule-3.0.2.tar.gz",
-  "download_time": "2025-12-13T01:00:15.311137",
+  "download_filename": "datamule-3.0.3.tar.gz",
+  "download_time": "2025-12-13T23:31:22.415074",
   "package_url": "https://pypi.org/project/datamule/"
 }

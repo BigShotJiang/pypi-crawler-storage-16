@@ -1,0 +1,11 @@
+{
+  "name": "crawlerx",
+  "version": "1.1.1",
+  "summary": "CrawlerX - The Ultimate Web Crawler",
+  "author": "AKM Korishee Apurbo",
+  "license": "MIT",
+  "home_page": "https://github.com/IMApurbo/crawlerx",
+  "download_filename": "crawlerx-1.1.1-py3-none-any.whl",
+  "download_time": "2025-12-13T07:14:00.479111",
+  "package_url": "https://pypi.org/project/crawlerx/"
+}

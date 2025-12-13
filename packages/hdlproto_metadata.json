@@ -1,11 +1,11 @@
 {
   "name": "hdlproto",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A Python-based HDL design prototyping framework for circuit simulation and verification",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hdlproto-0.3.1.tar.gz",
-  "download_time": "2025-12-13T04:40:58.304898",
+  "download_filename": "hdlproto-0.3.2.tar.gz",
+  "download_time": "2025-12-13T07:14:01.582288",
   "package_url": "https://pypi.org/project/hdlproto/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agnt",
+  "version": "0.5.1",
+  "summary": "MCP server for AI coding agents - process management, reverse proxy with traffic logging, browser instrumentation, and sketch mode",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agnt-0.5.1.tar.gz",
+  "download_time": "2025-12-13T07:14:03.131723",
+  "package_url": "https://pypi.org/project/agnt/"
+}

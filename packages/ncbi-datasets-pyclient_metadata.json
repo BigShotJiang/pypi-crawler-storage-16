@@ -1,0 +1,11 @@
+{
+  "name": "ncbi-datasets-pyclient",
+  "version": "18.13.0",
+  "summary": "NCBI Datasets API",
+  "author": "NCBI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ncbi_datasets_pyclient-18.13.0.tar.gz",
+  "download_time": "2025-12-13T07:13:58.376717",
+  "package_url": "https://pypi.org/project/ncbi-datasets-pyclient/"
+}

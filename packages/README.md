@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-13T10:15:53.476493
-- **Total Packages**: 87
-- **Total Size**: 7.66 MB
+- **Download Time**: 2025-12-13T10:37:31.575887
+- **Total Packages**: 90
+- **Total Size**: 15.61 MB
 
 ## Packages List
+- deeplens-core
+- streaming-sql-engine
+- cn-hn-czutils
+- assorthead
+- sysom-hang-analyzer
+- sybil-extras
+- Xray-core
+- tbp-nightly
+- phrasetms-client
+- animate-netcdf
+- gou2tool
+- lotd
+- python-playwright-helper
+- omendb
+- seltz
+- wdnas-client
+- ai-edge-torch-nightly
+- taupy-framework
+- kryten-py
+- simuhw
+- pbir-utils
+- fastapi-rc
+- openemr
+- pyscreeps-arena
+- django-crm-admin
 - kateryna
 - jtable
 - minicc
@@ -14,7 +39,6 @@
 - geoserver-mcp
 - easyrip
 - utils_devops
-- deeplens-core
 - sageintacctrestsdk
 - causaliq-core
 - django-typed-models
@@ -72,24 +96,3 @@
 - sympy-plot-backends
 - ondil
 - ros-cdk-hbase
-- KyInter
-- autoglm-gui
-- rendercv
-- nrd
-- lifx-async
-- azure-sfi-agent
-- kimina-ast-server
-- token2audio
-- scientiflow-cli
-- python-dbusmock
-- mdparser-html
-- membrowse
-- untext
-- cv2box
-- ampel-catalogmatch
-- alphavec
-- redknot
-- openjiuwen
-- zenith-ai
-- komitto
-- kitetdx

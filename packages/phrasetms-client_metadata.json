@@ -1,0 +1,11 @@
+{
+  "name": "phrasetms-client",
+  "version": "0.3.14",
+  "summary": "Phrase TMS API",
+  "author": "Martin Chrástek",
+  "license": "LGPL-3.0",
+  "home_page": "https://github.com/Martin005/phrasetms-python",
+  "download_filename": "phrasetms_client-0.3.14.tar.gz",
+  "download_time": "2025-12-13T10:36:46.730012",
+  "package_url": "https://pypi.org/project/phrasetms-client/"
+}

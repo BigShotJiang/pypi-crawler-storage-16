@@ -1,0 +1,11 @@
+{
+  "name": "Xray-core",
+  "version": "1.8.24.12",
+  "summary": "Python bindings for Xray-core, the best v2ray-core with XTLS support.",
+  "author": "Loren Eteval",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/LorenEteval/Xray-core-python",
+  "download_filename": "xray_core-1.8.24.12.tar.gz",
+  "download_time": "2025-12-13T10:36:45.127388",
+  "package_url": "https://pypi.org/project/Xray-core/"
+}

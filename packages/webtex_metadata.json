@@ -1,0 +1,11 @@
+{
+  "name": "webtex",
+  "version": "0.1.1",
+  "summary": "A Python interface for web-based LaTeX parsing tool",
+  "author": "Nikolay Georgiev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "webtex-0.1.1.tar.gz",
+  "download_time": "2025-12-13T20:15:39.777574",
+  "package_url": "https://pypi.org/project/webtex/"
+}

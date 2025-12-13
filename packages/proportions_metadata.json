@@ -1,11 +1,11 @@
 {
   "name": "proportions",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "A comprehensive library for Bayesian and frequentist inference on binomial proportions (grouped and single) with truncated Beta prior support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "proportions-0.2.1.tar.gz",
-  "download_time": "2025-12-09T22:33:10.731637",
+  "download_filename": "proportions-0.3.0.tar.gz",
+  "download_time": "2025-12-13T20:16:03.099410",
   "package_url": "https://pypi.org/project/proportions/"
 }

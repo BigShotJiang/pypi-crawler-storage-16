@@ -1,0 +1,11 @@
+{
+  "name": "tangram-ship162",
+  "version": "0.2.1",
+  "summary": "AIS maritime data integration plugin for tangram",
+  "author": null,
+  "license": null,
+  "home_page": "https://mode-s.org/tangram/",
+  "download_filename": "tangram_ship162-0.2.1-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-13T20:16:07.493633",
+  "package_url": "https://pypi.org/project/tangram-ship162/"
+}

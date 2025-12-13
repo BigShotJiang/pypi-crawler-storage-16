@@ -1,0 +1,11 @@
+{
+  "name": "QuickEcharts",
+  "version": "2.1.6",
+  "summary": "Create ECharts plots in a single simple function call, with internal data wrangling via polars",
+  "author": "Adrian Antico",
+  "license": "MIT",
+  "home_page": "https://github.com/AdrianAntico/QuickEcharts",
+  "download_filename": "quickecharts-2.1.6.tar.gz",
+  "download_time": "2025-12-13T20:15:39.245686",
+  "package_url": "https://pypi.org/project/QuickEcharts/"
+}

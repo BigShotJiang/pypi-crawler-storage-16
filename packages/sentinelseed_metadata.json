@@ -1,11 +1,11 @@
 {
   "name": "sentinelseed",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "summary": "AI safety toolkit with THSP protocol - Practical alignment for developers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sentinelseed-2.1.1.tar.gz",
-  "download_time": "2025-12-13T16:41:43.166016",
+  "download_filename": "sentinelseed-2.2.0.tar.gz",
+  "download_time": "2025-12-13T20:15:52.278752",
   "package_url": "https://pypi.org/project/sentinelseed/"
 }

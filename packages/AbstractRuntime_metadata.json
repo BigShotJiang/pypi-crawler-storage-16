@@ -1,0 +1,11 @@
+{
+  "name": "AbstractRuntime",
+  "version": "0.0.1",
+  "summary": "AbstractRuntime: a durable graph runner designed to pair with AbstractCore.",
+  "author": "Laurent-Philippe Albou",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "abstractruntime-0.0.1.tar.gz",
+  "download_time": "2025-12-13T20:16:10.810815",
+  "package_url": "https://pypi.org/project/AbstractRuntime/"
+}

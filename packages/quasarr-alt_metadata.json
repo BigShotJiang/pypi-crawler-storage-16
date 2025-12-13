@@ -1,11 +1,11 @@
 {
   "name": "quasarr-alt",
-  "version": "1.18.1",
+  "version": "1.18.2",
   "summary": "Quasarr connects JDownloader with Radarr, Sonarr and LazyLibrarian. It also decrypts links protected by CAPTCHAs.",
   "author": "daddy-cool",
   "license": null,
   "home_page": "https://github.com/daddy-cool/Quasarr",
-  "download_filename": "quasarr_alt-1.18.1.tar.gz",
-  "download_time": "2025-12-13T19:49:56.454347",
+  "download_filename": "quasarr_alt-1.18.2.tar.gz",
+  "download_time": "2025-12-13T20:15:44.691127",
   "package_url": "https://pypi.org/project/quasarr-alt/"
 }

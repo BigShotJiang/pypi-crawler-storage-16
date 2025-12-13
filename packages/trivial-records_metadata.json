@@ -1,0 +1,11 @@
+{
+  "name": "trivial-records",
+  "version": "0.0.3",
+  "summary": "Tiny library that parses and generates text containing lists of records.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trivial_records-0.0.3.tar.gz",
+  "download_time": "2025-12-13T20:15:57.122053",
+  "package_url": "https://pypi.org/project/trivial-records/"
+}

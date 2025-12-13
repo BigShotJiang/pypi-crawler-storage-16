@@ -1,11 +1,11 @@
 {
   "name": "organizze_api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "SDK to interface with the Organizze REST API",
   "author": "Rhuan Barreto",
   "license": null,
   "home_page": "https://pypi.org/project/organizze_api/",
-  "download_filename": "organizze_api-1.0.3.tar.gz",
-  "download_time": "2025-12-13T19:49:59.461993",
+  "download_filename": "organizze_api-1.0.4.tar.gz",
+  "download_time": "2025-12-13T20:15:46.805819",
   "package_url": "https://pypi.org/project/organizze_api/"
 }

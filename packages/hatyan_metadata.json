@@ -1,0 +1,11 @@
+{
+  "name": "hatyan",
+  "version": "2.13.0",
+  "summary": "Tidal analysis and prediction tool of Rijkswaterstaat",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatyan-2.13.0.tar.gz",
+  "download_time": "2025-12-13T20:16:15.612810",
+  "package_url": "https://pypi.org/project/hatyan/"
+}

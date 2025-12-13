@@ -1,11 +1,11 @@
 {
   "name": "memoryframes",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Add your description here",
   "author": "David Brownell",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "memoryframes-0.2.0.tar.gz",
-  "download_time": "2025-12-13T19:36:59.630192",
+  "download_filename": "memoryframes-0.3.0.tar.gz",
+  "download_time": "2025-12-13T20:15:48.418622",
   "package_url": "https://pypi.org/project/memoryframes/"
 }

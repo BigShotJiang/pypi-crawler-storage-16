@@ -1,11 +1,11 @@
 {
   "name": "petsc4py-stubs",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Type stubs for petsc4py",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "petsc4py_stubs-0.1.6.tar.gz",
-  "download_time": "2025-12-13T18:48:01.196891",
+  "download_filename": "petsc4py_stubs-0.1.7.tar.gz",
+  "download_time": "2025-12-13T20:15:50.054318",
   "package_url": "https://pypi.org/project/petsc4py-stubs/"
 }

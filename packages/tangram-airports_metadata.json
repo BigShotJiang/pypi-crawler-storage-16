@@ -1,0 +1,11 @@
+{
+  "name": "tangram-airports",
+  "version": "0.2.1",
+  "summary": "Airport search widget plugin for tangram",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tangram_airports-0.2.1.tar.gz",
+  "download_time": "2025-12-13T20:16:14.539993",
+  "package_url": "https://pypi.org/project/tangram-airports/"
+}

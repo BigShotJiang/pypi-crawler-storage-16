@@ -1,0 +1,11 @@
+{
+  "name": "global-temperature",
+  "version": "0.1.4",
+  "summary": "provide global monthly temperature data from 1970 to present",
+  "author": "zacwang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "global_temperature-0.1.4.tar.gz",
+  "download_time": "2025-12-13T03:52:01.525196",
+  "package_url": "https://pypi.org/project/global-temperature/"
+}

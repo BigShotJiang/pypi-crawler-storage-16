@@ -1,0 +1,11 @@
+{
+  "name": "mongokv",
+  "version": "0.4",
+  "summary": "Tiny key-value wrapper around MongoDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mongokv-0.4.tar.gz",
+  "download_time": "2025-12-13T03:52:24.329028",
+  "package_url": "https://pypi.org/project/mongokv/"
+}

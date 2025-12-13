@@ -1,0 +1,11 @@
+{
+  "name": "synthohive",
+  "version": "1.2.0",
+  "summary": "Production Synthetic Data Engine with Relational Integrity",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synthohive-1.2.0.tar.gz",
+  "download_time": "2025-12-13T03:51:44.425827",
+  "package_url": "https://pypi.org/project/synthohive/"
+}

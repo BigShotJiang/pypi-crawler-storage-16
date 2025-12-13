@@ -1,0 +1,11 @@
+{
+  "name": "agentdeck-ai",
+  "version": "0.1.0rc2",
+  "summary": "Research platform for studying AI behavior through game scenarios",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentdeck_ai-0.1.0rc2.tar.gz",
+  "download_time": "2025-12-13T03:52:29.774679",
+  "package_url": "https://pypi.org/project/agentdeck-ai/"
+}

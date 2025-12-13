@@ -1,0 +1,11 @@
+{
+  "name": "ida-domain-mcp",
+  "version": "0.1.2",
+  "summary": "MCP plugin for IDA Pro/IDA Free that uses ida-domain for database access",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ida_domain_mcp-0.1.2.tar.gz",
+  "download_time": "2025-12-13T03:51:54.809062",
+  "package_url": "https://pypi.org/project/ida-domain-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-tool-util-models",
+  "version": "25.0.4",
+  "summary": "Pydantic models for Galaxy tools",
+  "author": "Galaxy Project and Community",
+  "license": "MIT",
+  "home_page": "https://github.com/galaxyproject/galaxy",
+  "download_filename": "galaxy_tool_util_models-25.0.4.tar.gz",
+  "download_time": "2025-12-13T03:52:20.208678",
+  "package_url": "https://pypi.org/project/galaxy-tool-util-models/"
+}

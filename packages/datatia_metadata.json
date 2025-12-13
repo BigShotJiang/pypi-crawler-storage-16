@@ -1,0 +1,11 @@
+{
+  "name": "datatia",
+  "version": "0.4.5",
+  "summary": "Opinionated declarative utility library for writing PyTorch dataset classes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datatia-0.4.5.tar.gz",
+  "download_time": "2025-12-13T03:52:21.753464",
+  "package_url": "https://pypi.org/project/datatia/"
+}

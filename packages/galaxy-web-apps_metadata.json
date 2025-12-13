@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-web-apps",
+  "version": "25.0.4",
+  "summary": "Galaxy web apps",
+  "author": "Galaxy Project and Community",
+  "license": "AFL",
+  "home_page": "https://github.com/galaxyproject/galaxy",
+  "download_filename": "galaxy_web_apps-25.0.4.tar.gz",
+  "download_time": "2025-12-13T03:52:08.090119",
+  "package_url": "https://pypi.org/project/galaxy-web-apps/"
+}

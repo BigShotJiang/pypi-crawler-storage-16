@@ -1,11 +1,11 @@
 {
   "name": "basecase",
-  "version": "4.45.1",
+  "version": "4.45.2",
   "summary": "A complete web automation framework for end-to-end testing.",
   "author": "Michael Mintz",
   "license": "MIT",
   "home_page": "https://github.com/seleniumbase/SeleniumBase",
-  "download_filename": "basecase-4.45.1.tar.gz",
-  "download_time": "2025-12-09T04:22:31.357735",
+  "download_filename": "basecase-4.45.2.tar.gz",
+  "download_time": "2025-12-13T18:47:57.511977",
   "package_url": "https://pypi.org/project/basecase/"
 }

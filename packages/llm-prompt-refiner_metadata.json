@@ -1,11 +1,11 @@
 {
   "name": "llm-prompt-refiner",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A lightweight Python library for optimizing and cleaning LLM inputs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_prompt_refiner-0.2.0.tar.gz",
-  "download_time": "2025-12-13T05:15:49.532914",
+  "download_filename": "llm_prompt_refiner-0.2.1.tar.gz",
+  "download_time": "2025-12-13T18:47:38.027631",
   "package_url": "https://pypi.org/project/llm-prompt-refiner/"
 }

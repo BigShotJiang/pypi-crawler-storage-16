@@ -1,0 +1,11 @@
+{
+  "name": "bingo-elastic",
+  "version": "1.36.1",
+  "summary": "Cartridge that provides fast, scalable, and efficient storage and searching solution for chemical information using Elasticsearch",
+  "author": "Ruslan Khyurri",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/epam/Indigo/tree/master/bingo/bingo-elastic/python",
+  "download_filename": "bingo_elastic-1.36.1-py3-none-any.whl",
+  "download_time": "2025-12-13T18:47:54.816508",
+  "package_url": "https://pypi.org/project/bingo-elastic/"
+}

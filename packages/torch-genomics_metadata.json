@@ -1,0 +1,11 @@
+{
+  "name": "torch-genomics",
+  "version": "2025.12.13",
+  "summary": "Deep learning utilities for genomics with PyTorch",
+  "author": "Josh L. Espinoza",
+  "license": "MIT",
+  "home_page": "https://github.com/jolespin/torch-genomics",
+  "download_filename": "torch_genomics-2025.12.13.tar.gz",
+  "download_time": "2025-12-13T18:47:55.335854",
+  "package_url": "https://pypi.org/project/torch-genomics/"
+}

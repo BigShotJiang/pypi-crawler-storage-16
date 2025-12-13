@@ -1,0 +1,11 @@
+{
+  "name": "chuk-tool-processor",
+  "version": "0.14",
+  "summary": "Async-native framework for registering, discovering, and executing tools referenced in LLM responses",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chuk_tool_processor-0.14.tar.gz",
+  "download_time": "2025-12-13T18:48:17.044397",
+  "package_url": "https://pypi.org/project/chuk-tool-processor/"
+}

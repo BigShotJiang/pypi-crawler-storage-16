@@ -1,0 +1,11 @@
+{
+  "name": "request-rule-decorators",
+  "version": "0.1.1",
+  "summary": "Library for validating and parsing HTTP response objects with decorators",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "request_rule_decorators-0.1.1.tar.gz",
+  "download_time": "2025-12-13T18:48:08.708326",
+  "package_url": "https://pypi.org/project/request-rule-decorators/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gitstats",
+  "version": "1.2.0",
+  "summary": "GitStats - Visualize Your Git Repositories",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitstats-1.2.0-py3-none-any.whl",
+  "download_time": "2025-12-13T18:48:00.676529",
+  "package_url": "https://pypi.org/project/gitstats/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "google-yamlfmt",
+  "version": "0.20.0",
+  "summary": "A tool for formatting YAML files, yamlfmt from Google: https://github.com/google/yamlfmt",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "google_yamlfmt-0.20.0.tar.gz",
+  "download_time": "2025-12-13T18:48:09.750460",
+  "package_url": "https://pypi.org/project/google-yamlfmt/"
+}

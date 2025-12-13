@@ -1,11 +1,11 @@
 {
   "name": "agent-starter-pack",
-  "version": "0.28.0",
+  "version": "0.28.2",
   "summary": "CLI to bootstrap production-ready Google Cloud GenAI agent projects from templates.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agent_starter_pack-0.28.0-py3-none-any.whl",
-  "download_time": "2025-12-12T15:16:52.891156",
+  "download_filename": "agent_starter_pack-0.28.2-py3-none-any.whl",
+  "download_time": "2025-12-13T18:48:07.149625",
   "package_url": "https://pypi.org/project/agent-starter-pack/"
 }

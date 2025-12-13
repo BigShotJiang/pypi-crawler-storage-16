@@ -1,0 +1,11 @@
+{
+  "name": "pdf2md-ocr",
+  "version": "0.0.5",
+  "summary": "Simple CLI tool to convert PDFs to Markdown using Marker AI",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pdf2md_ocr-0.0.5.tar.gz",
+  "download_time": "2025-12-13T18:48:12.877222",
+  "package_url": "https://pypi.org/project/pdf2md-ocr/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "py-wlcommands",
-  "version": "0.2.16",
+  "version": "0.2.18",
   "summary": "py_wlcommands - Python项目",
-  "author": null,
+  "author": "WL Admin <wl.admin@example.com>",
   "license": null,
   "home_page": null,
-  "download_filename": "py_wlcommands-0.2.16-cp311-cp311-macosx_10_12_x86_64.whl",
-  "download_time": "2025-12-13T15:14:32.165631",
+  "download_filename": "py_wlcommands-0.2.18-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-13T18:48:10.799611",
   "package_url": "https://pypi.org/project/py-wlcommands/"
 }

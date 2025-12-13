@@ -1,0 +1,11 @@
+{
+  "name": "resrm",
+  "version": "0.4.0",
+  "summary": "drop-in replacement for rm with undo/restore built-in.",
+  "author": "Marco D'Aleo",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://git.sysmd.uk/guardutils/resrm",
+  "download_filename": "resrm-0.4.0.tar.gz",
+  "download_time": "2025-12-13T18:47:58.567438",
+  "package_url": "https://pypi.org/project/resrm/"
+}

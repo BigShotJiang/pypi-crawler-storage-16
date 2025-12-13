@@ -1,0 +1,11 @@
+{
+  "name": "chandra-parser",
+  "version": "0.1.0",
+  "summary": "PDF to Markdown parser using Datalab's Marker OCR API with optional GPT-based figure filtering",
+  "author": "Adam Butler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chandra_parser-0.1.0.tar.gz",
+  "download_time": "2025-12-13T18:47:42.199626",
+  "package_url": "https://pypi.org/project/chandra-parser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tonio",
+  "version": "0.1.0a1",
+  "summary": "A multi-threaded async runtime",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/gi0baro/tonio",
+  "download_filename": "tonio-0.1.0a1.tar.gz",
+  "download_time": "2025-12-13T18:48:05.044471",
+  "package_url": "https://pypi.org/project/tonio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mrowrpurr-pyscss",
+  "version": "1.4.1",
+  "summary": "pyScss, a Scss compiler for Python (Fork with Python 3.13+ support)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mrowrpurr_pyscss-1.4.1.tar.gz",
+  "download_time": "2025-12-13T18:47:43.242142",
+  "package_url": "https://pypi.org/project/mrowrpurr-pyscss/"
+}

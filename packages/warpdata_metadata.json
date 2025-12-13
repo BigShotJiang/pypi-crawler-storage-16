@@ -1,11 +1,11 @@
 {
   "name": "warpdata",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "summary": "A High-Performance Pythonic Data SDK for Analytics and ML",
   "author": "warpdata contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "warpdata-0.1.32.tar.gz",
-  "download_time": "2025-12-13T21:13:35.137193",
+  "download_filename": "warpdata-0.1.33.tar.gz",
+  "download_time": "2025-12-13T21:30:16.393568",
   "package_url": "https://pypi.org/project/warpdata/"
 }

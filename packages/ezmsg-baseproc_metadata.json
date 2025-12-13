@@ -1,0 +1,11 @@
+{
+  "name": "ezmsg-baseproc",
+  "version": "1.0",
+  "summary": "Base processor classes and protocols for ezmsg signal processing pipelines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezmsg_baseproc-1.0.tar.gz",
+  "download_time": "2025-12-13T21:30:14.598488",
+  "package_url": "https://pypi.org/project/ezmsg-baseproc/"
+}

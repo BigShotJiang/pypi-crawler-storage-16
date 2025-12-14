@@ -1,11 +1,11 @@
 {
   "name": "syunity-core",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "A unified core kernel containing MQTT (v2), IoTDB, Sanic, and utility modules for Syunity projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "syunity_core-0.0.7.tar.gz",
-  "download_time": "2025-12-13T06:59:08.014329",
+  "download_filename": "syunity_core-0.0.8.tar.gz",
+  "download_time": "2025-12-14T03:08:00.437596",
   "package_url": "https://pypi.org/project/syunity-core/"
 }

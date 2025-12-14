@@ -1,0 +1,11 @@
+{
+  "name": "havoc-clustering-v2",
+  "version": "0.0.10",
+  "summary": "Histomic Atlases of Variation Of Cancers (HAVOC) is a versatile tool that helps map histomic heterogeneity across H&E-stained digital slide images to help guide regional deployment of molecular resources to the most relevant/biodiverse tumor niches",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "havoc_clustering_v2-0.0.10.tar.gz",
+  "download_time": "2025-12-14T03:08:14.922140",
+  "package_url": "https://pypi.org/project/havoc-clustering-v2/"
+}

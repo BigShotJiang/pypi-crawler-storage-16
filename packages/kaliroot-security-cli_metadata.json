@@ -1,0 +1,11 @@
+{
+  "name": "kaliroot-security-cli",
+  "version": "2.2.1",
+  "summary": "Professional Cybersecurity Agents & CLI Assistant",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kaliroot_security_cli-2.2.1.tar.gz",
+  "download_time": "2025-12-14T03:07:59.414060",
+  "package_url": "https://pypi.org/project/kaliroot-security-cli/"
+}

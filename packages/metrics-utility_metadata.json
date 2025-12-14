@@ -1,0 +1,11 @@
+{
+  "name": "metrics-utility",
+  "version": "0.7.20251214",
+  "summary": "A metrics utility for Ansible",
+  "author": "Red Hat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metrics_utility-0.7.20251214.tar.gz",
+  "download_time": "2025-12-14T03:07:52.974301",
+  "package_url": "https://pypi.org/project/metrics-utility/"
+}

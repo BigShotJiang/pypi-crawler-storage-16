@@ -1,0 +1,11 @@
+{
+  "name": "dash-improve-my-llms",
+  "version": "1.1.0",
+  "summary": "Automatic llms.txt, llms.toon (Token-Oriented Object Notation), page.json, architecture.txt, robots.txt, and sitemap.xml generation for Dash applications with comprehensive bot management, static HTML serving, and SEO optimization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dash_improve_my_llms-1.1.0.tar.gz",
+  "download_time": "2025-12-14T03:07:45.708826",
+  "package_url": "https://pypi.org/project/dash-improve-my-llms/"
+}

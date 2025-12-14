@@ -1,0 +1,11 @@
+{
+  "name": "human-seconds",
+  "version": "0.1.0",
+  "summary": "Convert seconds to a human-readable time string",
+  "author": "Egbie Uku",
+  "license": "MIT",
+  "home_page": "https://github.com/EgbieAndersonUku1/human_seconds",
+  "download_filename": "human_seconds-0.1.0.tar.gz",
+  "download_time": "2025-12-14T03:07:37.167979",
+  "package_url": "https://pypi.org/project/human-seconds/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "asynckivy",
+  "version": "0.9.3",
+  "summary": "Async library for Kivy",
+  "author": "Nattōsai Mitō",
+  "license": null,
+  "home_page": null,
+  "download_filename": "asynckivy-0.9.3.tar.gz",
+  "download_time": "2025-12-14T03:07:48.346939",
+  "package_url": "https://pypi.org/project/asynckivy/"
+}

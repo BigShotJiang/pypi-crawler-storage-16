@@ -1,0 +1,11 @@
+{
+  "name": "qtrackcli",
+  "version": "0.1.1",
+  "summary": "CLI tool for uploading JUnit XML reports",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/qtrackcli",
+  "download_filename": "qtrackcli-0.1.1.tar.gz",
+  "download_time": "2025-12-14T03:08:20.577252",
+  "package_url": "https://pypi.org/project/qtrackcli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "github-dependents-info",
+  "version": "2.0.2",
+  "summary": "Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badges.",
+  "author": "nvuillam",
+  "license": null,
+  "home_page": "https://github.com/nvuillam/github-dependents-info",
+  "download_filename": "github_dependents_info-2.0.2.tar.gz",
+  "download_time": "2025-12-14T03:08:18.006555",
+  "package_url": "https://pypi.org/project/github-dependents-info/"
+}

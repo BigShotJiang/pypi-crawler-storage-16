@@ -1,0 +1,11 @@
+{
+  "name": "excel-toolbox",
+  "version": "1.0.0",
+  "summary": "一体化 Excel 数据处理工具集 - 数据整合、清洗、转换全流程解决方案",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "excel_toolbox-1.0.0.tar.gz",
+  "download_time": "2025-12-14T03:07:53.485772",
+  "package_url": "https://pypi.org/project/excel-toolbox/"
+}

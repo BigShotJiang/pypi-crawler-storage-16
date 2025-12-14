@@ -1,0 +1,11 @@
+{
+  "name": "monai-weekly",
+  "version": "1.6.dev2550",
+  "summary": "AI Toolkit for Healthcare Imaging",
+  "author": "MONAI Consortium",
+  "license": "Apache License 2.0",
+  "home_page": "https://project-monai.github.io/",
+  "download_filename": "monai_weekly-1.6.dev2550.tar.gz",
+  "download_time": "2025-12-14T03:07:52.458493",
+  "package_url": "https://pypi.org/project/monai-weekly/"
+}

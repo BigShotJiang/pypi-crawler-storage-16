@@ -1,11 +1,11 @@
 {
   "name": "simtradelab",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "开源策略回测框架，灵感来自PTrade的事件驱动模型，提供轻量、清晰、可插拔的策略验证环境",
   "author": "kay",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simtradelab-1.2.2.tar.gz",
-  "download_time": "2025-12-09T16:49:17.841425",
+  "download_filename": "simtradelab-1.2.3.tar.gz",
+  "download_time": "2025-12-14T15:14:38.419908",
   "package_url": "https://pypi.org/project/simtradelab/"
 }

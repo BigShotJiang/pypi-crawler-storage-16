@@ -1,0 +1,11 @@
+{
+  "name": "gdarch",
+  "version": "0.1.1",
+  "summary": "CLI tool to archive a Google Drive folder and replace it with the archive. Helps to free up Google Drive storage space by compressing rarely accessed folders while keeping them accessible.",
+  "author": "Taro Furuya",
+  "license": "MIT",
+  "home_page": "https://github.com/taross-f/gdarch",
+  "download_filename": "gdarch-0.1.1.tar.gz",
+  "download_time": "2025-12-14T15:14:36.859411",
+  "package_url": "https://pypi.org/project/gdarch/"
+}

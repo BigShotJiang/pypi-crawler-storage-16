@@ -1,0 +1,11 @@
+{
+  "name": "polvon",
+  "version": "0.1.1",
+  "summary": "CLI tool for managing Linux systemd services, apps, and automations",
+  "author": "Sayfulla Mirkhalikov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polvon-0.1.1.tar.gz",
+  "download_time": "2025-12-14T15:14:27.437700",
+  "package_url": "https://pypi.org/project/polvon/"
+}

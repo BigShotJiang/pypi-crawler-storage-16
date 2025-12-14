@@ -1,0 +1,11 @@
+{
+  "name": "rap-utils",
+  "version": "0.0.10",
+  "summary": "A collection of utils for Reproducible Analytical Pipelines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rap_utils-0.0.10.tar.gz",
+  "download_time": "2025-12-14T15:14:47.815254",
+  "package_url": "https://pypi.org/project/rap-utils/"
+}

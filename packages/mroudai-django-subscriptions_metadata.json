@@ -1,0 +1,11 @@
+{
+  "name": "mroudai-django-subscriptions",
+  "version": "0.1.0",
+  "summary": "Plans, entitlements, and usage tracking for Django SaaS apps.",
+  "author": "Open Source",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mroudai_django_subscriptions-0.1.0.tar.gz",
+  "download_time": "2025-12-14T15:14:38.943442",
+  "package_url": "https://pypi.org/project/mroudai-django-subscriptions/"
+}

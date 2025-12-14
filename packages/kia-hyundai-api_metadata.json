@@ -1,11 +1,11 @@
 {
   "name": "kia-hyundai-api",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "summary": "Kia Uvo Api Wrapper",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kia_hyundai_api-1.6.3.tar.gz",
-  "download_time": "2025-12-14T14:51:11.752246",
+  "download_filename": "kia_hyundai_api-1.6.4.tar.gz",
+  "download_time": "2025-12-14T15:14:46.773567",
   "package_url": "https://pypi.org/project/kia-hyundai-api/"
 }

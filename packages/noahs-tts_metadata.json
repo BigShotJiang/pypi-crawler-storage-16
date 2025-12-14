@@ -1,0 +1,11 @@
+{
+  "name": "noahs-tts",
+  "version": "0.1.2",
+  "summary": "A wrapper class to get started using Text To Speech quickly",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "noahs_tts-0.1.2.tar.gz",
+  "download_time": "2025-12-14T15:14:21.679562",
+  "package_url": "https://pypi.org/project/noahs-tts/"
+}

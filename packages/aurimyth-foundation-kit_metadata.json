@@ -1,11 +1,11 @@
 {
   "name": "aurimyth-foundation-kit",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "AuriMyth Foundation Kit - 核心基础架构工具包",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aurimyth_foundation_kit-0.0.4.tar.gz",
-  "download_time": "2025-12-14T14:51:07.275458",
+  "download_filename": "aurimyth_foundation_kit-0.0.5.tar.gz",
+  "download_time": "2025-12-14T15:14:23.244304",
   "package_url": "https://pypi.org/project/aurimyth-foundation-kit/"
 }

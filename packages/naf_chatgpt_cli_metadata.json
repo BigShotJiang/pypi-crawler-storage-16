@@ -1,0 +1,11 @@
+{
+  "name": "naf_chatgpt_cli",
+  "version": "0.2.0",
+  "summary": "This is a CLI chatGPT for Linux with beautiful highlighting gpt-5 with saving history ",
+  "author": "ilin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "naf_chatgpt_cli-0.2.0.tar.gz",
+  "download_time": "2025-12-14T15:14:39.983296",
+  "package_url": "https://pypi.org/project/naf_chatgpt_cli/"
+}

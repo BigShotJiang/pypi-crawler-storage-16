@@ -1,0 +1,11 @@
+{
+  "name": "rettxidentity",
+  "version": "0.1.0",
+  "summary": "Pure Python library for deterministic identity canonicalization and matching in the rettX ecosystem",
+  "author": "rettX Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rettxidentity-0.1.0.tar.gz",
+  "download_time": "2025-12-14T15:14:35.822249",
+  "package_url": "https://pypi.org/project/rettxidentity/"
+}

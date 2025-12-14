@@ -1,0 +1,11 @@
+{
+  "name": "codexcollector",
+  "version": "0.1.0",
+  "summary": "A Python package for collecting and extracting text from documents across multiple formats and sources.",
+  "author": "NotAndroid37",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codexcollector-0.1.0.tar.gz",
+  "download_time": "2025-12-14T15:14:39.464574",
+  "package_url": "https://pypi.org/project/codexcollector/"
+}

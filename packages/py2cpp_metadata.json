@@ -1,11 +1,11 @@
 {
   "name": "py2cpp",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "summary": "A Python-to-C++ translator.",
   "author": "typeulli",
   "license": null,
   "home_page": null,
-  "download_filename": "py2cpp-1.6.3.tar.gz",
-  "download_time": "2025-12-09T13:11:00.596549",
+  "download_filename": "py2cpp-1.6.4.tar.gz",
+  "download_time": "2025-12-14T15:14:22.198782",
   "package_url": "https://pypi.org/project/py2cpp/"
 }

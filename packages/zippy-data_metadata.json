@@ -1,11 +1,11 @@
 {
   "name": "zippy-data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "High-performance, multi-language dataset storage format",
   "author": null,
   "license": "Apache-2.0 OR MIT",
   "home_page": null,
-  "download_filename": "zippy_data-0.1.0.tar.gz",
-  "download_time": "2025-12-14T10:52:36.006826",
+  "download_filename": "zippy_data-0.1.1.tar.gz",
+  "download_time": "2025-12-14T11:38:55.309127",
   "package_url": "https://pypi.org/project/zippy-data/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hexora",
+  "version": "0.2.1",
+  "summary": "Static analysis of malicous Python scripts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hexora-0.2.1.tar.gz",
+  "download_time": "2025-12-14T11:39:00.033038",
+  "package_url": "https://pypi.org/project/hexora/"
+}

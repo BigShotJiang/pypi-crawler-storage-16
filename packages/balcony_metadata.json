@@ -1,11 +1,11 @@
 {
   "name": "balcony",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "Read any resource in your AWS Account. You can generate terraform code for them, too.",
   "author": "Oguzhan Yilmaz",
   "license": null,
   "home_page": null,
-  "download_filename": "balcony-0.3.6.tar.gz",
-  "download_time": "2025-12-14T11:29:20.395569",
+  "download_filename": "balcony-0.3.7.tar.gz",
+  "download_time": "2025-12-14T11:39:01.431494",
   "package_url": "https://pypi.org/project/balcony/"
 }

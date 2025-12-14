@@ -1,11 +1,11 @@
 {
   "name": "ttt-client",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Terminal-based Tic-Tac-Toe game",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ttt_client-0.1.0.tar.gz",
-  "download_time": "2025-12-14T17:13:32.899636",
+  "download_filename": "ttt_client-0.1.2.tar.gz",
+  "download_time": "2025-12-14T17:52:02.530638",
   "package_url": "https://pypi.org/project/ttt-client/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tenso",
-  "version": "0.4.3",
+  "version": "0.4.7",
   "summary": "High-performance zero-copy tensor protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tenso-0.4.3.tar.gz",
-  "download_time": "2025-12-14T15:33:10.106795",
+  "download_filename": "tenso-0.4.7.tar.gz",
+  "download_time": "2025-12-14T17:52:02.019082",
   "package_url": "https://pypi.org/project/tenso/"
 }

@@ -1,8 +1,20 @@
 {
-  "download_time": "2025-12-14T17:45:06.427223",
-  "total_packages_downloaded": 89,
-  "total_size_mb": 18.82,
+  "download_time": "2025-12-14T17:52:47.158089",
+  "total_packages_downloaded": 93,
+  "total_size_mb": 5.08,
   "packages": [
+    "twelvetake-reaper-mcp",
+    "robhan-cdk-lib.aws-mwaa",
+    "zipbundler",
+    "robhan-cdk-lib.utils",
+    "clipyard",
+    "tenso",
+    "ttt-client",
+    "pgconnect",
+    "bioamla",
+    "myconso",
+    "ukincomecalculator",
+    "django-node-modules",
     "model-resolver",
     "aitoai",
     "ttt-common",
@@ -83,14 +95,6 @@
     "asciiquarium-redux",
     "stegvault",
     "usdm4",
-    "imdb-extract",
-    "paracelsus",
-    "nidataset",
-    "cyvest",
-    "credspray",
-    "pintes",
-    "fitt",
-    "pyskillet",
-    "python-hilo"
+    "imdb-extract"
   ]
 }

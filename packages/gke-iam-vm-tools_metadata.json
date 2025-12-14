@@ -1,11 +1,11 @@
 {
   "name": "gke-iam-vm-tools",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "summary": "[Protected] GKE IAM and VM Management Tools with IAP Support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gke_iam_vm_tools-1.0.7.tar.gz",
-  "download_time": "2025-12-14T15:33:13.223072",
+  "download_filename": "gke_iam_vm_tools-1.0.9.tar.gz",
+  "download_time": "2025-12-14T16:55:25.692543",
   "package_url": "https://pypi.org/project/gke-iam-vm-tools/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "llm-completion",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A library for LLM text completion using LiteLLM",
   "author": "innerkore",
   "license": null,
   "home_page": "https://github.com/innerkorehq/llm_lib",
-  "download_filename": "llm_completion-0.1.6.tar.gz",
-  "download_time": "2025-12-12T04:56:12.478511",
+  "download_filename": "llm_completion-0.1.7.tar.gz",
+  "download_time": "2025-12-14T16:55:26.203810",
   "package_url": "https://pypi.org/project/llm-completion/"
 }

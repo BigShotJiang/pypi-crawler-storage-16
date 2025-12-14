@@ -1,11 +1,11 @@
 {
   "name": "depup",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "Dependency Upgrade Advisor: scan and safely upgrade Python project dependencies.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "depup-0.8.0.tar.gz",
-  "download_time": "2025-12-14T13:52:25.343524",
+  "download_filename": "depup-0.9.0.tar.gz",
+  "download_time": "2025-12-14T16:55:22.617616",
   "package_url": "https://pypi.org/project/depup/"
 }

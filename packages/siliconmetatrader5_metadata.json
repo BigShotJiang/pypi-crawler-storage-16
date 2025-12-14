@@ -1,0 +1,11 @@
+{
+  "name": "siliconmetatrader5",
+  "version": "1.0",
+  "summary": "MetaTrader5 for Silicon",
+  "author": "bahadirumutiscimen",
+  "license": null,
+  "home_page": "https://github.com/buiscimen/siliconmetatrader5",
+  "download_filename": "siliconmetatrader5-1.0.tar.gz",
+  "download_time": "2025-12-14T16:55:17.384791",
+  "package_url": "https://pypi.org/project/siliconmetatrader5/"
+}

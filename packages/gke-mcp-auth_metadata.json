@@ -1,0 +1,11 @@
+{
+  "name": "gke-mcp-auth",
+  "version": "1.0.9",
+  "summary": "[Protected] MCP Authentication and Authorization Framework with JWT",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gke_mcp_auth-1.0.9.tar.gz",
+  "download_time": "2025-12-14T16:55:24.660316",
+  "package_url": "https://pypi.org/project/gke-mcp-auth/"
+}

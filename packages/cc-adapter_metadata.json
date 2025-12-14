@@ -1,11 +1,11 @@
 {
   "name": "cc-adapter",
-  "version": "0.24.2",
+  "version": "0.24.3",
   "summary": "Claude Code adapter for LM Studio / Poe / OpenRouter / OpenAI Codex (Subscription required)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cc_adapter-0.24.2.tar.gz",
-  "download_time": "2025-12-14T05:51:56.937123",
+  "download_filename": "cc_adapter-0.24.3.tar.gz",
+  "download_time": "2025-12-14T10:38:42.177571",
   "package_url": "https://pypi.org/project/cc-adapter/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "carbonkivy",
+  "version": "0.0.4",
+  "summary": "CarbonKivy is a Python library that integrates IBM's Carbon Design System with the Kivy framework. It provides a modern, accessible, and user-friendly UI toolkit inspired by Carbon’s design principles, enabling developers to create consistent and visually appealing applications in Kivy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "carbonkivy-0.0.4.tar.gz",
+  "download_time": "2025-12-14T10:38:21.237609",
+  "package_url": "https://pypi.org/project/carbonkivy/"
+}

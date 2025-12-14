@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-a2a",
-  "version": "1.4.0a20251212",
+  "version": "1.4.0a20251214",
   "summary": "Subpackage for A2A Protocol integration in NeMo Agent Toolkit",
   "author": "NVIDIA Corporation",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nvidia_nat_a2a-1.4.0a20251212-py3-none-any.whl",
-  "download_time": "2025-12-12T11:03:00.402339",
+  "download_filename": "nvidia_nat_a2a-1.4.0a20251214-py3-none-any.whl",
+  "download_time": "2025-12-14T10:38:13.556971",
   "package_url": "https://pypi.org/project/nvidia-nat-a2a/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "yamkix",
+  "version": "0.14.0",
+  "summary": "An opinionated yaml formatter based on ruamel.yaml",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yamkix-0.14.0-py3-none-any.whl",
+  "download_time": "2025-12-14T10:38:43.192141",
+  "package_url": "https://pypi.org/project/yamkix/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "frxx-view",
+  "version": "0.0.1",
+  "summary": "Weather radar visualization GUI for (but not limited to) frxx.",
+  "author": "Ameya Naik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "frxx_view-0.0.1.tar.gz",
+  "download_time": "2025-12-14T07:42:46.736391",
+  "package_url": "https://pypi.org/project/frxx-view/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "misato",
-  "version": "0.8.8",
+  "version": "0.8.9",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "misato-0.8.8.tar.gz",
-  "download_time": "2025-12-13T09:14:42.845764",
+  "download_filename": "misato-0.8.9.tar.gz",
+  "download_time": "2025-12-14T07:42:45.700075",
   "package_url": "https://pypi.org/project/misato/"
 }

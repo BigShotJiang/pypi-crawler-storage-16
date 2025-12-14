@@ -1,11 +1,11 @@
 {
   "name": "waveassist",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "WaveAssist Python SDK for storing and retrieving structured data, LLM integration, and credit management",
   "author": "WaveAssist",
   "license": null,
   "home_page": "https://github.com/waveassist/waveassist",
-  "download_filename": "waveassist-0.3.1.tar.gz",
-  "download_time": "2025-12-14T07:15:50.637995",
+  "download_filename": "waveassist-0.3.2.tar.gz",
+  "download_time": "2025-12-14T07:42:47.255440",
   "package_url": "https://pypi.org/project/waveassist/"
 }

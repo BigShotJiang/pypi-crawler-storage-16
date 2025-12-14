@@ -1,0 +1,11 @@
+{
+  "name": "test-failure-llm",
+  "version": "0.1.2",
+  "summary": "A Multimodal LLM from scratch for analyzing test failures.",
+  "author": "Antigravity",
+  "license": null,
+  "home_page": null,
+  "download_filename": "test_failure_llm-0.1.2.tar.gz",
+  "download_time": "2025-12-14T07:42:46.218414",
+  "package_url": "https://pypi.org/project/test-failure-llm/"
+}

@@ -1,12 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T07:33:43.195001
-- **Total Packages**: 89
-- **Total Size**: 24.91 MB
+- **Download Time**: 2025-12-14T07:43:25.089013
+- **Total Packages**: 90
+- **Total Size**: 1.21 MB
 
 ## Packages List
+- pptx-to-html5
+- compose-farm
+- speedy-utils
+- nlbone
+- pyillion
+- mochi-coco
+- customctkdialog
 - HOS-ME
+- mi-maica
+- tob
+- mi-mtts
+- WinToastCreator
+- pnspy
+- misato
+- test-failure-llm
+- frxx-view
+- waveassist
+- chatrepl
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- agent-compose
 - doguda
 - django-cfg
 - sdial
@@ -33,14 +53,12 @@
 - fabricatio-tool
 - fabricatio-novel
 - fabricatio-character
-- compose-farm
 - i6-models
 - llmgcalparse
 - toolguard
 - eth-portfolio
 - tostorchconnector
 - tosnativeclient
-- WinToastCreator
 - ai-edge-litert-nightly
 - krypton-toolkit
 - alm-core
@@ -51,7 +69,6 @@
 - qqcode
 - actron-neo-api
 - korean-law-mcp
-- waveassist
 - masgent
 - quasix
 - pixelarraylib
@@ -79,19 +96,3 @@
 - waft
 - tangos
 - server-metrics-apm
-- raggify
-- quantacore-sdk
-- trivialai
-- nc1709
-- lam-middleware
-- bpmn_print
-- sekai-deck-recommend-cpp
-- openai-api-polling
-- reykit
-- ipckit
-- wnm
-- aisbom-cli
-- nifti2bids
-- prisma-web3-py
-- sheikh-cli
-- analyst-klondike

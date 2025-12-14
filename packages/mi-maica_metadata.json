@@ -1,0 +1,11 @@
+{
+  "name": "mi-maica",
+  "version": "1.2.1",
+  "summary": "MAICA Illuminator (Backend)",
+  "author": "EdgeInfinity",
+  "license": null,
+  "home_page": "https://github.com/Mon1-innovation/MAICA",
+  "download_filename": "mi_maica-1.2.1.tar.gz",
+  "download_time": "2025-12-14T07:42:43.107982",
+  "package_url": "https://pypi.org/project/mi-maica/"
+}

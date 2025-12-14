@@ -1,0 +1,11 @@
+{
+  "name": "mochi-coco",
+  "version": "0.6.0",
+  "summary": "A beautiful, feature-rich CLI chat application for interacting with LLMs via Ollama with streaming responses, session persistence, markdown rendering and tool support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mochi_coco-0.6.0.tar.gz",
+  "download_time": "2025-12-14T07:42:41.543823",
+  "package_url": "https://pypi.org/project/mochi-coco/"
+}

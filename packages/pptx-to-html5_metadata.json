@@ -1,0 +1,11 @@
+{
+  "name": "pptx-to-html5",
+  "version": "0.1.0",
+  "summary": "Tools for converting PowerPoint presentations to HTML5 websites",
+  "author": "pptx-to-html5 contributors",
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "pptx_to_html5-0.1.0.tar.gz",
+  "download_time": "2025-12-14T07:42:38.881170",
+  "package_url": "https://pypi.org/project/pptx-to-html5/"
+}

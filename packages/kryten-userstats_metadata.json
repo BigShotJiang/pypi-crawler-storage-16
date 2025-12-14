@@ -1,11 +1,11 @@
 {
   "name": "kryten-userstats",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "summary": "User statistics tracking microservice for CyTube channels",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/kryten-userstats",
-  "download_filename": "kryten_userstats-0.5.1.tar.gz",
-  "download_time": "2025-12-13T20:15:45.746765",
+  "download_filename": "kryten_userstats-0.5.3.tar.gz",
+  "download_time": "2025-12-14T05:51:49.917818",
   "package_url": "https://pypi.org/project/kryten-userstats/"
 }

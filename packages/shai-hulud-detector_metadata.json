@@ -1,0 +1,11 @@
+{
+  "name": "shai-hulud-detector",
+  "version": "1.0.4",
+  "summary": "A CLI tool to detect potential Shai Hulud npm-worm compromises in GitHub users and organizations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shai_hulud_detector-1.0.4.tar.gz",
+  "download_time": "2025-12-14T05:51:58.021338",
+  "package_url": "https://pypi.org/project/shai-hulud-detector/"
+}

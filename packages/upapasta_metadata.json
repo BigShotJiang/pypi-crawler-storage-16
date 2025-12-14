@@ -1,11 +1,11 @@
 {
   "name": "upapasta",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "A script to upload folders to Usenet with RAR, PAR2, and nyuu.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "upapasta-0.3.3.tar.gz",
-  "download_time": "2025-12-14T05:37:17.027863",
+  "download_filename": "upapasta-0.3.4-py3-none-any.whl",
+  "download_time": "2025-12-14T05:51:50.983245",
   "package_url": "https://pypi.org/project/upapasta/"
 }

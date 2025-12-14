@@ -1,20 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T05:37:51.417580
-- **Total Packages**: 88
-- **Total Size**: 5.09 MB
+- **Download Time**: 2025-12-14T05:52:31.818262
+- **Total Packages**: 83
+- **Total Size**: 5.18 MB
 
 ## Packages List
+- kryten-llm
+- s3dlio
+- pypkg-recdep
+- mii-lib
+- bpmn_print
+- kryten-userstats
+- xpw
+- upapasta
+- eventsource-py
+- nifti2bids
+- analyst-klondike
+- velocity-python
+- trivialai
+- zipbundler
+- langchain-dev-utils
+- mbari-aidata
 - nexaroa
+- txdb
+- cc-adapter
+- korean-law-mcp
+- shai-hulud-detector
 - mofox-plugin-toolkit
 - appbuilder-sdk
-- nifti2bids
 - directory-file-mapping
-- pypkg-recdep
 - llm-gemini-code-assist
 - koka
-- cc-adapter
 - jpprint
 - altcha
 - apppy-app
@@ -30,7 +47,6 @@
 - apppy-logger
 - nstrumenta
 - apppy-env
-- upapasta
 - depthtensor
 - ast-tool-py
 - createsonline
@@ -52,7 +68,6 @@
 - flowmason
 - zfx
 - pyrcb
-- mbari-aidata
 - mrglang
 - crowdstrike-aidr
 - json-repair-tool
@@ -74,23 +89,3 @@
 - smipoly
 - pypomes-sob
 - racerapi
-- iamdata
-- mtflib
-- pytest-repeated
-- scitex
-- general-robotics-toolbox
-- human-seconds
-- server-metrics-apm
-- pypomes-db
-- xqute
-- judo-framework
-- gitcloakd
-- n8nControl
-- aisbom-cli
-- masgent
-- curl_cffi_patch
-- zippathlib
-- do-app-sandbox
-- gec-datasets
-- keras-nlp-nightly
-- korean-law-mcp

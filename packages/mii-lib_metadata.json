@@ -1,0 +1,11 @@
+{
+  "name": "mii-lib",
+  "version": "0.1.0",
+  "summary": "Library and CLI tool for extracting and analyzing Mii files from Nintendo console database dumps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mii_lib-0.1.0.tar.gz",
+  "download_time": "2025-12-14T05:51:48.853618",
+  "package_url": "https://pypi.org/project/mii-lib/"
+}

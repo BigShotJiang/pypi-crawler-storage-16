@@ -1,11 +1,11 @@
 {
   "name": "txdb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Python interface to access and manipulate genome annotations in TxDB SQLite format.",
   "author": "Jayaram Kancherla",
   "license": "MIT",
   "home_page": "https://github.com/biocpy/txdb",
-  "download_filename": "txdb-0.0.1.tar.gz",
-  "download_time": "2025-12-13T06:21:05.415806",
+  "download_filename": "txdb-0.0.2.tar.gz",
+  "download_time": "2025-12-14T05:51:56.380054",
   "package_url": "https://pypi.org/project/txdb/"
 }

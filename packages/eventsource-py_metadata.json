@@ -1,11 +1,11 @@
 {
   "name": "eventsource-py",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Production-ready event sourcing library for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eventsource_py-0.3.1.tar.gz",
-  "download_time": "2025-12-13T23:14:57.922348",
+  "download_filename": "eventsource_py-0.4.0.tar.gz",
+  "download_time": "2025-12-14T05:51:51.528960",
   "package_url": "https://pypi.org/project/eventsource-py/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sceneprogsyn",
+  "version": "0.1.0",
+  "summary": "An LLM based program synthesizer for custom DSLs",
+  "author": "Kunal Gupta",
+  "license": null,
+  "home_page": "https://github.com/KunalMGupta/sceneprogsyn.git",
+  "download_filename": "sceneprogsyn-0.1.0.tar.gz",
+  "download_time": "2025-12-14T04:49:12.822175",
+  "package_url": "https://pypi.org/project/sceneprogsyn/"
+}

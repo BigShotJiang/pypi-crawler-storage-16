@@ -1,11 +1,11 @@
 {
   "name": "mcitemlib",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A library for creating and editing Minecraft items using python.",
   "author": "Amp",
   "license": null,
   "home_page": null,
-  "download_filename": "mcitemlib-0.5.0.tar.gz",
-  "download_time": "2025-12-14T04:09:11.939543",
+  "download_filename": "mcitemlib-0.5.1.tar.gz",
+  "download_time": "2025-12-14T04:49:16.510466",
   "package_url": "https://pypi.org/project/mcitemlib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "server-metrics-apm",
+  "version": "0.1.1",
+  "summary": "A lightweight APM instrumentation library for Python applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "server_metrics_apm-0.1.1.tar.gz",
+  "download_time": "2025-12-14T04:48:58.810718",
+  "package_url": "https://pypi.org/project/server-metrics-apm/"
+}

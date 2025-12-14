@@ -1,0 +1,11 @@
+{
+  "name": "gec-datasets",
+  "version": "0.2.0",
+  "summary": "A tools to easily load Grammatical Error Correction datasets.",
+  "author": "gotuiyan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gec_datasets-0.2.0.tar.gz",
+  "download_time": "2025-12-14T04:49:05.928238",
+  "package_url": "https://pypi.org/project/gec-datasets/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flowgeo",
+  "version": "0.2.0",
+  "summary": "A lightweight 3D geometry presentation library for math education",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flowgeo-0.2.0.tar.gz",
+  "download_time": "2025-12-14T04:49:13.384595",
+  "package_url": "https://pypi.org/project/flowgeo/"
+}

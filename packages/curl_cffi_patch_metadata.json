@@ -1,0 +1,11 @@
+{
+  "name": "curl_cffi_patch",
+  "version": "0.14",
+  "summary": "libcurl ffi bindings for Python, with impersonation support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "curl_cffi_patch-0.14-cp39-abi3-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2025-12-14T04:49:04.364649",
+  "package_url": "https://pypi.org/project/curl_cffi_patch/"
+}

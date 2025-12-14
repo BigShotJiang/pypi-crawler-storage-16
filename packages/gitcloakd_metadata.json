@@ -1,11 +1,11 @@
 {
   "name": "gitcloakd",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "Cloak Git repositories with GPG encryption - hide your code in plain sight",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gitcloakd-1.0.10.tar.gz",
-  "download_time": "2025-12-14T03:08:11.863259",
+  "download_filename": "gitcloakd-1.0.11.tar.gz",
+  "download_time": "2025-12-14T04:49:02.082326",
   "package_url": "https://pypi.org/project/gitcloakd/"
 }

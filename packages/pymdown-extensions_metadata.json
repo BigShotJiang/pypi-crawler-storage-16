@@ -1,11 +1,11 @@
 {
   "name": "pymdown-extensions",
-  "version": "10.19",
+  "version": "10.19.1",
   "summary": "Extension pack for Python Markdown.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymdown_extensions-10.19.tar.gz",
-  "download_time": "2025-12-11T19:50:25.593949",
+  "download_filename": "pymdown_extensions-10.19.1.tar.gz",
+  "download_time": "2025-12-14T17:32:37.729364",
   "package_url": "https://pypi.org/project/pymdown-extensions/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-chat-exporter",
+  "version": "0.12.1",
+  "summary": "A Whatsapp database parser that provides history of your Whatsapp conversations in HTML and JSON. Android, iOS, iPadOS, Crypt12, Crypt14, Crypt15 supported.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whatsapp_chat_exporter-0.12.1.tar.gz",
+  "download_time": "2025-12-14T17:32:46.455870",
+  "package_url": "https://pypi.org/project/whatsapp-chat-exporter/"
+}

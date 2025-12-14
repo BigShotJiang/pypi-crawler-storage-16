@@ -1,11 +1,11 @@
 {
   "name": "cs-binding-generator",
-  "version": "1.0.1.dev16",
+  "version": "1.0.1.dev17",
   "summary": "Generate C# bindings from C headers using libclang with modern LibraryImport",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cs_binding_generator-1.0.1.dev16.tar.gz",
-  "download_time": "2025-12-14T16:55:09.449781",
+  "download_filename": "cs_binding_generator-1.0.1.dev17.tar.gz",
+  "download_time": "2025-12-14T17:32:57.484775",
   "package_url": "https://pypi.org/project/cs-binding-generator/"
 }

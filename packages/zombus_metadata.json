@@ -1,11 +1,11 @@
 {
   "name": "zombus",
-  "version": "0.2.8",
+  "version": "0.3.0",
   "summary": "Zombus - zodchy message bus. Library for building event-driven architectures.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zombus-0.2.8.tar.gz",
-  "download_time": "2025-12-10T17:45:31.448134",
+  "download_filename": "zombus-0.3.0.tar.gz",
+  "download_time": "2025-12-14T17:32:44.656424",
   "package_url": "https://pypi.org/project/zombus/"
 }

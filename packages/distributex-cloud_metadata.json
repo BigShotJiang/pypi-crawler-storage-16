@@ -1,11 +1,11 @@
 {
   "name": "distributex-cloud",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "summary": "Distributed computing platform - run code on global resource pool",
   "author": "DistributeX Team",
   "license": "MIT",
   "home_page": "https://github.com/DistributeX-Cloud/distributex-cli-public",
-  "download_filename": "distributex_cloud-3.1.1.tar.gz",
-  "download_time": "2025-12-14T16:17:55.256737",
+  "download_filename": "distributex_cloud-3.1.2.tar.gz",
+  "download_time": "2025-12-14T17:32:58.625877",
   "package_url": "https://pypi.org/project/distributex-cloud/"
 }

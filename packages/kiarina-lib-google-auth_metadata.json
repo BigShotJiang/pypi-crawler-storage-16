@@ -1,11 +1,11 @@
 {
   "name": "kiarina-lib-google-auth",
-  "version": "1.15.1",
+  "version": "1.16.0",
   "summary": "Google Cloud client library for kiarina namespace",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kiarina_lib_google_auth-1.15.1.tar.gz",
-  "download_time": "2025-12-14T05:37:23.313568",
+  "download_filename": "kiarina_lib_google_auth-1.16.0.tar.gz",
+  "download_time": "2025-12-14T17:32:51.065599",
   "package_url": "https://pypi.org/project/kiarina-lib-google-auth/"
 }

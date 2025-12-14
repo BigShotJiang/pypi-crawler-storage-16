@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T17:14:03.442405
-- **Total Packages**: 87
-- **Total Size**: 14.57 MB
+- **Download Time**: 2025-12-14T17:33:29.215262
+- **Total Packages**: 89
+- **Total Size**: 22.65 MB
 
 ## Packages List
+- pymdown-extensions
+- rebdhuhn
+- discrete-continuous-embed-readout
+- sumt
+- torram
+- xnb
+- django-polymorphic
+- imery
+- riverpod-3-scanner
+- llmwalk
+- cloudinvoke
+- mcp-mesh
+- zombus
+- django-cfg
+- arthur-common
+- whatsapp-chat-exporter
+- kiarina-utils-file
+- kiarina-utils-common
+- kiarina-llm
+- kiarina-lib-redisearch
+- kiarina-lib-redis
+- kiarina-lib-openai
+- kiarina-lib-google-cloud-storage
+- kiarina-lib-google-auth
+- kiarina-lib-falkordb
+- kiarina-lib-cloudflare-d1
+- kiarina-lib-cloudflare-auth
+- kiarina-lib-anthropic
+- kiarina-i18n
+- kiarina
+- usdm4-cpt
+- affiliation-regex-parser
+- fittrackee
+- accmix
+- cs-binding-generator
+- textual
+- distributex-cloud
+- better-confluence-mcp
+- immich-migrator
+- pydrime
+- MEROAI
+- zodchy
+- membrowse
+- quasarr-alt
+- textagents
 - alphavec
 - rotools
 - usdm4-pj
@@ -21,7 +66,6 @@
 - pintes
 - fitt
 - pyskillet
-- quasarr-alt
 - python-hilo
 - llama-index-llms-bedrock-converse
 - workbench-bridges
@@ -47,49 +91,7 @@
 - django-docxtpl
 - mactoast
 - pyspark-data-toolkit
-- imery
 - aoe2rec-py
 - pygame-intro
-- better-confluence-mcp
 - mistocr
 - pulumi-django-azure
-- my-internal-lib
-- pysty
-- cs-binding-generator
-- flatflow
-- passagemath-docbuild
-- passagemath-doc-pdf
-- passagemath-doc-html
-- passagemath-database-stein-watkins
-- passagemath-database-polytopes-4d
-- passagemath-database-cremona-ellcurve
-- passagemath-conf
-- reachcollective-utils
-- lintro
-- django-static-engine
-- skillport
-- siliconmetatrader5
-- task-context-mcp
-- git-reporter-ai
-- aiohomematic-test-support
-- aiohomematic
-- private-assistant-display-controller
-- liger-kernel-nightly
-- riven-cli
-- maa-mcp
-- depup
-- reyserver
-- reykit
-- gke-mcp-auth
-- gke-log-tools
-- gke-iam-vm-tools
-- llm-completion
-- gke-deployment-tools
-- gammarers.aws-secure-bucket
-- exchange-data-downloader
-- msn-weather-wrapper
-- rds-proxy-password-rotation
-- agomax
-- telegram-retriever
-- provchain
-- trellis-datamodel

@@ -1,11 +1,11 @@
 {
   "name": "mcp-mesh",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "summary": "Kubernetes-native platform for distributed MCP applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_mesh-0.7.5.tar.gz",
-  "download_time": "2025-12-12T06:55:43.276997",
+  "download_filename": "mcp_mesh-0.7.6.tar.gz",
+  "download_time": "2025-12-14T17:32:44.082919",
   "package_url": "https://pypi.org/project/mcp-mesh/"
 }

@@ -1,15 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T10:53:21.051037
-- **Total Packages**: 90
-- **Total Size**: 13.14 MB
+- **Download Time**: 2025-12-14T11:14:04.081171
+- **Total Packages**: 85
+- **Total Size**: 11.52 MB
 
 ## Packages List
+- easycoder
+- cvat-dataset-converter
+- rnow
+- income-predict-d100-d400
+- depup
+- lintro
+- stollen
+- phab-utils
+- xpander-sdk
+- quorum-cli
+- docrag-kit
+- ucdp
+- atlas-provider-sqlalchemy
+- ucdp-addr
+- powa-web
+- climate-diagnostics
+- rubpy
+- navfitx
+- um80
+- auralis-worker
+- balcony
+- aelion-calc
+- depthtensor
+- python3-cyberfusion-nodechup
+- auroraview
+- quarto-graft
+- DB-First
+- python3-cyberfusion-fast-redirect
+- libmem
+- django-core-micha
+- shieldcommit
 - lavaplay.py
 - satellitic
 - acl-anthology
-- django-core-micha
 - pyreact-start
 - konduktor-nightly
 - python3-cyberfusion-rabbitmq-consumer
@@ -38,7 +68,6 @@
 - sqlit-tui
 - nvidia-nat-ragaai
 - nvidia-nat-test
-- um80
 - nvidia-nat-strands
 - nvidia-nat-phoenix
 - nvidia-nat-mcp
@@ -62,37 +91,3 @@
 - nvidia-nat-a2a
 - connectonion
 - nvidia-nat-s3
-- pybottle
-- nvidia-nat-crewai
-- nvidia-nat-redis
-- logair
-- nvidia-nat-langchain
-- llb_doc
-- nvidia-nat-semantic-kernel
-- nvidia-nat-zep-cloud
-- hft.shaurya
-- nvidia-nat-agno
-- django-cfg
-- nvidia-nat-vanna
-- carbonkivy
-- ok-script
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-crewai
-- aiqtoolkit-agno
-- paytechuz
-- vicoa
-- aiqtoolkit-zep-cloud
-- aiqtoolkit-llama-index
-- aiqtoolkit
-- atrace
-- aiqtoolkit-test
-- victron-mqtt
-- aiqtoolkit-weave
-- income-predict-d100-d400
-- aiqtoolkit-mem0ai
-- aiqtoolkit-langchain
-- PyQt-Fluent-Widgets
-- PySide6-Fluent-Widgets
-- PySide2-Fluent-Widgets
-- PyQt6-Fluent-Widgets
-- ai-edge-torch-nightly

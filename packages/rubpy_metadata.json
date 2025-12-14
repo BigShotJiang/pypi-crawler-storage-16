@@ -1,0 +1,11 @@
+{
+  "name": "rubpy",
+  "version": "7.3.2",
+  "summary": "Elegant, modern and asynchronous Rubika API framework in Python for users and bots",
+  "author": "Shayan Heidari",
+  "license": null,
+  "home_page": "https://github.com/shayanheidari01/rubika",
+  "download_filename": "rubpy-7.3.2.tar.gz",
+  "download_time": "2025-12-14T11:13:28.319078",
+  "package_url": "https://pypi.org/project/rubpy/"
+}

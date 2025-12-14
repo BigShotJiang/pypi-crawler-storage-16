@@ -1,0 +1,11 @@
+{
+  "name": "libmem",
+  "version": "5.1.4",
+  "summary": "Advanced Game Hacking Library (Windows/Linux/FreeBSD)",
+  "author": "rdbo",
+  "license": null,
+  "home_page": "https://github.com/rdbo/libmem",
+  "download_filename": "libmem-5.1.4.tar.gz",
+  "download_time": "2025-12-14T11:13:34.629517",
+  "package_url": "https://pypi.org/project/libmem/"
+}

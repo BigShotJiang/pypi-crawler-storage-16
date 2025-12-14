@@ -1,0 +1,11 @@
+{
+  "name": "wxcbench",
+  "version": "0.1.6",
+  "summary": "A multi-modal dataset toolkit for weather and climate downstream tasks",
+  "author": null,
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "wxcbench-0.1.6.tar.gz",
+  "download_time": "2025-12-14T19:27:54.601604",
+  "package_url": "https://pypi.org/project/wxcbench/"
+}

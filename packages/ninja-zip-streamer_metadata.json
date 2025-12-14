@@ -1,11 +1,11 @@
 {
   "name": "ninja-zip-streamer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Streams remote zip files without using filesystem cache.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ninja_zip_streamer-0.0.1.tar.gz",
-  "download_time": "2025-12-14T19:12:51.196216",
+  "download_filename": "ninja_zip_streamer-0.0.2.tar.gz",
+  "download_time": "2025-12-14T19:28:00.283623",
   "package_url": "https://pypi.org/project/ninja-zip-streamer/"
 }

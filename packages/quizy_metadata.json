@@ -1,11 +1,11 @@
 {
   "name": "quizy",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "A simple, elegant Python framework for creating and running interactive quizzes",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quizy-0.4.3.tar.gz",
-  "download_time": "2025-12-14T19:12:50.161272",
+  "download_filename": "quizy-0.4.4.tar.gz",
+  "download_time": "2025-12-14T19:28:06.435924",
   "package_url": "https://pypi.org/project/quizy/"
 }

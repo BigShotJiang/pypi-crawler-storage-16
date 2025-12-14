@@ -1,25 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T19:13:14.262662
-- **Total Packages**: 87
-- **Total Size**: 15.16 MB
+- **Download Time**: 2025-12-14T19:28:33.000819
+- **Total Packages**: 82
+- **Total Size**: 13.02 MB
 
 ## Packages List
+- mcp-server-fetch-tom
+- kreuzberg
+- torch-batteries
+- auroraview
+- rpy-bridge
+- web-alert
+- chilkat
+- better-confluence-mcp
+- wxcbench
+- swarm-orchestrator
+- specvizitor
+- nstrumenta
+- imery
+- mpneuralnetwork
+- dj-cache-panel
+- super-bario
 - navigator-sdk
+- rubmix
+- ninja-zip-streamer
+- eas2cli
+- catfood
+- outputfile
+- aiinbx
+- schema-fusion-engine
+- tumeryk-guardrails
+- pdftradoc
+- expections
+- fastfame
+- usdm4-m11
+- langchain-quercle
+- quizy
+- pyrig
+- wework-framework
+- par-term-emu-core-rust
 - game-ai-client
 - schwabdev
-- imery
 - multitape-tm
-- usdm4-m11
 - genesis-framework-sdk
 - worktoy
 - datacontract-cli
 - sqlmesh-dag-generator
 - umlshapes
-- mcp-server-fetch-tom
 - gamepad-video-controller
-- outputfile
 - macsdk
 - taskrepo
 - tabstar
@@ -46,9 +75,7 @@
 - gym-examples
 - fudgeo
 - streaming-sql-engine
-- quizy
 - ebdamame
-- ninja-zip-streamer
 - freqtrade-client
 - freqtrade
 - arcade-mcp
@@ -61,35 +88,3 @@
 - c2cwsgiutils
 - kenmerkendewaarden
 - moxn
-- firelens-monitor
-- pyeasyphd
-- approvaltests-minimal
-- approvaltests
-- approval-utilities
-- persian
-- novelWriter
-- c4dynamics
-- pybibtexer
-- filmaffinity-backup
-- comfyui-manager
-- ddsql
-- async-udp-chat
-- rohkun
-- aquaview
-- gateagent
-- zipbundler
-- expections
-- dt-browser
-- sqladbx
-- apppy-app
-- apppy-aws
-- apppy-sb
-- apppy-auth
-- invarianthub
-- apppy-fs
-- apppy-fastql
-- ltr-lib
-- apppy-queues
-- apppy-db
-- apppy-clients
-- apppy-generic

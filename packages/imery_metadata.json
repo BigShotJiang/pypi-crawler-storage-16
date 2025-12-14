@@ -1,11 +1,11 @@
 {
   "name": "imery",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "imery-0.0.12.tar.gz",
-  "download_time": "2025-12-14T19:12:31.119777",
+  "download_filename": "imery-0.0.14.tar.gz",
+  "download_time": "2025-12-14T19:27:56.874179",
   "package_url": "https://pypi.org/project/imery/"
 }

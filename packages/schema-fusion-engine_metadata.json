@@ -1,11 +1,11 @@
 {
   "name": "schema-fusion-engine",
-  "version": "0.13.0",
+  "version": "0.15.0",
   "summary": "Middleware implementation of EasyBDI 2.0 architecture for data virtualization and federation",
   "author": "SchemaFusion Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "schema_fusion_engine-0.13.0.tar.gz",
-  "download_time": "2025-12-13T02:44:47.072694",
+  "download_filename": "schema_fusion_engine-0.15.0.tar.gz",
+  "download_time": "2025-12-14T19:28:02.851805",
   "package_url": "https://pypi.org/project/schema-fusion-engine/"
 }

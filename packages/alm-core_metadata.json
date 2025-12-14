@@ -1,0 +1,11 @@
+{
+  "name": "alm-core",
+  "version": "0.1.0",
+  "summary": "Agent Language Model (ALM): A deterministic, policy-driven architecture for robust AI agents",
+  "author": "Jalendar Reddy Maligireddy",
+  "license": "MIT",
+  "home_page": "https://github.com/Jalendar10/alm-core",
+  "download_filename": "alm_core-0.1.0.tar.gz",
+  "download_time": "2025-12-14T07:33:12.512072",
+  "package_url": "https://pypi.org/project/alm-core/"
+}

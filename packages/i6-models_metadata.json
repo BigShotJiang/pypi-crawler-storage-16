@@ -1,0 +1,11 @@
+{
+  "name": "i6-models",
+  "version": "1.20251213.212031",
+  "summary": "A collection of PyTorch NN models and parts.",
+  "author": "Christoph Lüscher, Nick Rossenbach, Benedikt Hilmes, Jingjing Xu, Mohammad Zeineldeen, Albert Zeyer, Peter Vieting, Simon Berger, Eugen Beck, Ping Zheng, Wilfried Michel",
+  "license": "Mozilla Public License 2.0",
+  "home_page": "https://github.com/rwth-i6/i6_models/",
+  "download_filename": "i6_models-1.20251213.212031.tar.gz",
+  "download_time": "2025-12-14T07:33:07.280058",
+  "package_url": "https://pypi.org/project/i6-models/"
+}

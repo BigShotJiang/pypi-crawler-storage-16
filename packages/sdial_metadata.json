@@ -1,11 +1,11 @@
 {
   "name": "sdial",
-  "version": "0.1.0a0",
+  "version": "0.1.0a1",
   "summary": "Speed dial for the CLI-phile.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sdial-0.1.0a0.tar.gz",
-  "download_time": "2025-12-14T06:52:07.927056",
+  "download_filename": "sdial-0.1.0a1.tar.gz",
+  "download_time": "2025-12-14T07:32:50.358559",
   "package_url": "https://pypi.org/project/sdial/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fabricatio-diff",
+  "version": "0.2.2",
+  "summary": "An extension of fabricatio, which brings up the diff edit capabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fabricatio_diff-0.2.2-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-14T07:32:52.732073",
+  "package_url": "https://pypi.org/project/fabricatio-diff/"
+}

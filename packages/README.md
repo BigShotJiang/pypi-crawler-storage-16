@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T07:16:34.027787
-- **Total Packages**: 84
-- **Total Size**: 19.62 MB
+- **Download Time**: 2025-12-14T07:33:43.195001
+- **Total Packages**: 89
+- **Total Size**: 24.91 MB
 
 ## Packages List
+- HOS-ME
+- doguda
+- django-cfg
+- sdial
+- amati
+- gundog
+- fabricatio-question
+- fabricatio-diff
+- fabricatio-capable
+- fabricatio-capabilities
+- fabricatio-digest
+- fabricatio-typst
+- fabricatio-tagging
+- fabricatio-anki
+- fabricatio-improve
+- fabricatio-core
+- fabricatio-memory
+- fabricatio-translate
+- fabricatio
+- fabricatio-plot
+- fabricatio-rule
+- fabricatio-agent
+- fabricatio-yue
+- fabricatio-rag
+- fabricatio-tool
+- fabricatio-novel
+- fabricatio-character
+- compose-farm
+- i6-models
+- llmgcalparse
+- toolguard
+- eth-portfolio
+- tostorchconnector
+- tosnativeclient
+- WinToastCreator
+- ai-edge-litert-nightly
+- krypton-toolkit
+- alm-core
+- netconduit
 - lazy-bear
 - primellm
 - PyGPUkit
@@ -55,38 +94,4 @@
 - nifti2bids
 - prisma-web3-py
 - sheikh-cli
-- sdial
 - analyst-klondike
-- mbari-aidata
-- csle-attack-profiler
-- gym-csle-cyborg
-- gym-csle-apt-game
-- csle-tolerance
-- csle-cluster
-- csle-cli
-- csle-rest-api
-- csle-agents
-- quantum-pqc-migration-toolkit
-- gym-csle-intrusion-response-game
-- gym-csle-stopping-game
-- csle-system-identification
-- csle-defender
-- reyfetch
-- reydb
-- csle-attacker
-- csle-common
-- csle-collector
-- csle-ryu
-- csle-base
-- timesat-cli
-- llmling-models
-- s3dlio
-- sumt
-- nexaroa
-- Uranus-IDE
-- ai-rulez
-- kryten-llm
-- kinemotion
-- frxx
-- xython
-- layeredlearning

@@ -1,0 +1,11 @@
+{
+  "name": "tosnativeclient",
+  "version": "1.1.4",
+  "summary": "python native client for tos",
+  "author": "xiangshijian",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tosnativeclient-1.1.4.tar.gz",
+  "download_time": "2025-12-14T07:33:10.201701",
+  "package_url": "https://pypi.org/project/tosnativeclient/"
+}

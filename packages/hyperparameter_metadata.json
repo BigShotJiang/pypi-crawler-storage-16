@@ -1,0 +1,11 @@
+{
+  "name": "hyperparameter",
+  "version": "0.6.0",
+  "summary": "A hyper-parameter library for researchers, data scientists and machine learning engineers.",
+  "author": null,
+  "license": "Apache License Version 2.0",
+  "home_page": null,
+  "download_filename": "hyperparameter-0.6.0.tar.gz",
+  "download_time": "2025-12-14T15:50:38.184899",
+  "package_url": "https://pypi.org/project/hyperparameter/"
+}

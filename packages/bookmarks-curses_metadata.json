@@ -1,0 +1,11 @@
+{
+  "name": "bookmarks-curses",
+  "version": "0.8.2",
+  "summary": "A bookmark manager as a curses frontend to sqlite database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bookmarks_curses-0.8.2.tar.gz",
+  "download_time": "2025-12-14T15:50:32.431535",
+  "package_url": "https://pypi.org/project/bookmarks-curses/"
+}

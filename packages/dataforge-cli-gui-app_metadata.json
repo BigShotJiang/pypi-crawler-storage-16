@@ -1,11 +1,11 @@
 {
   "name": "dataforge-cli-gui-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A versatile CLI and GUI tool for converting structured sentences to JSON, YAML, and XML, and querying data files.",
   "author": "Rudra",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "dataforge_cli_gui_app-0.1.0.tar.gz",
-  "download_time": "2025-12-14T15:33:03.310740",
+  "download_filename": "dataforge_cli_gui_app-0.1.1.tar.gz",
+  "download_time": "2025-12-14T15:50:37.111724",
   "package_url": "https://pypi.org/project/dataforge-cli-gui-app/"
 }

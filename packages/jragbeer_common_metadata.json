@@ -1,11 +1,11 @@
 {
   "name": "jragbeer_common",
-  "version": "0.2.56",
+  "version": "0.2.57",
   "summary": "Package to create JRAGBEER Common Functions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jragbeer_common-0.2.56.tar.gz",
-  "download_time": "2025-12-09T09:43:23.338613",
+  "download_filename": "jragbeer_common-0.2.57.tar.gz",
+  "download_time": "2025-12-14T15:50:32.955458",
   "package_url": "https://pypi.org/project/jragbeer_common/"
 }

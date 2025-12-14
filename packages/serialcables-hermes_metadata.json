@@ -1,0 +1,11 @@
+{
+  "name": "serialcables-hermes",
+  "version": "0.1.0",
+  "summary": "Python API for Serial Cables PCIe Gen6 EDSFF Redriver Cards",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "serialcables_hermes-0.1.0.tar.gz",
+  "download_time": "2025-12-14T15:50:41.840881",
+  "package_url": "https://pypi.org/project/serialcables-hermes/"
+}

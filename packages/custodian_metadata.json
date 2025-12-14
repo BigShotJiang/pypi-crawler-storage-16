@@ -1,0 +1,11 @@
+{
+  "name": "custodian",
+  "version": "2025.12.14",
+  "summary": "A simple JIT job management framework in Python.",
+  "author": "Matthew Horton, Samuel M. Blau, Stephen Dacek, William Davidson Richards, Xiaohui Qu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "custodian-2025.12.14.tar.gz",
+  "download_time": "2025-12-14T15:50:21.434189",
+  "package_url": "https://pypi.org/project/custodian/"
+}

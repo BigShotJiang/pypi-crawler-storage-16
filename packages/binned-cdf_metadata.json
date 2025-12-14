@@ -1,0 +1,11 @@
+{
+  "name": "binned-cdf",
+  "version": "0.2.3",
+  "summary": "A PyTorch-based distribution parametrized by the logits of CDF bins",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "binned_cdf-0.2.3.tar.gz",
+  "download_time": "2025-12-14T14:51:00.158961",
+  "package_url": "https://pypi.org/project/binned-cdf/"
+}

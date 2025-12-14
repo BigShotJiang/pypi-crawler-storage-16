@@ -1,0 +1,11 @@
+{
+  "name": "slotixmcp",
+  "version": "0.1.1",
+  "summary": "MCP Server for Slotix - AI-powered appointment management integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slotixmcp-0.1.1.tar.gz",
+  "download_time": "2025-12-14T14:50:44.090270",
+  "package_url": "https://pypi.org/project/slotixmcp/"
+}

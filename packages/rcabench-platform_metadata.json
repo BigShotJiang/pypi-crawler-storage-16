@@ -1,0 +1,11 @@
+{
+  "name": "rcabench-platform",
+  "version": "0.4.1",
+  "summary": "An experiment framework for Root Cause Analysis",
+  "author": "Nugine, Lincyaw, rainystevn1, YifanYang6",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rcabench_platform-0.4.1.tar.gz",
+  "download_time": "2025-12-14T14:51:20.968401",
+  "package_url": "https://pypi.org/project/rcabench-platform/"
+}

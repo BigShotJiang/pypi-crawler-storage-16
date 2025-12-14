@@ -1,0 +1,11 @@
+{
+  "name": "react-agent-compensation",
+  "version": "0.1.1",
+  "summary": "Framework-agnostic compensation/rollback library for ReAct agents",
+  "author": "Kaviru Hapuarachchi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "react_agent_compensation-0.1.1.tar.gz",
+  "download_time": "2025-12-14T14:50:55.850532",
+  "package_url": "https://pypi.org/project/react-agent-compensation/"
+}

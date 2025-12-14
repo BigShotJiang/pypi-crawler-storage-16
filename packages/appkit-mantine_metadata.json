@@ -1,0 +1,11 @@
+{
+  "name": "appkit-mantine",
+  "version": "0.10.0",
+  "summary": "Mantine UI input components for Reflex with type safety and comprehensive examples",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "appkit_mantine-0.10.0.tar.gz",
+  "download_time": "2025-12-14T14:51:30.252404",
+  "package_url": "https://pypi.org/project/appkit-mantine/"
+}

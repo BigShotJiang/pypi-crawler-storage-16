@@ -1,11 +1,11 @@
 {
   "name": "PyQt-Fluent-Widgets",
-  "version": "1.10.3",
+  "version": "1.10.4",
   "summary": "A fluent design widgets library based on PyQt5",
   "author": "zhiyiYo",
   "license": "GPLv3",
   "home_page": "https://qfluentwidgets.com",
-  "download_filename": "pyqt_fluent_widgets-1.10.3.tar.gz",
-  "download_time": "2025-12-14T10:38:30.410506",
+  "download_filename": "pyqt_fluent_widgets-1.10.4.tar.gz",
+  "download_time": "2025-12-14T14:51:19.864416",
   "package_url": "https://pypi.org/project/PyQt-Fluent-Widgets/"
 }

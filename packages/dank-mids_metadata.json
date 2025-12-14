@@ -1,11 +1,11 @@
 {
   "name": "dank-mids",
-  "version": "4.20.178",
+  "version": "4.20.179",
   "summary": "Multicall batching middleware for asynchronous scripts using web3.py",
   "author": "BobTheBuidler",
   "license": "MIT",
   "home_page": "https://github.com/BobTheBuidler/dank_mids",
-  "download_filename": "dank_mids-4.20.178.tar.gz",
-  "download_time": "2025-12-14T14:13:52.493491",
+  "download_filename": "dank_mids-4.20.179.tar.gz",
+  "download_time": "2025-12-14T14:50:52.034233",
   "package_url": "https://pypi.org/project/dank-mids/"
 }

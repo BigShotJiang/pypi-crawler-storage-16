@@ -1,0 +1,11 @@
+{
+  "name": "c2-overlay",
+  "version": "0.1.0",
+  "summary": "generate PM5-style overlays for rowing videos from Concept2 FIT files",
+  "author": "banteg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "c2_overlay-0.1.0.tar.gz",
+  "download_time": "2025-12-14T14:51:09.582567",
+  "package_url": "https://pypi.org/project/c2-overlay/"
+}

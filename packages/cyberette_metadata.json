@@ -1,0 +1,11 @@
+{
+  "name": "cyberette",
+  "version": "0.1.2",
+  "summary": "Python SDK for Your Detection API",
+  "author": "Stefan Saveski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cyberette-0.1.2.tar.gz",
+  "download_time": "2025-12-14T14:51:25.894687",
+  "package_url": "https://pypi.org/project/cyberette/"
+}

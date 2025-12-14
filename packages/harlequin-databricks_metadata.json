@@ -1,0 +1,11 @@
+{
+  "name": "harlequin-databricks",
+  "version": "0.6.3",
+  "summary": "A Harlequin adapter for Databricks.",
+  "author": "Alex Malins, Zach Shirah",
+  "license": null,
+  "home_page": null,
+  "download_filename": "harlequin_databricks-0.6.3.tar.gz",
+  "download_time": "2025-12-14T08:18:33.377489",
+  "package_url": "https://pypi.org/project/harlequin-databricks/"
+}

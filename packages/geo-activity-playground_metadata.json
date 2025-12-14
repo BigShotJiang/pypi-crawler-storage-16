@@ -1,0 +1,11 @@
+{
+  "name": "geo-activity-playground",
+  "version": "1.20.0",
+  "summary": "Analysis of geo data activities like rides, runs or hikes.",
+  "author": "Martin Ueding",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geo_activity_playground-1.20.0.tar.gz",
+  "download_time": "2025-12-14T08:18:51.268128",
+  "package_url": "https://pypi.org/project/geo-activity-playground/"
+}

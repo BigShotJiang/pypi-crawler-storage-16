@@ -1,0 +1,11 @@
+{
+  "name": "adancfgd",
+  "version": "0.1.1",
+  "summary": "Adaptive Fractional Gradient Descent Optimizers (AdaFGD & AdaNCFGD)",
+  "author": "Yihe Zhu",
+  "license": "MIT",
+  "home_page": "https://github.com/HunLuanZhiZhu/AdaNCFGD",
+  "download_filename": "adancfgd-0.1.1.tar.gz",
+  "download_time": "2025-12-14T08:18:33.887873",
+  "package_url": "https://pypi.org/project/adancfgd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "socketapi",
+  "version": "0.1.0",
+  "summary": "SocketAPI is a lightweight Python framework for real-time WebSocket APIs, using a single multiplexed connection with endpoint-like actions and channel subscriptions.",
+  "author": "SpaceShaman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "socketapi-0.1.0.tar.gz",
+  "download_time": "2025-12-14T08:18:32.868053",
+  "package_url": "https://pypi.org/project/socketapi/"
+}

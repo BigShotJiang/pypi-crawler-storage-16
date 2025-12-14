@@ -1,11 +1,11 @@
 {
   "name": "rapidnbt",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "summary": "Python bindings for High-Performance NBT library",
   "author": "GlacieTeam",
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "rapidnbt-1.3.2.tar.gz",
-  "download_time": "2025-12-14T04:09:37.491023",
+  "download_filename": "rapidnbt-1.3.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-14T08:18:26.141552",
   "package_url": "https://pypi.org/project/rapidnbt/"
 }

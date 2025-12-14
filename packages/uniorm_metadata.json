@@ -1,0 +1,11 @@
+{
+  "name": "uniorm",
+  "version": "1.0.0",
+  "summary": "Universal Async ORM for SQLite, MySQL, and PostgreSQL",
+  "author": "oscoderuz",
+  "license": null,
+  "home_page": "https://github.com/oscoderuz/uniorm",
+  "download_filename": "uniorm-1.0.0.tar.gz",
+  "download_time": "2025-12-14T08:18:35.418265",
+  "package_url": "https://pypi.org/project/uniorm/"
+}

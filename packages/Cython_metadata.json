@@ -1,0 +1,11 @@
+{
+  "name": "Cython",
+  "version": "3.2.3",
+  "summary": "The Cython compiler for writing C extensions in the Python language.",
+  "author": "Robert Bradshaw, Stefan Behnel, David Woods, Greg Ewing, et al.",
+  "license": "Apache-2.0",
+  "home_page": "https://cython.org/",
+  "download_filename": "cython-3.2.3.tar.gz",
+  "download_time": "2025-12-14T08:18:46.467253",
+  "package_url": "https://pypi.org/project/Cython/"
+}

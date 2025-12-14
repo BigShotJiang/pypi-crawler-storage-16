@@ -1,11 +1,11 @@
 {
   "name": "interpax-fft",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Fourier interpolation and function approximation with JAX",
   "author": "Kaya Unalmis",
   "license": "MIT",
   "home_page": "https://github.com/unalmis/interpax_fft",
-  "download_filename": "interpax_fft-0.0.2.tar.gz",
-  "download_time": "2025-12-14T04:09:26.944850",
+  "download_filename": "interpax_fft-0.0.3.tar.gz",
+  "download_time": "2025-12-14T08:18:31.848988",
   "package_url": "https://pypi.org/project/interpax-fft/"
 }

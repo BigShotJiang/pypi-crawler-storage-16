@@ -1,11 +1,11 @@
 {
   "name": "eqodec",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": null,
-  "author": null,
+  "author": "Ian Jure Macalisang",
   "license": null,
   "home_page": null,
-  "download_filename": "eqodec-0.1.0.tar.gz",
-  "download_time": "2025-12-14T09:15:16.364787",
+  "download_filename": "eqodec-0.4.0.tar.gz",
+  "download_time": "2025-12-14T09:33:53.488550",
   "package_url": "https://pypi.org/project/eqodec/"
 }

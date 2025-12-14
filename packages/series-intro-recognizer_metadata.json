@@ -1,11 +1,11 @@
 {
   "name": "series-intro-recognizer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Find the intro of episodes of a series",
   "author": "HRAshton",
   "license": null,
   "home_page": null,
-  "download_filename": "series_intro_recognizer-1.0.4.tar.gz",
-  "download_time": "2025-12-14T08:57:29.145573",
+  "download_filename": "series_intro_recognizer-1.0.5.tar.gz",
+  "download_time": "2025-12-14T09:33:50.889078",
   "package_url": "https://pypi.org/project/series-intro-recognizer/"
 }

@@ -1,20 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T09:16:01.611424
-- **Total Packages**: 82
-- **Total Size**: 9.72 MB
+- **Download Time**: 2025-12-14T09:34:37.227648
+- **Total Packages**: 85
+- **Total Size**: 8.01 MB
 
 ## Packages List
-- victron-mqtt
-- zeroday-sentinel
-- cloudpail
+- locust-telemetry
+- series-intro-recognizer
+- django-grpc-framework-plus
+- lidb
+- adancfgd
+- spotoptim
 - eqodec
+- smartchart
+- loggio
+- tian-hramony-mcp
+- eaasy
+- jumpthegun
+- zeroday-sentinel
+- bioamla
+- SHICTHRSLogCore
+- nvfuser-cu130
+- mmsbm
+- nvfuser-cu126
+- qbdquery
+- intelli
+- SHICTHRSConfigLoader
+- nvfuser-cu128
+- victron-mqtt
+- cloudpail
 - ntn
 - batplot
 - n8nControl
-- locust-telemetry
-- lidb
 - litestar-api-auth
 - autogluon
 - botads-sdk
@@ -61,7 +79,6 @@
 - hdpitkinter
 - exaai-agent
 - oss-lifecycle
-- adancfgd
 - crab_dbg
 - python-can-gc
 - malware-sentinel
@@ -74,17 +91,3 @@
 - openjiuwen
 - gaik
 - pypi-package-stats
-- easy-knowledge-retriever
-- justhtml
-- wnm
-- Uranus-IDE
-- zabob-memgraph
-- neos3files
-- nc1709
-- ojtool
-- depup
-- btoon
-- guardianhub
-- pygrammy
-- vibelab
-- pyillion

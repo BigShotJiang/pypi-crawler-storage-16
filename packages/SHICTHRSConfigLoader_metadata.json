@@ -1,0 +1,11 @@
+{
+  "name": "SHICTHRSConfigLoader",
+  "version": "1.5.0",
+  "summary": "SHICTHRS Config file logging system",
+  "author": "SHICTHRS",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/JNTMTMTM/SHICTHRS_ConfigLoader",
+  "download_filename": "shicthrsconfigloader-1.5.0.tar.gz",
+  "download_time": "2025-12-14T09:34:00.730933",
+  "package_url": "https://pypi.org/project/SHICTHRSConfigLoader/"
+}

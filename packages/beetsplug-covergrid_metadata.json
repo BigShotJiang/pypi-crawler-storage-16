@@ -1,0 +1,11 @@
+{
+  "name": "beetsplug-covergrid",
+  "version": "0.0.5",
+  "summary": "A Beets plugin to show cover art in a grid in a web UI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beetsplug_covergrid-0.0.5.tar.gz",
+  "download_time": "2025-12-14T17:44:21.222490",
+  "package_url": "https://pypi.org/project/beetsplug-covergrid/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hydrosim",
-  "version": "0.3.1",
+  "version": "0.4.1",
   "summary": "A Python framework for water resources planning with daily timestep simulation",
   "author": "J. Lillywh",
   "license": null,
   "home_page": null,
-  "download_filename": "hydrosim-0.3.1.tar.gz",
-  "download_time": "2025-12-10T21:36:43.221874",
+  "download_filename": "hydrosim-0.4.1.tar.gz",
+  "download_time": "2025-12-14T01:08:16.622876",
   "package_url": "https://pypi.org/project/hydrosim/"
 }

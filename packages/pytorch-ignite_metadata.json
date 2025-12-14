@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-ignite",
+  "version": "0.5.3",
+  "summary": "A lightweight library to help with training neural networks in PyTorch.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytorch_ignite-0.5.3.tar.gz",
+  "download_time": "2025-12-14T01:08:20.000123",
+  "package_url": "https://pypi.org/project/pytorch-ignite/"
+}

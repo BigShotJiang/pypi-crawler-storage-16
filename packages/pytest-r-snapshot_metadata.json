@@ -1,0 +1,11 @@
+{
+  "name": "pytest-r-snapshot",
+  "version": "0.1.0",
+  "summary": "A pytest plugin for snapshot testing against R code outputs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_r_snapshot-0.1.0.tar.gz",
+  "download_time": "2025-12-14T01:08:18.689295",
+  "package_url": "https://pypi.org/project/pytest-r-snapshot/"
+}

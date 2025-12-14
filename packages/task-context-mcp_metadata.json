@@ -1,11 +1,11 @@
 {
   "name": "task-context-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server for managing task contexts.",
   "author": "l0kifs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "task_context_mcp-0.1.1.tar.gz",
-  "download_time": "2025-12-13T14:51:31.727714",
+  "download_filename": "task_context_mcp-0.1.2.tar.gz",
+  "download_time": "2025-12-14T01:08:04.903357",
   "package_url": "https://pypi.org/project/task-context-mcp/"
 }

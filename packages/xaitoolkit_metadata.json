@@ -1,0 +1,11 @@
+{
+  "name": "xaitoolkit",
+  "version": "0.1.1",
+  "summary": "A lightweight toolkit to explain PyTorch vision models with gradient and perturbation-based XAI.",
+  "author": "Muhammad Rashid",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xaitoolkit-0.1.1.tar.gz",
+  "download_time": "2025-12-14T01:07:54.817269",
+  "package_url": "https://pypi.org/project/xaitoolkit/"
+}

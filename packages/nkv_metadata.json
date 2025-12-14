@@ -1,11 +1,11 @@
 {
   "name": "nkv",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A simple data file key-value",
   "author": "Decaptado",
   "license": null,
   "home_page": null,
-  "download_filename": "nkv-0.1.1.tar.gz",
-  "download_time": "2025-12-13T18:47:51.088032",
+  "download_filename": "nkv-0.1.2.tar.gz",
+  "download_time": "2025-12-14T01:08:13.379424",
   "package_url": "https://pypi.org/project/nkv/"
 }

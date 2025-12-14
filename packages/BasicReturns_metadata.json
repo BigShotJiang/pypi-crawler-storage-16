@@ -1,0 +1,11 @@
+{
+  "name": "BasicReturns",
+  "version": "0.1.2",
+  "summary": "Standardizes function return values across Python applications to enhance code consistency, readability, and maintainability.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "basicreturns-0.1.2.tar.gz",
+  "download_time": "2025-12-14T01:08:05.949886",
+  "package_url": "https://pypi.org/project/BasicReturns/"
+}

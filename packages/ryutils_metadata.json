@@ -1,0 +1,11 @@
+{
+  "name": "ryutils",
+  "version": "9.0.13",
+  "summary": "A collection of utilities for Python",
+  "author": "Ross Yeager",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ryutils-9.0.13.tar.gz",
+  "download_time": "2025-12-14T01:08:14.470227",
+  "package_url": "https://pypi.org/project/ryutils/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "justhtml",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "A pure Python HTML5 parser that just works.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "justhtml-0.8.0.tar.gz",
-  "download_time": "2025-12-13T20:15:54.441190",
+  "download_filename": "justhtml-0.9.0.tar.gz",
+  "download_time": "2025-12-14T01:08:00.164144",
   "package_url": "https://pypi.org/project/justhtml/"
 }

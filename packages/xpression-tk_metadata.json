@@ -1,0 +1,11 @@
+{
+  "name": "xpression-tk",
+  "version": "0.2.3",
+  "summary": "A powerful symbolic expression toolkit for rule-based term rewriting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xpression_tk-0.2.3.tar.gz",
+  "download_time": "2025-12-14T01:07:51.142933",
+  "package_url": "https://pypi.org/project/xpression-tk/"
+}

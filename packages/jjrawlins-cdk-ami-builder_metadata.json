@@ -1,11 +1,11 @@
 {
   "name": "jjrawlins-cdk-ami-builder",
-  "version": "0.0.98",
+  "version": "0.0.103",
   "summary": "Creates an EC2 AMI using an Image Builder Pipeline and returns the AMI ID.",
   "author": "Jayson Rawlins<jayson.rawlins@gmail.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/JaysonRawlins/cdk-ami-builder.git",
-  "download_filename": "jjrawlins_cdk_ami_builder-0.0.98.tar.gz",
-  "download_time": "2025-12-09T07:40:55.808349",
+  "download_filename": "jjrawlins_cdk_ami_builder-0.0.103.tar.gz",
+  "download_time": "2025-12-14T01:08:22.145739",
   "package_url": "https://pypi.org/project/jjrawlins-cdk-ami-builder/"
 }

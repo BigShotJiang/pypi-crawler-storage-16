@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T09:34:37.227648
-- **Total Packages**: 85
-- **Total Size**: 8.01 MB
+- **Download Time**: 2025-12-14T09:51:22.954754
+- **Total Packages**: 87
+- **Total Size**: 32.16 MB
 
 ## Packages List
+- ezdxf
+- builder-updater
+- sifr-benchmark
+- ghosttest
+- eaasy
+- layeredlearning
+- mcp-agentskills
+- opik
+- carbus-lib
+- port-pulumi
+- kodeagent
+- tsh-ycolors
+- tfp-nightly
+- n8nControl
+- batch-audio-extract
+- auralis-worker
+- dsmemail
+- rxiv-maker
+- dataforseo-client
+- uipath-langchain
+- dsm-services
+- tian-hramony-mcp
+- balance
+- async-pybatis-orm
+- dfm-python
+- fusio-sdk
+- jumpthegun
+- facial-vision-agent
+- discoger
 - locust-telemetry
 - series-intro-recognizer
 - django-grpc-framework-plus
@@ -15,9 +44,6 @@
 - eqodec
 - smartchart
 - loggio
-- tian-hramony-mcp
-- eaasy
-- jumpthegun
 - zeroday-sentinel
 - bioamla
 - SHICTHRSLogCore
@@ -32,7 +58,6 @@
 - cloudpail
 - ntn
 - batplot
-- n8nControl
 - litestar-api-auth
 - autogluon
 - botads-sdk
@@ -68,26 +93,3 @@
 - zenith-ai
 - ohmly
 - lino-noi
-- lino-xl
-- token2audio
-- lipilekhika
-- xcpcio
-- bigmag
-- zpui-lib
-- quorum-cli
-- compose-farm
-- hdpitkinter
-- exaai-agent
-- oss-lifecycle
-- crab_dbg
-- python-can-gc
-- malware-sentinel
-- robyn-config
-- test-failure-llm
-- amigo_sdk
-- auralis-worker
-- sheikh-cli-assistant
-- agentjson
-- openjiuwen
-- gaik
-- pypi-package-stats

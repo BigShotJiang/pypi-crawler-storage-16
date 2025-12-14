@@ -1,11 +1,11 @@
 {
   "name": "eaasy",
-  "version": "0.2.22",
+  "version": "0.3.0",
   "summary": "Build your e-commerce ea(a)sily",
   "author": "Giuliano Errico",
   "license": null,
   "home_page": "https://github.com/ciulene/eaasy",
-  "download_filename": "eaasy-0.2.22.tar.gz",
-  "download_time": "2025-12-14T09:33:55.580251",
+  "download_filename": "eaasy-0.3.0.tar.gz",
+  "download_time": "2025-12-14T09:50:35.060875",
   "package_url": "https://pypi.org/project/eaasy/"
 }

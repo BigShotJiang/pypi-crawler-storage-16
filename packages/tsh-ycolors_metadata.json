@@ -1,0 +1,11 @@
+{
+  "name": "tsh-ycolors",
+  "version": "0.1.0",
+  "summary": "A simple Python library for colored text printing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tsh_ycolors-0.1.0.tar.gz",
+  "download_time": "2025-12-14T09:50:38.924392",
+  "package_url": "https://pypi.org/project/tsh-ycolors/"
+}

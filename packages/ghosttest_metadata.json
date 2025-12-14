@@ -1,11 +1,11 @@
 {
   "name": "ghosttest",
-  "version": "0.2.0.1",
-  "summary": "Ghost - AI-Powered Test Generation & Healing for Python",
+  "version": "0.2.2.0",
+  "summary": "Ghost - An autonomous local-first AI Agent that generates, runs, and self-heals Python unit tests in real-time. Supports Ollama, Groq, and many frameworks such as pytest.",
   "author": "Swarnim Tripathi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ghosttest-0.2.0.1.tar.gz",
-  "download_time": "2025-12-13T21:13:41.482940",
+  "download_filename": "ghosttest-0.2.2.0.tar.gz",
+  "download_time": "2025-12-14T09:50:34.490592",
   "package_url": "https://pypi.org/project/ghosttest/"
 }

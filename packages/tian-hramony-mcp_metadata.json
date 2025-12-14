@@ -1,11 +1,11 @@
 {
   "name": "tian-hramony-mcp",
-  "version": "0.1.0",
-  "summary": "Add your description here",
+  "version": "0.1.1",
+  "summary": "鸿蒙开发文档MCP",
   "author": "孤单的城",
   "license": null,
   "home_page": null,
-  "download_filename": "tian_hramony_mcp-0.1.0.tar.gz",
-  "download_time": "2025-12-14T09:33:55.069202",
+  "download_filename": "tian_hramony_mcp-0.1.1.tar.gz",
+  "download_time": "2025-12-14T09:50:47.741402",
   "package_url": "https://pypi.org/project/tian-hramony-mcp/"
 }

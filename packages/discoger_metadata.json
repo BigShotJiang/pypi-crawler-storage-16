@@ -1,0 +1,11 @@
+{
+  "name": "discoger",
+  "version": "2.2.1",
+  "summary": "Get notification from Discogs",
+  "author": "Beudbeud",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/beudbeud/discoger",
+  "download_filename": "discoger-2.2.1.tar.gz",
+  "download_time": "2025-12-14T09:50:51.358200",
+  "package_url": "https://pypi.org/project/discoger/"
+}

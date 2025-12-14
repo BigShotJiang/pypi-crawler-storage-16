@@ -1,0 +1,11 @@
+{
+  "name": "tungnaa",
+  "version": "0.2.0",
+  "summary": "tungnaa is a text-to-voice model family and musical instrument",
+  "author": "Victor Shepardson",
+  "license": "modified GPLv3",
+  "home_page": null,
+  "download_filename": "tungnaa-0.2.0.tar.gz",
+  "download_time": "2025-12-14T18:50:29.925858",
+  "package_url": "https://pypi.org/project/tungnaa/"
+}

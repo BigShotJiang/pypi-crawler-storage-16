@@ -1,0 +1,11 @@
+{
+  "name": "aquaview",
+  "version": "0.2.0",
+  "summary": "Python SDK for accessing oceanographic datasets through the AQUAVIEW API",
+  "author": "AQUAVIEW Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aquaview-0.2.0.tar.gz",
+  "download_time": "2025-12-14T18:50:00.208179",
+  "package_url": "https://pypi.org/project/aquaview/"
+}

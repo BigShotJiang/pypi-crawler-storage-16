@@ -1,0 +1,11 @@
+{
+  "name": "raxe",
+  "version": "0.1.0",
+  "summary": "RAXE Community Edition - AI Security for Everyone. 460+ threat detection rules, L2 CPU-based ML, always free.",
+  "author": null,
+  "license": "Proprietary - See LICENSE file",
+  "home_page": null,
+  "download_filename": "raxe-0.1.0.tar.gz",
+  "download_time": "2025-12-14T18:49:59.633479",
+  "package_url": "https://pypi.org/project/raxe/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ddsql",
+  "version": "0.0.1",
+  "summary": "SQL Query Library",
+  "author": "davyddd",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ddsql-0.0.1.tar.gz",
+  "download_time": "2025-12-14T18:49:57.847962",
+  "package_url": "https://pypi.org/project/ddsql/"
+}

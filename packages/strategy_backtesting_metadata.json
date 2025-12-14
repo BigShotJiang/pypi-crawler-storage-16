@@ -1,0 +1,11 @@
+{
+  "name": "strategy_backtesting",
+  "version": "0.2.0",
+  "summary": "Test your own strategies with python and a dataset. A hackclub siege project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "strategy_backtesting-0.2.0.tar.gz",
+  "download_time": "2025-12-14T18:50:30.506500",
+  "package_url": "https://pypi.org/project/strategy_backtesting/"
+}

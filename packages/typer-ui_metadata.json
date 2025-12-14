@@ -1,11 +1,11 @@
 {
   "name": "typer-ui",
-  "version": "2025.12.12.2",
+  "version": "0.1.2",
   "summary": "A UI package for Typer CLI apps.",
   "author": "Amit Baswa",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "typer_ui-2025.12.12.2.tar.gz",
-  "download_time": "2025-12-12T21:13:40.532353",
+  "download_filename": "typer_ui-0.1.2.tar.gz",
+  "download_time": "2025-12-14T18:50:25.895838",
   "package_url": "https://pypi.org/project/typer-ui/"
 }

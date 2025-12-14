@@ -1,11 +1,11 @@
 {
   "name": "bioamla",
-  "version": "0.0.46",
+  "version": "0.0.47",
   "summary": "Bioacoustics & Machine Learning Applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bioamla-0.0.46.tar.gz",
-  "download_time": "2025-12-14T17:52:03.568460",
+  "download_filename": "bioamla-0.0.47.tar.gz",
+  "download_time": "2025-12-14T18:50:21.209519",
   "package_url": "https://pypi.org/project/bioamla/"
 }

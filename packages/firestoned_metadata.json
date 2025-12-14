@@ -1,0 +1,11 @@
+{
+  "name": "firestoned",
+  "version": "0.10.5",
+  "summary": "Build OpenAPI and AsyncAPI specs based off one or more resource json schema files",
+  "author": "Erick Bourgeois",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "firestoned-0.10.5.tar.gz",
+  "download_time": "2025-12-14T18:50:20.634058",
+  "package_url": "https://pypi.org/project/firestoned/"
+}

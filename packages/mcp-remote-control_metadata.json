@@ -1,0 +1,11 @@
+{
+  "name": "mcp-remote-control",
+  "version": "0.1.0",
+  "summary": "AI-powered local network control for TVs and devices. Currently supports Roku TVs via ECP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_remote_control-0.1.0.tar.gz",
+  "download_time": "2025-12-14T18:50:13.540997",
+  "package_url": "https://pypi.org/project/mcp-remote-control/"
+}

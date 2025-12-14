@@ -1,0 +1,11 @@
+{
+  "name": "django-graflow",
+  "version": "0.2.0",
+  "summary": "Django app for building long-running, interactive, and stateful AI workflows using LangGraph",
+  "author": "Ali Abbasi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_graflow-0.2.0.tar.gz",
+  "download_time": "2025-12-14T18:50:21.784582",
+  "package_url": "https://pypi.org/project/django-graflow/"
+}

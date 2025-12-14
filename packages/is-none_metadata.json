@@ -1,0 +1,11 @@
+{
+  "name": "is-none",
+  "version": "1.0.0",
+  "summary": "A tiny utility to test whether a value is exactly None.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "is_none-1.0.0.tar.gz",
+  "download_time": "2025-12-14T05:17:06.985555",
+  "package_url": "https://pypi.org/project/is-none/"
+}

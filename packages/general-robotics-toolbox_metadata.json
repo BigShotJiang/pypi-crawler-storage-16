@@ -1,0 +1,11 @@
+{
+  "name": "general-robotics-toolbox",
+  "version": "0.7.3",
+  "summary": "General robotics toolbox developed by RPI",
+  "author": "John Wason",
+  "license": null,
+  "home_page": "https://github.com/rpiRobotics/rpi_general_robotics_toolbox_py",
+  "download_filename": "general_robotics_toolbox-0.7.3.tar.gz",
+  "download_time": "2025-12-14T05:17:13.702411",
+  "package_url": "https://pypi.org/project/general-robotics-toolbox/"
+}

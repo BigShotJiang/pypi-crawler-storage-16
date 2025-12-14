@@ -1,0 +1,11 @@
+{
+  "name": "scitex",
+  "version": "2.7.3",
+  "summary": "A comprehensive Python library for scientific computing and data analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scitex-2.7.3-py3-none-any.whl",
+  "download_time": "2025-12-14T05:17:13.122704",
+  "package_url": "https://pypi.org/project/scitex/"
+}

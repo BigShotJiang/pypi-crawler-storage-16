@@ -1,11 +1,11 @@
 {
   "name": "localecmd",
-  "version": "0.11.2",
+  "version": "0.11.3",
   "summary": "Python package for commandline interpreter that is translatable",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "localecmd-0.11.2.tar.gz",
-  "download_time": "2025-12-14T04:48:59.363201",
+  "download_filename": "localecmd-0.11.3.tar.gz",
+  "download_time": "2025-12-14T05:17:04.530014",
   "package_url": "https://pypi.org/project/localecmd/"
 }

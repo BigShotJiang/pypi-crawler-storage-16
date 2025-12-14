@@ -1,0 +1,11 @@
+{
+  "name": "claude-goblin",
+  "version": "0.1.10",
+  "summary": "Python CLI for Claude Code utilities and usage tracking/analytics",
+  "author": "Kurt Buhler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_goblin-0.1.10.tar.gz",
+  "download_time": "2025-12-14T05:17:07.603415",
+  "package_url": "https://pypi.org/project/claude-goblin/"
+}

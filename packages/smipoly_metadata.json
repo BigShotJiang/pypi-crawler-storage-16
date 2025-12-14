@@ -1,0 +1,11 @@
+{
+  "name": "smipoly",
+  "version": "1.1.1",
+  "summary": "rule-based virtual polymer library generator",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "smipoly-1.1.1-py3-none-any.whl",
+  "download_time": "2025-12-14T05:17:08.821244",
+  "package_url": "https://pypi.org/project/smipoly/"
+}

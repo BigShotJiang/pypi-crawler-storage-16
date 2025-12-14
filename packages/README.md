@@ -1,17 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T04:49:42.673129
-- **Total Packages**: 83
-- **Total Size**: 15.95 MB
+- **Download Time**: 2025-12-14T05:17:46.475245
+- **Total Packages**: 86
+- **Total Size**: 20.86 MB
 
 ## Packages List
-- server-metrics-apm
+- nexaroa
+- crowdstrike-aidr
+- json-repair-tool
+- shibuya
+- batplot
+- drf-pydantic
+- srcly
+- layeredlearning
+- pyrcb
+- uniface
+- kintera
+- openground
+- em-app
 - localecmd
+- upapasta
+- nmcli
+- svg-ultralight
+- is-none
+- claude-goblin
+- knncolle
+- smipoly
+- pypomes-sob
+- racerapi
+- iamdata
+- mtflib
+- pytest-repeated
+- scitex
+- general-robotics-toolbox
+- human-seconds
+- server-metrics-apm
 - pypomes-db
 - xqute
 - judo-framework
-- mii-cli
 - gitcloakd
 - n8nControl
 - aisbom-cli
@@ -26,7 +53,6 @@
 - createsonline
 - async-kernel
 - gnobjects
-- upapasta
 - KyInter
 - GNServer
 - KeyisBVMHost
@@ -38,7 +64,6 @@
 - cloaca
 - hassette
 - gfetchert
-- human-seconds
 - mcitemlib
 - treeline-money
 - earthscope-sdk
@@ -67,25 +92,3 @@
 - ripperdoc
 - victor86c-parser
 - klondike-spec-cli
-- libasterix
-- hanoi-viz
-- agentrun-inner-test
-- virgo-agent
-- rnaview
-- wardy-utils
-- philh_myftp_biz
-- em-app
-- ngen-apigw
-- gentccode
-- jl-ecms-server
-- jl-ecms-client
-- crispr
-- tigerente
-- BOS-HA
-- ellphi
-- vim-eof-comment
-- pyluga
-- pypcd4
-- http-content-parser
-- keras-rs-nightly
-- lizi-engine

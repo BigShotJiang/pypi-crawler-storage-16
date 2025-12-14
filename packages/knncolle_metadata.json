@@ -1,0 +1,11 @@
+{
+  "name": "knncolle",
+  "version": "0.3.0",
+  "summary": "Nearest Neighbor Detection for Bioconductor",
+  "author": "\"Aaron Lun\"",
+  "license": "MIT",
+  "home_page": "https://github.com/knncolle/knncolle-py",
+  "download_filename": "knncolle-0.3.0.tar.gz",
+  "download_time": "2025-12-14T05:17:08.213898",
+  "package_url": "https://pypi.org/project/knncolle/"
+}

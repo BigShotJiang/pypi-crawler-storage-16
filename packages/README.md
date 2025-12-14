@@ -1,21 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T06:52:39.978690
-- **Total Packages**: 82
-- **Total Size**: 25.88 MB
+- **Download Time**: 2025-12-14T07:16:34.027787
+- **Total Packages**: 84
+- **Total Size**: 19.62 MB
 
 ## Packages List
+- lazy-bear
+- primellm
+- PyGPUkit
+- qqcode
+- actron-neo-api
+- korean-law-mcp
+- waveassist
+- masgent
+- quasix
+- pixelarraylib
+- pywal
+- django-user-trace
+- getconsult
+- nedo-vision-worker-core
+- task-context-mcp
 - createsonline
+- pubmed-search-mcp
+- bcra-connector
+- x-dm-python
+- streamlit-nightly
+- pynstal
+- numpyro-inferutils
+- zapgpt
+- abstract-hugpy
+- agentrun-inner-test
+- maa-mcp
+- goedels-poetry
+- atomic-save
+- Encryptors
+- koatl
 - mofox-plugin-dev-toolkit
 - waft
 - tangos
 - server-metrics-apm
 - raggify
-- numpyro-inferutils
 - quantacore-sdk
 - trivialai
-- toolguard
 - nc1709
 - lam-middleware
 - bpmn_print
@@ -49,14 +76,12 @@
 - csle-attacker
 - csle-common
 - csle-collector
-- goedels-poetry
 - csle-ryu
 - csle-base
 - timesat-cli
 - llmling-models
 - s3dlio
 - sumt
-- Encryptors
 - nexaroa
 - Uranus-IDE
 - ai-rulez
@@ -65,26 +90,3 @@
 - frxx
 - xython
 - layeredlearning
-- gateagent-gateway
-- abstract-logins
-- em-app
-- timesat
-- phylotreelib
-- abstract-database
-- jpprint
-- lm-mcp
-- geobox
-- feather-ai-sdk
-- dars-framework
-- pyg-nightly
-- nonebot-plugin-fortnite
-- nstrumenta
-- braintools
-- PCILeechFWGenerator
-- olg-kitao-sunakawa-and-yamada-2024-chapter6
-- django-cfg
-- sphinx-localecmddoc
-- korean-law-mcp
-- antipode
-- erlab
-- py2Dmol

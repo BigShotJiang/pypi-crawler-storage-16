@@ -1,0 +1,11 @@
+{
+  "name": "atomic-save",
+  "version": "0.0.0",
+  "summary": "A tool that guarantees fully intact files by writing them atomically.",
+  "author": "bib_inf",
+  "license": "CC0 v1.0",
+  "home_page": "https://github.co.jp/",
+  "download_filename": "atomic_save-0.0.0.tar.gz",
+  "download_time": "2025-12-14T07:16:03.447634",
+  "package_url": "https://pypi.org/project/atomic-save/"
+}

@@ -1,15 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T09:51:22.954754
-- **Total Packages**: 87
-- **Total Size**: 32.16 MB
+- **Download Time**: 2025-12-14T10:16:13.632532
+- **Total Packages**: 85
+- **Total Size**: 11.89 MB
 
 ## Packages List
+- tbot223-core
+- ghosttest
+- classconfig
+- binary-refinery
+- aeronavx
+- stormqa
+- holoviz-mcp
+- ai-infra-cost-estimator
+- stewai
+- enroll
+- cmfo
+- nell-scb-lib
+- sqlit-tui
+- ivoryos
+- n8nControl
 - ezdxf
 - builder-updater
 - sifr-benchmark
-- ghosttest
 - eaasy
 - layeredlearning
 - mcp-agentskills
@@ -19,7 +33,6 @@
 - kodeagent
 - tsh-ycolors
 - tfp-nightly
-- n8nControl
 - batch-audio-extract
 - auralis-worker
 - dsmemail
@@ -27,7 +40,6 @@
 - dataforseo-client
 - uipath-langchain
 - dsm-services
-- tian-hramony-mcp
 - balance
 - async-pybatis-orm
 - dfm-python
@@ -79,17 +91,3 @@
 - gym-csle-stopping-game
 - csle-system-identification
 - litestar-oauth
-- csle-defender
-- csle-attacker
-- csle-common
-- redis-ext-ramwin
-- csle-collector
-- csle-ryu
-- redis-redirect
-- csle-base
-- frontmatter-mcp
-- lino-amici
-- foamlib
-- zenith-ai
-- ohmly
-- lino-noi

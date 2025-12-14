@@ -1,0 +1,11 @@
+{
+  "name": "classconfig",
+  "version": "1.0.17",
+  "summary": "Package for creating configuration files automatically and loading objects from those configuration files.",
+  "author": "Martin Dočekal",
+  "license": null,
+  "home_page": "https://github.com/mdocekal/classconfig",
+  "download_filename": "classconfig-1.0.17.tar.gz",
+  "download_time": "2025-12-14T10:15:23.108263",
+  "package_url": "https://pypi.org/project/classconfig/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aeronavx",
+  "version": "0.3.1",
+  "summary": "Production-grade airport data and flight geometry library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aeronavx-0.3.1.tar.gz",
+  "download_time": "2025-12-14T10:15:24.650186",
+  "package_url": "https://pypi.org/project/aeronavx/"
+}

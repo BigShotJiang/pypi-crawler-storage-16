@@ -1,0 +1,11 @@
+{
+  "name": "ai-infra-cost-estimator",
+  "version": "1.0.1",
+  "summary": "Estimate real-world AI + cloud infrastructure costs for LLM applications",
+  "author": "MindTheInfraAI",
+  "license": "MIT",
+  "home_page": "https://github.com/MindTheInfraAI/AI_Infra_Cost_Estimator",
+  "download_filename": "ai_infra_cost_estimator-1.0.1.tar.gz",
+  "download_time": "2025-12-14T10:15:26.642618",
+  "package_url": "https://pypi.org/project/ai-infra-cost-estimator/"
+}

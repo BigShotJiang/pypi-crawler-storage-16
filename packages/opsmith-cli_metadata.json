@@ -1,0 +1,11 @@
+{
+  "name": "opsmith-cli",
+  "version": "0.4.1b0",
+  "summary": "Opsmith is an AI devops engineer in your terminal",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opsmith_cli-0.4.1b0-py3-none-any.whl",
+  "download_time": "2025-12-14T12:24:37.291425",
+  "package_url": "https://pypi.org/project/opsmith-cli/"
+}

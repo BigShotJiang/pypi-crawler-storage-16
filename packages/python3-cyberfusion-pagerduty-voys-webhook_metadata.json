@@ -1,0 +1,11 @@
+{
+  "name": "python3-cyberfusion-pagerduty-voys-webhook",
+  "version": "1.2",
+  "summary": "Webhook server to dynamically route Voys calls to on-call PagerDuty users.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python3_cyberfusion_pagerduty_voys_webhook-1.2.tar.gz",
+  "download_time": "2025-12-14T12:25:02.919494",
+  "package_url": "https://pypi.org/project/python3-cyberfusion-pagerduty-voys-webhook/"
+}

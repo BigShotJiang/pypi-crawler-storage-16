@@ -1,0 +1,11 @@
+{
+  "name": "brmspy",
+  "version": "0.3.0",
+  "summary": "Python-first access to R's brms with proper parameter names, ArviZ support, and cmdstanr performance",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "brmspy-0.3.0.tar.gz",
+  "download_time": "2025-12-14T12:24:47.242681",
+  "package_url": "https://pypi.org/project/brmspy/"
+}

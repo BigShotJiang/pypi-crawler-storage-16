@@ -1,0 +1,11 @@
+{
+  "name": "python3-cyberfusion-rabbitmq-consumer-log-server",
+  "version": "1.2",
+  "summary": "Log server for RabbitMQ consumer.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python3_cyberfusion_rabbitmq_consumer_log_server-1.2.tar.gz",
+  "download_time": "2025-12-14T12:24:56.061477",
+  "package_url": "https://pypi.org/project/python3-cyberfusion-rabbitmq-consumer-log-server/"
+}

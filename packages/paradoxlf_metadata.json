@@ -1,11 +1,11 @@
 {
   "name": "paradoxlf",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "A latent memory and active inference engine for AI agents.",
   "author": "Natnael Ermiyas (Ethco Coders & Inotrade)",
   "license": null,
   "home_page": "https://github.com/ethcocoder/paradoxlf",
-  "download_filename": "paradoxlf-0.3.0.tar.gz",
-  "download_time": "2025-12-14T11:50:16.795389",
+  "download_filename": "paradoxlf-0.5.0.tar.gz",
+  "download_time": "2025-12-14T12:24:44.095368",
   "package_url": "https://pypi.org/project/paradoxlf/"
 }

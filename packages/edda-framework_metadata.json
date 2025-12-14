@@ -1,11 +1,11 @@
 {
   "name": "edda-framework",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": "Lightweight Durable Execution Framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "edda_framework-0.10.0.tar.gz",
-  "download_time": "2025-12-13T14:13:44.385583",
+  "download_filename": "edda_framework-0.11.0.tar.gz",
+  "download_time": "2025-12-14T12:24:58.687424",
   "package_url": "https://pypi.org/project/edda-framework/"
 }

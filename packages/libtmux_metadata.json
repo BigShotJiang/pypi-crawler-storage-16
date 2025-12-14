@@ -1,0 +1,11 @@
+{
+  "name": "libtmux",
+  "version": "0.53.0",
+  "summary": "Typed library that provides an ORM wrapper for tmux, a terminal multiplexer.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "libtmux-0.53.0.tar.gz",
+  "download_time": "2025-12-14T12:25:00.285995",
+  "package_url": "https://pypi.org/project/libtmux/"
+}

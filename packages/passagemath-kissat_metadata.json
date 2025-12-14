@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-kissat",
+  "version": "10.6.42",
+  "summary": "passagemath: Interface to the SAT solver kissat",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_kissat-10.6.42-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-12-14T13:52:24.831820",
+  "package_url": "https://pypi.org/project/passagemath-kissat/"
+}

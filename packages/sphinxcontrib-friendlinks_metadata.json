@@ -1,11 +1,11 @@
 {
   "name": "sphinxcontrib-friendlinks",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Sphinx extension for rendering beautiful friend link cards",
   "author": "un4gt",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sphinxcontrib_friendlinks-0.1.1.tar.gz",
-  "download_time": "2025-12-14T12:24:40.445496",
+  "download_filename": "sphinxcontrib_friendlinks-0.1.2.tar.gz",
+  "download_time": "2025-12-14T13:52:15.879522",
   "package_url": "https://pypi.org/project/sphinxcontrib-friendlinks/"
 }

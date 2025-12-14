@@ -1,22 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T13:39:45.377137
-- **Total Packages**: 79
-- **Total Size**: 59.9 MB
+- **Download Time**: 2025-12-14T13:52:48.687349
+- **Total Packages**: 75
+- **Total Size**: 41.29 MB
 
 ## Packages List
-- passagemath-kenzo
-- gade
-- passagemath-groups
-- injeild-repl-ru
+- passagemath-polyhedra
+- py-wlcommands
+- optikka-design-data-layer
+- passagemath-plantri
+- unified-finance-data
+- D47crunch
+- passagemath-palp
+- passagemath-ntl
+- passagemath-nauty
+- passagemath-msolve
+- ScriptCollection
+- passagemath-meataxe
+- passagemath-mcqd
 - gke-log-tools
 - gke-iam-vm-tools
 - gke-deployment-tools
 - gke-cache-builder
+- libfcast
+- upathtools
+- ontolutils
+- legit-api-client
+- passagemath-lrslib
+- sphinxcontrib-friendlinks
+- port-ocean
+- paradoxlf
+- cello-framework
+- passagemath-libecm
+- mlcli-toolkit
+- milkpay.xrocket
+- passagemath-libbraiding
+- fmtr.tools
+- passagemath-lcalc
+- milkpay.cryptomus
+- adaptable-agents
+- torch-crps
+- passagemath-latte-4ti2
+- amniotic
+- passagemath-kissat
+- depup
+- passagemath-kenzo
+- gade
+- passagemath-groups
+- injeild-repl-ru
 - langchain-timbr
 - cooptools
-- upathtools
 - passagemath-glucose
 - quarto-graft
 - gitgo
@@ -33,7 +67,6 @@
 - passagemath-gap-pkg-curlinterface
 - freetser
 - passagemath-gap-pkg-cddinterface
-- unified-finance-data
 - mecab
 - m8-core
 - hanoi-viz
@@ -43,45 +76,8 @@
 - aiohomematic-test-support
 - aiohomematic
 - earnix-elevate
-- cello-framework
-- paradoxlf
 - imandrax-api
 - pynstal
 - django-pbx-admin
 - fastfame
 - spec-kitty-cli
-- stealth-chopper
-- wcdl
-- byteprint
-- astrbotmcp
-- mlcflow
-- scared
-- commondao
-- iinfer
-- rebdhuhn
-- cmdbox
-- nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- quasarr-alt
-- je-auto-control-dev
-- matematik-klib
-- depthtensor
-- bmoviesdk
-- httpx-qs
-- streaming-sql-engine
-- deepchecks-llm-client
-- SAMBA-ilum
-- picteus-extension-sdk
-- riven-cli
-- remotion-lambda
-- torchflint
-- reputils
-- wfdl
-- xnote-web
-- md2pdf-mermaid

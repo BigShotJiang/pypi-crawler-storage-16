@@ -1,11 +1,11 @@
 {
   "name": "pytest-language-server",
-  "version": "0.16.0",
+  "version": "0.16.1",
   "summary": "A blazingly fast Language Server Protocol implementation for pytest",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytest_language_server-0.16.0.tar.gz",
-  "download_time": "2025-12-14T15:14:50.046047",
+  "download_filename": "pytest_language_server-0.16.1.tar.gz",
+  "download_time": "2025-12-14T15:33:19.646633",
   "package_url": "https://pypi.org/project/pytest-language-server/"
 }

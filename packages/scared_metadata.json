@@ -1,11 +1,11 @@
 {
   "name": "scared",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "eshard scared Python library.",
   "author": null,
   "license": "LGPL-3.0",
   "home_page": null,
-  "download_filename": "scared-1.2.4-py3-none-any.whl",
-  "download_time": "2025-12-14T13:39:29.409338",
+  "download_filename": "scared-1.2.5-py3-none-any.whl",
+  "download_time": "2025-12-14T15:33:17.532122",
   "package_url": "https://pypi.org/project/scared/"
 }

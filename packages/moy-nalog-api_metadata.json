@@ -1,0 +1,11 @@
+{
+  "name": "moy-nalog-api",
+  "version": "1.0.0",
+  "summary": "The most complete async Python client for Russian self-employed tax service (Moy Nalog / lknpd.nalog.ru)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moy_nalog_api-1.0.0.tar.gz",
+  "download_time": "2025-12-14T15:33:07.488239",
+  "package_url": "https://pypi.org/project/moy-nalog-api/"
+}

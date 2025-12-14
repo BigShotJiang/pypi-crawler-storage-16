@@ -1,0 +1,11 @@
+{
+  "name": "grz-common",
+  "version": "1.6.1",
+  "summary": "Common library for grz applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grz_common-1.6.1.tar.gz",
+  "download_time": "2025-12-14T15:33:05.917827",
+  "package_url": "https://pypi.org/project/grz-common/"
+}

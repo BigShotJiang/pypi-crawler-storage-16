@@ -1,0 +1,11 @@
+{
+  "name": "python-yate",
+  "version": "0.5.0",
+  "summary": "An (asyncio enabled) python library for yate IVRs and extmodules",
+  "author": "Martin Lang",
+  "license": "MIT",
+  "home_page": "https://github.com/eventphone/python-yate",
+  "download_filename": "python_yate-0.5.0.tar.gz",
+  "download_time": "2025-12-14T15:33:06.437137",
+  "package_url": "https://pypi.org/project/python-yate/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "robyn-config",
+  "version": "0.3.0",
+  "summary": "A powerful CLI tool to bootstrap and manage production-ready Robyn applications with best practices built-in.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "robyn_config-0.3.0.tar.gz",
+  "download_time": "2025-12-14T08:57:27.057870",
+  "package_url": "https://pypi.org/project/robyn-config/"
+}

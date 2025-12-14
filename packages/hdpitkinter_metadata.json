@@ -1,0 +1,11 @@
+{
+  "name": "hdpitkinter",
+  "version": "2.0.0",
+  "summary": "Meta-package: hdpitkinter has been renamed to tkinter-unblur",
+  "author": "unlibra",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hdpitkinter-2.0.0.tar.gz",
+  "download_time": "2025-12-14T08:57:22.382281",
+  "package_url": "https://pypi.org/project/hdpitkinter/"
+}

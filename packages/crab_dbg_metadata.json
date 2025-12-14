@@ -1,0 +1,11 @@
+{
+  "name": "crab_dbg",
+  "version": "0.1.5",
+  "summary": "Python equivalent to Rust's `dbg!()` macro",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crab_dbg-0.1.5.tar.gz",
+  "download_time": "2025-12-14T08:57:24.990689",
+  "package_url": "https://pypi.org/project/crab_dbg/"
+}

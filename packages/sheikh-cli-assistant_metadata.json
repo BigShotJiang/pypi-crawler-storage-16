@@ -1,0 +1,11 @@
+{
+  "name": "sheikh-cli-assistant",
+  "version": "1.0.0",
+  "summary": "Privacy-first AI coding assistant for Termux",
+  "author": "osamabinlikhon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sheikh_cli_assistant-1.0.0.tar.gz",
+  "download_time": "2025-12-14T08:57:29.664553",
+  "package_url": "https://pypi.org/project/sheikh-cli-assistant/"
+}

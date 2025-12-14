@@ -1,0 +1,11 @@
+{
+  "name": "python-can-gc",
+  "version": "0.0.3",
+  "summary": "广成USBCAN的python-can扩展",
+  "author": "notmmao",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_can_gc-0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-14T08:57:25.509617",
+  "package_url": "https://pypi.org/project/python-can-gc/"
+}

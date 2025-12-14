@@ -1,0 +1,11 @@
+{
+  "name": "python3-cyberfusion-security-txt-policy-server",
+  "version": "1.1",
+  "summary": "security-txt-policy-server serves `.well-known/security.txt` files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python3_cyberfusion_security_txt_policy_server-1.1.tar.gz",
+  "download_time": "2025-12-14T11:50:15.737695",
+  "package_url": "https://pypi.org/project/python3-cyberfusion-security-txt-policy-server/"
+}

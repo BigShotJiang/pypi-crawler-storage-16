@@ -1,0 +1,11 @@
+{
+  "name": "python3-cyberfusion-rblchecker",
+  "version": "1.1",
+  "summary": "Use rblchecker to check whether your outgoing mail IP addresses are listed on RBLs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python3_cyberfusion_rblchecker-1.1.tar.gz",
+  "download_time": "2025-12-14T11:50:14.651139",
+  "package_url": "https://pypi.org/project/python3-cyberfusion-rblchecker/"
+}

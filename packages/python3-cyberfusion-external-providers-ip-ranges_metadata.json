@@ -1,0 +1,11 @@
+{
+  "name": "python3-cyberfusion-external-providers-ip-ranges",
+  "version": "2.4",
+  "summary": "Scripts to add IP ranges of external providers to ferm.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python3_cyberfusion_external_providers_ip_ranges-2.4.tar.gz",
+  "download_time": "2025-12-14T11:50:20.031746",
+  "package_url": "https://pypi.org/project/python3-cyberfusion-external-providers-ip-ranges/"
+}

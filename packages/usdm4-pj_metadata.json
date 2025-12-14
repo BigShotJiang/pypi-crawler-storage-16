@@ -1,0 +1,11 @@
+{
+  "name": "usdm4-pj",
+  "version": "0.3.0",
+  "summary": "A package for processing USDM v4 protocol documents and converting them to a simplified patient format",
+  "author": "Johannes Ulander",
+  "license": null,
+  "home_page": null,
+  "download_filename": "usdm4_pj-0.3.0.tar.gz",
+  "download_time": "2025-12-14T17:13:18.338803",
+  "package_url": "https://pypi.org/project/usdm4-pj/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "my-internal-lib",
+  "version": "9.1.0",
+  "summary": "My awesome package",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/my-awesome-package",
+  "download_filename": "my_internal_lib-9.1.0.tar.gz",
+  "download_time": "2025-12-14T17:13:42.665642",
+  "package_url": "https://pypi.org/project/my-internal-lib/"
+}

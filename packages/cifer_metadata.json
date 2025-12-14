@@ -1,0 +1,11 @@
+{
+  "name": "cifer",
+  "version": "1.0.25",
+  "summary": "Federated Learning and Fully Homomorphic Encryption",
+  "author": "Cifer.ai",
+  "license": null,
+  "home_page": "https://github.com/cifer-ai/cifer",
+  "download_filename": "cifer-1.0.25.tar.gz",
+  "download_time": "2025-12-14T17:13:27.686222",
+  "package_url": "https://pypi.org/project/cifer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "etielle",
-  "version": "3.6.0",
+  "version": "3.6.1",
   "summary": "A declarative, type-safe Python DSL for mapping complex nested JSON to relational database schemas",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "etielle-3.6.0.tar.gz",
-  "download_time": "2025-12-14T16:55:33.830602",
+  "download_filename": "etielle-3.6.1.tar.gz",
+  "download_time": "2025-12-14T17:13:31.745584",
   "package_url": "https://pypi.org/project/etielle/"
 }

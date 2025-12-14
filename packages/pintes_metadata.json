@@ -1,0 +1,11 @@
+{
+  "name": "pintes",
+  "version": "0.6b0",
+  "summary": "A Python-based static HTML page generator similar to TKinter.",
+  "author": "Formuna",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pintes-0.6b0.tar.gz",
+  "download_time": "2025-12-14T17:13:23.488227",
+  "package_url": "https://pypi.org/project/pintes/"
+}

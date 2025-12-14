@@ -1,0 +1,11 @@
+{
+  "name": "imdb-extract",
+  "version": "2.5.0",
+  "summary": "Download IMDB series information.",
+  "author": "Berthold Höllmann",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "imdb_extract-2.5.0.tar.gz",
+  "download_time": "2025-12-14T17:13:20.929593",
+  "package_url": "https://pypi.org/project/imdb-extract/"
+}

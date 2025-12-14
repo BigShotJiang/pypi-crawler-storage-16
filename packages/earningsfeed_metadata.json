@@ -1,0 +1,11 @@
+{
+  "name": "earningsfeed",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for the Earnings Feed API - SEC filings, insider transactions, and institutional holdings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "earningsfeed-0.1.0.tar.gz",
+  "download_time": "2025-12-14T17:13:32.323919",
+  "package_url": "https://pypi.org/project/earningsfeed/"
+}

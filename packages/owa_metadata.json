@@ -1,0 +1,11 @@
+{
+  "name": "owa",
+  "version": "0.6.5",
+  "summary": "Everything you need to build state-of-the-art foundation multimodal desktop agent, end-to-end.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "owa-0.6.5-py3-none-any.whl",
+  "download_time": "2025-12-14T14:14:03.813507",
+  "package_url": "https://pypi.org/project/owa/"
+}

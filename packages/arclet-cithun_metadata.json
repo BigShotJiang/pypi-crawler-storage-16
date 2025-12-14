@@ -1,11 +1,11 @@
 {
   "name": "arclet-cithun",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A permission system modeled on the file permission system under Unix.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arclet_cithun-1.1.0.tar.gz",
-  "download_time": "2025-12-13T15:50:18.978886",
+  "download_filename": "arclet_cithun-1.1.1.tar.gz",
+  "download_time": "2025-12-14T14:14:11.619969",
   "package_url": "https://pypi.org/project/arclet-cithun/"
 }

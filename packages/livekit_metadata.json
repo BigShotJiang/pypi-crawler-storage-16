@@ -1,0 +1,11 @@
+{
+  "name": "livekit",
+  "version": "1.0.21",
+  "summary": "Python Real-time SDK for LiveKit",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/livekit/python-sdks",
+  "download_filename": "livekit-1.0.21.tar.gz",
+  "download_time": "2025-12-14T14:14:07.138179",
+  "package_url": "https://pypi.org/project/livekit/"
+}

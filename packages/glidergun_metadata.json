@@ -1,11 +1,11 @@
 {
   "name": "glidergun",
-  "version": "0.9.14",
+  "version": "0.9.15",
   "summary": "Map Algebra with NumPy",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "glidergun-0.9.14.tar.gz",
-  "download_time": "2025-12-14T03:07:44.678855",
+  "download_filename": "glidergun-0.9.15.tar.gz",
+  "download_time": "2025-12-14T14:14:23.572158",
   "package_url": "https://pypi.org/project/glidergun/"
 }

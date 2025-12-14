@@ -1,11 +1,11 @@
 {
   "name": "gade",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Gradient-Aware Development Environment - Allocate AI compute dynamically based on code difficulty",
   "author": "GADE Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gade-0.2.1.tar.gz",
-  "download_time": "2025-12-14T13:38:58.882373",
+  "download_filename": "gade-0.2.2.tar.gz",
+  "download_time": "2025-12-14T14:14:18.046262",
   "package_url": "https://pypi.org/project/gade/"
 }

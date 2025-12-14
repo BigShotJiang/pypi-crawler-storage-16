@@ -1,11 +1,11 @@
 {
   "name": "oasira",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "Python API client for Oasira with Firebase OAuth support, designed for Home Assistant integrations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oasira-0.2.9-py3-none-any.whl",
-  "download_time": "2025-12-09T17:35:49.070296",
+  "download_filename": "oasira-0.2.10-py3-none-any.whl",
+  "download_time": "2025-12-14T14:14:16.444492",
   "package_url": "https://pypi.org/project/oasira/"
 }

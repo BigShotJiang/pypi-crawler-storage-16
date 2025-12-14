@@ -1,0 +1,11 @@
+{
+  "name": "mcap-owa-support",
+  "version": "0.6.5",
+  "summary": "OWA support for the Python MCAP library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcap_owa_support-0.6.5.tar.gz",
+  "download_time": "2025-12-14T14:14:03.248726",
+  "package_url": "https://pypi.org/project/mcap-owa-support/"
+}

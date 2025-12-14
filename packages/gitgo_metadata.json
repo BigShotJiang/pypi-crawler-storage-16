@@ -1,11 +1,11 @@
 {
   "name": "gitgo",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A safe Git commit, versioning, and push helper with AI-assisted messages",
   "author": "appfeat",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gitgo-1.0.0.tar.gz",
-  "download_time": "2025-12-14T13:39:05.236103",
+  "download_filename": "gitgo-1.0.2.tar.gz",
+  "download_time": "2025-12-14T14:14:06.590004",
   "package_url": "https://pypi.org/project/gitgo/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ensure-import",
+  "version": "0.5.1",
+  "summary": "Auto install third part packages by pip into virtual environment when import error.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ensure_import-0.5.1.tar.gz",
+  "download_time": "2025-12-14T14:14:05.464402",
+  "package_url": "https://pypi.org/project/ensure-import/"
+}

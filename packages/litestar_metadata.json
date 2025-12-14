@@ -1,0 +1,11 @@
+{
+  "name": "litestar",
+  "version": "2.19.0",
+  "summary": "Litestar - A production-ready, highly performant, extensible ASGI API Framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "litestar-2.19.0.tar.gz",
+  "download_time": "2025-12-14T14:14:26.893379",
+  "package_url": "https://pypi.org/project/litestar/"
+}

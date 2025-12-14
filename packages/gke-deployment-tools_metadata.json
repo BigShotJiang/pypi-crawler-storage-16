@@ -1,11 +1,11 @@
 {
   "name": "gke-deployment-tools",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "[Protected] GKE Deployment Management Tools with K8s Client Pooling",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gke_deployment_tools-1.0.3.tar.gz",
-  "download_time": "2025-12-14T13:52:11.177605",
+  "download_filename": "gke_deployment_tools-1.0.5-py3-none-any.whl",
+  "download_time": "2025-12-14T14:13:54.673905",
   "package_url": "https://pypi.org/project/gke-deployment-tools/"
 }

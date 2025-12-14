@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-exdi",
+  "version": "0.1.6",
+  "summary": "依赖注入扩展,允许对非handle函数进行依赖注入",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_exdi-0.1.6-py3-none-any.whl",
+  "download_time": "2025-12-14T14:14:14.257898",
+  "package_url": "https://pypi.org/project/nonebot-plugin-exdi/"
+}

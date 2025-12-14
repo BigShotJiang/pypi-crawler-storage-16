@@ -1,11 +1,11 @@
 {
   "name": "passagemath-standard-no-symbolics",
-  "version": "10.6.41",
+  "version": "10.6.42",
   "summary": "passagemath: Sage library without the symbolics subsystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_standard_no_symbolics-10.6.41-cp310-cp310-musllinux_1_2_x86_64.whl",
-  "download_time": "2025-12-11T18:56:45.424758",
+  "download_filename": "passagemath_standard_no_symbolics-10.6.42-cp310-cp310-macosx_13_0_x86_64.whl",
+  "download_time": "2025-12-14T14:14:27.463097",
   "package_url": "https://pypi.org/project/passagemath-standard-no-symbolics/"
 }

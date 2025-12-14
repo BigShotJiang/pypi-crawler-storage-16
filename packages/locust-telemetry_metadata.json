@@ -1,11 +1,11 @@
 {
   "name": "locust-telemetry",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "A Locust plugin to log load test metrics to observability tools (DB-free).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "locust_telemetry-2.0.1.tar.gz",
-  "download_time": "2025-12-14T08:47:15.081031",
+  "download_filename": "locust_telemetry-2.0.2.tar.gz",
+  "download_time": "2025-12-14T09:15:18.508371",
   "package_url": "https://pypi.org/project/locust-telemetry/"
 }

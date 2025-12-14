@@ -1,11 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T08:58:01.627209
-- **Total Packages**: 76
-- **Total Size**: 5.72 MB
+- **Download Time**: 2025-12-14T09:16:01.611424
+- **Total Packages**: 82
+- **Total Size**: 9.72 MB
 
 ## Packages List
+- victron-mqtt
+- zeroday-sentinel
+- cloudpail
+- eqodec
+- ntn
+- batplot
+- n8nControl
+- locust-telemetry
+- lidb
+- litestar-api-auth
+- autogluon
+- botads-sdk
+- autogluon.timeseries
+- autogluon.multimodal
+- autogluon.tabular
+- autogluon.features
+- autogluon.core
+- autogluon.common
+- csle-attack-profiler
+- gym-csle-cyborg
+- gym-csle-apt-game
+- csle-tolerance
+- csle-cluster
+- csle-cli
+- csle-rest-api
+- csle-agents
+- gym-csle-intrusion-response-game
+- gym-csle-stopping-game
+- csle-system-identification
+- litestar-oauth
+- csle-defender
+- csle-attacker
+- csle-common
+- redis-ext-ramwin
+- csle-collector
+- csle-ryu
+- redis-redirect
+- csle-base
+- frontmatter-mcp
+- lino-amici
+- foamlib
+- zenith-ai
+- ohmly
+- lino-noi
+- lino-xl
+- token2audio
+- lipilekhika
+- xcpcio
+- bigmag
 - zpui-lib
 - quorum-cli
 - compose-farm
@@ -13,7 +62,6 @@
 - exaai-agent
 - oss-lifecycle
 - adancfgd
-- lidb
 - crab_dbg
 - python-can-gc
 - malware-sentinel
@@ -21,7 +69,6 @@
 - test-failure-llm
 - amigo_sdk
 - auralis-worker
-- series-intro-recognizer
 - sheikh-cli-assistant
 - agentjson
 - openjiuwen
@@ -29,56 +76,15 @@
 - pypi-package-stats
 - easy-knowledge-retriever
 - justhtml
-- locust-telemetry
 - wnm
 - Uranus-IDE
 - zabob-memgraph
 - neos3files
 - nc1709
 - ojtool
-- xcpcio
 - depup
 - btoon
-- lipilekhika
 - guardianhub
 - pygrammy
 - vibelab
 - pyillion
-- bfb-delivery
-- depcycle
-- qbdquery
-- socketapi
-- pypi-fairylandlogger
-- patent-downloader
-- tpu-inference
-- rapidnbt
-- tradedangerous
-- pytorch2ltspice
-- shannon-sdk
-- tf-models-nightly
-- ghsa-client
-- pyglove
-- prefect
-- prefect-client
-- orgo
-- interpax-fft
-- harlequin-databricks
-- zenith-ai
-- mobiu-q
-- uniorm
-- redis-ext-ramwin
-- ms-ipv6
-- spikard
-- birdeye
-- task-context-mcp
-- HOS-ME
-- ormsgpack
-- sumt
-- datachain
-- loggio
-- doguda
-- gitfluff
-- phylotreelib
-- legit-api-client
-- koatl
-- Cython

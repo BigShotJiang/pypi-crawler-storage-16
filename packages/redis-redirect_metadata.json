@@ -1,0 +1,11 @@
+{
+  "name": "redis-redirect",
+  "version": "0.1.9",
+  "summary": "(aio)REDIS wrapper to deal with cluster redirect exceptions (`MOVED`).",
+  "author": "Andrey Sorokin",
+  "license": null,
+  "home_page": "https://github.com/andgineer/redis-redirect",
+  "download_filename": "redis_redirect-0.1.9.tar.gz",
+  "download_time": "2025-12-14T09:15:34.917416",
+  "package_url": "https://pypi.org/project/redis-redirect/"
+}

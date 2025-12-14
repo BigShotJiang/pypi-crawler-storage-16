@@ -1,11 +1,11 @@
 {
   "name": "redis-ext-ramwin",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Redis list consumer with thread-pool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "redis_ext_ramwin-0.4.0.tar.gz",
-  "download_time": "2025-12-14T08:18:36.471576",
+  "download_filename": "redis_ext_ramwin-0.5.0.tar.gz",
+  "download_time": "2025-12-14T09:15:33.129723",
   "package_url": "https://pypi.org/project/redis-ext-ramwin/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "litestar-api-auth",
+  "version": "0.1.0",
+  "summary": "API Key Authentication for Litestar applications",
+  "author": "Jacob Coffee",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "litestar_api_auth-0.1.0.tar.gz",
+  "download_time": "2025-12-14T09:15:19.596632",
+  "package_url": "https://pypi.org/project/litestar-api-auth/"
+}

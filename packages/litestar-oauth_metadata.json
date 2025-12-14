@@ -1,0 +1,11 @@
+{
+  "name": "litestar-oauth",
+  "version": "0.1.0",
+  "summary": "OAuth2 authentication plugin for Litestar",
+  "author": "Jacob Coffee",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "litestar_oauth-0.1.0.tar.gz",
+  "download_time": "2025-12-14T09:15:30.946787",
+  "package_url": "https://pypi.org/project/litestar-oauth/"
+}

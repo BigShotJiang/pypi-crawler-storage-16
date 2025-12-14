@@ -1,0 +1,11 @@
+{
+  "name": "cloudpail",
+  "version": "1.0.8",
+  "summary": "The Developer-First CLI for AWS S3 Management.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloudpail-1.0.8.tar.gz",
+  "download_time": "2025-12-14T09:15:15.836202",
+  "package_url": "https://pypi.org/project/cloudpail/"
+}

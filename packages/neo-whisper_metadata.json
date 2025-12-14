@@ -1,11 +1,11 @@
 {
   "name": "neo-whisper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Improve Whisper with RoPE and latest tokenizers of OpenAI",
   "author": "KHUN Kimang",
   "license": null,
   "home_page": "https://github.com/kimang18/KrorngAI",
-  "download_filename": "neo_whisper-0.0.1.tar.gz",
-  "download_time": "2025-12-14T14:14:20.208214",
+  "download_filename": "neo_whisper-0.0.2.tar.gz",
+  "download_time": "2025-12-14T14:34:40.673524",
   "package_url": "https://pypi.org/project/neo-whisper/"
 }

@@ -1,71 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T14:14:37.078667
-- **Total Packages**: 84
-- **Total Size**: 39.0 MB
+- **Download Time**: 2025-12-14T14:35:27.518199
+- **Total Packages**: 78
+- **Total Size**: 1.6 MB
 
 ## Packages List
-- mlx-audio-plus
-- utils_devops
-- webquest
-- loom-agent
-- spotoptim
-- pytest-checkers
-- r-cli-ai
-- dank-mids
-- ministatus
-- gke-log-tools
-- gke-iam-vm-tools
-- gke-deployment-tools
-- fastapi-cdn-host
-- gke-cache-builder
-- stigg-api-client-v2
-- morningpy
-- quarto-graft
-- owa-msgs
-- owa-env-gst
-- owa-env-desktop
-- pygame-intro
-- spec-kitty-cli
-- owa-core
-- stigg-api-client
-- owa-cli
-- MEROAI
-- mcap-owa-support
-- owa
-- mustafatik
-- geomio
-- ensure-import
-- puzzle-arcade-server
-- gitgo
-- livekit
-- fabricconnector
-- jinjafx-server
-- Cirilla
-- waffledb
-- legit-api-client
-- eventsourcing-umadb
-- model-track-cr
-- arclet-cithun
-- natscale
-- klimalogger
-- fastwoe
-- llm-tools-browser-history
-- nonebot-plugin-exdi
-- tree-sitter-ghactions
-- pykimix
-- django-booking-ui
-- oasira
-- gemini-cli-agent
 - ebdamame
 - gade
 - zid
 - senselab
+- quarto-graft
 - PyGPUkit
 - neo-whisper
 - dockyter
 - tensordict-nightly
+- gitgo
 - jinjafx
 - passagemath-tdlib
 - glidergun
@@ -77,6 +27,7 @@
 - litestar
 - passagemath-standard-no-symbolics
 - passagemath-sirocco
+- r-cli-ai
 - passagemath-rubiks
 - passagemath-qepcad
 - passagemath-polyhedra
@@ -90,3 +41,46 @@
 - passagemath-nauty
 - passagemath-msolve
 - ScriptCollection
+- passagemath-meataxe
+- passagemath-mcqd
+- gke-log-tools
+- gke-iam-vm-tools
+- gke-deployment-tools
+- gke-cache-builder
+- libfcast
+- upathtools
+- ontolutils
+- legit-api-client
+- passagemath-lrslib
+- sphinxcontrib-friendlinks
+- port-ocean
+- paradoxlf
+- cello-framework
+- passagemath-libecm
+- mlcli-toolkit
+- milkpay.xrocket
+- passagemath-libbraiding
+- fmtr.tools
+- passagemath-lcalc
+- milkpay.cryptomus
+- adaptable-agents
+- torch-crps
+- passagemath-latte-4ti2
+- passagemath-kissat
+- depup
+- passagemath-kenzo
+- passagemath-groups
+- injeild-repl-ru
+- langchain-timbr
+- cooptools
+- passagemath-glucose
+- passagemath-gfan
+- discrete-continuous-embed-readout
+- mrodent-dev-lib
+- fbgemm-gpu-nightly-cpu
+- passagemath-gap-pkg-normalizinterface
+- werpy
+- gdbplotter
+- passagemath-gap-pkg-float
+- vibex-sh
+- ccsesh

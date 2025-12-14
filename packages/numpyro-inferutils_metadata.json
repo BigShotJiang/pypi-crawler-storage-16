@@ -1,0 +1,11 @@
+{
+  "name": "numpyro-inferutils",
+  "version": "0.1.0",
+  "summary": "Utility functions for extracting log-probabilities, parameter transforms, and Fisher information from NumPyro models.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "numpyro_inferutils-0.1.0.tar.gz",
+  "download_time": "2025-12-14T06:51:58.518728",
+  "package_url": "https://pypi.org/project/numpyro-inferutils/"
+}

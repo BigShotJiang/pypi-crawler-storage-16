@@ -1,0 +1,11 @@
+{
+  "name": "frxx",
+  "version": "0.0.1.1",
+  "summary": "Utils to process and visualize I/Q data from a weather radar.",
+  "author": "Ameya Naik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "frxx-0.0.1.1.tar.gz",
+  "download_time": "2025-12-14T06:52:26.381702",
+  "package_url": "https://pypi.org/project/frxx/"
+}

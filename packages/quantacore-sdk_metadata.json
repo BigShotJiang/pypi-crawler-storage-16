@@ -1,0 +1,11 @@
+{
+  "name": "quantacore-sdk",
+  "version": "1.0.1",
+  "summary": "Python bindings for the QUAC 100 Post-Quantum Cryptographic Accelerator",
+  "author": "Dyber, Inc.",
+  "license": null,
+  "home_page": "https://github.com/dyber-pqc/quantacore-sdk",
+  "download_filename": "quantacore_sdk-1.0.1.tar.gz",
+  "download_time": "2025-12-14T06:51:59.036956",
+  "package_url": "https://pypi.org/project/quantacore-sdk/"
+}

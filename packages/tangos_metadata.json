@@ -1,0 +1,11 @@
+{
+  "name": "tangos",
+  "version": "1.11.0",
+  "summary": "TANGOS, the agile numerical galaxy organisation system",
+  "author": "Andrew Pontzen",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "tangos-1.11.0.tar.gz",
+  "download_time": "2025-12-14T06:51:56.962975",
+  "package_url": "https://pypi.org/project/tangos/"
+}

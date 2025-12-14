@@ -1,11 +1,11 @@
 {
   "name": "bpmn_print",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Print BPMN workflow for developer readings",
   "author": "Siak Hooi",
   "license": "MIT",
   "home_page": "https://github.com/siakhooi/bpmn-print",
-  "download_filename": "bpmn_print-0.3.0.tar.gz",
-  "download_time": "2025-12-14T05:51:49.385985",
+  "download_filename": "bpmn_print-0.4.0.tar.gz",
+  "download_time": "2025-12-14T06:52:02.179879",
   "package_url": "https://pypi.org/project/bpmn_print/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sekai-deck-recommend-cpp",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sekai_deck_recommend_cpp-0.2.9-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2025-12-13T18:47:53.696919",
+  "download_filename": "sekai_deck_recommend_cpp-0.2.10-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-12-14T06:52:02.712134",
   "package_url": "https://pypi.org/project/sekai-deck-recommend-cpp/"
 }

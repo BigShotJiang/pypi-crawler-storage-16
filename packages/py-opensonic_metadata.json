@@ -1,0 +1,11 @@
+{
+  "name": "py-opensonic",
+  "version": "7.0.3",
+  "summary": "A python wrapper library for the Open Subsonic REST API.  https://opensubsonic.netlify.app/",
+  "author": "Eric B. Munson",
+  "license": null,
+  "home_page": "https://github.com/khers/py-opensonic",
+  "download_filename": "py_opensonic-7.0.3.tar.gz",
+  "download_time": "2025-12-14T16:17:54.744305",
+  "package_url": "https://pypi.org/project/py-opensonic/"
+}

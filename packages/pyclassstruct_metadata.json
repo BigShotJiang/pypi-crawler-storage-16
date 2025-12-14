@@ -1,0 +1,11 @@
+{
+  "name": "pyclassstruct",
+  "version": "1.0.0",
+  "summary": "Convert simple Python scripts to class-based structured code",
+  "author": "Mirjan Ali Sha",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyclassstruct-1.0.0.tar.gz",
+  "download_time": "2025-12-14T16:17:53.661693",
+  "package_url": "https://pypi.org/project/pyclassstruct/"
+}

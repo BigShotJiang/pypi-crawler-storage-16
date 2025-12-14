@@ -1,11 +1,11 @@
 {
   "name": "apppy-env",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "summary": "Python environment configuration helpers for server development",
   "author": "Tim Kral",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apppy_env-0.18.0.tar.gz",
-  "download_time": "2025-12-14T05:37:16.495289",
+  "download_filename": "apppy_env-0.19.0.tar.gz",
+  "download_time": "2025-12-14T16:17:49.778931",
   "package_url": "https://pypi.org/project/apppy-env/"
 }

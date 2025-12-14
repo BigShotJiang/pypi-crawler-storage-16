@@ -1,11 +1,11 @@
 {
   "name": "ftllexbuffer",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "summary": "Python implementation of the FTL (Fluent Translation List) specification",
   "author": "Ervins Strauhmanis",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ftllexbuffer-0.12.0.tar.gz",
-  "download_time": "2025-12-13T02:45:07.933398",
+  "download_filename": "ftllexbuffer-0.13.0.tar.gz",
+  "download_time": "2025-12-14T16:17:48.595725",
   "package_url": "https://pypi.org/project/ftllexbuffer/"
 }

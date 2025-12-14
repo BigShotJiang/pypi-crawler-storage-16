@@ -1,0 +1,11 @@
+{
+  "name": "simphile",
+  "version": "1.0.4",
+  "summary": "NLP text similarity calculation",
+  "author": "Brian Risk",
+  "license": "MIT",
+  "home_page": "https://github.com/brianrisk/simphile",
+  "download_filename": "simphile-1.0.4.tar.gz",
+  "download_time": "2025-12-14T16:17:32.950914",
+  "package_url": "https://pypi.org/project/simphile/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "exarp",
+  "version": "0.2.1",
+  "summary": "MCP server for project management automation - health scores, task alignment, security scanning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "exarp-0.2.1.tar.gz",
+  "download_time": "2025-12-14T16:18:00.853459",
+  "package_url": "https://pypi.org/project/exarp/"
+}

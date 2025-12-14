@@ -1,11 +1,11 @@
 {
   "name": "fuso",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Add your description here",
   "author": "Jens Peder Meldgaard",
   "license": null,
   "home_page": null,
-  "download_filename": "fuso-0.1.4.tar.gz",
-  "download_time": "2025-12-14T15:33:12.183163",
+  "download_filename": "fuso-0.1.5.tar.gz",
+  "download_time": "2025-12-14T16:18:00.279050",
   "package_url": "https://pypi.org/project/fuso/"
 }

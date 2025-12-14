@@ -1,0 +1,11 @@
+{
+  "name": "numrs",
+  "version": "0.1.23",
+  "summary": "Python bindings for NumRs",
+  "author": null,
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "numrs-0.1.23-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-14T16:17:55.771744",
+  "package_url": "https://pypi.org/project/numrs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "merlya",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "Merlya - AI-powered infrastructure assistant",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "merlya-0.7.0.tar.gz",
-  "download_time": "2025-12-12T11:34:04.806981",
+  "download_filename": "merlya-0.7.2.tar.gz",
+  "download_time": "2025-12-14T16:17:42.211299",
   "package_url": "https://pypi.org/project/merlya/"
 }

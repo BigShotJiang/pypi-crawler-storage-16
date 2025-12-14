@@ -1,0 +1,11 @@
+{
+  "name": "pygitzen",
+  "version": "0.2.4",
+  "summary": "A Python-native LazyGit-like TUI using Textual and dulwich",
+  "author": "Sunny Tamang",
+  "license": "MIT",
+  "home_page": "https://github.com/SunnyTamang/pygitzen",
+  "download_filename": "pygitzen-0.2.4.tar.gz",
+  "download_time": "2025-12-14T16:17:59.769084",
+  "package_url": "https://pypi.org/project/pygitzen/"
+}

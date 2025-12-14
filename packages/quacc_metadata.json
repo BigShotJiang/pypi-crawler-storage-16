@@ -1,0 +1,11 @@
+{
+  "name": "quacc",
+  "version": "1.0.8",
+  "summary": "A platform to enable high-throughput, database-driven quantum chemistry and computational materials science",
+  "author": null,
+  "license": "BSD-3",
+  "home_page": null,
+  "download_filename": "quacc-1.0.8.tar.gz",
+  "download_time": "2025-12-14T16:17:54.172666",
+  "package_url": "https://pypi.org/project/quacc/"
+}

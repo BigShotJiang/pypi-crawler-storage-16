@@ -1,11 +1,11 @@
 {
   "name": "llb_doc",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Large Language Blocks - A context packaging format for LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llb_doc-0.2.2.tar.gz",
-  "download_time": "2025-12-14T12:24:42.017316",
+  "download_filename": "llb_doc-0.2.3.tar.gz",
+  "download_time": "2025-12-14T13:05:48.215507",
   "package_url": "https://pypi.org/project/llb_doc/"
 }

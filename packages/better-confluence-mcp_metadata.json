@@ -1,11 +1,11 @@
 {
   "name": "better-confluence-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for Confluence with local filesystem caching. Sync spaces locally, edit HTML files, and push changes back. Features: tree-based storage, incremental sync, version conflict detection, auto full-sync every 3 days.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "better_confluence_mcp-0.1.0.tar.gz",
-  "download_time": "2025-12-14T16:17:25.961380",
+  "download_filename": "better_confluence_mcp-0.1.1.tar.gz",
+  "download_time": "2025-12-14T16:42:08.868573",
   "package_url": "https://pypi.org/project/better-confluence-mcp/"
 }

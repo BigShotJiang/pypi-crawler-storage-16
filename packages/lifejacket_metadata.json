@@ -1,11 +1,11 @@
 {
   "name": "lifejacket",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A package for after-study analysis of adaptive experiments in which data is pooled across users.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lifejacket-0.2.0.tar.gz",
-  "download_time": "2025-12-13T06:58:49.361850",
+  "download_filename": "lifejacket-0.2.1.tar.gz",
+  "download_time": "2025-12-14T16:42:13.457273",
   "package_url": "https://pypi.org/project/lifejacket/"
 }

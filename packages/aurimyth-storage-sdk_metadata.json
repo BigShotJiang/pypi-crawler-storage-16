@@ -1,0 +1,11 @@
+{
+  "name": "aurimyth-storage-sdk",
+  "version": "0.0.1",
+  "summary": "Multi-cloud storage SDK with STS support (AWS, Aliyun OSS, Tencent COS)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aurimyth_storage_sdk-0.0.1.tar.gz",
+  "download_time": "2025-12-14T16:42:18.050434",
+  "package_url": "https://pypi.org/project/aurimyth-storage-sdk/"
+}

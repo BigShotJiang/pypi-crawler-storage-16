@@ -1,0 +1,11 @@
+{
+  "name": "pysty",
+  "version": "0.1.0",
+  "summary": "UI components as typed Python Objects",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pysty-0.1.0.tar.gz",
+  "download_time": "2025-12-14T16:42:16.892295",
+  "package_url": "https://pypi.org/project/pysty/"
+}

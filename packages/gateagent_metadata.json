@@ -1,0 +1,11 @@
+{
+  "name": "gateagent",
+  "version": "0.1.6",
+  "summary": "Get insights on your agent and app interations.",
+  "author": "Gateagent",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gateagent-0.1.6.tar.gz",
+  "download_time": "2025-12-14T16:42:09.445976",
+  "package_url": "https://pypi.org/project/gateagent/"
+}

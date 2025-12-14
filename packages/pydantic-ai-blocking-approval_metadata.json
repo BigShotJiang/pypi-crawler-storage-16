@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-ai-blocking-approval",
+  "version": "0.8.0",
+  "summary": "Synchronous, blocking approval system for PydanticAI agent tools",
+  "author": "Zbigniew Łukasiak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_ai_blocking_approval-0.8.0.tar.gz",
+  "download_time": "2025-12-14T11:29:23.154187",
+  "package_url": "https://pypi.org/project/pydantic-ai-blocking-approval/"
+}

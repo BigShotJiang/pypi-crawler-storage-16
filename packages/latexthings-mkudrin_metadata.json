@@ -1,0 +1,11 @@
+{
+  "name": "latexthings-mkudrin",
+  "version": "0.1.0",
+  "summary": "A Python package for generating LaTeX code for tables, images, and document wrapping",
+  "author": "Maxim Kudrin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "latexthings_mkudrin-0.1.0.tar.gz",
+  "download_time": "2025-12-14T11:29:30.264972",
+  "package_url": "https://pypi.org/project/latexthings-mkudrin/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "easycoder",
-  "version": "251214.1",
+  "version": "251214.2",
   "summary": "Rapid scripting in English",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easycoder-251214.1.tar.gz",
-  "download_time": "2025-12-14T11:13:19.307644",
+  "download_filename": "easycoder-251214.2.tar.gz",
+  "download_time": "2025-12-14T11:29:30.842466",
   "package_url": "https://pypi.org/project/easycoder/"
 }

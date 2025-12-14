@@ -1,0 +1,11 @@
+{
+  "name": "NetOrchestr",
+  "version": "0.1.1",
+  "summary": "A network emulator for network orchestration and automation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netorchestr-0.1.1.tar.gz",
+  "download_time": "2025-12-14T11:29:23.718976",
+  "package_url": "https://pypi.org/project/NetOrchestr/"
+}

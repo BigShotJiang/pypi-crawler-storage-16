@@ -1,0 +1,11 @@
+{
+  "name": "bionty",
+  "version": "1.10.0",
+  "summary": "Basic biological entities, coupled to public ontologies [`source <https://github.com/laminlabs/bionty/blob/main/bionty/models.py>`__].",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bionty-1.10.0.tar.gz",
+  "download_time": "2025-12-14T19:36:29.193724",
+  "package_url": "https://pypi.org/project/bionty/"
+}

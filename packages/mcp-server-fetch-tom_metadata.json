@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-fetch-tom",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol server providing tools to fetch and convert web content for usage by LLMs",
+  "author": "Tom",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_fetch_tom-0.1.0.tar.gz",
+  "download_time": "2025-12-14T19:12:35.242660",
+  "package_url": "https://pypi.org/project/mcp-server-fetch-tom/"
+}

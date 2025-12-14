@@ -1,0 +1,11 @@
+{
+  "name": "kenmerkendewaarden",
+  "version": "0.5.0",
+  "summary": "Derive indicators from waterlevel measurements",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kenmerkendewaarden-0.5.0.tar.gz",
+  "download_time": "2025-12-14T19:12:56.850848",
+  "package_url": "https://pypi.org/project/kenmerkendewaarden/"
+}

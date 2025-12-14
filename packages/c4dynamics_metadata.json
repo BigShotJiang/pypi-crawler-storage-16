@@ -1,0 +1,11 @@
+{
+  "name": "c4dynamics",
+  "version": "2.3.2",
+  "summary": "Python framework for state-space modeling and algorithm development",
+  "author": "c4dynamics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "c4dynamics-2.3.2.tar.gz",
+  "download_time": "2025-12-14T19:13:01.550946",
+  "package_url": "https://pypi.org/project/c4dynamics/"
+}

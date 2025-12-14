@@ -1,11 +1,11 @@
 {
   "name": "xmpy",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "专为中文母语开发者打造的量化交易研发框架。",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xmpy-1.0.3.tar.gz",
-  "download_time": "2025-12-14T17:13:36.774797",
+  "download_filename": "xmpy-1.0.4.tar.gz",
+  "download_time": "2025-12-14T19:12:47.079441",
   "package_url": "https://pypi.org/project/xmpy/"
 }

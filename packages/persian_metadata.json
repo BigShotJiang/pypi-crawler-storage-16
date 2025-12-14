@@ -1,11 +1,11 @@
 {
   "name": "persian",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Fast, typed Python library for Persian language localization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "persian-1.0.2.tar.gz",
-  "download_time": "2025-12-13T00:59:40.973300",
+  "download_filename": "persian-1.0.3.tar.gz",
+  "download_time": "2025-12-14T19:13:00.481093",
   "package_url": "https://pypi.org/project/persian/"
 }

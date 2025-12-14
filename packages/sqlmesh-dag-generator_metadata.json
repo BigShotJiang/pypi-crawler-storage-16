@@ -1,11 +1,11 @@
 {
   "name": "sqlmesh-dag-generator",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Open-source Airflow DAG generator for SQLMesh projects",
   "author": "Jakub Sumionka",
   "license": null,
   "home_page": "https://github.com/kubolko/sqlmesh-dag-generator",
-  "download_filename": "sqlmesh_dag_generator-0.8.0.tar.gz",
-  "download_time": "2025-12-14T18:50:14.806556",
+  "download_filename": "sqlmesh_dag_generator-0.8.1.tar.gz",
+  "download_time": "2025-12-14T19:12:34.217569",
   "package_url": "https://pypi.org/project/sqlmesh-dag-generator/"
 }

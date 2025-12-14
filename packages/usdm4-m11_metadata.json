@@ -1,0 +1,11 @@
+{
+  "name": "usdm4-m11",
+  "version": "0.8.0",
+  "summary": "A package for processing M11 protocol documents and converting them to USDM format",
+  "author": "D Iberson-Hurst",
+  "license": null,
+  "home_page": null,
+  "download_filename": "usdm4_m11-0.8.0.tar.gz",
+  "download_time": "2025-12-14T19:12:32.149107",
+  "package_url": "https://pypi.org/project/usdm4-m11/"
+}

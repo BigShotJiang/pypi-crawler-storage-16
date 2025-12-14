@@ -1,0 +1,11 @@
+{
+  "name": "gym-examples",
+  "version": "3.0.897",
+  "summary": "A custom environment for multi-agent reinforcement learning focused on WSN routing.",
+  "author": "Georges Djimefo",
+  "license": null,
+  "home_page": "https://github.com/gedji/CODES.git",
+  "download_filename": "gym_examples-3.0.897-py3-none-any.whl",
+  "download_time": "2025-12-14T19:12:48.620561",
+  "package_url": "https://pypi.org/project/gym-examples/"
+}

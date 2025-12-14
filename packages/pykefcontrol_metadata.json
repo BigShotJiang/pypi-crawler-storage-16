@@ -1,0 +1,11 @@
+{
+  "name": "pykefcontrol",
+  "version": "0.8",
+  "summary": "Python library for controling KEF speakers (LS50W2, LSX2, LS60). It supports basic commands for setting the volume, the source, and getting the media playing informations.",
+  "author": "Robin Dupont",
+  "license": "MIT",
+  "home_page": "https://github.com/rodupont/pykefcontrol",
+  "download_filename": "pykefcontrol-0.8.tar.gz",
+  "download_time": "2025-12-14T19:12:45.020340",
+  "package_url": "https://pypi.org/project/pykefcontrol/"
+}

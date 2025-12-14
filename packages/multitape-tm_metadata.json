@@ -1,0 +1,11 @@
+{
+  "name": "multitape-tm",
+  "version": "1.0.4",
+  "summary": "Multi-tape Turing Machine simulator in Python",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "multitape_tm-1.0.4.tar.gz",
+  "download_time": "2025-12-14T19:12:31.633423",
+  "package_url": "https://pypi.org/project/multitape-tm/"
+}

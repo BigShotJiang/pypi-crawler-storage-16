@@ -1,11 +1,11 @@
 {
   "name": "tailpyscss",
-  "version": "0.4.7",
+  "version": "0.4.9",
   "summary": "A Python-native utility-first CSS generator and compiler.",
   "author": "Abdi Abdikarim",
   "license": null,
   "home_page": "https://github.com/tailpyscss2/tailpyscss-framework",
-  "download_filename": "tailpyscss-0.4.7.tar.gz",
-  "download_time": "2025-12-13T00:59:30.056222",
+  "download_filename": "tailpyscss-0.4.9.tar.gz",
+  "download_time": "2025-12-14T19:12:43.480240",
   "package_url": "https://pypi.org/project/tailpyscss/"
 }

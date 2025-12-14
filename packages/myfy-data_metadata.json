@@ -1,11 +1,11 @@
 {
   "name": "myfy-data",
-  "version": "0.1.2a67",
+  "version": "0.1.2a69",
   "summary": "Database/ORM module for myfy framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "myfy_data-0.1.2a67.tar.gz",
-  "download_time": "2025-12-13T20:35:26.561090",
+  "download_filename": "myfy_data-0.1.2a69.tar.gz",
+  "download_time": "2025-12-14T20:37:25.052355",
   "package_url": "https://pypi.org/project/myfy-data/"
 }

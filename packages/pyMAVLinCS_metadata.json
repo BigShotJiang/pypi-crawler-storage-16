@@ -1,11 +1,11 @@
 {
   "name": "pyMAVLinCS",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "Python API for autonomous drone control based on pymavlink",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pymavlincs-1.0.1.tar.gz",
-  "download_time": "2025-12-10T14:16:58.925559",
+  "download_filename": "pymavlincs-1.0.3.tar.gz",
+  "download_time": "2025-12-14T20:37:02.404379",
   "package_url": "https://pypi.org/project/pyMAVLinCS/"
 }

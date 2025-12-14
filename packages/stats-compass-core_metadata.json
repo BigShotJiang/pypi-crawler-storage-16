@@ -1,11 +1,11 @@
 {
   "name": "stats-compass-core",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "A clean toolkit of deterministic pandas-based data tools",
   "author": "Olatunji Ogunbiyi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stats_compass_core-0.1.6.tar.gz",
-  "download_time": "2025-12-12T23:32:07.076433",
+  "download_filename": "stats_compass_core-0.1.8.tar.gz",
+  "download_time": "2025-12-14T20:37:06.564189",
   "package_url": "https://pypi.org/project/stats-compass-core/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mju_univ_auth",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "명지대학교 학생 인증 및 정보 조회를 위한 Python 라이브러리",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mju_univ_auth-0.6.1.tar.gz",
-  "download_time": "2025-12-14T20:17:16.380164",
+  "download_filename": "mju_univ_auth-0.6.2.tar.gz",
+  "download_time": "2025-12-14T20:36:49.503333",
   "package_url": "https://pypi.org/project/mju_univ_auth/"
 }

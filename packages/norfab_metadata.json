@@ -1,11 +1,11 @@
 {
   "name": "norfab",
-  "version": "0.12.6",
+  "version": "0.12.7",
   "summary": "Network Automations Fabric [NorFab] - communication networks automations",
   "author": "Denis Mulyalin",
   "license": "Apache-2.0 license",
   "home_page": "https://github.com/norfablabs/NORFAB",
-  "download_filename": "norfab-0.12.6.tar.gz",
-  "download_time": "2025-12-11T09:46:37.990508",
+  "download_filename": "norfab-0.12.7.tar.gz",
+  "download_time": "2025-12-14T20:37:01.892672",
   "package_url": "https://pypi.org/project/norfab/"
 }

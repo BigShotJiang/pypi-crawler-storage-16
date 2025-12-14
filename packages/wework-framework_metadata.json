@@ -1,11 +1,11 @@
 {
   "name": "wework-framework",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "A modular full-stack framework for building modern web applications",
   "author": "WeCanCo Team",
   "license": "MIT",
   "home_page": "https://github.com/wecanco/WeWork",
-  "download_filename": "wework_framework-1.0.6.tar.gz",
-  "download_time": "2025-12-14T20:17:19.956929",
+  "download_filename": "wework_framework-1.0.7.tar.gz",
+  "download_time": "2025-12-14T20:36:55.184177",
   "package_url": "https://pypi.org/project/wework-framework/"
 }

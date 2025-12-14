@@ -1,0 +1,11 @@
+{
+  "name": "git-cai-cli",
+  "version": "0.6.0",
+  "summary": "Use LLM to create git commit messages",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "git_cai_cli-0.6.0.tar.gz",
+  "download_time": "2025-12-14T20:36:59.843059",
+  "package_url": "https://pypi.org/project/git-cai-cli/"
+}

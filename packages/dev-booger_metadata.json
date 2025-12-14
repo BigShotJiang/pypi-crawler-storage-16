@@ -1,11 +1,11 @@
 {
   "name": "dev-booger",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Multi-port log aggregator with MCP integration for Claude Code",
   "author": "alfredosdpiii",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dev_booger-0.2.1.tar.gz",
-  "download_time": "2025-12-14T20:17:31.340391",
+  "download_filename": "dev_booger-0.2.2.tar.gz",
+  "download_time": "2025-12-14T20:37:07.076096",
   "package_url": "https://pypi.org/project/dev-booger/"
 }

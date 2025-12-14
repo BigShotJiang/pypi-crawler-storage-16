@@ -1,0 +1,11 @@
+{
+  "name": "mlrl-testbed",
+  "version": "0.15.0",
+  "summary": "Provides utilities for the training and evaluation of machine learning algorithms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlrl_testbed-0.15.0-py3-none-any.whl",
+  "download_time": "2025-12-14T20:36:52.583946",
+  "package_url": "https://pypi.org/project/mlrl-testbed/"
+}

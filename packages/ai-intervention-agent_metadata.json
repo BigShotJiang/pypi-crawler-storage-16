@@ -1,0 +1,11 @@
+{
+  "name": "ai-intervention-agent",
+  "version": "1.4.1",
+  "summary": "AI Intervention Agent: MCP server enabling real-time user intervention in AI-assisted development workflows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_intervention_agent-1.4.1.tar.gz",
+  "download_time": "2025-12-14T20:36:54.669213",
+  "package_url": "https://pypi.org/project/ai-intervention-agent/"
+}

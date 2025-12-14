@@ -1,0 +1,11 @@
+{
+  "name": "newsworthycharts",
+  "version": "1.78.3",
+  "summary": "Matplotlib wrapper to create charts and publish them on Amazon S3",
+  "author": "Jens Finnäs and Leo Wallentin, J++ Stockholm",
+  "license": "MIT",
+  "home_page": "https://github.com/jplusplus/newsworthycharts",
+  "download_filename": "newsworthycharts-1.78.3.tar.gz",
+  "download_time": "2025-12-14T20:36:48.990926",
+  "package_url": "https://pypi.org/project/newsworthycharts/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "regression-inference",
-  "version": "1.2.2",
+  "version": "1.3.0",
   "summary": "Regression inference for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "regression_inference-1.2.2.tar.gz",
-  "download_time": "2025-12-14T03:08:19.039386",
+  "download_filename": "regression_inference-1.3.0.tar.gz",
+  "download_time": "2025-12-14T20:36:59.329916",
   "package_url": "https://pypi.org/project/regression-inference/"
 }

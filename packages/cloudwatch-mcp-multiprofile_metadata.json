@@ -1,0 +1,11 @@
+{
+  "name": "cloudwatch-mcp-multiprofile",
+  "version": "0.1.0",
+  "summary": "CloudWatch MCP Server with Multi-Profile Support - Fork of awslabs.cloudwatch-mcp-server",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloudwatch_mcp_multiprofile-0.1.0.tar.gz",
+  "download_time": "2025-12-14T20:36:45.826198",
+  "package_url": "https://pypi.org/project/cloudwatch-mcp-multiprofile/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ecs-shell",
+  "version": "1.0.0",
+  "summary": "Interactive shell for AWS ECS tasks with service and task selection.",
+  "author": "Francisco",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/ecs-shell",
+  "download_filename": "ecs_shell-1.0.0.tar.gz",
+  "download_time": "2025-12-14T18:20:05.969855",
+  "package_url": "https://pypi.org/project/ecs-shell/"
+}

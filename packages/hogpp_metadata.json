@@ -1,0 +1,11 @@
+{
+  "name": "hogpp",
+  "version": "0.2.0",
+  "summary": "Fast computation of rectangular histogram of oriented gradients (R-HOG) features using integral histogram",
+  "author": null,
+  "license": "Apache License (2.0)",
+  "home_page": null,
+  "download_filename": "hogpp-0.2.0.tar.gz",
+  "download_time": "2025-12-14T18:20:31.773467",
+  "package_url": "https://pypi.org/project/hogpp/"
+}

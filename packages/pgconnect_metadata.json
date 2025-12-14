@@ -1,11 +1,11 @@
 {
   "name": "pgconnect",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "A PostgreSQL connection and ORM library",
   "author": "AdnanBinPulok",
   "license": null,
   "home_page": "https://github.com/AdnanBinPulok/PgConnect",
-  "download_filename": "pgconnect-0.6.1.tar.gz",
-  "download_time": "2025-12-14T17:52:03.041874",
+  "download_filename": "pgconnect-0.6.2.tar.gz",
+  "download_time": "2025-12-14T18:20:13.909099",
   "package_url": "https://pypi.org/project/pgconnect/"
 }

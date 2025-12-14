@@ -1,0 +1,11 @@
+{
+  "name": "LaserPy-Quantum",
+  "version": "0.0.9",
+  "summary": "Laser physics / simulation utilities",
+  "author": "Anshurup Gupta",
+  "license": null,
+  "home_page": "https://github.com/Mathwizard1/LaserPy_Quantum",
+  "download_filename": "laserpy_quantum-0.0.9.tar.gz",
+  "download_time": "2025-12-14T18:20:09.698102",
+  "package_url": "https://pypi.org/project/LaserPy-Quantum/"
+}

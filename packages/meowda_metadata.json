@@ -1,0 +1,11 @@
+{
+  "name": "meowda",
+  "version": "0.1.6",
+  "summary": "Meowda 🐱 —— 「喵哒」 Manage multiple Python virtual environments with ease",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/ShigureLab/meowda",
+  "download_filename": "meowda-0.1.6.tar.gz",
+  "download_time": "2025-12-14T18:20:25.969230",
+  "package_url": "https://pypi.org/project/meowda/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "loko-k8s",
+  "version": "0.0.8",
+  "summary": "Local Kubernetes Environment Manager - Simplified local K8s development with Kind",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "loko_k8s-0.0.8.tar.gz",
+  "download_time": "2025-12-14T10:52:40.246692",
+  "package_url": "https://pypi.org/project/loko-k8s/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python3-cyberfusion-rabbitmq-consumer",
+  "version": "3.0",
+  "summary": "Lean RPC framework based on RabbitMQ.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python3_cyberfusion_rabbitmq_consumer-3.0.tar.gz",
+  "download_time": "2025-12-14T10:52:35.424091",
+  "package_url": "https://pypi.org/project/python3-cyberfusion-rabbitmq-consumer/"
+}

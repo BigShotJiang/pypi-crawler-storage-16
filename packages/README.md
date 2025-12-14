@@ -1,13 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T10:38:46.736494
+- **Download Time**: 2025-12-14T10:53:21.051037
 - **Total Packages**: 90
-- **Total Size**: 21.19 MB
+- **Total Size**: 13.14 MB
 
 ## Packages List
-- crashsense
+- lavaplay.py
 - satellitic
+- acl-anthology
+- django-core-micha
+- pyreact-start
+- konduktor-nightly
+- python3-cyberfusion-rabbitmq-consumer
+- zippy-data
+- TISControlProtocol
+- xnote-web
+- csig
+- trainy-mlop-nightly
+- trainy-policy-nightly
+- superset-hetuengine-connector
+- loko-k8s
+- spark-bestfit
+- mcp-research-assistant
+- pytest-checkers
+- functoolsex
+- revolution-eda
+- letta-nightly
+- layeredlearning
+- phylogenie
+- python3-cyberfusion-wordpress-support
+- python3-cyberfusion-work-item-automations
+- WrapSlurm
+- polars-sim
+- crashsense
 - adorable-cli
 - sqlit-tui
 - nvidia-nat-ragaai
@@ -21,7 +47,6 @@
 - nvidia-nat-openpipe-art
 - astrbotmcp
 - nvidia-nat-llama-index
-- django-core-micha
 - nvidia-nat-profiling
 - nvidia-nat-opentelemetry
 - nvidia-nat-nemo-customizer
@@ -58,7 +83,6 @@
 - vicoa
 - aiqtoolkit-zep-cloud
 - aiqtoolkit-llama-index
-- spark-bestfit
 - aiqtoolkit
 - atrace
 - aiqtoolkit-test
@@ -71,28 +95,4 @@
 - PySide6-Fluent-Widgets
 - PySide2-Fluent-Widgets
 - PyQt6-Fluent-Widgets
-- iita-python
 - ai-edge-torch-nightly
-- vaultconfig
-- red-tidegear
-- semantics.py3
-- redis-ext-ramwin
-- nextdns-blocker
-- mcp-agentskills
-- brynq-sdk-functions
-- brynq-sdk-brynq
-- konjingjing
-- lintro
-- implica
-- ai-infra-cost-estimator
-- ivoryos
-- doctyper
-- cc-adapter
-- torchax
-- yamkix
-- n8nControl
-- SimplerLLM
-- tbot223-core
-- ghosttest
-- classconfig
-- binary-refinery

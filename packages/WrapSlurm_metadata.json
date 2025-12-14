@@ -1,0 +1,11 @@
+{
+  "name": "WrapSlurm",
+  "version": "0.1.0",
+  "summary": "A utility for managing SLURM jobs and nodes with enhanced display features.",
+  "author": "Voidful",
+  "license": "MIT",
+  "home_page": "https://github.com/voidful/WrapSlurm",
+  "download_filename": "wrapslurm-0.1.0.tar.gz",
+  "download_time": "2025-12-14T10:52:46.446407",
+  "package_url": "https://pypi.org/project/WrapSlurm/"
+}

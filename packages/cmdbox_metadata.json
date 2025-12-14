@@ -1,0 +1,11 @@
+{
+  "name": "cmdbox",
+  "version": "0.7.0.2",
+  "summary": "cmdbox: It is a command line application with a plugin mechanism.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cmdbox-0.7.0.2.tar.gz",
+  "download_time": "2025-12-14T13:39:31.533206",
+  "package_url": "https://pypi.org/project/cmdbox/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "httpx-qs",
+  "version": "0.2.1",
+  "summary": "HTTPX transport leveraging qs-codec for advanced query string encoding and decoding.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "httpx_qs-0.2.1.tar.gz",
+  "download_time": "2025-12-14T13:39:39.052214",
+  "package_url": "https://pypi.org/project/httpx-qs/"
+}

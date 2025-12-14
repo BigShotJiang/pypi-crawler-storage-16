@@ -1,0 +1,11 @@
+{
+  "name": "picteus-extension-sdk",
+  "version": "0.7.0",
+  "summary": "The Picteus extension Python SDK.",
+  "author": "picteus-extension-sdk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "picteus_extension_sdk-0.7.0.tar.gz",
+  "download_time": "2025-12-14T13:39:41.163237",
+  "package_url": "https://pypi.org/project/picteus-extension-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "claude-code-tools",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Collection of tools for working with Claude Code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_code_tools-1.0.7.tar.gz",
-  "download_time": "2025-12-13T02:44:41.920001",
+  "download_filename": "claude_code_tools-1.0.8.tar.gz",
+  "download_time": "2025-12-14T13:39:19.263628",
   "package_url": "https://pypi.org/project/claude-code-tools/"
 }

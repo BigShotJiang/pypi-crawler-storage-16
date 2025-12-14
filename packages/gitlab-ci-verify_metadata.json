@@ -1,11 +1,11 @@
 {
   "name": "gitlab-ci-verify",
-  "version": "2.6.0",
+  "version": "2.7.1",
   "summary": "Validate and lint your gitlab ci files using ShellCheck, the Gitlab API and curated checks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gitlab_ci_verify-2.6.0.tar.gz",
-  "download_time": "2025-12-14T12:24:38.358393",
+  "download_filename": "gitlab_ci_verify-2.7.1.tar.gz",
+  "download_time": "2025-12-14T13:39:17.693176",
   "package_url": "https://pypi.org/project/gitlab-ci-verify/"
 }

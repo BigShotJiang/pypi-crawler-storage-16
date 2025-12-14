@@ -1,0 +1,11 @@
+{
+  "name": "iinfer",
+  "version": "0.12.0.2",
+  "summary": "iinfer: An application that executes AI model files in onnx or mmlab format.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iinfer-0.12.0.2.tar.gz",
+  "download_time": "2025-12-14T13:39:30.473843",
+  "package_url": "https://pypi.org/project/iinfer/"
+}

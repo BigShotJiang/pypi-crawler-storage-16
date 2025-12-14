@@ -1,0 +1,11 @@
+{
+  "name": "unified-finance-data",
+  "version": "1.0.0",
+  "summary": "统一的金融数据获取库，自动选择最优数据源",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unified_finance_data-1.0.0.tar.gz",
+  "download_time": "2025-12-14T13:39:13.976186",
+  "package_url": "https://pypi.org/project/unified-finance-data/"
+}

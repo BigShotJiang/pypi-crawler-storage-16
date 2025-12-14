@@ -1,0 +1,11 @@
+{
+  "name": "mecab",
+  "version": "0.996.13",
+  "summary": "a Python binding for unofficial fork of MeCab",
+  "author": null,
+  "license": "GPL-2.0-only OR LGPL-2.1-only OR BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "mecab-0.996.13-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-12-14T13:39:15.038055",
+  "package_url": "https://pypi.org/project/mecab/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "freetser",
+  "version": "0.1.0",
+  "summary": "A free-threaded HTTP server built on top of h11",
+  "author": "Tip ten Brink",
+  "license": null,
+  "home_page": null,
+  "download_filename": "freetser-0.1.0.tar.gz",
+  "download_time": "2025-12-14T13:39:12.948684",
+  "package_url": "https://pypi.org/project/freetser/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mrodent-dev-lib",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "general library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mrodent_dev_lib-1.1.3.tar.gz",
-  "download_time": "2025-12-13T15:49:43.351628",
+  "download_filename": "mrodent_dev_lib-1.1.4.tar.gz",
+  "download_time": "2025-12-14T13:39:07.860619",
   "package_url": "https://pypi.org/project/mrodent-dev-lib/"
 }

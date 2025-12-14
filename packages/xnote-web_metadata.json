@@ -1,11 +1,11 @@
 {
   "name": "xnote-web",
-  "version": "2025.12.14",
+  "version": "2025.12.14.2",
   "summary": "xnote-web框架",
   "author": "mark",
   "license": null,
   "home_page": null,
-  "download_filename": "xnote_web-2025.12.14.tar.gz",
-  "download_time": "2025-12-14T10:52:37.446789",
+  "download_filename": "xnote_web-2025.12.14.2.tar.gz",
+  "download_time": "2025-12-14T13:39:44.343095",
   "package_url": "https://pypi.org/project/xnote-web/"
 }

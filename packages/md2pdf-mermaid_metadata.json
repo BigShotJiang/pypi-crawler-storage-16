@@ -1,0 +1,11 @@
+{
+  "name": "md2pdf-mermaid",
+  "version": "1.4.3",
+  "summary": "Convert Markdown to PDF with Mermaid diagram rendering and emoji support",
+  "author": "Roberto Butinar",
+  "license": "MIT",
+  "home_page": "https://github.com/rbutinar/md2pdf-mermaid",
+  "download_filename": "md2pdf_mermaid-1.4.3.tar.gz",
+  "download_time": "2025-12-14T13:39:44.876264",
+  "package_url": "https://pypi.org/project/md2pdf-mermaid/"
+}

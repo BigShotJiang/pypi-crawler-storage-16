@@ -1,0 +1,11 @@
+{
+  "name": "cooptools",
+  "version": "1.48",
+  "summary": "Generic Tooling",
+  "author": "tburns",
+  "license": "MIT",
+  "home_page": "https://github.com/tylertjburns/cooptools",
+  "download_filename": "cooptools-1.48.tar.gz",
+  "download_time": "2025-12-14T13:39:03.098007",
+  "package_url": "https://pypi.org/project/cooptools/"
+}

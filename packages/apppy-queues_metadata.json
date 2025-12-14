@@ -1,0 +1,11 @@
+{
+  "name": "apppy-queues",
+  "version": "0.18.0",
+  "summary": "Python definitions for async processing over a queue for server development",
+  "author": "Tim Kral",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apppy_queues-0.18.0.tar.gz",
+  "download_time": "2025-12-14T05:37:13.419580",
+  "package_url": "https://pypi.org/project/apppy-queues/"
+}

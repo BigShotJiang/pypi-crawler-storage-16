@@ -1,0 +1,11 @@
+{
+  "name": "nstrumenta",
+  "version": "4.1.0",
+  "summary": "A client library for Nstrumenta API",
+  "author": "Tyler Bryant",
+  "license": null,
+  "home_page": "https://github.com/nstrumenta/nstrumenta",
+  "download_filename": "nstrumenta-4.1.0.tar.gz",
+  "download_time": "2025-12-14T05:37:15.982249",
+  "package_url": "https://pypi.org/project/nstrumenta/"
+}

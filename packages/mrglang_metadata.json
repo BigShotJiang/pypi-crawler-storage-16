@@ -1,11 +1,11 @@
 {
   "name": "mrglang",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "The Simple, Fast & Beautiful Programming Language for Everyone",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourusername/mrglang",
-  "download_filename": "mrglang-1.0.0.tar.gz",
-  "download_time": "2025-12-13T19:11:34.789039",
+  "download_filename": "mrglang-2.0.0.tar.gz",
+  "download_time": "2025-12-14T05:37:28.984431",
   "package_url": "https://pypi.org/project/mrglang/"
 }

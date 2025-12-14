@@ -1,0 +1,11 @@
+{
+  "name": "altcha",
+  "version": "1.0.0",
+  "summary": "A library for creating and verifying challenges for ALTCHA.",
+  "author": "Daniel Regeci",
+  "license": null,
+  "home_page": "https://github.com/altcha-org/altcha-lib-py",
+  "download_filename": "altcha-1.0.0.tar.gz",
+  "download_time": "2025-12-14T05:37:09.734589",
+  "package_url": "https://pypi.org/project/altcha/"
+}

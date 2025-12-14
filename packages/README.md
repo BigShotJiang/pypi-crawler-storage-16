@@ -1,12 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T05:17:46.475245
-- **Total Packages**: 86
-- **Total Size**: 20.86 MB
+- **Download Time**: 2025-12-14T05:37:51.417580
+- **Total Packages**: 88
+- **Total Size**: 5.09 MB
 
 ## Packages List
 - nexaroa
+- mofox-plugin-toolkit
+- appbuilder-sdk
+- nifti2bids
+- directory-file-mapping
+- pypkg-recdep
+- llm-gemini-code-assist
+- koka
+- cc-adapter
+- jpprint
+- altcha
+- apppy-app
+- apppy-aws
+- apppy-sb
+- apppy-auth
+- apppy-fs
+- apppy-fastql
+- apppy-queues
+- apppy-db
+- apppy-clients
+- apppy-generic
+- apppy-logger
+- nstrumenta
+- apppy-env
+- upapasta
+- depthtensor
+- ast-tool-py
+- createsonline
+- code-scalpel
+- kiarina-utils-file
+- kiarina-utils-common
+- kiarina-llm
+- kiarina-lib-redisearch
+- kiarina-lib-redis
+- kiarina-lib-openai
+- kiarina-lib-google-cloud-storage
+- kiarina-lib-google-auth
+- kiarina-lib-falkordb
+- kiarina-lib-cloudflare-d1
+- kiarina-lib-cloudflare-auth
+- kiarina-lib-anthropic
+- kiarina
+- joserfc
+- flowmason
+- zfx
+- pyrcb
+- mbari-aidata
+- mrglang
 - crowdstrike-aidr
 - json-repair-tool
 - shibuya
@@ -14,13 +61,11 @@
 - drf-pydantic
 - srcly
 - layeredlearning
-- pyrcb
 - uniface
 - kintera
 - openground
 - em-app
 - localecmd
-- upapasta
 - nmcli
 - svg-ultralight
 - is-none
@@ -49,46 +94,3 @@
 - gec-datasets
 - keras-nlp-nightly
 - korean-law-mcp
-- keras-hub-nightly
-- createsonline
-- async-kernel
-- gnobjects
-- KyInter
-- GNServer
-- KeyisBVMHost
-- talktollm
-- coinrailz-mcp
-- sceneprogsyn
-- flowgeo
-- nexus-infra
-- cloaca
-- hassette
-- gfetchert
-- mcitemlib
-- treeline-money
-- earthscope-sdk
-- caffee
-- asynctor
-- swanlab
-- kallia
-- kdenlive-mcp
-- kdenlive-api
-- dbterd
-- mplang-nightly
-- partigraph
-- ligo.skymap
-- scruft
-- firthmodels
-- sphinxcontrib-pseudocode2
-- pymlb-statsapi
-- noregret
-- datajunction
-- odoo-addons-oca-social
-- datajunction-reflection
-- sendbase-email
-- datajunction-query
-- datajunction-server
-- dash-improve-my-llms
-- ripperdoc
-- victor86c-parser
-- klondike-spec-cli

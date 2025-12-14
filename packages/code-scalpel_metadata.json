@@ -1,11 +1,11 @@
 {
   "name": "code-scalpel",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "MCP server toolkit for AI agents - surgical code analysis and modification",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "code_scalpel-1.5.1.tar.gz",
-  "download_time": "2025-12-14T04:09:32.863577",
+  "download_filename": "code_scalpel-1.5.2.tar.gz",
+  "download_time": "2025-12-14T05:37:19.135528",
   "package_url": "https://pypi.org/project/code-scalpel/"
 }

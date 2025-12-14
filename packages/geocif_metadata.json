@@ -1,0 +1,11 @@
+{
+  "name": "geocif",
+  "version": "0.3.11",
+  "summary": "Models to visualize and forecast crop conditions and yields",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geocif-0.3.11.tar.gz",
+  "download_time": "2025-12-14T19:51:15.097621",
+  "package_url": "https://pypi.org/project/geocif/"
+}

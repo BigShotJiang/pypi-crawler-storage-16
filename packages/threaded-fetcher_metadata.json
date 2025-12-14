@@ -1,0 +1,11 @@
+{
+  "name": "threaded-fetcher",
+  "version": "0.2.1",
+  "summary": "Concurrent threaded URL fetcher for data engineering workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "threaded_fetcher-0.2.1.tar.gz",
+  "download_time": "2025-12-14T19:51:09.203910",
+  "package_url": "https://pypi.org/project/threaded-fetcher/"
+}

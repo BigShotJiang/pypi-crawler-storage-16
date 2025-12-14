@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T19:51:50.829492
-- **Total Packages**: 81
-- **Total Size**: 15.33 MB
+- **Download Time**: 2025-12-14T20:17:55.714491
+- **Total Packages**: 79
+- **Total Size**: 1.74 MB
 
 ## Packages List
+- nstrumenta
+- cyber_down
+- better-confluence-mcp
+- web-alert
+- ephaptic
+- quizy
+- vsax
+- expections
+- pyThermoFlash
+- imery
+- mju_univ_auth
+- pydabpumps
+- macsdk
+- gcodeparser
+- mobiu-q
 - invarianthub
 - wework-framework
 - threaded-fetcher
@@ -24,17 +39,13 @@
 - cmfo
 - cosapp
 - tabfix-tool
-- web-alert
 - distributex-cloud
 - lm-mcp
 - himena
 - dev-booger
 - lamin_cli
-- nstrumenta
 - chilkat2
 - balcony
-- ephaptic
-- imery
 - pyThermoDB
 - lamindb_setup
 - sqlit-tui
@@ -49,14 +60,12 @@
 - lucidscan
 - quasarr
 - shady-island
-- quizy
 - pymusas
 - kreuzberg
 - torch-batteries
 - auroraview
 - rpy-bridge
 - chilkat
-- better-confluence-mcp
 - wxcbench
 - swarm-orchestrator
 - specvizitor
@@ -73,17 +82,6 @@
 - schema-fusion-engine
 - tumeryk-guardrails
 - pdftradoc
-- expections
 - fastfame
 - usdm4-m11
 - langchain-quercle
-- pyrig
-- par-term-emu-core-rust
-- game-ai-client
-- schwabdev
-- multitape-tm
-- genesis-framework-sdk
-- worktoy
-- datacontract-cli
-- sqlmesh-dag-generator
-- umlshapes

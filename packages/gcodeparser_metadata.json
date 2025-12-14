@@ -1,0 +1,11 @@
+{
+  "name": "gcodeparser",
+  "version": "0.3.0",
+  "summary": "Python gcode parser",
+  "author": "Andy Everitt",
+  "license": null,
+  "home_page": "https://github.com/AndyEveritt/GcodeParser",
+  "download_filename": "gcodeparser-0.3.0.tar.gz",
+  "download_time": "2025-12-14T20:17:18.152634",
+  "package_url": "https://pypi.org/project/gcodeparser/"
+}

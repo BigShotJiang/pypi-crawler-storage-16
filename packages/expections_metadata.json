@@ -1,11 +1,11 @@
 {
   "name": "expections",
-  "version": "0.2.0",
-  "summary": null,
-  "author": "wirnty",
+  "version": "0.2.4",
+  "summary": "Custom exception utilities",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "expections-0.2.0.tar.gz",
-  "download_time": "2025-12-14T19:28:04.385102",
+  "download_filename": "expections-0.2.4.tar.gz",
+  "download_time": "2025-12-14T20:17:14.519080",
   "package_url": "https://pypi.org/project/expections/"
 }

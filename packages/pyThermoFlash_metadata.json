@@ -1,0 +1,11 @@
+{
+  "name": "pyThermoFlash",
+  "version": "0.2.3",
+  "summary": "PyThermoFlash is a powerful and user-friendly computational tool tailored for engineers, researchers, and scientists working with thermodynamic systems. It specializes in performing bubble-point, dew-point, and flash calculations, which are essential for determining the equilibrium state of mixtures under specified conditions. With support for various thermodynamic models, PyThermoFlash ensures accurate predictions of phase behavior and properties for complex fluid systems.",
+  "author": "Sina Gilassi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythermoflash-0.2.3.tar.gz",
+  "download_time": "2025-12-14T20:17:15.115550",
+  "package_url": "https://pypi.org/project/pyThermoFlash/"
+}

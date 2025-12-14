@@ -1,11 +1,11 @@
 {
   "name": "nepali-grammar-tokenizer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Deterministic, rule-based Nepali grammar tokenizer",
   "author": "Anil Khatiwada",
   "license": null,
   "home_page": null,
-  "download_filename": "nepali_grammar_tokenizer-0.1.1.tar.gz",
-  "download_time": "2025-12-14T19:51:26.013788",
+  "download_filename": "nepali_grammar_tokenizer-0.1.2.tar.gz",
+  "download_time": "2025-12-14T20:17:35.315135",
   "package_url": "https://pypi.org/project/nepali-grammar-tokenizer/"
 }

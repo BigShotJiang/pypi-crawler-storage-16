@@ -1,64 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T07:43:25.089013
-- **Total Packages**: 90
-- **Total Size**: 1.21 MB
+- **Download Time**: 2025-12-14T07:51:07.980417
+- **Total Packages**: 85
+- **Total Size**: 0.79 MB
 
 ## Packages List
-- pptx-to-html5
-- compose-farm
-- speedy-utils
-- nlbone
-- pyillion
-- mochi-coco
-- customctkdialog
-- HOS-ME
-- mi-maica
-- tob
-- mi-mtts
-- WinToastCreator
-- pnspy
-- misato
-- test-failure-llm
-- frxx-view
-- waveassist
-- chatrepl
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- agent-compose
-- doguda
-- django-cfg
-- sdial
-- amati
-- gundog
-- fabricatio-question
-- fabricatio-diff
-- fabricatio-capable
-- fabricatio-capabilities
-- fabricatio-digest
-- fabricatio-typst
-- fabricatio-tagging
-- fabricatio-anki
-- fabricatio-improve
-- fabricatio-core
-- fabricatio-memory
-- fabricatio-translate
-- fabricatio
-- fabricatio-plot
-- fabricatio-rule
-- fabricatio-agent
-- fabricatio-yue
-- fabricatio-rag
-- fabricatio-tool
-- fabricatio-novel
-- fabricatio-character
-- i6-models
-- llmgcalparse
 - toolguard
+- django-cfg
 - eth-portfolio
 - tostorchconnector
 - tosnativeclient
+- WinToastCreator
 - ai-edge-litert-nightly
 - krypton-toolkit
 - alm-core
@@ -69,6 +22,7 @@
 - qqcode
 - actron-neo-api
 - korean-law-mcp
+- waveassist
 - masgent
 - quasix
 - pixelarraylib
@@ -96,3 +50,44 @@
 - waft
 - tangos
 - server-metrics-apm
+- raggify
+- quantacore-sdk
+- trivialai
+- nc1709
+- lam-middleware
+- bpmn_print
+- sekai-deck-recommend-cpp
+- openai-api-polling
+- reykit
+- ipckit
+- wnm
+- aisbom-cli
+- nifti2bids
+- prisma-web3-py
+- sheikh-cli
+- sdial
+- analyst-klondike
+- mbari-aidata
+- csle-attack-profiler
+- gym-csle-cyborg
+- gym-csle-apt-game
+- csle-tolerance
+- csle-cluster
+- csle-cli
+- csle-rest-api
+- csle-agents
+- quantum-pqc-migration-toolkit
+- gym-csle-intrusion-response-game
+- gym-csle-stopping-game
+- csle-system-identification
+- csle-defender
+- reyfetch
+- reydb
+- csle-attacker
+- csle-common
+- csle-collector
+- csle-ryu
+- csle-base
+- timesat-cli
+- llmling-models
+- s3dlio

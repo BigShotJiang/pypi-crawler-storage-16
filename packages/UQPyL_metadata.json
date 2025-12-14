@@ -1,0 +1,11 @@
+{
+  "name": "UQPyL",
+  "version": "2.1.4",
+  "summary": "A python package for parameter uncertainty quantification and optimization",
+  "author": "wmtSky",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uqpyl-2.1.4.tar.gz",
+  "download_time": "2025-12-14T04:09:28.633259",
+  "package_url": "https://pypi.org/project/UQPyL/"
+}

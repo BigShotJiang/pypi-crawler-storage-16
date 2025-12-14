@@ -1,0 +1,11 @@
+{
+  "name": "torch-ivf",
+  "version": "0.1.0",
+  "summary": "PyTorch-native IVF index for CUDA/ROCm/DirectML/CPU.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "torch_ivf-0.1.0.tar.gz",
+  "download_time": "2025-12-14T04:09:32.349610",
+  "package_url": "https://pypi.org/project/torch-ivf/"
+}

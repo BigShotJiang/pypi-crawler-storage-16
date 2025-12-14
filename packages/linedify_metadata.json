@@ -1,11 +1,11 @@
 {
   "name": "linedify",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "💬⚡ linedify: Supercharging your LINE Bot with Dify power!",
   "author": "uezo",
   "license": "Apache v2",
   "home_page": "https://github.com/uezo/linedify",
-  "download_filename": "linedify-0.3.4-py3-none-any.whl",
-  "download_time": "2025-12-13T13:38:23.421016",
+  "download_filename": "linedify-0.3.5-py3-none-any.whl",
+  "download_time": "2025-12-14T04:09:33.375415",
   "package_url": "https://pypi.org/project/linedify/"
 }

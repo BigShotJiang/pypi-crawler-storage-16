@@ -1,11 +1,11 @@
 {
   "name": "gfetchert",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Fetch CHIRPS rainfall data easily for any date and location using latitude/longitude or place name.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gfetchert-0.1.6.tar.gz",
-  "download_time": "2025-12-13T16:17:32.761524",
+  "download_filename": "gfetchert-0.1.7.tar.gz",
+  "download_time": "2025-12-14T04:09:09.881916",
   "package_url": "https://pypi.org/project/gfetchert/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dcisionai-mcp-server",
-  "version": "3.2.2",
+  "version": "3.2.4",
   "summary": "DcisionAI MCP Server - AI-Powered Optimization with Intent Classification & Session Persistence",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dcisionai_mcp_server-3.2.2.tar.gz",
-  "download_time": "2025-12-13T21:30:19.307142",
+  "download_filename": "dcisionai_mcp_server-3.2.4.tar.gz",
+  "download_time": "2025-12-14T04:09:35.435498",
   "package_url": "https://pypi.org/project/dcisionai-mcp-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "types-seaborn",
+  "version": "0.13.2.20251214",
+  "summary": "Typing stubs for seaborn",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_seaborn-0.13.2.20251214.tar.gz",
+  "download_time": "2025-12-14T04:09:39.707238",
+  "package_url": "https://pypi.org/project/types-seaborn/"
+}

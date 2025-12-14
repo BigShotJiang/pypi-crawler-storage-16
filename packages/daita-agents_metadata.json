@@ -1,11 +1,11 @@
 {
   "name": "daita-agents",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "summary": "Daita Agents - Data focused AI agent framework with free local use and premium hosted enterprise features",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "daita_agents-0.3.4.tar.gz",
-  "download_time": "2025-12-09T15:17:36.599181",
+  "download_filename": "daita_agents-0.4.0.tar.gz",
+  "download_time": "2025-12-14T04:09:42.354981",
   "package_url": "https://pypi.org/project/daita-agents/"
 }

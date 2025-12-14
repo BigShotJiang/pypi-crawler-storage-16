@@ -1,0 +1,11 @@
+{
+  "name": "types-geopandas",
+  "version": "1.1.1.20251214",
+  "summary": "Typing stubs for geopandas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_geopandas-1.1.1.20251214.tar.gz",
+  "download_time": "2025-12-14T04:09:39.185724",
+  "package_url": "https://pypi.org/project/types-geopandas/"
+}

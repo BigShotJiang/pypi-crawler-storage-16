@@ -1,11 +1,11 @@
 {
   "name": "ltws-parser",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "LTWS 协议解析器",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ltws_parser-1.4.0.tar.gz",
-  "download_time": "2025-12-13T16:17:04.704769",
+  "download_filename": "ltws_parser-1.5.0.tar.gz",
+  "download_time": "2025-12-14T04:09:30.239834",
   "package_url": "https://pypi.org/project/ltws-parser/"
 }

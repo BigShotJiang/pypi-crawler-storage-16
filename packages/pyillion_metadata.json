@@ -1,11 +1,11 @@
 {
   "name": "pyillion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Convert integers into long-form -illion notation (million, billion, ...)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyillion-1.0.0.tar.gz",
-  "download_time": "2025-12-14T07:42:41.015343",
+  "download_filename": "pyillion-1.0.1.tar.gz",
+  "download_time": "2025-12-14T08:47:25.079395",
   "package_url": "https://pypi.org/project/pyillion/"
 }

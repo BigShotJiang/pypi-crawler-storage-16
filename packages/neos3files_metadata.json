@@ -1,0 +1,11 @@
+{
+  "name": "neos3files",
+  "version": "1.0.0",
+  "summary": "High-level async Python library for working with S3-compatible storage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neos3files-1.0.0.tar.gz",
+  "download_time": "2025-12-14T08:47:17.443878",
+  "package_url": "https://pypi.org/project/neos3files/"
+}

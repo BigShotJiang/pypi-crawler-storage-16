@@ -1,17 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-14T08:19:08.217951
-- **Total Packages**: 83
-- **Total Size**: 15.86 MB
+- **Download Time**: 2025-12-14T08:47:58.746688
+- **Total Packages**: 77
+- **Total Size**: 6.1 MB
 
 ## Packages List
+- test-failure-llm
+- malware-sentinel
+- locust-telemetry
+- wnm
+- Uranus-IDE
+- zabob-memgraph
+- neos3files
+- nc1709
+- openjiuwen
+- ojtool
+- xcpcio
+- depup
+- btoon
+- compose-farm
+- lipilekhika
+- adancfgd
+- guardianhub
+- pygrammy
+- vibelab
+- pyillion
+- bfb-delivery
+- depcycle
+- qbdquery
+- easy-knowledge-retriever
+- socketapi
 - pypi-fairylandlogger
 - patent-downloader
 - tpu-inference
 - rapidnbt
 - tradedangerous
-- compose-farm
 - pytorch2ltspice
 - shannon-sdk
 - tf-models-nightly
@@ -21,16 +45,11 @@
 - prefect-client
 - orgo
 - interpax-fft
-- vibelab
-- socketapi
 - harlequin-databricks
-- adancfgd
 - zenith-ai
 - mobiu-q
 - uniorm
-- guardianhub
 - redis-ext-ramwin
-- depup
 - ms-ipv6
 - spikard
 - birdeye
@@ -40,7 +59,6 @@
 - sumt
 - datachain
 - loggio
-- bfb-delivery
 - doguda
 - gitfluff
 - phylotreelib
@@ -53,7 +71,6 @@
 - abstract-utilities
 - do-app-sandbox
 - pyscreeps-arena
-- nc1709
 - liteai-sdk
 - prisma-web3-py
 - geo-activity-playground
@@ -61,31 +78,8 @@
 - pptx-to-html5
 - speedy-utils
 - nlbone
-- pyillion
 - mochi-coco
 - customctkdialog
 - mi-maica
 - tob
 - mi-mtts
-- pnspy
-- misato
-- test-failure-llm
-- frxx-view
-- waveassist
-- chatrepl
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- agent-compose
-- django-cfg
-- sdial
-- amati
-- gundog
-- fabricatio-question
-- fabricatio-diff
-- fabricatio-capable
-- fabricatio-capabilities
-- fabricatio-digest
-- fabricatio-typst
-- fabricatio-tagging
-- fabricatio-anki
-- fabricatio-improve
